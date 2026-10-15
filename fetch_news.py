@@ -35,7 +35,8 @@ FEEDS = [
 
 MAX_PER_FEED = 4          # noticias nuevas por fuente en cada ejecución
 MAX_NEW_PER_RUN = 12      # tope total por ejecución (cuida el límite gratis de la IA)
-MAX_STORED = 150          # noticias que se conservan en la página
+CHUNK = 4                 # noticias por petición a la IA (lotes pequeños = menos demoras)
+MAX_STORED = 150         # noticias que se conservan en la página
 API = "https://generativelanguage.googleapis.com/v1beta"
 SITE_NAME = os.environ.get("SITE_NAME", "Mundo al Día")
 
@@ -107,7 +108,7 @@ def summarize_with(items: list, api_key: str, model: str) -> list:
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
     }
     for attempt in range(3):
-        resp = requests.post(url, params={"key": api_key}, json=body, timeout=90)
+        resp = requests.post(url, params={"key": api_key}, json=body, timeout=60)
         if resp.status_code == 429:  # límite del nivel gratis: esperar y reintentar
             time.sleep(20 * (attempt + 1))
             continue
@@ -149,17 +150,29 @@ def pick_models(api_key: str) -> list:
 
 
 def summarize(items: list, api_key: str) -> list:
+    """Resume en lotes pequeños. Si un modelo falla o tarda demasiado, prueba otro.
+    Si solo se logra resumir una parte, devuelve esa parte (el resto se reintenta luego)."""
+    models = pick_models(api_key)
+    results: list = []
     last_error = None
-    for model in pick_models(api_key):
-        try:
-            print(f"Usando modelo: {model}")
-            return summarize_with(items, api_key, model)
-        except requests.HTTPError as exc:
-            last_error = exc
-            if exc.response is not None and exc.response.status_code in (400, 404):
-                continue  # ese modelo no sirve; probar el siguiente
-            raise
-    raise RuntimeError(f"Ningún modelo de Gemini funcionó: {last_error}")
+    for start in range(0, len(items), CHUNK):
+        chunk = items[start:start + CHUNK]
+        done = False
+        for model in models:
+            try:
+                print(f"Lote {start // CHUNK + 1}: usando {model}")
+                results.extend(summarize_with(chunk, api_key, model))
+                models = [model] + [m for m in models if m != model]  # seguir con el que sirve
+                done = True
+                break
+            except (requests.RequestException, ValueError, KeyError, RuntimeError) as exc:
+                last_error = exc
+                print(f"[aviso] {model} falló: {exc}", file=sys.stderr)
+        if not done:
+            break
+    if not results:
+        raise RuntimeError(f"Ningún modelo de Gemini funcionó: {last_error}")
+    return results
 
 
 def render(items: list) -> str:
