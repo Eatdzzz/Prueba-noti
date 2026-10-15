@@ -36,7 +36,7 @@ FEEDS = [
 MAX_PER_FEED = 4          # noticias nuevas por fuente en cada ejecución
 MAX_NEW_PER_RUN = 12      # tope total por ejecución (cuida el límite gratis de la IA)
 MAX_STORED = 150          # noticias que se conservan en la página
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+API = "https://generativelanguage.googleapis.com/v1beta"
 SITE_NAME = os.environ.get("SITE_NAME", "Mundo al Día")
 
 
@@ -86,7 +86,7 @@ def collect_candidates(seen: set) -> list:
     return found[:MAX_NEW_PER_RUN]
 
 
-def summarize(items: list, api_key: str) -> list:
+def summarize_with(items: list, api_key: str, model: str) -> list:
     """Pide a Gemini un titular y resumen propios (con sus palabras) por noticia."""
     prompt = (
         "Eres editor de un sitio de noticias internacionales en español. Para cada noticia "
@@ -101,7 +101,7 @@ def summarize(items: list, api_key: str) -> list:
             ensure_ascii=False,
         )
     )
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+    url = f"{API}/models/{model}:generateContent"
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
@@ -118,6 +118,48 @@ def summarize(items: list, api_key: str) -> list:
             return result
         raise ValueError("La IA devolvió un formato inesperado")
     raise RuntimeError("Límite de la IA alcanzado; se intentará en la próxima ejecución")
+
+
+def pick_models(api_key: str) -> list:
+    """Pregunta a Google qué modelos 'flash' existen hoy y devuelve los mejores primero."""
+    forced = os.environ.get("GEMINI_MODEL")
+    if forced:
+        return [forced]
+    resp = requests.get(f"{API}/models", params={"key": api_key, "pageSize": 200}, timeout=30)
+    resp.raise_for_status()
+    skip = ("image", "tts", "live", "audio", "embedding", "robotics", "computer", "native", "thinking")
+    stable, preview = [], []
+    for m in resp.json().get("models", []):
+        if "generateContent" not in m.get("supportedGenerationMethods", []):
+            continue
+        name = m["name"].split("/")[-1]
+        if "flash" not in name or any(s in name for s in skip):
+            continue
+        (preview if ("preview" in name or "exp" in name) else stable).append(name)
+
+    def rank(n: str):
+        found = re.search(r"(\d+(?:\.\d+)?)", n)
+        version = float(found.group(1)) if found else 0.0
+        return ("lite" in n, -version)
+
+    models = sorted(stable, key=rank) + sorted(preview, key=rank)
+    if not models:
+        raise RuntimeError("No se encontró ningún modelo Gemini disponible para esta clave")
+    return models[:4]
+
+
+def summarize(items: list, api_key: str) -> list:
+    last_error = None
+    for model in pick_models(api_key):
+        try:
+            print(f"Usando modelo: {model}")
+            return summarize_with(items, api_key, model)
+        except requests.HTTPError as exc:
+            last_error = exc
+            if exc.response is not None and exc.response.status_code in (400, 404):
+                continue  # ese modelo no sirve; probar el siguiente
+            raise
+    raise RuntimeError(f"Ningún modelo de Gemini funcionó: {last_error}")
 
 
 def render(items: list) -> str:
