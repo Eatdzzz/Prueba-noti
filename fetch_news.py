@@ -146,7 +146,7 @@ def pick_models(api_key: str) -> list:
     models = sorted(stable, key=rank) + sorted(preview, key=rank)
     if not models:
         raise RuntimeError("No se encontró ningún modelo Gemini disponible para esta clave")
-    return models[:4]
+    return models[:8]
 
 
 def summarize(items: list, api_key: str) -> list:
@@ -159,15 +159,26 @@ def summarize(items: list, api_key: str) -> list:
         chunk = items[start:start + CHUNK]
         done = False
         for model in models:
-            try:
-                print(f"Lote {start // CHUNK + 1}: usando {model}")
-                results.extend(summarize_with(chunk, api_key, model))
-                models = [model] + [m for m in models if m != model]  # seguir con el que sirve
-                done = True
+            for attempt in range(2):  # un reintento si Google está saturado (503) o tarda
+                try:
+                    print(f"Lote {start // CHUNK + 1}: usando {model} (intento {attempt + 1})")
+                    results.extend(summarize_with(chunk, api_key, model))
+                    models = [model] + [m for m in models if m != model]  # seguir con el que sirve
+                    done = True
+                    break
+                except requests.RequestException as exc:
+                    last_error = exc
+                    print(f"[aviso] {model} falló: {exc}", file=sys.stderr)
+                    code = exc.response.status_code if getattr(exc, "response", None) is not None else None
+                    if code in (400, 404):
+                        break  # ese modelo no sirve; pasar al siguiente
+                    time.sleep(15)  # saturado o lento: esperar y reintentar
+                except (ValueError, KeyError, RuntimeError) as exc:
+                    last_error = exc
+                    print(f"[aviso] {model} falló: {exc}", file=sys.stderr)
+                    break
+            if done:
                 break
-            except (requests.RequestException, ValueError, KeyError, RuntimeError) as exc:
-                last_error = exc
-                print(f"[aviso] {model} falló: {exc}", file=sys.stderr)
         if not done:
             break
     if not results:
