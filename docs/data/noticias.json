@@ -1,5 +1,113 @@
 [
  {
+  "id": "06e0e648301c",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261015-la-puja-tecnol%C3%B3gica-entre-europa-y-china-en-el-sal%C3%B3n-del-autom%C3%B3vil-de-par%C3%ADs",
+  "titulo": "El Salón del Automóvil de París destaca por la tecnología autónoma y la fuerte presencia china",
+  "resumen": "En la capital francesa se evalúa el funcionamiento de un coche de conducción autónoma, pese a que la normativa nacional únicamente avala sistemas asistidos. Al mismo tiempo, los fabricantes chinos han alcanzado una presencia notable al constituir un tercio de todos los expositores de la feria.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "17c25b3d8fb3",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/america/2026-10-05/el-lulismo-cruje-ante-la-ofensiva-ultra.html",
+  "titulo": "Alertan sobre el posible avance de la derecha radical ante la crisis del oficialismo en Brasil",
+  "resumen": "El eventual debilitamiento del movimiento gubernamental brasileño podría desencadenar una profunda transformación política de corte extremista en América Latina. Esta situación facilitaría además la consolidación de una corriente derechista violenta en la principal nación de la región.",
+  "categoria": "Política",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "24ac54f9ba72",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cqzjx42ld8wpo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Nicolás Maduro y Cilia Flores se declaran no culpables de conspiración para cometer torturas",
+  "resumen": "Ante una corte federal ubicada en Nueva York, el expresidente venezolano y su cónyuge desestimaron las acusaciones formuladas en su contra. Ambos procesados comparecieron para proclamar su inocencia frente a los nuevos cargos judiciales relacionados con actos de tortura.",
+  "categoria": "Política",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "39eafc5bbbc5",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81ejloYzJsRTFDVWVndzFubHRHNEJ3OEd5dGt5OGdFWjgyUFA2TC1RbmhCUUpOenQ5N05DcHV1b0hINWhwcW02Z3Z1SjRzYjVOV3l4cW51YUFqcFljZl9lQ3dfbkgwZVBuRWpKSksyRG1PMS1hOUFUbDRYSQ?oc=5",
+  "titulo": "El DP World Tour confirma que sus eventos en Emiratos Árabes Unidos siguen en pie",
+  "resumen": "El circuito deportivo ratificó que las fases de eliminatorias previstas en los Emiratos Árabes Unidos conservarán sus fechas originales. La programación se mantendrá sin alteraciones a pesar del contexto de conflicto que atraviesa Oriente Medio.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "4bfe4eb5f1f5",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-15/la-dura-negociacion-sobre-el-presupuesto-de-la-ue-amenaza-el-acuerdo-antes-del-superano-electoral-en-europa.html",
+  "titulo": "Dificultades en la negociación del presupuesto comunitario antes de los comicios europeos",
+  "resumen": "Las conversaciones en torno al presupuesto de la Unión Europea atraviesan momentos complejos debido a posturas altamente confrontadas. El presidente del Consejo, António Costa, ha asumido la dirección de estas difíciles gestiones. La falta de consenso amenaza la posibilidad de alcanzar un pacto definitivo antes del ciclo electoral.",
+  "categoria": "Política",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "4f7665df660e",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFRxbWpMYUlmeDc5YTBLa2k2TE1ra2FzYU9wYndXcXpwOGxlZVRGZHhkMzV4SzN5TmtyRlg5bW44Q3p3Y1BVZFZCOVNLT2lJd0pzYmNfa0ZBSDZNNGRJNmNGQmU0V0pENG50YURnYThzX3lDQmctOFJXdnN6aktwVFZaNXNiUFJwME1OVjk0ZnBELXlQbk85b3EtSHM0YmpwdHRnTmtIUzZTUW5RSk9xWEltbXhqXy1BRW40MW14RkN6bEZQRGNv?oc=5",
+  "titulo": "Nike Sportswear exhibe nuevas creaciones internacionales de su serie Air Works",
+  "resumen": "La marca Nike Sportswear continúa revelando los trabajos correspondientes a su línea de creaciones Air Works. En esta iniciativa se integran aportes de diversos diseñadores procedentes de distintos puntos del planeta.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "66e75c9ca2ee",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-musk-trump-y-zelenski-por-qu%C3%A9-se-sacude-la-relaci%C3%B3n-de-ee-uu-con-ucrania-antes-de-las-midterms",
+  "titulo": "Dudas sobre el respaldo estadounidense a Ucrania tras restricciones militares y satelitales",
+  "resumen": "El presidente Volodímir Zelenski manifestó sentirse traicionado ante presuntos límites impuestos al acceso a satélites de SpaceX y a la inteligencia de Estados Unidos. Este escenario siembra incertidumbre acerca del compromiso norteamericano con Ucrania antes de las elecciones internas de mitad de mandato. Asimismo, se plantea si las críticas hacia Kiev buscan mitigar el impacto político provocado por el incremento en el valor de los combustibles.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "6773a1204270",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/en-contexto/20261015-liberaci%C3%B3n-de-50-de-presos-bukele-reconoce-errores-en-su-estado-de-excepci%C3%B3n",
+  "titulo": "Cuestionamientos al régimen de excepción salvadoreño ante eventuales liberaciones de presos",
+  "resumen": "Los pronunciamientos de Nayib Bukele sobre posibles liberaciones condicionales han desatado dudas sobre la política de seguridad y el régimen de excepción en El Salvador. Entidades de derechos humanos, como la organización Cristosal, interpretan estas medidas como una admisión de fallos en su estrategia y un síntoma de la falta de independencia de la justicia.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "683d59711890",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cq99z15e1271o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Cancelan la emisión en vivo de la ejecución de un exmilitar en Estados Unidos",
+  "resumen": "El presidente estadounidense decidió suspender la transmisión en directo del fusilamiento de Nidal Hasan. El mandatario señaló que parte de la población preferiría no presenciar el hecho, el cual constituye el primer ajusticiamiento de un exmiembro de las fuerzas armadas en más de sesenta años.",
+  "categoria": "Política",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "734c871dfd9d",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwm235lgg69lo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Sectores ganaderos de Estados Unidos reconsideran su respaldo político",
+  "resumen": "Diversos productores pecuarios en feudos electorales tradicionalmente favorables han manifestado su insatisfacción con el mandatario. Esta postura crítica emerge a pocas semanas de que se celebren las elecciones de mitad de mandato.",
+  "categoria": "Política",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "7f4eec0f6d6a",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/isabel-allende-gana-el-premio-planeta-de-novela-2026/a-79674853?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Isabel Allende distinguida con el Premio Planeta de novela",
+  "resumen": "La autora fue galardonada con el Premio Planeta 2026 tras una trayectoria que abarca casi una treintena de obras publicadas. Sus libros alcanzan aproximadamente setenta millones de copias vendidas y han sido traducidos a más de cuarenta idiomas.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
+  "id": "b5503c4607de",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html",
+  "titulo": "Comicios en el Congreso estadounidense definirán el control presupuestario y exterior",
+  "resumen": "Las votaciones del tres de noviembre determinarán qué fuerza liderará el Poder Legislativo en Estados Unidos. De dicho resultado dependerá el manejo de los fondos públicos y las pautas diplomáticas de Washington hacia la región.",
+  "categoria": "Política",
+  "fecha": "2026-10-15T22:54:51.402555+00:00"
+ },
+ {
   "id": "05d796962bfc",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/internacional/2026-10-11/un-cataclismo-geopolitico-empezo-en-gaza-hace-tres-anos.html",
