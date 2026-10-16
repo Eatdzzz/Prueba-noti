@@ -1,5 +1,113 @@
 [
  {
+  "id": "1ae2cc8af1f7",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-15/el-papa-evoluciona-con-normalidad-y-realiza-fisioterapia-dos-dias-despues-de-su-operacion.html",
+  "titulo": "El pontífice se recupera favorablemente tras su cirugía y podría aparecer el domingo",
+  "resumen": "El Vaticano informó que el Papa León XIV evoluciona de manera normal y ya practica fisioterapia. Si su estado de salud es óptimo, se prevé que aparezca en la ventana del hospital el próximo domingo para dirigir el rezo del Ángelus.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "2632e9fd71d7",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/tiroteo-en-escuela-de-estados-unidos-deja-al-menos-cuatro-muertos/a-79675038?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Trágico tiroteo en un centro educativo estadounidense causa al menos cuatro fallecidos",
+  "resumen": "Un ataque armado en la escuela primaria Silver Rail, situada en Bend, resultó en la muerte de tres menores y una maestra. Adicionalmente, al menos dos personas requirieron hospitalización tras el violento suceso.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "2711f842102e",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tUXJEbWRqTFZrUTFhdVo3cGlYc3VHdFB0VjZ0bEZKVkhhcmctN0Z3QjU4Vy02WU8zY3lpREtWcGE4TWVwSEJ1c0daaXNEVDRBYW9QbDRUVmowS3BlOHdsNVpsM21hbEFHV2NKcVR1VEhjOGVjcFdYUDl3?oc=5",
+  "titulo": "Destacan los valores fundamentales de Estados Unidos en el escenario internacional",
+  "resumen": "De acuerdo con declaraciones de Jonathan Turley, los principios que defiende Estados Unidos siguen siendo considerados algo poco común a nivel mundial. La postura resalta la singularidad de la nación frente a otras realidades globales.",
+  "categoria": "Política",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "27a7f435cdf7",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-15/trump-anuncia-que-el-pentagono-no-retransmitira-la-ejecucion-por-fusilamiento-de-hasan.html",
+  "titulo": "Anulan la transmisión en vivo de la próxima ejecución militar en Estados Unidos",
+  "resumen": "El presidente estadounidense decidió cancelar la retransmisión por internet del fusilamiento de Nidal Malik Hasan. Esta medida frena la emisión del primer ajusticiamiento de esta naturaleza desde 1945, aplicado al responsable de la muerte de 13 personas en una base militar en 2009.",
+  "categoria": "Política",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "3ef5d50759a5",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261016-costa-rica-construye-megac%C3%A1rcel-inspirada-en-las-prisiones-de-bukele-en-el-salvador",
+  "titulo": "Costa Rica adopta el modelo de Bukele con la creación de una cárcel de máxima seguridad",
+  "resumen": "Costa Rica inaugurará un penal de máxima seguridad para más de 5.000 reclusos, inspirado en el sistema penitenciario del salvadoreño Nayib Bukele. El centro carcelario tendrá condiciones austeras, camas de hormigón y los internos contarán únicamente con una hora diaria de recreación al aire libre.",
+  "categoria": "Política",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "3fc35096bc70",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXp4R293ckdTSnFUTVZEQU9ScjdJRU5TM3YySlBlUVIwQVFOOGxpSUoyVTlkZUNIVFFaYTE0OGNwOVBHc2VXS1JXSDM3Q1JGWVVjeXgxRDBnUTJrZENHdDBGTUFjZjB1WEk4VFhTSXNkT3BtV2I0MVcxYVpiMmZYSXZWS2s2bENUeTA3SEJ3aGxfOHNNOUw2QXRwWUo4R2RMWHFqR09oYjBWUUcwNzhjXy1ySGg1UQ?oc=5",
+  "titulo": "El joven tenista Jordan Lee viaja a China para competir en las Finales Mundiales Junior",
+  "resumen": "El deportista Jordan Lee, originario de Orlando y perteneciente a USTA Florida, se dirige a territorio chino para participar en el torneo World Tennis Tour Junior Finals.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "4b0df8eedbca",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261016-canal-opositor-queda-bajo-control-policial-durante-una-redada-en-turqu%C3%ADa",
+  "titulo": "Autoridades turcas irrumpen y toman el control del canal opositor Halk TV",
+  "resumen": "La policía de Turquía ejecutó una redada ordenada por la Fiscalía en la sede del canal de oposición Halk TV. Durante la intervención, la transmisión en vivo fue cortada abruptamente y reemplazada por un filme turco antiguo mientras los agentes asumían el control.",
+  "categoria": "Política",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "5c275fbe96cf",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/econom%C3%ADa/20261016-m%C3%A1s-all%C3%A1-del-precio-en-la-estaci%C3%B3n-de-gasolina-qu%C3%A9-sube-a-la-par-del-di%C3%A9sel",
+  "titulo": "El encarecimiento del diésel en EE. UU. marca la agenda electoral y económica",
+  "resumen": "El precio del galón de diésel alcanzó máximos durante el verano estadounidense, posicionándose como un tema clave para los demócratas frente a los republicanos de cara a las elecciones. Esta situación ocurre en un contexto de alta inflación, cuestionamientos a los aranceles de Donald Trump y la persistente guerra en Medio Oriente.",
+  "categoria": "Economía",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "713ca553acbd",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/exagentes-del-fbi-que-investigaban-a-trump-alegan-despido-ilegal/a-79675050?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Exfuncionarios del FBI demandan por su destitución",
+  "resumen": "Un grupo de nueve exoficiales despedidos en febrero ha presentado una demanda judicial. En el documento señalan que su cese laboral podría haber estado motivado por razones políticas.",
+  "categoria": "Política",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "b2973d7be6c8",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3eUphOEp1RHgxTVlGU1IwdUU0TXJubTIyYTNZWldJVGV0WU5NeERmRE54bEViNWlOYWlqeC00NXVqM1EzV2ExVlBYUmFTNjVqOHlBQk1hWmJCa2x4MWx2dG1LZXhab2lzY0hxdHBoWTBTTkNHTTBOZDhCaXU?oc=5",
+  "titulo": "Anuncian cartelera triple por el título mundial de boxeo",
+  "resumen": "La promotora Teiken ha confirmado la realización de un evento de boxeo que incluirá tres peleas titulares. La jornada está programada para llevarse a cabo el 15 de octubre de 2026.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "b8820aefb372",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/siria-anuncia-el-arresto-del-principal-sospechoso-de-masacre-de-250-personas-en-2013/a-79675145?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Capturan en Siria al presunto responsable de matanza masiva",
+  "resumen": "Las autoridades sirias arrestaron al principal sospechoso de una masacre ocurrida en 2013 que cobró la vida de 250 personas. El individuo, identificado como Ali Kayali o Mihrac Ural, fue atrapado en el momento en que intentaba escapar del gobierno.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
+  "id": "ba4b05f26b10",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c65yng81r7g4o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El fenómeno cultural en torno a la fundadora de Theranos",
+  "resumen": "Elizabeth Holmes, creadora de la empresa Theranos que aseguraba poder realizar diagnósticos médicos con solo una gota de sangre, continúa generando gran interés en Estados Unidos. Actualmente es la protagonista de un nuevo trabajo documental.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-16T02:55:52.578257+00:00"
+ },
+ {
   "id": "06e0e648301c",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/video/20261015-la-puja-tecnol%C3%B3gica-entre-europa-y-china-en-el-sal%C3%B3n-del-autom%C3%B3vil-de-par%C3%ADs",
