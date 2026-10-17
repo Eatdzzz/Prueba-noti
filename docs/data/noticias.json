@@ -1,5 +1,113 @@
 [
  {
+  "id": "047c97b2c6c5",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261017-primer-ministro-de-albania-alega-injerencia-extranjera-mientras-se-recrudecen-las-protestas",
+  "titulo": "Crecen los disturbios en Albania ante el rechazo a la gestión del Gobierno",
+  "resumen": "Las protestas estudiantiles en Albania han derivado en choques violentos contra la policía tras meses de manifestaciones pacíficas sin respuesta. Los inconformes exigen la salida del primer ministro Edi Rama y una renovación institucional. Por su parte, el mandatario atribuye las movilizaciones a una influencia exterior.",
+  "categoria": "Política",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "0517651ce3af",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-16/trump-tacha-de-verguenza-la-reanudacion-de-los-ataques-ucranios-contra-las-refinerias-rusas.html",
+  "titulo": "Trump rechaza las ofensivas ucranias contra instalaciones petroleras en Rusia",
+  "resumen": "El dirigente republicano calificó de vergonzoso que Ucrania retomara los ataques contra refinerías en territorio ruso. A su vez, admitió no simpatizar con Zelenski y consideró que es más difícil lidiar con el mandatario ucraniano que con Putin.",
+  "categoria": "Política",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "199e5cecf658",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html",
+  "titulo": "El Vaticano constata la mejoría del pontífice tras su intervención quirúrgica",
+  "resumen": "La Santa Sede dio a conocer las primeras imágenes del Papa operado e informó sobre su evolución positiva continuada. Paralelamente, Putin llamó a León XIV al hospital en una señal de acercamiento diplomático. Esta comunicación ocurrió tras el distanciamiento previo experimentado durante el periodo de Francisco.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "203cedfc266c",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+  "titulo": "Tragedia en una escuela de Oregón tras un ataque armado que dejó cuatro fallecidos",
+  "resumen": "Un tiroteo perpetrado en una escuela primaria de Oregón causó la muerte de tres menores y un profesor. Las autoridades policiales confirmaron que el agresor fue abatido en el lugar por un individuo que decidió confrontarlo.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "4ed5486fdd37",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm9qzxwz9y3qo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Orcas se imponen sobre los tiburones blancos en choques provocados por el cambio climático",
+  "resumen": "Las alteraciones climáticas han generado una mayor cercanía entre los grandes depredadores oceánicos en su hábitat. En estos encuentros, las orcas están cazando y comiendo tiburones blancos, aventajándolos en la disputa. Este fenómeno entre ambas especies desconcierta actualmente a los investigadores.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "5ea6b2668b60",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNnZNOXBDY2dFakRTME5jMERsZzl3eXVrWUk4VzJVa0VXTDVVVXA4Z3JDbmJnS3p1UnQwZEZvaDZIYzFYWGE0bnNXbTJLNTlDS1VMVU04UEJvUzc0LTZpbmp1aTFQSi1ZZEd2X1hOS2xzbTc5VTJ1ZGNzbmgxWU9oeWtPQkJULVNoOW5NQVBHTlZFbFV1UEFuS1hlRGVZWlVTS3lHNzRFQ05WOGtsVVFDQUVVWWJGRXpUQnJoNk93NENjWW9zel9xM1cyQU1NNXJMaW5uRHc1RmZmUTVEZXc?oc=5",
+  "titulo": "Transmisión en directo de la clasificación de Verstappen en Portugal",
+  "resumen": "El piloto Verstappen participa en la sesión de clasificación correspondiente al GT World Challenge Europe disputado en suelo portugués. La cobertura de esta competencia de automovilismo se presenta en vivo.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "61498151ebef",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/irán-niega-estar-implicado-en-ataques-de-hutíes-de-yemen-contra-arabia-saudita/a-79684934?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Teherán rechaza cualquier vínculo con las ofensivas de los hutíes contra territorio saudí",
+  "resumen": "El gobierno de Irán negó tener relación con los ataques lanzados por los hutíes de Yemen hacia Arabia Saudita. De acuerdo con un portavoz de Teherán, las acciones de este grupo responden de manera exclusiva a sus propios intereses.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "756450361b68",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/consejo-de-seguridad-veta-a-todos-los-candidatos-a-jefe-la-onu/a-79684926?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "El Consejo de Seguridad descarta a los aspirantes a suceder a António Guterres",
+  "resumen": "El Consejo de Seguridad aplicó su veto a los siete candidatos oficiales a la jefatura de la ONU, lista compuesta por cuatro mujeres y tres hombres. Este bloqueo a los pretendientes para reemplazar al actual líder António Guterres da margen al ingreso de nuevas postulaciones.",
+  "categoria": "Política",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "a26baec8d2c0",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261017-informe-desde-santiago-por-primera-vez-desde-1955-un-presidente-de-chile-visita-bolivia",
+  "titulo": "Histórico encuentro bilateral entre los mandatarios de Chile y Bolivia",
+  "resumen": "El mandatario chileno José Antonio Kast viajó a Bolivia para reunirse con su homólogo Rodrigo Paz. Este acontecimiento representa la primera visita de un jefe de Estado chileno a dicho país en 71 años. El encuentro fue calificado como histórico debido a las tensas relaciones que ambas naciones han mantenido durante décadas.",
+  "categoria": "Política",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "a9c38dc3a1f3",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261017-trump-pausa-paquete-de-sanciones-contra-rusia-alegando-motivos-de-inter%C3%A9s-nacional",
+  "titulo": "Donald Trump suspende temporalmente sanciones contra Rusia",
+  "resumen": "A través de una orden ejecutiva, Donald Trump frenó provisionalmente la aplicación de un paquete de sanciones aprobado por el Congreso contra Rusia. La Casa Blanca informó que el mandatario justificó esta medida alegando razones de interés nacional.",
+  "categoria": "Política",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "b128a2a12d92",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/renuncia-la-cuestionada-nueva-vocera-de-la-casa-blanca/a-79684942?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Dimite la secretaria de prensa de la Casa Blanca en medio de dudas sobre sus credenciales",
+  "resumen": "Katie Zacharia renunció a su puesto como secretaria de prensa de la administración de Donald Trump. Su salida ocurre luego de enfrentar múltiples cuestionamientos sobre su trayectoria y credenciales como abogada.",
+  "categoria": "Política",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
+  "id": "b34a91fe5a56",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/deportes/20261017-richard-carapaz-ficha-por-el-nsn-cycling-team-hasta-2029",
+  "titulo": "Richard Carapaz se suma al proyecto ciclista de Andrés Iniesta",
+  "resumen": "El ciclista Richard Carapaz, vencedor del Giro de Italia en 2019, firmó un acuerdo por tres años con el NSN Cycling Team. La escuadra, antes denominada Israel Premier Tech, pertenece al exfutbolista Andrés Iniesta. El deportista de 33 años se integra tras conseguir dos triunfos en la última temporada del Tour de Francia.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-17T02:45:00.543506+00:00"
+ },
+ {
   "id": "0c9023374eb4",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/internacional/2026-10-16/la-justicia-britanica-condena-a-un-adolescente-noruego-que-trabajaba-para-una-organizacion-criminal-a-sueldo-de-iran.html",
