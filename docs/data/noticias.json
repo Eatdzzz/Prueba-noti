@@ -1,5 +1,113 @@
 [
  {
+  "id": "2f5b04521f74",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c6m2dvek0gv9o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Fuego en un histórico ayuntamiento de Francia en medio de protestas",
+  "resumen": "Un edificio consistorial de gran valor histórico situado en la ciudad de Limoges, en el sur de Francia, resultó incendiado. El suceso tuvo lugar en el marco de una serie de manifestaciones a escala nacional.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "3974e361a552",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261018-por-qu%C3%A9-trump-orden%C3%B3-la-suspensi%C3%B3n-de-varias-sanciones-contra-rusia",
+  "titulo": "Trump suspende de manera transitoria diversas sanciones impuestas a Rusia",
+  "resumen": "El mandatario estadounidense Donald Trump firmó una orden ejecutiva para congelar temporalmente varias sanciones contra Rusia antes de los comicios de medio mandato, justificándolo en el interés nacional. Según el analista Ivan Dinev Ivanov, la medida busca proyectar ante el electorado que el gobierno está tomando acciones respecto a los precios.",
+  "categoria": "Política",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "3d3d3cd4741a",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-18/trump-apunala-a-ucrania-por-la-espalda.html",
+  "titulo": "El respaldo de Donald Trump mejora el estatus diplomático de Vladímir Putin",
+  "resumen": "La postura del presidente de Estados Unidos ha modificado la posición internacional del líder ruso Vladímir Putin. Como consecuencia del actuar de Trump, el mandatario de Rusia ha dejado atrás su condición de aislamiento.",
+  "categoria": "Política",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "3ed6fbe2f556",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-18/ucrania-en-punto-muerto-asediada-por-putin-y-ninguneada-por-trump.html",
+  "titulo": "Kiev busca reanudar el diálogo mientras advierte de los planes de Moscú",
+  "resumen": "El gobierno ucraniano intenta retomar las negociaciones diplomáticas después de afrontar una semana extremadamente difícil. Paralelamente, el presidente Zelenski sostuvo que las intenciones de Vladímir Putin van más allá de una capitulación y buscan la destrucción total.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "670baa756ac4",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
+  "titulo": "Francia afronta meses cruciales ante el avance de la ultraderecha",
+  "resumen": "El actual mandato del presidente francés atraviesa un periodo de desconexión social a lo largo de seis meses decisivos. Durante este tiempo, la administración deberá lograr la aprobación del presupuesto nacional y encarar el ascenso de las fuerzas de ultraderecha.",
+  "categoria": "Política",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "6d1bac2a53a4",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmJyREJfWGh3bFRkZUVPb0FzNUxBYlhVWm9zT3hRYjY5TE5vQlpSRlBaaE00THdnMGFIaEhIWVdZNkExWEljRUo0c2dJZmRuTW1XU0hTeHp1RW1KbnJrTGpBcHNDV1llcHk0bG93XzBaQjlpRHQxd0JCQjFoVF8zMEhUSVdobG1mdzRXdVJFZzBfVnlnT0lkUE03bzBteWplLW91ejRzMXJvTndSMHNmdjJDcGY?oc=5",
+  "titulo": "Novedades sobre el Festival de Cine de Morelia en México",
+  "resumen": "El medio informativo WV News presenta reportes en torno al Festival de Cine de Morelia desarrollado en México. La cobertura da seguimiento a las actividades de este evento cinematográfico.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "74e74fa95d1c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cqgk5k0znn0mo?at_medium=RSS&at_campaign=rss",
+  "titulo": "El activista Rodrigo Diamanti regresa a Venezuela tras doce años en el exilio",
+  "resumen": "Después de haber estado recluido en el Helicoide y sumar más de una década fuera de su tierra, el activista Rodrigo Diamanti retornó a Venezuela. El opositor sostiene que el país cuenta actualmente con un momento propicio que debe ser aprovechado para lograr una transición.",
+  "categoria": "Política",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "7591b1dc572f",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/ucrania-lanza-contra-san-petersburgo-uno-de-los-mayores-ataques-con-drones-desde-que-empezó-la-guerra/a-79691287?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "San Petersburgo sufre gran ofensiva de drones con afectaciones petroleras",
+  "resumen": "Una de las mayores ofensivas con drones desde el inicio de la guerra alcanzó San Petersburgo, donde desató llamas en su terminal petrolera clave y perjudicó varias infraestructuras. Adicionalmente, más de 500 artefactos aéreos no tripulados resultaron derribados en su desplazamiento con rumbo a Moscú.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "7a95793f7beb",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/protestas-contra-la-prohibición-del-hiyab-en-azerbaiyán-¿por-qué-hay-niños-involucrados/a-79690267?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Protestas en Azerbaiyán tras vetar el acceso a escuelas a menores que usan pañuelo",
+  "resumen": "La prohibición de entrada a colegios para niñas que portan pañuelos en la cabeza ha generado inusuales manifestaciones que incluyen la participación de menores. Esta situación ocurre a pesar de que las regulaciones gubernamentales vigentes no hacen mención expresa sobre el hiyab.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "87c629708912",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261018-nuevo-ataque-de-colonos-israel%C3%ADes-en-cisjordania-v%C3%ADctimas-hab%C3%ADan-parte-de-convoy-de-la-ue",
+  "titulo": "Colonos israelíes atacan a una delegación diplomática europea en Cisjordania",
+  "resumen": "Un grupo de diplomáticos de la Unión Europea fue blanco de una agresión por parte de colonos israelíes en Cisjordania, hecho en el que además golpearon a un funcionario municipal francés. De cara a los próximos comicios parlamentarios, el primer ministro Benjamin Netanyahu cuestionó el contexto de estos hechos violentos. Dichas declaraciones suscitaron fuertes reproches por parte de sectores opositores.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "8fe1aa801847",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qaHR5bXdoTF94U0xneEotc1E0UWVxV0Rqa2VBUy0xTjlBeWhzYnllaUduX0stRXF4eEMtam9IS0x5V1NTRjY2LThDUFBMMDZwc3c?oc=5",
+  "titulo": "Publican análisis sobre el desenlace de la producción Digger con Tom Cruise",
+  "resumen": "Un artículo reseña y explica el desenlace de la película Digger. Asimismo, la publicación cuestiona de forma abierta si el papel interpretado por Tom Cruise vuelve a salvar al mundo en esta historia.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
+  "id": "92f0e486061e",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/un-camión-sin-control-mata-a-13-personas-tras-arrollarlas-durante-un-festival-hindú-en-india/a-79691333?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Decenas de fallecidos en dos festividades religiosas en la India",
+  "resumen": "Trece personas perdieron la vida luego de ser embestidas por un camión descontrolado en un festival hindú en la India. En un hecho distinto, una estampida ocurrida en otra celebración religiosa en Calcuta provocó la muerte por aplastamiento de diecinueve personas.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-18T08:31:25.438485+00:00"
+ },
+ {
   "id": "10a79103b82f",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/video/20261018-informe-desde-antigua-exfiscal-sol%C3%B3rzano-fue-asesinado-en-ciudad-de-guatemala",
@@ -1240,113 +1348,5 @@
   "resumen": "Diversos productores pecuarios en feudos electorales tradicionalmente favorables han manifestado su insatisfacción con el mandatario. Esta postura crítica emerge a pocas semanas de que se celebren las elecciones de mitad de mandato.",
   "categoria": "Política",
   "fecha": "2026-10-15T22:54:51.402555+00:00"
- },
- {
-  "id": "7f4eec0f6d6a",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/isabel-allende-gana-el-premio-planeta-de-novela-2026/a-79674853?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Isabel Allende distinguida con el Premio Planeta de novela",
-  "resumen": "La autora fue galardonada con el Premio Planeta 2026 tras una trayectoria que abarca casi una treintena de obras publicadas. Sus libros alcanzan aproximadamente setenta millones de copias vendidas y han sido traducidos a más de cuarenta idiomas.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-15T22:54:51.402555+00:00"
- },
- {
-  "id": "b5503c4607de",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html",
-  "titulo": "Comicios en el Congreso estadounidense definirán el control presupuestario y exterior",
-  "resumen": "Las votaciones del tres de noviembre determinarán qué fuerza liderará el Poder Legislativo en Estados Unidos. De dicho resultado dependerá el manejo de los fondos públicos y las pautas diplomáticas de Washington hacia la región.",
-  "categoria": "Política",
-  "fecha": "2026-10-15T22:54:51.402555+00:00"
- },
- {
-  "id": "05d796962bfc",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-11/un-cataclismo-geopolitico-empezo-en-gaza-hace-tres-anos.html",
-  "titulo": "Tres años de conflicto en Gaza dejan profundas secuelas",
-  "resumen": "Se cumple el tercer aniversario de los ataques del 7 de octubre y un año de un cese al fuego fallido en la Franja. Esta situación permite dimensionar el profundo impacto emocional y físico que han sufrido tanto palestinos como israelíes.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "06c67002e32e",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-05/la-ola-conservadora-de-america-latina-llega-a-brasil.html",
-  "titulo": "El avance de la derecha regional alcanza al territorio brasileño",
-  "resumen": "La posible victoria de un candidato alineado con las ideas de Trump en Brasil marcaría un nuevo rumbo político. Sin embargo, analistas señalan que los vínculos diplomáticos con Washington no experimentarían modificaciones drásticas.",
-  "categoria": "Política",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "080e1fd8ff64",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rMGFSdDdTdmhSRjNyV1d5LW9SMmItU0M3XzhNQzB1T3RWXzFQeFU5OFB6aXpyMXh6V2REdV9yZFNHNnJRb295bU5wQlhFTFlyOVZsaWxfcWFPQ1VW?oc=5",
-  "titulo": "Detalles para seguir el combate de boxeo entre Kabayel e Hysa",
-  "resumen": "El Consejo Mundial de Boxeo publica la información necesaria para los aficionados que desean conocer los canales y plataformas de transmisión para ver la pelea entre Kabayel y Hysa.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "095d72113cc0",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cwx28rg0z8pyo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Ondas Kelvin provocan graves daños por fuerte oleaje en México y California",
-  "resumen": "Las costas del Pacífico mexicano y las zonas residenciales del sur de California han sufrido importantes destrozos materiales en las últimas semanas. El fenómeno responsable de este inusual y destructivo oleaje son las llamadas ondas Kelvin.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "0964a8c664ec",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/¿quién-decide-cuándo-y-cómo-morimos-ia-cuidados-y-muerte-digna-en-otra-película-de-doris-dörrie/a-79671413?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El cine de Doris Dörrie aborda la inteligencia artificial y el final de la vida",
-  "resumen": "La reconocida cineasta examina el impacto potencial que los robots humanoides tendrían en los procesos de envejecimiento, la asistencia a los mayores y el derecho a una muerte digna. Esta propuesta cinematográfica surge en un contexto global marcado por la discusión sobre los riesgos de la inteligencia artificial.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "14db368c81ca",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-trump-descarta-retransmitir-en-directo-la-ejecuci%C3%B3n-del-autor-de-la-matanza-de-fort-hood",
-  "titulo": "Ejecución de Nidal Malik Hasan no será televisada por decisión presidencial",
-  "resumen": "Donald Trump echó atrás la idea de transmitir en vivo el fusilamiento del responsable de la masacre perpetrada en la base de Fort Hood en el año 2009. Pese a las críticas recibidas por haber defendido inicialmente la medida como método disuasorio contra el terrorismo, la ejecución programada para el 3 de diciembre se mantiene en pie.",
-  "categoria": "Política",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "1cb1f96f17d6",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261015-ataques-con-drones-contra-buques-mercantes-agravan-la-tensi%C3%B3n-en-el-mar-negro",
-  "titulo": "Ataques con drones contra petroleros elevan la tensión en aguas del mar Negro",
-  "resumen": "Dos buques cisterna sufrieron incendios tras ser impactados frente a las costas rumanas, dejando un saldo de siete tripulantes desaparecidos. Mientras el mandatario rumano señaló a Rusia por presuntamente intentar desestabilizar la zona oriental de la OTAN, las autoridades continúan investigando el origen de estas agresiones en una vía marítima fundamental para el comercio ucraniano.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "2d5ddebf3a8e",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c68jzgwd9m7go?at_medium=RSS&at_campaign=rss",
-  "titulo": "Cuestionan la trayectoria de la nueva portavoz de prensa de la administración Trump",
-  "resumen": "Diversos medios informativos han puesto en duda las calificaciones profesionales de Katie Zacharia tras su nombramiento como secretaria de prensa de la Casa Blanca. Dicha designación ha desatado polémica debido a los interrogantes planteados sobre su idoneidad para el cargo.",
-  "categoria": "Política",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "34b7cca2f0fd",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261015-india-puede-el-partido-de-las-cucarachas-erosionar-el-poder-de-modi",
-  "titulo": "Protestas en India contra la Comisión Electoral por la eliminación de votantes",
-  "resumen": "El movimiento juvenil 'Partido de las Cucarachas' y la oposición protestan tras la supresión de más de 130 millones de registros de votantes, acusando a la Comisión Electoral de favorecer al partido de Narendra Modi. Tanto el organismo como el partido oficialista BJP han rechazado las acusaciones de parcialidad en medio de crecientes tensiones.",
-  "categoria": "Política",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
- },
- {
-  "id": "3fadda170a18",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/zelenski-anuncia-que-rompe-la-tregua-energética-con-rusia-y-denuncia-la-presión-de-trump-sobre-ucrania/a-79669737?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Ucrania reactiva ofensiva energética contra Rusia y cuestiona el rol de Estados Unidos",
-  "resumen": "El presidente Volodímir Zelenski confirmó el fin de la tregua energética con Moscú, señalando que Rusia incumplió la propuesta impulsada por Donald Trump. Asimismo, denunció una reducción en el apoyo y la inteligencia provenientes de Estados Unidos hacia su país.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-15T16:16:18.041177+00:00"
  }
 ]
