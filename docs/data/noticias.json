@@ -1,5 +1,113 @@
 [
  {
+  "id": "016d7888c610",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261018-informe-desde-santiago-manifestantes-conmemoran-el-estallido-social-en-chile",
+  "titulo": "Protestas en Santiago por el aniversario del estallido social y los recortes de Kast",
+  "resumen": "Diversas organizaciones en Chile se movilizaron para conmemorar las protestas de 2019 y rechazar los recortes impulsados por el presidente José Antonio Kast. La jornada en la capital estuvo marcada por enfrentamientos entre la Policía y los manifestantes.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "02956076aefe",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
+  "titulo": "El presidente francés mantiene en su cargo al ministro del Interior pese a los altercados",
+  "resumen": "Emmanuel Macron rechazó la renuncia de Laurent Nuñez y le ordenó implementar nuevas tácticas policiales contra los grupos violentos. La decisión se produce en un contexto de tensiones donde los estudiantes bloquearon el acceso al museo del Louvre.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "1dd1a818cc9c",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/america/2026-10-19/bolsonaro-se-lanza-contra-lula-en-un-primer-debate-muy-bronco.html",
+  "titulo": "Intenso enfrentamiento político en el primer debate entre Bolsonaro y su contrincante",
+  "resumen": "El actual mandatario brasileño protagonizó un debate muy confrontativo contra el senador ultra. Ambos candidatos chocaron fuertemente debido a sus marcadas diferencias ideológicas y comunicativas.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "27a9577b9858",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/disturbios-en-milán-tras-una-protesta-por-el-costo-de-la-vida/a-79695106?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Registran actos de vandalismo en Milán durante una manifestación por la carestía",
+  "resumen": "Una protesta centrada en el alto costo de la vida terminó en disturbios en la ciudad italiana. El alcalde Giuseppe Sala confirmó daños materiales como escaparates rotos, locales saqueados y población atemorizada.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "7cf4fc33ca92",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/onu-dejará-de-ayudar-a-medio-millón-de-personas-en-gaza-por-falta-de-fondos-no-es-el-momento-de-mirar-hacia-otro-lado/a-79696552?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "El PMA recorta ayuda alimentaria a medio millón de gazatíes por falta de dinero",
+  "resumen": "El Programa Mundial de Alimentos de la ONU notificó que recortará sus labores humanitarias en Gaza debido a problemas financieros. Como consecuencia de esta escasez de fondos, medio millón de personas dejarán de recibir asistencia cada mes.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "7f4cfe9b75a0",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmctLXpvLWpzMXVUdzJ3RG16MWdKVi1LSDRyei1KT040MHF1bDE0Z3phR3Q1UERuZDc5cXhRMTB1Rmg1aTRWa1RkaGdrNWVuajdhTElwekt3YnBGU1Q1bmtMcjZfZTBzMVlHc3ZyVGxpbmU2Q1owNnRKSEVTM21PUA?oc=5",
+  "titulo": "Lanzan World ID para verificar identidad humana en el sector bancario",
+  "resumen": "Se ha presentado World ID dirigido a la banca y las finanzas como un sistema de prueba de humanidad seguro frente a la inteligencia artificial. Esta herramienta forma parte de la red conocida como World.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "80119f954e5b",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXIzMVlOaVBpWm0tNlhxd211TEo0ZmE5LU1zOWtFRUN5TUJDSV9Bb3QyRkJIWUUxRGpUbWdMcURXTHFMNjVCNDJaUGFCNVplRWs0c1NNaG5zWlJpQ1dlMHF2SWlWb0lpclhpdUF1UmtzcHBBTUMyN2liR1ZrQmdEU1VqSDRKZ1hX?oc=5",
+  "titulo": "Defensa del PSG analiza el peligro de una estrella del Barcelona tras el Mundial",
+  "resumen": "El defensor del PSG, Lucas Digne, es consciente del peligro que representa una estrella del Barcelona debido a un error cometido en el pasado durante la Copa del Mundo.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "86d21926bedb",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261018-trump-arremete-contra-zelenski-y-defiende-exenci%C3%B3n-de-sanciones-a-rusia",
+  "titulo": "Trump critica a Zelenski y justifica reducir sanciones a Rusia",
+  "resumen": "El mandatario estadounidense Donald Trump cuestionó a Ucrania por atacar refinerías rusas afectando los mercados de gasóleo. Con este argumento, el líder norteamericano pretendería justificar la firma de un acuerdo de entendimiento sobre diésel y la disminución de sanciones a Rusia, mientras ambos países siguen atacando infraestructuras energéticas.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "9833226a15a9",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/medio-oriente/20261019-arabia-saudita-busca-aliados-frente-a-los-hut%C3%ADes-egipto-ofrece-apoyo-militar-y-riad-se-acerca-a-eau",
+  "titulo": "Egipto y Emiratos Árabes Unidos se alinean con Riad ante la amenaza de los hutíes",
+  "resumen": "Egipto prometió apoyo militar a Arabia Saudita y su presidente solicitó autorización al Parlamento para enviar tropas al extranjero. Paralelamente, el ministro de Defensa saudí visitó Emiratos Árabes Unidos para consolidar la reconciliación entre ambas naciones frente a la intensificación de los ataques de los rebeldes hutíes.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "b7cf32930c42",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm4g17q284xlo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Mujeres en Irak arriesgan su vida para combatir la violencia sexual con la ayuda de teléfonos móviles",
+  "resumen": "Activistas y madres en Irak utilizan la tecnología y las redes sociales, como Instagram, para denunciar abusos, exponer amenazas de muerte y exigir justicia para las víctimas de violación en el país.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "b827a9cba69f",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcTQ4R2c5Z1ZpdUR5ak5PbDlleXl0LXBjUjlFX2xjbS1mckxUanY2UEI1VGtJcnlfaHpyWVEzTS1KUjRIbTh0UnhzeTJHTHY3VkljYy1TdUZaVXlDeURrbEV1c3V3Y0RnaDlJVmZ2VlRmVnNVOHVuMXJwenV4Vm9kQUxwZS1VUWZ1ZXBjOE1NT1JXc1lUQUxHcjlfenZpVnJ6UjVVZURYWWl5TF9adEtzdExNQk9wT1RUYTZCRVFWQVpwOHlIUmZhb1VjUVVjMmN6OG04aThkSmV6Wmt2UzFkX01uWQ?oc=5",
+  "titulo": "Publicación del reporte mundial de rendición de cuentas de World Vision",
+  "resumen": "La organización World Vision ha dado a conocer su informe de rendición de cuentas a nivel global. El documento se enfoca en cómo fortalecer dicha rendición mediante el concepto de la resiliencia.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
+  "id": "bb5de274e19c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El servicio satelital Starlink sostiene las operaciones de drones de Ucrania frente a Rusia",
+  "resumen": "La red de internet de Starlink funciona como el soporte fundamental de las comunicaciones militares ucranianas. Este sistema proporciona conectividad de alta velocidad indispensable para las fuerzas armadas en el contexto de la guerra.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-19T09:39:30.076141+00:00"
+ },
+ {
   "id": "16e10a00e9b6",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/video/20261019-elecciones-brasil-2026-qu%C3%A9-deja-el-primer-cara-a-cara-entre-lula-y-bolsonaro",
@@ -1240,113 +1348,5 @@
   "resumen": "Colombia refuerza su alianza en materia de seguridad con Estados Unidos en el marco de la redefinición de sus acciones contra la violencia. Diversos analistas evalúan las oportunidades y los riesgos que la iniciativa del Escudo de las Américas representa para la región.",
   "categoria": "Política",
   "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "7102e00223f2",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/alemania-frente-a-la-amenaza-de-guerra-de-rusia-¿está-preparada-para-enfrentarla/a-79684058?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Advierten sobre la escasa preparación de Alemania ante posibles provocaciones rusas",
-  "resumen": "Especialistas consideran que Alemania no cuenta con la preparación militar ni psicológica adecuada para hacer frente a las amenazas de Rusia. Además, alertan de que retirar el apoyo a Ucrania no incrementará la seguridad del territorio alemán.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "a55ed46bc548",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cw98zj48e4r4o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Polémica por la retirada de piezas de arte en el Museo Nacional de Colombia",
-  "resumen": "Decenas de piezas referidas al feminismo, a las víctimas del conflicto y a colectivos LGTB fueron removidas de las instalaciones del Museo Nacional de Colombia. La medida ha desencadenado un debate en torno a las disputas culturales en el país.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "a7a0085f5746",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Dimisión récord en la secretaría de prensa de la Casa Blanca",
-  "resumen": "Katie Zacharia abandonó su puesto como portavoz de la Casa Blanca a tan solo unos días de haber tomado posesión del cargo. De esta manera, se ha transformado en la secretaria de prensa con la gestión más corta en la historia moderna de Estados Unidos.",
-  "categoria": "Política",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "ab5ef125c144",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmNzTUVrVjJaLWt6U0MxaGlvUFIzTnVUWEYzQjJCS0hTRmhxUHVVNDU5aHBwTS1NVmswNk1MN3ZXd0FndmNoemdiVjJPb3RtejhQWWM0OFNYanBrRW01eS1DeUw0VHBnR1NUODBwQldKMkdRaWwwMXNrTjhFNUVRa0dIRzRWUHZSdzJhV0Z2RHZQeEdlOTFuX2FHT09WWTdaNjNvTEpCbXJYR2R4a0tmSGZkd2RBZDhl?oc=5",
-  "titulo": "NRG confirma la salida de su plantilla campeona del mundo",
-  "resumen": "La organización NRG hizo pública la partida histórica del equipo que se había coronado en el Campeonato Mundial. La información sobre esta desvinculación fue difundida por el medio Sheep Esports.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "be0d416944a5",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-16/decenas-de-colonos-enmascarados-atacan-una-aldea-de-cisjordania-durante-la-recogida-de-la-aceituna-y-dan-una-paliza-a-una-fotografa.html",
-  "titulo": "Ataque en Cisjordania deja olivos quemados y una reportera agredida",
-  "resumen": "Jóvenes israelíes procedentes de un asentamiento cercano provocaron incendios en plantaciones de olivos en la aldea de Abu Falah, en las inmediaciones de Ramala. Durante los altercados, golpearon a Heidi Levine, una fotógrafa estadounidense de 63 años que labora para 'The Washington Post'.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "c683929fd3f7",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cqj6j1rkr50yo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Condenan a una madre por dejar a su hijo caminar sin supervisión",
-  "resumen": "Karyann Parkinson fue juzgada tras autorizar que su hijo de cinco años transitara sin la compañía de un adulto. El incidente ocurrió en el interior de un conjunto residencial cerrado y provisto de vigilancia en Virginia, Estados Unidos.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "043ba5c2b768",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/avalancha-de-vetos-contra-candidatos-a-la-ue-¿quién-bloquea-a-quién/a-79682238?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El aumento de bloqueos individuales frena las adhesiones a la Unión Europea",
-  "resumen": "Cada vez es más frecuente que un solo país miembro vete el ingreso de nuevas naciones al bloque comunitario. Estas decisiones suelen fundamentarse en motivos de política interna que no guardan relación con los intereses comunes de la Unión Europea.",
-  "categoria": "Política",
-  "fecha": "2026-10-16T19:25:08.226401+00:00"
- },
- {
-  "id": "3b33e586ff9d",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/revista-de-prensa/20261016-mansour-abbas-el-candiato-%C3%A1rabe-en-israel-que-busca-una-alianza-con-los-jud%C3%ADos-nyt",
-  "titulo": "El rol decisivo de Mansour Abbas en las próximas elecciones de Israel",
-  "resumen": "Israel acudirá a las urnas el 27 de octubre para renovar los 120 escaños de su Parlamento y definir al nuevo gobierno. En este proceso electoral destaca Mansour Abbas, un influyente dirigente árabe que busca alcanzar acuerdos de coalición con sectores judíos. Su participación se perfila como un factor relevante para la conformación de alianzas en la cámara.",
-  "categoria": "Política",
-  "fecha": "2026-10-16T19:25:08.226401+00:00"
- },
- {
-  "id": "3fa7909beeeb",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261016-la-dependencia-de-starlink-y-la-defensa-a%C3%A9rea-de-ucrania-preocupan-en-la-cumbre-de-la-ue-en-bruselas",
-  "titulo": "Inquietud en Bruselas por la red Starlink y el financiamiento militar para Ucrania",
-  "resumen": "La Unión Europea reconoció la imposibilidad de solucionar a corto plazo la subordinación de Ucrania al servicio satelital Starlink, cuyas recientes limitaciones han perjudicado las maniobras en el frente bélico. Aunque los mandatarios comunitarios concuerdan en aplicar más sanciones a Rusia y mantener el respaldo militar a Kiev, aún enfrentan discrepancias sobre el monto del presupuesto. Las discusiones continúan en busca de un consenso financiero.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-16T19:25:08.226401+00:00"
- },
- {
-  "id": "55605dc5983a",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/enlace/20261016-la-ciudad-subterr%C3%A1nea-de-roma-un-refugio-ante-el-calor-extremo",
-  "titulo": "Roma investiga su red de cavidades subterráneas para combatir el calor extremo",
-  "resumen": "Científicos, geólogos y urbanistas estudian el potencial de más de cinco mil cavidades subterráneas de la capital italiana, entre catacumbas, cuevas y canteras, para enfrentar la emergencia climática. El propósito consiste en acondicionar estos lugares como refugio frente a las temperaturas extremas, beneficiando principalmente a ciudadanos en condiciones vulnerables. La iniciativa explora alternativas viables bajo tierra para amortiguar el impacto del calentamiento urbano.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-10-16T19:25:08.226401+00:00"
- },
- {
-  "id": "577bd658033f",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-16/zelenski-lanza-un-dardo-a-trump-al-hablar-de-los-europeos-como-verdaderos-lideres.html",
-  "titulo": "Zelenski elogia a los dirigentes europeos en medio de desavenencias con Washington",
-  "resumen": "El presidente de Ucrania calificó a los representantes de Europa como auténticos líderes en un mensaje dirigido a Donald Trump. Mientras tanto, las autoridades comunitarias afirmaron que continuarán ejerciendo presión sobre Rusia. Además, desde el bloque europeo se criticó el pacto relativo al combustible diésel acordado entre Washington y Moscú.",
-  "categoria": "Política",
-  "fecha": "2026-10-16T19:25:08.226401+00:00"
- },
- {
-  "id": "8372d40b252d",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/ataques-rusos-a-centrales-energéticas-a-ucrania-le-espera-un-duro-invierno/a-79683271?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Ucrania encara la temporada de frío bajo constantes ataques a su red energética",
-  "resumen": "Las poblaciones ucranianas se alistan para el comienzo del periodo de calefacción en un escenario adverso. Esta preparación coincide con una serie de ofensivas masivas ejecutadas por Rusia contra las instalaciones de energía del país. Como consecuencia, persiste la incertidumbre sobre los problemas que sufrirá la ciudadanía de cara al próximo invierno.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-16T19:25:08.226401+00:00"
  }
 ]
