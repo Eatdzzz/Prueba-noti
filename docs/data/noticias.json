@@ -1,5 +1,113 @@
 [
  {
+  "id": "0211261efae0",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-19/cinco-estrategias-de-los-democratas-contra-trump.html",
+  "titulo": "Aumento de la tensión electoral en Estados Unidos ante las próximas elecciones de mitad de periodo",
+  "resumen": "A pocas semanas de los comicios de medio término, los sondeos señalan una posible tendencia favorable a los demócratas. Esto podría provocar que el Partido Republicano pierda el control del Congreso.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "074d16520ec2",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/starlink-en-ucrania-qué-pasaría-si-musk-cortara-el-acceso-a-su-red/a-79706929?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Incertidumbre en Ucrania ante la posible interrupción del servicio de internet satelital de Elon Musk",
+  "resumen": "Existe gran inquietud sobre las repercusiones que tendría para el país en conflicto una limitación o corte de la red Starlink. Actualmente, Ucrania mantiene una alta dependencia de este sistema de conectividad.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "0ff6946e464c",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/deepfakes-y-bots-la-ia-transforma-las-elecciones-en-israel/a-79705809?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Impacto de la inteligencia artificial en los comicios israelíes mediante deepfakes y campañas automatizadas",
+  "resumen": "Por primera vez, la tecnología de inteligencia artificial influye de manera notable en un proceso electoral en Israel. Diversos especialistas alertan sobre el uso de videos alterados y bots con el fin de condicionar al electorado.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "1c3438fe6e49",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c6kg543ly39lo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Creciente propagación de sustancias sintéticas de fabricación casera que intensifican la crisis de adicciones en Norteamérica",
+  "resumen": "Estados Unidos enfrenta una nueva epidemia letal relacionada con estupefacientes. Diversos testimonios de afectados, traficantes y personal de centros de rehabilitación y prisiones reflejan la gravedad de esta situación.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "24aa6e4278d8",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-florida-emite-una-orden-de-arresto-contra-ra%C3%BAl-castro-por-el-derribo-de-dos-avionetas-en-1996",
+  "titulo": "Emiten orden de arresto en Florida contra Raúl Castro por caso de 1996",
+  "resumen": "La Fiscalía de Florida consiguió una orden de arresto estatal dirigida al expresidente cubano Raúl Castro. Se le señala por su supuesta conexión con el derribo de dos aeronaves humanitarias de Hermanos al Rescate ocurrido en el año 1996, suceso que dejó un saldo de cuatro fallecidos.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "24aa6e4278d8",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-florida-emite-una-orden-de-arresto-contra-ra%C3%BAl-castro-por-el-derribo-de-dos-avionetas-en-1996",
+  "titulo": "Orden de captura contra el exmandatario cubano Raúl Castro en EE. UU.",
+  "resumen": "Una orden de arresto a nivel estatal fue emitida por la Fiscalía de Florida en contra de Raúl Castro. La medida judicial responde a su presunta implicación en la caída de dos avionetas pertenecientes a la organización Hermanos al Rescate en 1996, donde cuatro personas perdieron la vida.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "2d42e01fe941",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/el-futuro-climático-del-planeta-se-juega-en-las-elecciones-de-brasil/a-79706695?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Los comicios en Brasil definen el destino climático global",
+  "resumen": "Las próximas elecciones en Brasil son cruciales debido al peligro que enfrenta la Amazonía y su papel fundamental en la regulación del clima mundial. Los resultados electorales determinarán el futuro de la protección al medio ambiente, el combate a la deforestación y las medidas frente al cambio climático.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "343584805e6a",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-19/el-respaldo-de-trump-a-netanyahu-llega-tarde-en-el-incierto-panorama-de-las-elecciones-en-israel.html",
+  "titulo": "El apoyo tardío de Trump a Netanyahu a pocos días de los comicios israelíes",
+  "resumen": "El presidente de Estados Unidos expresó su respaldo a Netanyahu tras varias semanas de vacilación. Este apoyo se materializa cuando faltan ocho días para las elecciones en Israel y con la tendencia del voto prácticamente definida en un escenario electoral incierto.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "3843b48881db",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cr86z0z5yd3lo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Alta tensión en Francia tras jornadas de violentas protestas",
+  "resumen": "Francia atraviesa un clima de gran incertidumbre política luego de que los disturbios eclipsaran las manifestaciones ciudadanas centradas en el alto coste de la vida y las deficiencias en los servicios públicos. Persisten numerosas dudas sobre el panorama futuro y existe el temor de que se desaten nuevas movilizaciones.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "6a36e8b3651c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm1j43k5en2do?at_medium=RSS&at_campaign=rss",
+  "titulo": "La figura de Maduro pierde peso en la gestión de Delcy Rodríguez",
+  "resumen": "A casi diez meses de que Estados Unidos detuviera al exmandatario, su presencia se ha ido desvaneciendo progresivamente de los discursos oficiales y de la agenda política en la nueva etapa del país bajo el liderazgo de Delcy Rodríguez.",
+  "categoria": "Política",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "78842921f585",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/europa/20261019-zelenski-denuncia-falta-de-alertas-tempranas-desde-occidente-en-medio-del-asedio-energ%C3%A9tico-ruso",
+  "titulo": "Ucrania recrimina a Occidente la falta de avisos de inteligencia ante los ataques rusos",
+  "resumen": "El mandatario ucraniano criticó la ausencia de alertas tempranas occidentales durante el bombardeo ruso que dejó seis muertos y múltiples daños energéticos. Por su parte, el secretario de Estado estadounidense, Marco Rubio, rechazó que exista una directriz para frenar el flujo de información con Kiev y pidió a Zelenski enfocarse en concluir el conflicto.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
+  "id": "7adeb6dad582",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNldrN0JvZkxCV0J4UUs4cTdTUF9wQS1FYWJxX0IyQ2RxS1BBdzl4TmtJcC1BVnRXWHNUWkFYWWltOXVEQjR3TkN0bGVNdFk3UFR4azBwdWxXbDY1R0RrSEZfNnVpcVYwcTdJSFNtOVFGTDZ3eDJOQm1HcmZLYnBjc2x4bTFDSnVPMExnaA?oc=5",
+  "titulo": "World Aquatics anuncia la celebración de un nuevo Mundial en Sudamérica",
+  "resumen": "El organismo internacional confirmó que la región sudamericana será sede de otro campeonato mundial de deportes acuáticos, según la información difundida por el medio especializado SwimSwam.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-19T18:18:20.386546+00:00"
+ },
+ {
   "id": "016d7888c610",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/video/20261018-informe-desde-santiago-manifestantes-conmemoran-el-estallido-social-en-chile",
@@ -1240,113 +1348,5 @@
   "resumen": "El piloto Verstappen participa en la sesión de clasificación correspondiente al GT World Challenge Europe disputado en suelo portugués. La cobertura de esta competencia de automovilismo se presenta en vivo.",
   "categoria": "Deportes",
   "fecha": "2026-10-17T02:45:00.543506+00:00"
- },
- {
-  "id": "61498151ebef",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/irán-niega-estar-implicado-en-ataques-de-hutíes-de-yemen-contra-arabia-saudita/a-79684934?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Teherán rechaza cualquier vínculo con las ofensivas de los hutíes contra territorio saudí",
-  "resumen": "El gobierno de Irán negó tener relación con los ataques lanzados por los hutíes de Yemen hacia Arabia Saudita. De acuerdo con un portavoz de Teherán, las acciones de este grupo responden de manera exclusiva a sus propios intereses.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-17T02:45:00.543506+00:00"
- },
- {
-  "id": "756450361b68",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/consejo-de-seguridad-veta-a-todos-los-candidatos-a-jefe-la-onu/a-79684926?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El Consejo de Seguridad descarta a los aspirantes a suceder a António Guterres",
-  "resumen": "El Consejo de Seguridad aplicó su veto a los siete candidatos oficiales a la jefatura de la ONU, lista compuesta por cuatro mujeres y tres hombres. Este bloqueo a los pretendientes para reemplazar al actual líder António Guterres da margen al ingreso de nuevas postulaciones.",
-  "categoria": "Política",
-  "fecha": "2026-10-17T02:45:00.543506+00:00"
- },
- {
-  "id": "a26baec8d2c0",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261017-informe-desde-santiago-por-primera-vez-desde-1955-un-presidente-de-chile-visita-bolivia",
-  "titulo": "Histórico encuentro bilateral entre los mandatarios de Chile y Bolivia",
-  "resumen": "El mandatario chileno José Antonio Kast viajó a Bolivia para reunirse con su homólogo Rodrigo Paz. Este acontecimiento representa la primera visita de un jefe de Estado chileno a dicho país en 71 años. El encuentro fue calificado como histórico debido a las tensas relaciones que ambas naciones han mantenido durante décadas.",
-  "categoria": "Política",
-  "fecha": "2026-10-17T02:45:00.543506+00:00"
- },
- {
-  "id": "a9c38dc3a1f3",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261017-trump-pausa-paquete-de-sanciones-contra-rusia-alegando-motivos-de-inter%C3%A9s-nacional",
-  "titulo": "Donald Trump suspende temporalmente sanciones contra Rusia",
-  "resumen": "A través de una orden ejecutiva, Donald Trump frenó provisionalmente la aplicación de un paquete de sanciones aprobado por el Congreso contra Rusia. La Casa Blanca informó que el mandatario justificó esta medida alegando razones de interés nacional.",
-  "categoria": "Política",
-  "fecha": "2026-10-17T02:45:00.543506+00:00"
- },
- {
-  "id": "b128a2a12d92",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/renuncia-la-cuestionada-nueva-vocera-de-la-casa-blanca/a-79684942?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Dimite la secretaria de prensa de la Casa Blanca en medio de dudas sobre sus credenciales",
-  "resumen": "Katie Zacharia renunció a su puesto como secretaria de prensa de la administración de Donald Trump. Su salida ocurre luego de enfrentar múltiples cuestionamientos sobre su trayectoria y credenciales como abogada.",
-  "categoria": "Política",
-  "fecha": "2026-10-17T02:45:00.543506+00:00"
- },
- {
-  "id": "b34a91fe5a56",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/deportes/20261017-richard-carapaz-ficha-por-el-nsn-cycling-team-hasta-2029",
-  "titulo": "Richard Carapaz se suma al proyecto ciclista de Andrés Iniesta",
-  "resumen": "El ciclista Richard Carapaz, vencedor del Giro de Italia en 2019, firmó un acuerdo por tres años con el NSN Cycling Team. La escuadra, antes denominada Israel Premier Tech, pertenece al exfutbolista Andrés Iniesta. El deportista de 33 años se integra tras conseguir dos triunfos en la última temporada del Tour de Francia.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-17T02:45:00.543506+00:00"
- },
- {
-  "id": "0c9023374eb4",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-16/la-justicia-britanica-condena-a-un-adolescente-noruego-que-trabajaba-para-una-organizacion-criminal-a-sueldo-de-iran.html",
-  "titulo": "Condenan en el Reino Unido a un joven noruego vinculado a un complot respaldado por Irán",
-  "resumen": "Un tribunal británico dictó sentencia contra Johannes Natland, un ciudadano noruego de 19 años. El joven había viajado al Reino Unido hace algo más de un año con el propósito de asesinar a un individuo no identificado por encargo de una red criminal a sueldo de Irán.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "2ebdb9b200d1",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/cultura/20261016-adn-y-una-pared-falsa-las-claves-del-robo-de-los-cuadros-de-renoir",
-  "titulo": "Francia logra recuperar dos valiosas pinturas de Renoir tras hallar su escondite",
-  "resumen": "Un mes después de su sustracción del Museo Renoir, las autoridades hallaron dos cuadros cotizados en 4,2 millones de euros ocultos tras una pared falsa. Una muestra de ADN fue determinante para dar un giro a la investigación y dar con las obras, las cuales están en buen estado salvo un desgarro en una de ellas. El suceso ha vuelto a poner bajo la lupa la seguridad de los museos franceses.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "2fcb4d955c7e",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/misiles-caen-dentro-del-perímetro-del-aeropuerto-de-adén-y-hutíes-reivindican-ataque/a-79684884?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Ataque con misiles impacta en las inmediaciones del aeropuerto yemení de Adén",
-  "resumen": "Diversos proyectiles cayeron dentro del recinto del aeropuerto de Adén en un hecho reivindicado por los rebeldes hutíes. Los insurgentes aseguraron que la acción estuvo dirigida contra el cuartel general de mando de las fuerzas sauditas. Las autoridades de seguridad locales no han informado sobre víctimas mortales.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "494119502116",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3lUWmpYNFYydTBsWDJxNFJ4OXBvbFVudm9ObVRjR1J5LW1QeEtjT0J3Q1VxMWdBd3JaT214UWdMWEgxM29Gay1kRTBxb3gya1gwQTAyVWNqNkt1TkpydEJkT19HQzdkYXlQRUxYSW1RVVJZUHRGZnpBcmt5TXVZWWZaaDVod2tFLTF5YnRpQ29uaS0ta0FpVTFGU20wYnZadXZnZFhKUWxJWEsyR2E4aU53?oc=5",
-  "titulo": "Un evento de fotografía en Nueva York conmemora la dimensión humana del arte",
-  "resumen": "La ciudad de Nueva York alberga un festival dedicado a la fotografía. Este acontecimiento busca festejar el sentido humano de esta manifestación artística en el marco de su bicentenario.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "5dc799d5d774",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-16/fatima-mansouri-nombra-nuevo-gobierno-en-marruecos-con-el-jefe-del-futbol-al-frente-de-economia.html",
-  "titulo": "Fátima Mansouri asume el liderazgo del nuevo Ejecutivo en Marruecos",
-  "resumen": "Fátima Mansouri se ha convertido en la primera mujer en encabezar el Gobierno de Marruecos, nombrando al responsable del fútbol al frente del Ministerio de Economía. En la conformación de este nuevo gabinete, la mandataria ha otorgado únicamente dos carteras a mujeres.",
-  "categoria": "Política",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
- },
- {
-  "id": "5f4fb475d8c0",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/escudo-de-las-américas-¿gana-latinoamérica-o-cae-en-un-chantaje/a-79684701?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Colombia estrecha su cooperación de seguridad con Estados Unidos",
-  "resumen": "Colombia refuerza su alianza en materia de seguridad con Estados Unidos en el marco de la redefinición de sus acciones contra la violencia. Diversos analistas evalúan las oportunidades y los riesgos que la iniciativa del Escudo de las Américas representa para la región.",
-  "categoria": "Política",
-  "fecha": "2026-10-16T22:30:55.203655+00:00"
  }
 ]
