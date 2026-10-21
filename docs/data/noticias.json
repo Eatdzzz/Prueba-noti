@@ -1,5 +1,113 @@
 [
  {
+  "id": "33f850636054",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/econom%C3%ADa/20261021-economia-petroleo-precio-guerra-golfo",
+  "titulo": "El encarecimiento del crudo impulsa a Estados Unidos a evaluar a India para procesar petróleo venezolano",
+  "resumen": "El precio del barril Brent rozó los 112 dólares el 20 de octubre, alcanzando su punto más alto desde mayo pasado. Ante esto, Estados Unidos explora opciones para incrementar el suministro en el mercado de energía y ha consultado sobre la capacidad de India para refinar el crudo proveniente de Venezuela.",
+  "categoria": "Economía",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "3e6ae1e973cf",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-21/la-crisis-de-la-deuda-deja-al-gobierno-de-francia-sin-margen-ante-las-reivindicaciones-sociales.html",
+  "titulo": "La crisis financiera reduce el margen de acción del Gobierno francés ante las protestas",
+  "resumen": "El malestar social en Francia se complica con el recelo de los inversores hacia la estabilidad económica del país. Esta desconfianza se ha intensificado a raíz de los violentos enfrentamientos registrados durante el fin de semana.",
+  "categoria": "Economía",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "449b1d22d50d",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261021-por-qu%C3%A9-protestan-en-europa-educaci%C3%B3n-vivienda-y-la-carest%C3%ADa-de-la-vida-agita-las-calles",
+  "titulo": "Diversas problemáticas sociales y económicas detonan protestas en ciudades de Europa",
+  "resumen": "Habitantes de países como España, Italia, Francia, Portugal y Albania han salido a las calles para manifestarse contra la corrupción, el costo de la vida, el acceso a la vivienda y el deterioro educativo. En este marco, se analiza además la evolución de los indicadores económicos durante las últimas décadas.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "515c614c6539",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjBIWVMzZ3VJRTNlelAxRmRVa1BLQXRqRGNnNjljN1dnOFN3N2lwVllJYl9IS21MZ2dqeFpLNjRJeFlwdm1MMk4teDVSV1c3NnFpVnlzNGxrMWpZaEZPV2xnempEZG9KWnFSVFFmQU1nNlVsQzYyejVtSHFIY3loYkpuM2JuT2pYRy1HbzNLODRWQU5RTDdpbXBDQXJWREFNZmJPeG5PQklGVEVHdXkweEYzVUd2YzM3WjJPaEZ2TQ?oc=5",
+  "titulo": "Isuzu se suma como patrocinador de los mundiales de rugby de 2027 y 2029 en Australia",
+  "resumen": "La empresa Isuzu ha sido anunciada como socia oficial de las Copas Mundiales de Rugby. Su alianza aplicará tanto para el torneo masculino de 2027 como para el certamen femenino de 2029, ambos a celebrarse en Australia.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "55e040395699",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/ck1wve08vzyro?at_medium=RSS&at_campaign=rss",
+  "titulo": "Tribunal mexicano impone condena histórica por el homicidio de tres surfistas extranjeros",
+  "resumen": "Tres hombres recibieron una sentencia de 158 años de prisión tras comprobarse su responsabilidad en el homicidio de dos hermanos australianos y un ciudadano estadounidense. Las víctimas fueron halladas sin vida dentro de un pozo situado en el estado de Baja California.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "573d9e016422",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261021-el-senado-de-chile-aprueba-una-ley-para-agilizar-la-expulsi%C3%B3n-de-extranjeros",
+  "titulo": "Aprobada en Chile nueva normativa para acelerar la deportación de ciudadanos extranjeros",
+  "resumen": "La cámara alta chilena dio luz verde a un proyecto legislativo enfocado en optimizar las deportaciones administrativas de inmigrantes. La medida otorga facultades a la policía para ingresar a viviendas con orden judicial y establece sanciones más severas para quienes intenten reingresar al país.",
+  "categoria": "Política",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "831b7a214148",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-21/crece-la-presion-diplomatica-para-socorrer-a-la-poblacion-ucrania-de-oleshki-azotada-por-el-hambre-tras-la-ocupacion-rusa.html",
+  "titulo": "Aumentan los reclamos internacionales para asistir a los habitantes ucranianos afectados por la escasez de alimentos",
+  "resumen": "La población de Oleshki y zonas cercanas sufre graves problemas de alimentación debido a la ocupación militar rusa. Ante esta situación, el Vaticano realiza gestiones diplomáticas entre los mandatarios de Ucrania y Rusia para conseguir un cese al fuego y permitir la evacuación civil.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "96353a47d2b1",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/gloria-guevara-presidenta-de-wttc-el-mundial-puso-a-méxico-frente-a-millones-de-personas-y-dejó-infraestructura-y-experiencia/a-79716894?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Destacan el impacto positivo del turismo y los eventos deportivos globales en la economía mexicana",
+  "resumen": "La industria turística global genera ingresos millonarios a nivel mundial, según datos del sector. Expertos señalan que la celebración de eventos de gran magnitud en México incrementa su visibilidad internacional y mejora la infraestructura local.",
+  "categoria": "Economía",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "a55ed46bc548",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cw98zj48e4r4o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Retiran del Museo Nacional colombiano piezas relacionadas con feminismo y minorías",
+  "resumen": "El Museo Nacional de Colombia ha sacado de sus salas una gran cantidad de obras que hacían referencia a colectivos LGTB, al feminismo y a las víctimas del conflicto armado. Esta medida ha generado controversia en el contexto de la llamada batalla cultural.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "c768250b74cb",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-20/el-orden-contra-el-caos-un-marco-que-favorece-a-le-pen.html",
+  "titulo": "El debate político en Francia se polariza entre la seguridad y el desorden social",
+  "resumen": "Ante las recientes protestas y movilizaciones ciudadanas, el primer ministro Lecornu insta a la población a decantarse entre las fuerzas del orden y aquellos sectores con posturas violentas contra la República. Este escenario político beneficia estratégicamente la narrativa de Marine Le Pen.",
+  "categoria": "Política",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "d1c0950e430f",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261021-econom%C3%ADa-o-seguridad-lula-y-fl%C3%A1vio-bolsonaro-apuntalan-sus-estrategias-para-el-balotaje-en-brasil",
+  "titulo": "Estrategias divididas entre Lula y Flávio Bolsonaro rumbo a la segunda vuelta en Brasil",
+  "resumen": "De cara al balotaje presidencial brasileño, Lula da Silva enfoca su campaña en propuestas económicas y sociales para acortar distancia, al tiempo que Flávio Bolsonaro prioriza la seguridad y las denuncias de corrupción. Ambos candidatos buscan movilizar a los millones de ciudadanos que se abstuvieron en la primera vuelta en medio de un panorama electoral muy reñido.",
+  "categoria": "Política",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
+  "id": "d1e85c77f42d",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c65ynve23xj7o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Preocupación por las finanzas públicas francesas en medio de las movilizaciones",
+  "resumen": "Las cuentas nacionales de Francia generan alarma debido a la dinámica de la deuda pública, un fenómeno conocido como efecto bola de nieve. Esta situación fiscal compleja ocurre de manera paralela a las protestas que se registran en el territorio francés.",
+  "categoria": "Economía",
+  "fecha": "2026-10-21T09:17:50.690992+00:00"
+ },
+ {
   "id": "0ac42a338c2b",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/video/20261021-zelenski-agradece-la-inteligencia-de-ee-uu-persisten-las-dudas-sobre-starshield",
@@ -1240,113 +1348,5 @@
   "resumen": "La detección de un dron causó alerta en Lituania y llevó a las autoridades a solicitar a la población que buscara refugio. Aviones de combate de la OTAN despegaron para identificar el aparato. Finalmente, el dispositivo terminó estrellándose dentro de las fronteras lituanas.",
   "categoria": "Conflictos",
   "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "3ea010829059",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDVGT1A1QXZxT3ZENnhzSzlrZUZ1QWQyQW5PZXV5RDF6TTdlODl3SGRkVVcwT1lndnZ2YUhxWF9md0R4RHpyRklycVB4YjhBTXpKNm5ZWnhtRUxsa3RmOEttcWRsN0lDSWFpMFJ5bWVybWlVVjVPclpqdUJETXJSLWM3b0duX015NGtZYUdYd3pHOEFpY2I5NzNCMVRQbWxOQlh3N2pMVQ?oc=5",
-  "titulo": "Se desarrolla la segunda jornada del campeonato mundial de longboard en El Salvador",
-  "resumen": "El certamen Surf City El Salvador ISA World Longboard Championship celebra su segundo día de actividades competitivas. Las incidencias del torneo se encuentran disponibles para el público mediante una transmisión en vivo.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "5a6c944e0738",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUjV2eGRCOFNqVnFna1JKOUZwejE2RmFScU9vUHAzR0gtQWQxX0NneVRLYUdOMEYzVGdrVVNDZGgtMV9vQ29UUzk4dk41MXQwbDFTUURMUGNUZFFPNlByVXA4LXozZGRPMnZHdE1WYllrQjIzRF9vODNYMVFhbjYyUDREQVVBVGc5QWJYV3B5Zm9aM0g1cTVwRk5Hd3hwRGpkbllIZEhHSGhubHlGT1JJS0stdHA1OC1JOGJ1SWFudE14TElzUmdieVpnWQ?oc=5",
-  "titulo": "El Foro Económico Mundial destaca a ocho jóvenes en el Premio Innovación 2026",
-  "resumen": "El Foro Económico Mundial dio a conocer el Premio Innovación 2026. Esta iniciativa resalta a un grupo de ocho jóvenes gracias a sus aportes para transformar distintas comunidades.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "6297408f0bdb",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6ev320r2rnwo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Reaparición del papa León XIV en el Vaticano tras su reciente cirugía de pulmón",
-  "resumen": "El papa León XIV se asomó por la ventana de su estudio para rezar el Ángelus por primera vez desde su intervención del martes por cáncer de pulmón. Las evaluaciones médicas señalan que su estado de salud no impide la realización de su viaje programado a Sudamérica.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "6a761ffc4fad",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-papa-saluda-a-la-multitud-desde-el-balcón-del-vaticano-por-primera-vez-desde-su-reciente-operación-de-cáncer/a-79692584?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El pontífice agradece el apoyo de los fieles y anuncia un retorno paulatino a sus labores",
-  "resumen": "Tras someterse a una operación por cáncer, León XIV saludó a los presentes desde el balcón del Vaticano en su primera aparición pública. El líder religioso agradeció las muestras de afecto y comunicó que retomará sus compromisos de forma gradual.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "6f7c94e0f630",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html",
-  "titulo": "Francia evalúa los daños tras disturbios masivos con miles de arrestos y saqueos",
-  "resumen": "Múltiples ciudades como París, Lyon y Marsella sufrieron graves destrozos tras intensas protestas que dejaron alrededor de 2.000 detenidos y cerca de mil tiendas saqueadas. Tan solo en la capital se reportó un récord de 855 capturas durante las alteraciones al orden. Ante esta situación, el mandatario Emmanuel Macron tiene previsto emitir un mensaje oficial a la nación.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "74512bfdfd4b",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261018-canad%C3%A1-confirma-muertos-y-heridos-en-una-base-militar-las-causas-siguen-sin-esclarecerse",
-  "titulo": "Tragedia en instalación militar canadiense deja fallecidos y varios heridos",
-  "resumen": "Un siniestro registrado el sábado en la base de Wainwright, en Alberta, desató un voraz incendio que colapsó la atención sanitaria local. El Gobierno de Canadá confirmó que el suceso provocó muertos y lesionados, aunque todavía no divulga el recuento oficial ni los motivos del hecho. Las causas del incidente continúan bajo investigación.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "2f5b04521f74",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6m2dvek0gv9o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Fuego en un histórico ayuntamiento de Francia en medio de protestas",
-  "resumen": "Un edificio consistorial de gran valor histórico situado en la ciudad de Limoges, en el sur de Francia, resultó incendiado. El suceso tuvo lugar en el marco de una serie de manifestaciones a escala nacional.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-18T08:31:25.438485+00:00"
- },
- {
-  "id": "3974e361a552",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261018-por-qu%C3%A9-trump-orden%C3%B3-la-suspensi%C3%B3n-de-varias-sanciones-contra-rusia",
-  "titulo": "Trump suspende de manera transitoria diversas sanciones impuestas a Rusia",
-  "resumen": "El mandatario estadounidense Donald Trump firmó una orden ejecutiva para congelar temporalmente varias sanciones contra Rusia antes de los comicios de medio mandato, justificándolo en el interés nacional. Según el analista Ivan Dinev Ivanov, la medida busca proyectar ante el electorado que el gobierno está tomando acciones respecto a los precios.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T08:31:25.438485+00:00"
- },
- {
-  "id": "3d3d3cd4741a",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-18/trump-apunala-a-ucrania-por-la-espalda.html",
-  "titulo": "El respaldo de Donald Trump mejora el estatus diplomático de Vladímir Putin",
-  "resumen": "La postura del presidente de Estados Unidos ha modificado la posición internacional del líder ruso Vladímir Putin. Como consecuencia del actuar de Trump, el mandatario de Rusia ha dejado atrás su condición de aislamiento.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T08:31:25.438485+00:00"
- },
- {
-  "id": "3ed6fbe2f556",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-18/ucrania-en-punto-muerto-asediada-por-putin-y-ninguneada-por-trump.html",
-  "titulo": "Kiev busca reanudar el diálogo mientras advierte de los planes de Moscú",
-  "resumen": "El gobierno ucraniano intenta retomar las negociaciones diplomáticas después de afrontar una semana extremadamente difícil. Paralelamente, el presidente Zelenski sostuvo que las intenciones de Vladímir Putin van más allá de una capitulación y buscan la destrucción total.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-18T08:31:25.438485+00:00"
- },
- {
-  "id": "670baa756ac4",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
-  "titulo": "Francia afronta meses cruciales ante el avance de la ultraderecha",
-  "resumen": "El actual mandato del presidente francés atraviesa un periodo de desconexión social a lo largo de seis meses decisivos. Durante este tiempo, la administración deberá lograr la aprobación del presupuesto nacional y encarar el ascenso de las fuerzas de ultraderecha.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T08:31:25.438485+00:00"
- },
- {
-  "id": "6d1bac2a53a4",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmJyREJfWGh3bFRkZUVPb0FzNUxBYlhVWm9zT3hRYjY5TE5vQlpSRlBaaE00THdnMGFIaEhIWVdZNkExWEljRUo0c2dJZmRuTW1XU0hTeHp1RW1KbnJrTGpBcHNDV1llcHk0bG93XzBaQjlpRHQxd0JCQjFoVF8zMEhUSVdobG1mdzRXdVJFZzBfVnlnT0lkUE03bzBteWplLW91ejRzMXJvTndSMHNmdjJDcGY?oc=5",
-  "titulo": "Novedades sobre el Festival de Cine de Morelia en México",
-  "resumen": "El medio informativo WV News presenta reportes en torno al Festival de Cine de Morelia desarrollado en México. La cobertura da seguimiento a las actividades de este evento cinematográfico.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-18T08:31:25.438485+00:00"
  }
 ]
