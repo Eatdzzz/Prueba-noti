@@ -1,5 +1,113 @@
 [
  {
+  "id": "034129f02500",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261021-directo-par%C3%ADs-y-la-oficializaci%C3%B3n-de-la-solicitud-de-protesta-de-los-chalecos-amarillos",
+  "titulo": "Los chalecos amarillos solicitan autorización para manifestarse en París el próximo fin de semana",
+  "resumen": "El movimiento social ha presentado formalmente la petición para llevar a cabo una protesta el 24 de octubre. Las autoridades locales evaluarán el recorrido propuesto y decidirán si conceden el permiso, considerando los altercados violentos ocurridos en las movilizaciones anteriores.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "06d88b8beff1",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/líbano-¿quién-garantizará-la-seguridad-tras-la-salida-de-la-fuerza-provisional-de-las-naciones-unidas/a-79724562?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Incertidumbre en Líbano ante la retirada de los cascos azules de la ONU",
+  "resumen": "La Fuerza Provisional de las Naciones Unidas se alista para dejar el territorio libanés en un escenario donde Israel continúa presente y Hezbolá conserva sus armas. Aunque la Unión Europea intenta respaldar al Ejército del Líbano, esta misión no tomará el lugar de las fuerzas internacionales.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "1fd79f8a27de",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVVGc1dReFNMbHQySzctUmljTHkyajVEaFQ1VWNzU2RaM2xVMklXRk11MmlNLWlpaTRUaTFBMUEyZDlQbEtpdDlZNnRsek9HQmUzZXpCNmxxdXAwZGZmUmN2WUN4Rm9zVHN6YVE1bE81UHFTcXNtaHBVVHh1a1QxQklMMUhxMm9Td1RzQnRKc0xMc3lpNE1qdGpwLWdQWnNqRjVaRHM5ek1QQzJLWnh2RG9BMW45TnhWeEE?oc=5",
+  "titulo": "El CNIO proyecta el documental 'Tres mujeres, un camino' por el Día Mundial del Cáncer de Mama",
+  "resumen": "El Centro Nacional de Investigaciones Oncológicas ha organizado la exhibición del cortometraje documental con motivo de la conmemoración de esta fecha especial. La iniciativa busca visibilizar la lucha contra dicha enfermedad.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "24090c542749",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-21/zelenski-se-abre-a-un-alto-el-fuego-que-congele-temporalmente-las-lineas-del-frente.html",
+  "titulo": "Volodímir Zelenski considera posible un alto el fuego parcial que congele el frente de combate",
+  "resumen": "El mandatario ucraniano se muestra partidario de una tregua temporal y recalca la necesidad de que las conversaciones se realicen en un formato de tres partes. Asimismo, insiste en que Ucrania no puede quedarse fuera de ningún proceso de negociación.",
+  "categoria": "Política",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "257d95e3d29f",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm0rl0e9ejv2o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Las dudas sobre el apoyo de Trump a Ucrania persisten a pesar de los gestos diplomáticos",
+  "resumen": "La reciente reunión entre el líder ucraniano y Steve Witkoff en Noruega no logra disipar la incertidumbre sobre la futura postura de Estados Unidos en el conflicto. Expertos señalan que es poco probable que este tipo de acercamientos cambien el panorama político estadounidense hacia Ucrania.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "3ca24abeccf4",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/econom%C3%ADa/20261021-cuba-pierde-poblaci%C3%B3n-y-envejece-casi-uno-de-cada-tres-habitantes-supera-los-60-a%C3%B1os",
+  "titulo": "Crisis demográfica en Cuba: baja natalidad, migración masiva y envejecimiento acelerado",
+  "resumen": "Un informe oficial revela que la población cubana se redujo a 9,4 millones de personas, con una pérdida de 1,4 millones de habitantes desde 2016 debido a la migración y la baja natalidad. Además, casi el 27% de los ciudadanos supera los 60 años, una situación que en La Habana se agrava por los apagones y la escasez de oportunidades para los jóvenes.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "3f2c6d671a8a",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261021-protestas-en-francia-asamblea-debate-sobre-responsabilidad-del-gobierno-en-las-movilizaciones",
+  "titulo": "Parlamento francés discute la gestión gubernamental frente a las recientes protestas",
+  "resumen": "La Asamblea de Francia debate sobre el papel y la responsabilidad del gobierno en las recientes movilizaciones que terminaron en disturbios y saqueos. Las discusiones parlamentarias abordan asuntos críticos como el costo de la vivienda y los combustibles, la edad de jubilación, la educación y los señalamientos sobre violencia.",
+  "categoria": "Política",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "471fc9f6d94f",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-21/netanyahu-alimenta-el-temor-a-un-nuevo-ataque-a-iran-a-dias-de-las-elecciones-en-israel-y-ee-uu.html",
+  "titulo": "Crece la alerta internacional ante posibles acciones militares de Israel contra Irán",
+  "resumen": "Las constantes advertencias del primer ministro israelí y un encuentro clandestino con el secretario de Defensa de la administración Trump generan preocupación sobre una inminente ofensiva militar. Estos movimientos ocurren a pocos días de celebrarse procesos electorales tanto en Israel como en Estados Unidos.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "479abaef37c1",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/el-constitucional-español-no-admite-el-recurso-del-defensor-del-pueblo-por-ley-de-nietos/a-79725364?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Rechazado recurso sobre la ley de nietos en España",
+  "resumen": "El Tribunal Constitucional español decidió no admitir a trámite el recurso presentado por el Defensor del Pueblo para permitir el voto de los nacionalizados por esta ley. La razón principal es que actualmente existe un plazo abierto para presentar alegaciones ante el Tribunal Supremo.",
+  "categoria": "Política",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "47e1a1cdb20c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/crx23yejwe1do?at_medium=RSS&at_campaign=rss",
+  "titulo": "Joven crea herramienta digital ante la falta de datos oficiales por sismos en Venezuela",
+  "resumen": "Ante la ausencia de cifras oficiales por parte del gobierno venezolano, Jorge Bastidas desarrolló el portal Desaparecidos Terremoto Venezuela. Esta iniciativa ciudadana busca facilitar el reporte de personas desaparecidas a causa de los terremotos, cuya magnitud total del daño aún se desconoce.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "5d8d9200896b",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUUtDQ0VCWkdlRk5rQVdnQ3JsZEhJME9lSE1iUDlVeXhPaUdEUHI4eXU5N3dWUDZraHA1T2RPVUxPNkRVZURLYjljb2VDWGZ1NThucUt2YVgya0licUFnMWlDQzg2aE9veTU0eUdYTXEtZzJ3Q3NBTmxUZUN6QnBoN1dyYTg2YlNSY2V6YkY4V1U0anVyRG5zd2hqNGUyX09OWkZpUS1ybDdIeDBSRlFYVjhOeENiQmdza25nTllQSXJkbzZqTlhKYzhsbXJCZUJ2YWxVLUdWdUs1YTlZYjdRM0FUVHRpWkxSYnI1NDVjRjVBb0tXam1BU0tzWFZfU0VXUWJ4WGxsM0RMTXhYcmfSAZMCQVVfeXFMTnVlQkwxYnlaVk9ZVklwUlhxYlI1NW1MTjZCb01aN3VBV0NKWExROWNEVUFxUU5nc09XdGY2YlJRcXNqSUhJOUJkSUFqQjAydVZ3ZVo1enYwa0s3OXBmQjJkUS1ySnRLa0tkRlF2Sl9fa3dYVXJiTldhNHBaY0FCckZzd3dpRHNqTlVYZWRFampoX0c2Sjk3Z2FFMUFPb3VodVRIN2VDWTFSWmVKWTFMREhGLTNBNUI3cXZVWE81TGNzRWNGVV95NENrWTRzc2x4MUxuYWl5RkxEYVF3aW9Sa3hXMEFNY1VEUU42RFFNQUdNd2lvZm1rU290YjhSZWhiLVlCQjZlTExteDhpYzhXaXNiOXM?oc=5",
+  "titulo": "Anuncian la transmisión oficial de la Serie Mundial de Béisbol 2026",
+  "resumen": "El primer juego de la Serie Mundial de la MLB 2026 se podrá disfrutar el viernes 23 de octubre a través de Univision. Además, toda la serie será transmitida mediante la señal de TUDN Radio.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
+  "id": "849f8636c9d9",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/php-reconoce-falla-de-seguridad-y-publica-parche-para-evitar-ciberdelitos/a-79724651?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Lanzan parche urgente tras grave fallo de seguridad en PHP",
+  "resumen": "El lenguaje de programación PHP ha reconocido una falla grave en su sistema y ha publicado un parche con el fin de prevenir ciberdelitos. Ante la gravedad del problema, apagar los servidores se plantea como una posible alternativa.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-21T16:35:07.538586+00:00"
+ },
+ {
   "id": "33f850636054",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/programas/econom%C3%ADa/20261021-economia-petroleo-precio-guerra-golfo",
@@ -1240,113 +1348,5 @@
   "resumen": "Cientos de jóvenes han instalado un campamento en el centro de Lisboa como parte de las protestas por la crisis de vivienda. Los manifestantes exigen costes asequibles ante un encarecimiento en las rentas inmobiliarias que alcanzó el 124% entre 2015 y 2024. La movilización visibiliza el malestar ciudadano frente a esta problemática que afecta a Portugal.",
   "categoria": "Sociedad",
   "fecha": "2026-10-18T18:26:09.239961+00:00"
- },
- {
-  "id": "aa89129d283b",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-18/los-disturbios-vuelven-al-centro-de-paris-un-dia-despues-de-la-gran-revuelta.html",
-  "titulo": "París registra nuevos incidentes y enfrentamientos callejeros",
-  "resumen": "La tensión ha vuelto a vivirse en el centro de la capital francesa tras los acontecimientos ocurridos la jornada anterior. En el entorno de la plaza de la República se desataron choques entre efectivos de seguridad y grupos de agitadores. La confrontación involucró la quema de objetos, el uso de gases lacrimógenos y la instalación de barricadas.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-18T18:26:09.239961+00:00"
- },
- {
-  "id": "aae0ad45f903",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0NxZGt2VGRLN3plVjFUQ3VZSXVCeC0yWEJteUNZdzljMjZVV09SZVYwZWl0YVkwbXJjYzVQSVdjLW9DY2NrV3AxSGVuNG9PN0dFME16NFh3aDVLcDBmbnlORXg5Q21DbjlIV0RfV3RJNHN2SnJtb1pUY3hwRDF1VFZQdGVQbnlDTXQwVUtFb0hieTBQY3dGLXVCYmdDRkI0R2I5ZWpwMFEyQ0hLZ2ZWVjln?oc=5",
-  "titulo": "López-Chacarra gana en India y lidera la clasificación del DP World Tour",
-  "resumen": "López-Chacarra consiguió imponerse en el certamen celebrado en territorio indio. Tras adjudicarse esta victoria, el deportista ha pasado a ocupar la primera posición de la Orden de Mérito del DP World Tour.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-18T18:26:09.239961+00:00"
- },
- {
-  "id": "af053683bfd0",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c8jd1xnryppo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Revelaciones sobre las advertencias previas al crimen de Georgi Markov en Londres",
-  "resumen": "Tras la muerte de Georgi Markov en septiembre de 1978, sus familiares directos dieron a conocer que ya conocían la existencia de un plan en su contra. Su viuda y su hermano mayor explicaron a la BBC que un informante anónimo les había advertido sobre el complot pocos meses antes del suceso.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T18:26:09.239961+00:00"
- },
- {
-  "id": "b5503c4607de",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html",
-  "titulo": "El control del Congreso estadounidense definirá el presupuesto y la política exterior",
-  "resumen": "La votación del 3 de noviembre definirá qué fuerza política asumirá la conducción del Congreso de Estados Unidos. Esta resolución determinará la administración de los recursos financieros y marcará las directrices de la política internacional. Por ello, la fecha resulta determinante para los vínculos entre la región y Washington.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T18:26:09.239961+00:00"
- },
- {
-  "id": "c2b840df2755",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMjlINlJ1MmdZaUhoVnA4UW01MURzOGNwamlQWVMyX2NRYzV4Tk9Vd21MRk1yek9wWGIwQ1pyTzVjTWUwdnExSElhTkVSeDdxMWNFTFl4bW5Nekg5czlpUkQ3X1JjeDdSVnJ6OG43U1hjWEM2RlU5dHgxRzBmUF9YcDQtY0tVbGlEaktSVHhBOFUzQkdfaHh4V2laQ01mYkh0Smhxck9PejBJNmF1Y0IxQTE5dk1HMENiMGlUS1NGVGZGRFh2dXFnODR3UGZlNnRIUlBGbHpEY2FDcG84TG9kd2I4Z3I1R2Vlc1NPU3lYR0hHMkwyWGtBWXRhU2lGTzBWckZaa1VucGdRb2FiTV8tVVNIRDM1em1J?oc=5",
-  "titulo": "Respaldo de World Rugby a la postulación sudamericana para la Copa del Mundo 2035",
-  "resumen": "La región sudamericana impulsa una propuesta formal con el objetivo de albergar el Mundial de Rugby de 2035. Desde la organización World Rugby destacaron la solidez del proyecto y valoraron la iniciativa como una opción muy fuerte.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-18T18:26:09.239961+00:00"
- },
- {
-  "id": "cc8f7081b1da",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c63r59qq0vd3o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Imágenes satelitales exponen el yate y las instalaciones recreativas de Kim Jong-un",
-  "resumen": "Nuevos registros obtenidos desde el espacio mostraron detalles sobre un barco de 80 metros provisto de toboganes y una piscina de 50 metros perteneciente al líder norcoreano. La BBC investigó estos lujos vacacionales de Kim Jong-un, los cuales resultan inalcanzables para la gran mayoría de la población de su país.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-18T18:26:09.239961+00:00"
- },
- {
-  "id": "05d796962bfc",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-11/un-cataclismo-geopolitico-empezo-en-gaza-hace-tres-anos.html",
-  "titulo": "A tres años del estallido en Gaza, persiste el profundo impacto en israelíes y palestinos",
-  "resumen": "Se conmemora el tercer aniversario del inicio de los ataques del 7 de octubre en la región. Asimismo, se cumple un año de una falsa tregua acordada en la Franja. Ambos hitos evidencian el trauma prolongado que continúan experimentando tanto la población israelí como la palestina.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "0edd93aca713",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55dl9uQXBfeWFCWkE3b1BHTmZ2aEFFRGwtbTdEUzloQnQyR1FnNVNvTm9YT1V6UXY4cHpINzFHSVpMRnlFY0E4Mw?oc=5",
-  "titulo": "Polonia incrementa su protección aérea ante ofensivas rusas con drones en territorio ucraniano",
-  "resumen": "Polonia tomó la decisión de reforzar su sistema de defensa aérea. La medida fue adoptada tras registrarse recientes ataques perpetrados por drones rusos en la zona occidental de Ucrania.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "15407cc663da",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261018-miles-de-j%C3%B3venes-en-albania-exigen-la-dimisi%C3%B3n-del-primer-ministro-edi-rama",
-  "titulo": "Multitudinarias protestas estudiantiles en Albania exigen la renuncia del primer ministro Edi Rama",
-  "resumen": "Miles de personas, compuestas en su mayoría por estudiantes, salieron a manifestarse en Albania en contra del Gobierno del Partido Socialista y para exigir la dimisión de Edi Rama tras más de 13 años en el poder. La movilización rechaza problemáticas como la corrupción estatal, el desempleo y las deficiencias del sistema educativo. El país vive esta agitación social mientras mantiene inconclusas sus negociaciones para unirse a la Unión Europea, proceso solicitado en 2009.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "21443f0d0f63",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sZy1yZWl2VUNFVUVrTDRUYm5qZGpVMDJZUlN4dXdYbmZ3eC00SVBVZVpXTUlUaGxKZHQyUmUyMEV4RTVKMHJEOTBmeHdaOHlyeHFWZVpSNmJHZHZyejE4Wjl5a2ozUXdnbkdUam9lYmU2Z1BnUkN3V0RGVQ?oc=5",
-  "titulo": "La Casa Blanca respalda la concesión del Premio de la Paz de la FIFA a Donald Trump",
-  "resumen": "La Casa Blanca salió en defensa del reconocimiento otorgado al presidente Donald Trump tras obtener el Premio de la Paz concedido por la FIFA. El gobierno estadounidense afirmó que no existe ninguna otra persona en el mundo con mayores méritos para recibir dicho galardón.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "3647f07e7c49",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c95yng8me7vmo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Ciudadanos de Alberta deciden en las urnas sobre su continuidad dentro de Canadá",
-  "resumen": "La población de la provincia de Alberta acude a votar este lunes sobre su futuro político en el país. La consulta busca determinar si la región se mantiene unida a Canadá o si avanza hacia la convocatoria de un referendo vinculante de independencia.",
-  "categoria": "Política",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
- },
- {
-  "id": "3c667a2b0fa2",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/la-presencia-de-un-dron-pone-en-alerta-a-lituania/a-79692508?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Incidente con aeronave no tripulada genera alarma y movilización militar en Lituania",
-  "resumen": "La detección de un dron causó alerta en Lituania y llevó a las autoridades a solicitar a la población que buscara refugio. Aviones de combate de la OTAN despegaron para identificar el aparato. Finalmente, el dispositivo terminó estrellándose dentro de las fronteras lituanas.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-18T15:16:41.754229+00:00"
  }
 ]
