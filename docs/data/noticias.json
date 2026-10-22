@@ -1,5 +1,113 @@
 [
  {
+  "id": "028d263be35a",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/liverpool-prepara-un-nuevo-viaje-al-universo-de-los-beatles-en-2028/a-79735007?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Liverpool inaugurará un gran museo sobre los Beatles en 2028",
+  "resumen": "La ciudad británica planea abrir un recinto cuatro veces más grande que el actual para explorar la trayectoria del famoso grupo musical. El espacio contará con piezas auténticas, vivencias inmersivas y un reconocimiento especial al lugar de origen de la banda.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "0dd67d63a142",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE83Q1FZNEFXNnJIVlFaYU9CM3lXOHI3S2syWG52SmRNcmM0aHhKQVgxTXpsQjA1eUlwTVRUMlRHbjhaODVaOHRNdDU3cm44VmROZzJicEp4cFJWX2tNOHBJM09BWnV6VXpaS214YjZhZ2hOQQ?oc=5",
+  "titulo": "Efemérides del pugilismo mundial del 22 de octubre",
+  "resumen": "El Consejo Mundial de Boxeo conmemora los acontecimientos históricos más destacados que ocurrieron en este deporte un 22 de octubre. La publicación repasa hechos relevantes de la disciplina en esa fecha.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "12f1508cad3f",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c6wyd5wx4xq1o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El relato de un exfuncionario tras perder documentos clasificados en un tren",
+  "resumen": "Richard Jackson comparte su experiencia sobre el día en que dejó olvidados archivos estatales cruciales. Su testimonio busca demostrar que es factible superar una equivocación laboral de gran magnitud.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "3705e2aeda23",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cj5ynq730px4o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El fenómeno meteorológico del Súper Niño impacta el clima global",
+  "resumen": "Diversas zonas del planeta, con especial dureza en América Latina, ya resienten las drásticas alteraciones climáticas provocadas por este evento. El informe detalla cinco formas distintas en las que la situación está alterando el clima.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "3c42ac7f4bf2",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/francia-reporta-primer-caso-de-virus-shamonda-en-humanos-y-descarta-riesgo-general/a-79733339?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Detectan en Francia el primer contagio humano del virus Shamonda",
+  "resumen": "Las autoridades sanitarias francesas informaron sobre la presencia del virus Shamonda en un paciente con el sistema inmunitario debilitado que murió en octubre en la ciudad de Lyon. Este agente patógeno, propagado habitualmente por insectos, suele atacar al ganado, aunque se ha descartado un peligro generalizado para la población.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "6aae1f93bab6",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/la-guerra-de-ucrania-golpea-la-aviación-civil-en-rusia/a-79734990?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "El tráfico aéreo en Rusia sufre interrupciones por los ataques de drones",
+  "resumen": "Los aeropuertos ubicados en Moscú interrumpen sus actividades de forma recurrente debido al peligro que suponen los vehículos aéreos no tripulados de Ucrania en el contexto de la guerra. Esta situación genera dudas sobre la capacidad del país para sostener un flujo de vuelos comerciales normalizado a futuro.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "72b76fb41908",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261022-indonesia-humo-t%C3%B3xico-corrupci%C3%B3n-y-protestas-por-los-incendios",
+  "titulo": "Indonesia sufre una grave crisis por incendios forestales y protestas sociales",
+  "resumen": "Una de las peores emergencias por incendios en más de diez años afecta a Indonesia, generando numerosos problemas respiratorios, suspensión de vuelos y cierre de centros educativos, además de contaminar naciones vecinas. La crisis ambiental ocurre en paralelo con movilizaciones ciudadanas contra la administración estatal y una indagatoria sobre posibles casos de corrupción en los recursos de ayuda.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "89915edd5fb1",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-22/francia-solo-autorizara-las-manifestaciones-convocadas-por-los-sindicatos-para-prevenir-nuevos-disturbios.html",
+  "titulo": "Gobierno francés limita las protestas autorizadas a las organizadas por sindicatos",
+  "resumen": "El presidente Emmanuel Macron ha criticado las acciones de sectores de la ultraizquierda y ha reunido a un consejo de defensa para definir nuevas acciones de seguridad frente a las próximas marchas del fin de semana. Como medida preventiva contra la violencia, solo se permitirán las concentraciones que sean promovidas por las organizaciones sindicales.",
+  "categoria": "Política",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "93e73d9c2d51",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-22/el-tribunal-penal-internacional-premio-sajarov-2026-del-parlamento-europeo.html",
+  "titulo": "El Parlamento Europeo otorga el galardón Sájarov 2026 al Tribunal Penal Internacional",
+  "resumen": "La Eurocámara ha decidido premiar a la corte de La Haya a pesar de la campaña en su contra que mantiene Estados Unidos. Este reconocimiento supone un claro desafío a la postura del gobierno norteamericano.",
+  "categoria": "Política",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "9cfb36db7e8a",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-21/la-ia-convierte-las-midterms-en-un-gran-laboratorio-electoral.html",
+  "titulo": "Las elecciones de medio mandato en Estados Unidos se transforman en campo de pruebas para la inteligencia artificial",
+  "resumen": "Los comicios enfrentan una nueva amenaza más allá de los bulos convencionales. Se trata de la automatización masiva destinada a manipular la política mediante el uso de la tecnología.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "a60c80f93620",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c90k0p16klx7o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Un problema en los ojos obliga a la actriz Judi Dench a detener su trayectoria artística",
+  "resumen": "La reconocida intérprete británica ha explicado en un programa de la BBC Radio 4 cómo su afección visual le impide continuar leyendo y trabajando en el cine y el teatro.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
+  "id": "a87768766940",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmly0k9y9p1vo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Una vulnerabilidad de seguridad en PHP provoca una alerta a nivel mundial",
+  "resumen": "Una inteligencia artificial logró descubrir fallos de programación que habían permanecido ocultos durante mucho tiempo. Esto generó una movilización excepcional en ciberseguridad ante el miedo de que los atacantes pudieran aprovecharlos.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-22T16:35:48.348138+00:00"
+ },
+ {
   "id": "0a0e732f241f",
   "fuente": "Reuters World (vía Google News)",
   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDlzRHdvMTVQbTRXa3ZCTXdRUGhZMWI3bGZqWXk4aFRQZF85VEZzY3ZJRHdfa2xLRFRZaE9fdUJhaVpDMzJETWNLT1BuUmNnT3FZbmR3blNwUmVtMkdBMkZ5N1JrdTdJeDZNYTZFdENwQ0w0amptbTN4U0lIT0dCUTdSNmp1TDNldjhhcGh5VFVqdVJCYW14XzZDVW9HZndXVWJxTVVXVXIzZkk?oc=5",
@@ -1240,113 +1348,5 @@
   "resumen": "Una orden de arresto a nivel estatal fue emitida por la Fiscalía de Florida en contra de Raúl Castro. La medida judicial responde a su presunta implicación en la caída de dos avionetas pertenecientes a la organización Hermanos al Rescate en 1996, donde cuatro personas perdieron la vida.",
   "categoria": "Política",
   "fecha": "2026-10-19T18:18:20.386546+00:00"
- },
- {
-  "id": "2d42e01fe941",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-futuro-climático-del-planeta-se-juega-en-las-elecciones-de-brasil/a-79706695?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Los comicios en Brasil definen el destino climático global",
-  "resumen": "Las próximas elecciones en Brasil son cruciales debido al peligro que enfrenta la Amazonía y su papel fundamental en la regulación del clima mundial. Los resultados electorales determinarán el futuro de la protección al medio ambiente, el combate a la deforestación y las medidas frente al cambio climático.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-10-19T18:18:20.386546+00:00"
- },
- {
-  "id": "343584805e6a",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-19/el-respaldo-de-trump-a-netanyahu-llega-tarde-en-el-incierto-panorama-de-las-elecciones-en-israel.html",
-  "titulo": "El apoyo tardío de Trump a Netanyahu a pocos días de los comicios israelíes",
-  "resumen": "El presidente de Estados Unidos expresó su respaldo a Netanyahu tras varias semanas de vacilación. Este apoyo se materializa cuando faltan ocho días para las elecciones en Israel y con la tendencia del voto prácticamente definida en un escenario electoral incierto.",
-  "categoria": "Política",
-  "fecha": "2026-10-19T18:18:20.386546+00:00"
- },
- {
-  "id": "3843b48881db",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cr86z0z5yd3lo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Alta tensión en Francia tras jornadas de violentas protestas",
-  "resumen": "Francia atraviesa un clima de gran incertidumbre política luego de que los disturbios eclipsaran las manifestaciones ciudadanas centradas en el alto coste de la vida y las deficiencias en los servicios públicos. Persisten numerosas dudas sobre el panorama futuro y existe el temor de que se desaten nuevas movilizaciones.",
-  "categoria": "Política",
-  "fecha": "2026-10-19T18:18:20.386546+00:00"
- },
- {
-  "id": "6a36e8b3651c",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cm1j43k5en2do?at_medium=RSS&at_campaign=rss",
-  "titulo": "La figura de Maduro pierde peso en la gestión de Delcy Rodríguez",
-  "resumen": "A casi diez meses de que Estados Unidos detuviera al exmandatario, su presencia se ha ido desvaneciendo progresivamente de los discursos oficiales y de la agenda política en la nueva etapa del país bajo el liderazgo de Delcy Rodríguez.",
-  "categoria": "Política",
-  "fecha": "2026-10-19T18:18:20.386546+00:00"
- },
- {
-  "id": "78842921f585",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261019-zelenski-denuncia-falta-de-alertas-tempranas-desde-occidente-en-medio-del-asedio-energ%C3%A9tico-ruso",
-  "titulo": "Ucrania recrimina a Occidente la falta de avisos de inteligencia ante los ataques rusos",
-  "resumen": "El mandatario ucraniano criticó la ausencia de alertas tempranas occidentales durante el bombardeo ruso que dejó seis muertos y múltiples daños energéticos. Por su parte, el secretario de Estado estadounidense, Marco Rubio, rechazó que exista una directriz para frenar el flujo de información con Kiev y pidió a Zelenski enfocarse en concluir el conflicto.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-19T18:18:20.386546+00:00"
- },
- {
-  "id": "7adeb6dad582",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNldrN0JvZkxCV0J4UUs4cTdTUF9wQS1FYWJxX0IyQ2RxS1BBdzl4TmtJcC1BVnRXWHNUWkFYWWltOXVEQjR3TkN0bGVNdFk3UFR4azBwdWxXbDY1R0RrSEZfNnVpcVYwcTdJSFNtOVFGTDZ3eDJOQm1HcmZLYnBjc2x4bTFDSnVPMExnaA?oc=5",
-  "titulo": "World Aquatics anuncia la celebración de un nuevo Mundial en Sudamérica",
-  "resumen": "El organismo internacional confirmó que la región sudamericana será sede de otro campeonato mundial de deportes acuáticos, según la información difundida por el medio especializado SwimSwam.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-19T18:18:20.386546+00:00"
- },
- {
-  "id": "016d7888c610",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261018-informe-desde-santiago-manifestantes-conmemoran-el-estallido-social-en-chile",
-  "titulo": "Protestas en Santiago por el aniversario del estallido social y los recortes de Kast",
-  "resumen": "Diversas organizaciones en Chile se movilizaron para conmemorar las protestas de 2019 y rechazar los recortes impulsados por el presidente José Antonio Kast. La jornada en la capital estuvo marcada por enfrentamientos entre la Policía y los manifestantes.",
-  "categoria": "Política",
-  "fecha": "2026-10-19T09:39:30.076141+00:00"
- },
- {
-  "id": "02956076aefe",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
-  "titulo": "El presidente francés mantiene en su cargo al ministro del Interior pese a los altercados",
-  "resumen": "Emmanuel Macron rechazó la renuncia de Laurent Nuñez y le ordenó implementar nuevas tácticas policiales contra los grupos violentos. La decisión se produce en un contexto de tensiones donde los estudiantes bloquearon el acceso al museo del Louvre.",
-  "categoria": "Política",
-  "fecha": "2026-10-19T09:39:30.076141+00:00"
- },
- {
-  "id": "1dd1a818cc9c",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-19/bolsonaro-se-lanza-contra-lula-en-un-primer-debate-muy-bronco.html",
-  "titulo": "Intenso enfrentamiento político en el primer debate entre Bolsonaro y su contrincante",
-  "resumen": "El actual mandatario brasileño protagonizó un debate muy confrontativo contra el senador ultra. Ambos candidatos chocaron fuertemente debido a sus marcadas diferencias ideológicas y comunicativas.",
-  "categoria": "Política",
-  "fecha": "2026-10-19T09:39:30.076141+00:00"
- },
- {
-  "id": "27a9577b9858",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/disturbios-en-milán-tras-una-protesta-por-el-costo-de-la-vida/a-79695106?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Registran actos de vandalismo en Milán durante una manifestación por la carestía",
-  "resumen": "Una protesta centrada en el alto costo de la vida terminó en disturbios en la ciudad italiana. El alcalde Giuseppe Sala confirmó daños materiales como escaparates rotos, locales saqueados y población atemorizada.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-19T09:39:30.076141+00:00"
- },
- {
-  "id": "7cf4fc33ca92",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/onu-dejará-de-ayudar-a-medio-millón-de-personas-en-gaza-por-falta-de-fondos-no-es-el-momento-de-mirar-hacia-otro-lado/a-79696552?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El PMA recorta ayuda alimentaria a medio millón de gazatíes por falta de dinero",
-  "resumen": "El Programa Mundial de Alimentos de la ONU notificó que recortará sus labores humanitarias en Gaza debido a problemas financieros. Como consecuencia de esta escasez de fondos, medio millón de personas dejarán de recibir asistencia cada mes.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-19T09:39:30.076141+00:00"
- },
- {
-  "id": "7f4cfe9b75a0",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmctLXpvLWpzMXVUdzJ3RG16MWdKVi1LSDRyei1KT040MHF1bDE0Z3phR3Q1UERuZDc5cXhRMTB1Rmg1aTRWa1RkaGdrNWVuajdhTElwekt3YnBGU1Q1bmtMcjZfZTBzMVlHc3ZyVGxpbmU2Q1owNnRKSEVTM21PUA?oc=5",
-  "titulo": "Lanzan World ID para verificar identidad humana en el sector bancario",
-  "resumen": "Se ha presentado World ID dirigido a la banca y las finanzas como un sistema de prueba de humanidad seguro frente a la inteligencia artificial. Esta herramienta forma parte de la red conocida como World.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-10-19T09:39:30.076141+00:00"
  }
 ]
