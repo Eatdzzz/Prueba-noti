@@ -1,5 +1,113 @@
 [
  {
+  "id": "00c970d35c6c",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-23/sangre-nueva-para-frenar-a-trump.html",
+  "titulo": "Nuevas figuras demócratas enfocan su mensaje político en la crisis del costo de vida en Estados Unidos",
+  "resumen": "Un renovado grupo de representantes del Partido Demócrata ha posicionado el inasumible costo de la vida diaria como su eje principal. Con esta narrativa, buscan consolidar una estrategia para hacer frente a Donald Trump.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "078b1f6d00be",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/cultura/20261023-censura-o-batalla-cultural-la-pol%C3%A9mica-que-sacude-a-los-museos-colombianos",
+  "titulo": "La retirada de piezas en el Museo Nacional de Colombia desata protestas por acusaciones de censura",
+  "resumen": "El Museo Nacional de Colombia retiró aproximadamente treinta obras vinculadas a colectivos feministas, LGBTIQ+, víctimas del conflicto político y el acuerdo de paz de 2016. La medida generó manifestaciones en medio de la contienda cultural promovida desde la presidencia de Abelardo de la Espriella. La situación ha reabierto el debate sobre quién debe determinar los relatos que conforman la memoria pública.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "1b94a2f6564f",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmp3gd784e24o?at_medium=RSS&at_campaign=rss",
+  "titulo": "La constante movilización social en México no impacta la alta aceptación de Claudia Sheinbaum",
+  "resumen": "A pesar de que en México ocurren manifestaciones casi a diario, no se percibe un ambiente generalizado de malestar en la ciudadanía. Gracias a este contexto, la presidenta Claudia Sheinbaum se mantiene como una de las líderes con mayor respaldo popular en la región.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "2a2f477ca403",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/argentina-cuando-el-dinero-se-acaba-antes-que-el-mes/a-79745431?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Casi dos tercios de los encuestados en Argentina afirman que sus ingresos no cubren todo el mes",
+  "resumen": "Una amplia mayoría de los participantes en un estudio reciente en Argentina manifiesta que el dinero disponible no les alcanza para llegar a fin de mes. Aunque el presidente Milei pone en duda estos datos, diversos analistas afirman que sus declaraciones ignoran la realidad.",
+  "categoria": "Economía",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "2e99199515ae",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/el-debate/20261023-fl%C3%A1vio-o-lula-qui%C3%A9n-conquistar%C3%A1-a-los-abstencionistas-en-brasil",
+  "titulo": "Estrategias electorales en Brasil para captar el voto abstencionista",
+  "resumen": "De cara a la segunda vuelta presidencial, Luiz Inácio Lula da Silva y Flávio Bolsonaro buscan convencer a los millones de ciudadanos que no votaron inicialmente. Ambos candidatos han modificado sus campañas para ampliar su base de apoyo de cara a la definición electoral.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "6047c26c93dc",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/ébola-dudas-sobre-el-papel-de-uganda-en-los-casos-de-kenia-y-nigeria/a-79745006?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Investigan el rol de Uganda ante nuevos contagios de ébola en la región",
+  "resumen": "Apariciones de ébola en Kenia y Nigeria generan interrogantes sobre la actuación de Uganda. Las autoridades sanitarias indagan si los afectados coincidieron en la terminal aérea de Entebbe para determinar el lugar exacto de la infección.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "69de262d519c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss",
+  "titulo": "El impacto geopolítico de las elecciones presidenciales en Brasil",
+  "resumen": "Especialistas señalan que el balotaje entre Flávio Bolsonaro y Lula da Silva tendrá repercusiones significativas para América Latina. Los resultados electorales podrían influir en asuntos de seguridad, geopolítica y medio ambiente, además de interesar al expresidente estadounidense Donald Trump.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "6bb1db28c99c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmqxn83eer03o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Reconocen a astrofísica argentina con prestigioso galardón internacional",
+  "resumen": "Amina Helmi fue galardonada con el equivalente al premio Nobel en astrofísica por identificar los vestigios de la última gran fusión galáctica de la Vía Láctea. Su investigación permite reconstruir acontecimientos ocurridos hace diez mil millones de años.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "6caa71f0fcd7",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/deportes/20261023-deportes-tampa-milwaukee-series-mlb",
+  "titulo": "Milwaukee y Tampa Bay llegan a la final y reabren el debate sobre el dinero en el béisbol",
+  "resumen": "Los equipos Milwaukee Brewers y Tampa Bay Rays disputan la final de la Serie Mundial de 2026 sin estar entre los mayores gastadores de las Grandes Ligas. Esta situación revive el enfrentamiento entre los propietarios, que exigen un tope salarial, y el sindicato de jugadores, que rechaza la medida.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "72f1da0dc74e",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/turquía-y-grecia-una-nueva-disputa-marítima-en-el-mediterráneo/a-79745108?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Iniciativa marítima de Turquía y Libia genera rechazo en Grecia y preocupación en Europa",
+  "resumen": "Turquía busca alterar las fronteras marítimas en el Mediterráneo en alianza con Libia para establecer un corredor económico común. Dicha propuesta generó fuertes protestas por parte de Grecia y encendió las alertas en la Unión Europea.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "951d176d7efa",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-23/varios-muertos-por-el-ataque-de-un-grupo-de-hombres-armados-en-una-iglesia-de-jordania-durante-un-entierro.html",
+  "titulo": "Tiroteo en un funeral en Jordania deja al menos siete personas fallecidas",
+  "resumen": "Dos hombres armados con un fusil y una pistola abrieron fuego durante varios minutos contra una procesión fúnebre con decenas de asistentes en Jordania. Este tipo de ataques armados resulta poco habitual en dicho país.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
+  "id": "97ff0d001a3b",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/netanyahu-anuncia-una-operación-militar-en-cisjordania-ocupada-a-una-escala-no-vista-desde-la-guerra-de-los-seis-días/a-79744016?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Netanyahu ordena una ofensiva militar sin precedentes en Cisjordania ocupada",
+  "resumen": "Tras un ataque a tiros cerca de Hebrón que hirió a cinco israelíes, el primer ministro Netanyahu declaró una operación militar a una escala no vista desde la Guerra de los Seis Días. Las medidas incluyen la evacuación forzosa de palestinos, demoliciones de infraestructura y registros domiciliarios.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T16:34:32.415640+00:00"
+ },
+ {
   "id": "0381c6659485",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/internacional/2026-10-23/el-papa-anula-una-visita-a-asis-porque-los-medicos-le-desaconsejan-viajar-en-helicoptero-tras-su-operacion.html",
@@ -1240,113 +1348,5 @@
   "resumen": "La tasa de desocupación en el país alcanzó un 9,6 %, situándose en su nivel más alto registrado en más de un lustro. A este escenario se suman el estancamiento de las inversiones y el deterioro en la confianza de los consumidores bajo el programa de austeridad fiscal del gobierno.",
   "categoria": "Economía",
   "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "485e63e93872",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fVEpvV1oyTnNJUllpV2N6SllZR3U5bU5oay00RWF3WF9yUGhJOGkzXzFyWUphSkR0amgwc3BQellJN1hiMEs1RGQyVTN0QU1yeXpWa01HdzQ0MWl6ckZtZmVmT2hmYk0?oc=5",
-  "titulo": "Proyectan millonario potencial financiero en el mercado del oro digital",
-  "resumen": "Se ha señalado una oportunidad económica calculada en 700 000 millones de dólares en torno al denominado oro digital. La cifra representa una importante proyección de valor asociada a dicho sector.",
-  "categoria": "Economía",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "4fdf0f322abb",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQm4xMGNqWW42X3AwZ2NLQ0VLNGY4WFI5NmVXSklsSDZsZTB3eFIwaGRVNDNaYXliOXJPWlJlUE9LWFhoYjR2S1ZBcFY2QWkyd2hfNWh0WDVqNFNGWnJGQnQwSk9VdFNxTWk4dzJmYW4tYS12bzk0anBiTXBJRjZHRkphRXlIQQ?oc=5",
-  "titulo": "La FIFA castiga a tres egipcios por incidentes en partidos de la Copa del Mundo",
-  "resumen": "El organismo rector del fútbol impuso sanciones disciplinarias a tres ciudadanos de Egipto. La decisión se produjo tras determinarse su participación en altercados ocurridos durante encuentros del Mundial.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "5c9d1b25e5a1",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/acampados-portugueses-prometen-volver-a-las-plazas-tras-desalojo-y-piden-huelga-general-ibérica-por-vivienda/a-79714736?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Manifestantes por la vivienda en Portugal llaman a una huelga ibérica tras ser desalojados",
-  "resumen": "Las fuerzas policiales desmantelaron campamentos de activistas por el derecho a la vivienda situados en Lisboa y Oporto. Ante esta acción, los manifestantes anunciaron que regresarán a las plazas públicas y solicitaron la convocatoria de una huelga general ibérica.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "67014b7cd63a",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/alemania-juzga-a-falso-médico-que-aplicó-470-tratamientos-estéticos/a-79712680?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Enjuician en Alemania a un joven por ejercer la medicina estética sin acreditación",
-  "resumen": "Un hombre de 28 años enfrenta un proceso judicial en Alemania por haber efectuado 470 tratamientos estéticos sin contar con la titulación requerida. El acusado únicamente poseía una formación realizada en 2018 como técnico de emergencias sanitarias.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "6e2026900568",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cqj9k3vge1r9o?at_medium=RSS&at_campaign=rss",
-  "titulo": "La hipermovilidad: el poco conocido trastorno de flexibilidad que tarda en diagnosticarse",
-  "resumen": "La hipermovilidad es una afección caracterizada por la flexibilidad que causa dolor y fatiga en los afectados. A pesar de que este problema puede perjudicar a cientos de miles de personas, gran parte de ellas padece serios retrasos para recibir un diagnóstico formal.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "7866a5917015",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cq0ldk70n888o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Analizan los datos de la economía estadounidense tras las afirmaciones de Trump",
-  "resumen": "Previo a las elecciones de mitad de mandato, el presidente Trump ha destacado los resultados económicos de la nación. Debido a esto, BBC Verify revisó las estadísticas de empleo, inflación y crecimiento económico para comprobar si lo dicho por el mandatario es correcto.",
-  "categoria": "Economía",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "024f1a262cfc",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-20/los-que-se-frotan-las-manos-con-los-disturbios-en-francia.html",
-  "titulo": "Las consecuencias de los disturbios impulsan a las fuerzas políticas extremas en Francia",
-  "resumen": "Los daños y perjuicios sufridos por comerciantes y habitantes durante los recientes disturbios están fortaleciendo a los sectores políticos extremistas en Francia. Estos grupos prevén capitalizar el enojo y el miedo de la ciudadanía de cara a los próximos comicios.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T09:07:35.782136+00:00"
- },
- {
-  "id": "0377c3136d08",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/china-denuncia-ingreso-de-buque-militar-de-ee-uu-en-aguas-disputadas-del-mar-meridional/a-79708681?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Acusaciones de China contra Estados Unidos por incursión militar en aguas disputadas",
-  "resumen": "China denunció la navegación no autorizada del buque de guerra estadounidense USS Charleston en las inmediaciones del arrecife Sabina. Dicha zona del mar de China Meridional representa un conocido punto de confrontación entre el gobierno chino y Filipinas.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-20T09:07:35.782136+00:00"
- },
- {
-  "id": "14e0258bf35f",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cvlyd7rw80e5o?at_medium=RSS&at_campaign=rss",
-  "titulo": "La expansión de las protestas estudiantiles desemboca en una crisis para el gobierno francés",
-  "resumen": "Lo que comenzó como una serie de manifestaciones de estudiantes secundarios en Francia escaló hasta integrarse con el movimiento de los chalecos amarillos. Esta evolución del conflicto terminó desatando una crisis de alcance nacional para el presidente Emmanuel Macron.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-20T09:07:35.782136+00:00"
- },
- {
-  "id": "1bd6ab004177",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IZmVmZ1l2R2lqV2pObGJBSWJkb3RNNmp4MDBFaVJCeUxfNHd6dWtiMHhjTGlIU3Zya3phWWVUR0NzbGlzZ0hibGFvdldvUS00MmNWS3YyQ3VVODVDZUI5VDljbWlMaTJpTmhmRmV3Vk1nVDlRRWdLcHE3NA?oc=5",
-  "titulo": "Destacada presencia de científicos de la UM en el ranking global de élite",
-  "resumen": "Un total de 124 investigadores pertenecientes a la UM se posicionaron dentro del dos por ciento de científicos más destacados de todo el mundo. En este selecto grupo internacional figura también la persona a cargo del vicerrectorado de la institución.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-10-20T09:07:35.782136+00:00"
- },
- {
-  "id": "2582621e96db",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/victoria-para-carney-alberta-rechaza-referendo-de-independencia-de-canadá/a-79710253?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Alberta descarta la propuesta de referéndum sobre su independencia",
-  "resumen": "La provincia canadiense de Alberta rechazó por amplia mayoría una iniciativa para organizar una consulta sobre su independencia. Esta propuesta contaba con el respaldo de aliados del mandatario estadounidense Donald Trump. La decisión representó una victoria para Carney.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T09:07:35.782136+00:00"
- },
- {
-  "id": "3008886f8b00",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c65yngpp7zxlo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Electorado de Alberta rechaza iniciar el camino hacia la secesión",
-  "resumen": "Los resultados preliminares indican que los habitantes de Alberta votaron para continuar formando parte de Canadá. La ciudadanía descartó por un amplio margen la propuesta dirigida a comenzar un proceso independentista.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T09:07:35.782136+00:00"
  }
 ]
