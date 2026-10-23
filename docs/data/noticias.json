@@ -1,5 +1,113 @@
 [
  {
+  "id": "024f1a262cfc",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-20/los-que-se-frotan-las-manos-con-los-disturbios-en-francia.html",
+  "titulo": "Las facciones políticas extremas buscan capitalizar las revueltas en Francia",
+  "resumen": "Las afectaciones sufridas por comerciantes y vecinos durante las revueltas en Francia alimentan a los sectores políticos extremistas. Estas facciones buscarán explotar el miedo y la rabia de la ciudadanía en las próximas elecciones.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "212dd452a358",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/francia-desplegará-más-de-70-000-policías-para-evitar-nuevos-disturbios/a-79747260?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Francia desplegará a 70.000 agentes ante el riesgo de violencia en protestas",
+  "resumen": "Francia desplegará a más de 70.000 policías para evitar incidentes en las próximas manifestaciones. Las autoridades parisinas acusaron a la extrema izquierda radical de instar a la comisión de abusos y saqueos. Ante esta situación, el Gobierno advirtió que responderá con intransigencia.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "4b620aa7122d",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/en-contexto/20261023-qui%C3%A9n-tiene-la-llave-del-gobierno-de-israel-tras-las-elecciones",
+  "titulo": "Israel acude a las urnas con el debate centrado en seguridad y corrupción",
+  "resumen": "Israel celebrará votaciones este martes 27 de octubre para definir un nuevo Gobierno. Los debates se concentran en temas como fallas de seguridad, el reclutamiento ultraortodoxo, la reforma judicial y los procesos por corrupción contra Benjamin Netanyahu. Mientras el primer ministro busca la reelección apoyado por Donald Trump, la oposición liderada por Gadi Eisenkot promueve una agenda de cambio.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "641be6be429d",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261023-netanyahu-ordena-cerrar-cisjordania-ocupada-confinar-hebr%C3%B3n-y-amenaza-con-lanzar-gran-ofensiva",
+  "titulo": "Netanyahu ordena el cierre de Cisjordania tras mortal tiroteo en Hebrón",
+  "resumen": "Un tiroteo en Hebrón causó la muerte de dos palestinos y dos soldados israelíes el 23 de octubre. Ante lo considerado por el Ejército como un atentado terrorista, Benjamín Netanyahu decretó el cierre de Cisjordania ocupada y el acordonamiento de Hebrón y Yalyilia. Adicionalmente, el primer ministro anunció operaciones militares que incluyen evacuaciones de barrios palestinos y registros casa por casa.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "684c51deb896",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261023-ossoff-el-sayed-y-ramaswamy-tres-campa%C3%B1as-que-reflejan-la-batalla-de-las-midterms-en-ee-uu",
+  "titulo": "Las campañas al Senado exponen la división política hacia las elecciones intermedias en EE. UU.",
+  "resumen": "Candidatos de ambos partidos compiten en estados clave con estrategias y visiones diversas. Mientras los demócratas Jon Ossoff en Georgia y Abdul El-Sayed en Michigan centran sus discursos en la crítica al oponente y el costo de vida, el republicano Vivek Ramaswamy enfrenta polémicas en Ohio por sus anuncios publicitarios. Estas disputas reflejan la lucha por la imagen pública de ambas agrupaciones.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "737960635da0",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZmgyYlhzVzZnSVVfMXhNNHhXdXh6SU5zdXFqTlFEY3Y2LWdhVU5sZlVWT2I4UTdmY1BfaE9RMVBXT29WZlJrVGh6OUVya1Y0dFAyemFQN3g5dnZxMDFOQjA3dXNzQTlTZjZXeEVaN3VGbkV2S2o1SHpmM01NS1JUQ1U1N2pMeDFManJXQjE4T0ZURTBBU0xXLV9JaV9pYXpKbnBFSTZxMWRsdlQ4STQxUjUxZU9wdXBoNzVSRWl0V2d3MWpBTk1TLXZaaDVYU2Z4QzBMQ2dpZVRleURUQWl1UmljWWx1Y09vV19RUXBEWmNaaUpZZkpTUzllWDdNM1VSVnBpNW5ib2o?oc=5",
+  "titulo": "Fernando Muslera logra consagrarse en la Copa Libertadores tras su paso por el Mundial",
+  "resumen": "El guardameta Fernando Muslera logró superar una etapa difícil vivida durante la Copa del Mundo para volver a destacar en el fútbol internacional. Su desempeño reciente lo ha posicionado como una figura determinante en la Copa Libertadores. Esta trayectoria representa una historia de superación en el ámbito deportivo.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "751c1f1e4af1",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261023-qu%C3%A9-plantean-lula-y-bolsonaro-sobre-la-amazon%C3%ADa-de-cara-al-balotaje-en-brasil",
+  "titulo": "La conservación de la Amazonía cobra protagonismo en el balotaje presidencial de Brasil",
+  "resumen": "De cara a la reñida segunda vuelta electoral, el debate sobre el futuro ecológico del país y de la región amazónica ha adquirido gran relevancia. Los candidatos Luiz Inácio Lula da Silva y Flávio Bolsonaro disputan la presidencia ofreciendo enfoques completamente opuestos respecto a la temática ambiental. La contienda definirá el rumbo en materia de sostenibilidad para la nación.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "85108c33da8b",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-23/un-muerto-y-varios-heridos-en-tiroteos-en-una-localidad-de-las-afueras-de-paris.html",
+  "titulo": "Ataque armado racista en las afueras de París deja un fallecido y cuatro heridos",
+  "resumen": "Un agresor realizó varios disparos desde un vehículo en marcha contra personas elegidas por su color de piel en las cercanías de París. El suceso provocó la muerte de una persona y dejó al menos a cuatro heridas. El presidente Emmanuel Macron ha calificado el acto violentamente discriminatorio como terrorismo racista.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "8e9c9c6896be",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/melania-trump-logra-un-alto-al-fuego-en-ciudad-ucraniana-de-oleshki/a-79746911?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Rusia ratifica tregua en ciudad ucraniana tras anuncio de Melania Trump",
+  "resumen": "El gobierno ruso confirmó la implementación de un alto al fuego en Oleshki luego de la sorpresiva declaración de la primera dama estadounidense. Actualmente, los militares trabajan en la elaboración del cronograma correspondiente para concretar dicha tregua.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "a621dfe50749",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/ckm230z1vngqo?at_medium=RSS&at_campaign=rss",
+  "titulo": "El Salvador envía tropas a Haití para rescatar a soldados retenidos",
+  "resumen": "El mandatario Nayib Bukele desplegó un contingente militar con el objetivo de liberar a cuatro miembros de su ejército capturados por pandillas. Los uniformados salvadoreños se encontraban desplegados en el país caribeño como parte de una misión de la ONU.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "aaa98d2a6007",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/crz658114vvqo?at_medium=RSS&at_campaign=rss",
+  "titulo": "La crisis alimentaria y la guerra amenazan la vida de dos recién nacidos en Yemen",
+  "resumen": "Los hermanos gemelos Raghad y Raad enfrentan graves privaciones en medio del conflicto bélico yemení. La familia de los bebés debió huir caminando de su residencia a causa de los enfrentamientos entre las fuerzas del gobierno y los grupos hutíes.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
+  "id": "aadad25b0fd4",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ2Z6LWV2cDN6OHVKZUxncGRJN3o2XzhGa0tVUE1GUTJOS2RSZHFNcVhRQVdmX2RMTXRrMi12RThEWXRlQ0ZIT1BUZ1FDTDQxVzNQZWhBQW5QMUNVTUJmdmhZVkhuZHhwVUw1OUNTVjdxZXZWYUR6N2MtaG5TbjVScEQ1cVJKbGtFRDRhS1FuRzBHdHJsU2xXdXpnRjBKbFFGZEk5YWR2LTI0VndrN0R5Ty1GZGJWc2dnc01RY2diQWNNSF96VkRFdXF1R0F5TFkzMFVBSkpQVldRQV9aMDI4RkRtVm16SG5vbUE?oc=5",
+  "titulo": "Recrean la folclórica leyenda de La Llorona en el evento Haunted World",
+  "resumen": "El conocido relato tradicional de La Llorona cobra vida en las inmediaciones de un río en Haunted World. La atracción revive este mito popular junto al agua para el público asistente.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-23T22:55:36.294000+00:00"
+ },
+ {
   "id": "00c970d35c6c",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/us/2026-10-23/sangre-nueva-para-frenar-a-trump.html",
@@ -1240,113 +1348,5 @@
   "resumen": "Una especie de medusa tiene la particularidad biológica de retroceder en su ciclo de vida y retornar a un estado joven. Ante esta capacidad, diversos expertos analizan sus células con el propósito de comprender dicho proceso. La meta de los investigadores es aplicar estos hallazgos para lograr que las células del cuerpo humano también logren rejuvenecer.",
   "categoria": "Ciencia y Tecnología",
   "fecha": "2026-10-20T22:57:03.660406+00:00"
- },
- {
-  "id": "567c50b08ab3",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/sube-a-153-muertos-el-balance-de-ataque-con-drones-contra-un-mercado-en-sudán/a-79717834?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Bombardeo en un mercado eleva a 153 la cifra de muertos en zona disputada de Sudán",
-  "resumen": "Un ataque con drones perpetrado en un mercado de la región de Abyei provocó que el balance de víctimas mortales aumentara a 153 personas. La zona donde se produjo la agresión se mantiene bajo disputa entre Sudán y Sudán del Sur. La ofensiva aérea también causó la combustión de un depósito de combustible en las inmediaciones.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-20T22:57:03.660406+00:00"
- },
- {
-  "id": "58ae1ff43ae4",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261020-por-qu%C3%A9-el-pacto-de-la-meca-no-ha-detenido-los-ataques-hut%C3%ADes-en-arabia-saudita",
-  "titulo": "Dudas sobre la eficacia del Pacto de La Meca ante las ofensivas hutíes en territorio saudí",
-  "resumen": "Arabia Saudita, Pakistán y Turquía suscribieron en agosto de 2026 una alianza de defensa mutua en la que cualquier agresión contra un miembro se considera contra los tres. Sin embargo, el reciente aumento de los ataques de los hutíes contra los saudíes desató cuestionamientos sobre la aparente falta de una respuesta unificada de los aliados. El especialista Farid Kahhat analiza este escenario y las implicaciones del compromiso militar.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T22:57:03.660406+00:00"
- },
- {
-  "id": "5dbac0477290",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/norcoreanos-trabajan-como-esclavos-en-fábrica-rusa-según-informe/a-79717788?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Reporte denuncia las condiciones de operarios norcoreanos en territorio ruso",
-  "resumen": "Un informe reciente expone la precaria situación en la que laboran ciudadanos de Corea del Norte dentro de Rusia. Asimismo, el documento advierte que este personal permitiría a Pionyang adquirir conocimientos técnicos sobre armamento avanzado.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-20T22:57:03.660406+00:00"
- },
- {
-  "id": "6a27cf6c9fe1",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-20/los-partidos-de-francia-se-unen-para-culpar-al-izquierdista-melenchon-de-la-violencia.html",
-  "titulo": "Fuerzas políticas francesas responsabilizan a Mélenchon ante recientes disturbios",
-  "resumen": "Diversos sectores políticos en Francia culpan al dirigente de izquierda por la violencia desatada, con el temor de que llegue a disputar la segunda vuelta presidencial contra Le Pen. Mientras tanto, localidades como París, Lyon y Marsella han vuelto a implementar toques de queda.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T22:57:03.660406+00:00"
- },
- {
-  "id": "6bd8c7e9142d",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-20/meloni-aprueba-por-decreto-el-arresto-preventivo-de-menores-y-que-sean-imputables-desde-los-14-anos.html",
-  "titulo": "Italia endurece medidas penales para menores tras desórdenes en Milán",
-  "resumen": "El Gobierno encabezado por Meloni estableció mediante decreto la detención preventiva y la imputabilidad penal para jóvenes a partir de los 14 años. Sin embargo, la presidencia de la República frenó el intento de otorgar facultades policiales a los militares desplegados en Milán.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T22:57:03.660406+00:00"
- },
- {
-  "id": "7000caaad440",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XZGFRX0JmMGJieWg0WURqWWM0VXlnajFJOHZzNDlrN2NEWWVfT09ucUVoZFVDOHdtZFk5UGFRTjlQVlMwal9KTWNxRUNoQS1UQUlTRkw3c2ZTN1RTcnZERmhvTFlwdDJqZ1VXeGlUQnlGa2k3Q2FSUmQxaDhRZw?oc=5",
-  "titulo": "El Consejo Mundial de Boxeo presenta la antesala del combate entre Dalton Smith y Alberto Puello",
-  "resumen": "El Consejo Mundial de Boxeo lanzó una previa especial enfocada en el enfrentamiento entre Dalton Smith y Alberto Puello. La organización promociona de esta forma los preparativos para la contienda deportiva.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-20T22:57:03.660406+00:00"
- },
- {
-  "id": "0f7b4c336b9b",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pTUNhb0wyOGVtMmI0NE9DM1RvWjlYcDlKVWVkRGlpbk1kbHdUVDRsS3dDRklHZGJNMDV6dEZLNFRtQmdfWGI3TDVNNGM4SlhXUnlPQVEyTlllMDFGN3BlTEdMbFViZw?oc=5",
-  "titulo": "Efemérides del boxeo: conmemoración del 20 de octubre por el Consejo Mundial de Boxeo",
-  "resumen": "Un repaso histórico recuerda los eventos acontecidos un 20 de octubre en el ámbito del boxeo profesional. La información es dada a conocer por el Consejo Mundial de Boxeo.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "11fdf52be0aa",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-20/los-ciudadanos-de-alberta-votan-en-referendum-permanecer-en-canada.html",
-  "titulo": "La población de Alberta rechaza la secesión y decide seguir en Canadá",
-  "resumen": "El 76,5% de los votantes en la consulta organizada por el Gobierno provincial rechazó realizar un futuro proceso de secesión. Con este resultado, los participantes decidieron mantener a la provincia dentro del territorio canadiense.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "1a79ead8c05c",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6n4ewzkn45go?at_medium=RSS&at_campaign=rss",
-  "titulo": "Cinco destinos urbanos emergentes recomendados para los viajeros",
-  "resumen": "Un informe internacional ha identificado varias metrópolis emergentes, entre las que figuran Toulouse, Varsovia, Medellín y Ho Chi Minh, como lugares destacados para el turismo. El estudio recoge las opiniones de los propios habitantes sobre las cualidades que hacen especiales a estas localidades.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "32978485d748",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-20/la-policia-desaloja-las-acampadas-en-lisboa-y-oporto-y-detiene-a-algunos-de-los-manifestantes.html",
-  "titulo": "Intervención policial en Portugal para desalojar protestas en Lisboa y Oporto",
-  "resumen": "Las fuerzas de seguridad desmantelaron las acampadas de protesta en las dos ciudades principales de Portugal y arrestaron a varios participantes. Las concentraciones se prolongaron durante tres días, aunque se anticipan nuevas jornadas de movilización para esta semana.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "3fb98ca2c52d",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-20/la-ue-busca-reforzar-su-influencia-en-la-disputada-region-del-artico.html",
-  "titulo": "Nueva estrategia de la Unión Europea ante la creciente competencia en el Ártico",
-  "resumen": "Bruselas ha dado a conocer un nuevo plan regional centrado en los peligros geoestratégicos que genera el derretimiento del hielo. Esta iniciativa responde al interés de potencias como Estados Unidos, China y Rusia por incrementar su influencia en la zona.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
- },
- {
-  "id": "4423b0a38165",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Dificultades económicas en Chile por alza del desempleo y medidas de austeridad",
-  "resumen": "La tasa de desocupación en el país alcanzó un 9,6 %, situándose en su nivel más alto registrado en más de un lustro. A este escenario se suman el estancamiento de las inversiones y el deterioro en la confianza de los consumidores bajo el programa de austeridad fiscal del gobierno.",
-  "categoria": "Economía",
-  "fecha": "2026-10-20T16:22:42.617137+00:00"
  }
 ]
