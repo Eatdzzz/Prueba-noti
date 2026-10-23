@@ -1,5 +1,113 @@
 [
  {
+  "id": "0211261efae0",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-19/cinco-estrategias-de-los-democratas-contra-trump.html",
+  "titulo": "Sondeos señalan un posible avance demócrata en las próximas elecciones legislativas",
+  "resumen": "A dos semanas de los comicios intermedios, las encuestas perfilan un escenario favorable para el Partido Demócrata. Esta tendencia podría provocar que los republicanos pierdan la mayoría en el Congreso.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "1b78a212af27",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261023-informe-desde-par%C3%ADs-tour-de-francia-femenino-y-masculino-ya-tienen-rutas-para-2027",
+  "titulo": "Presentan los trazados oficiales del Tour de Francia para la edición 2027",
+  "resumen": "La competición anunció las rutas masculina y femenina de 2027, las cuales iniciarán en el Reino Unido antes de trasladarse a Francia. El trayecto de los hombres comenzará en Edimburgo y pasará por los Pirineos, mientras que las ciclistas saldrán de Leeds y realizarán una contrarreloj en Londres. Ambas pruebas culminarán sus etapas sobre el territorio francés.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "27b301e25093",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/ck30evyvlprqo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Una vulnerabilidad cibernética deja inoperativos múltiples sitios web a nivel global",
+  "resumen": "Diversas páginas de internet en todo el mundo fueron desconectadas a causa de una falla crítica de seguridad detectada en la red. La situación afectó el acceso regular a estas plataformas.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "6988f360bd74",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261022-vuelven-ataques-contra-ir%C3%A1n-despu%C3%A9s-de-las-midterms-teher%C3%A1n-afirma-estar-listo-para-defenderse",
+  "titulo": "Teherán advierte que responderá ante posibles planes de bombardeos por parte de Washington y Tel Aviv",
+  "resumen": "Representantes gubernamentales señalaron que autoridades de Estados Unidos e Israel habrían abordado planes para reiniciar ataques aéreos en territorio iraní tras las elecciones intermedias. Frente a estas versiones, Teherán comunicó que cuenta con la preparación necesaria para su defensa. No obstante, el gobierno iraní también manifestó su apertura para entablar nuevamente negociaciones con Washington.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "8c8dc94689e2",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/terremoto-de-magnitud-7-deja-al-menos-16-muertos-en-región-china-de-tíbet/a-79738107?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Un potente sismo en el Tíbet deja víctimas mortales y cientos de casas destruidas",
+  "resumen": "Un movimiento telúrico de magnitud 7 provocó el fallecimiento de al menos 16 personas en esta región china. El suceso causó además el derrumbe de más de 300 viviendas. En la actualidad, los equipos de emergencia continúan las tareas de auxilio mientras se cuantifican los estragos.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "9103e84b9541",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/parís-mantiene-toques-de-queda-en-varias-zonas-tras-disturbios-y-pillaje/a-79738133?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "París extiende los toques de queda para contener disturbios y saqueos",
+  "resumen": "Diversos sectores de la capital francesa mantienen restricciones a la movilidad nocturna tras los recientes desórdenes públicos. Las autoridades aplican esta medida con el propósito de frenar el vandalismo y los robos ocurridos en el marco de las protestas.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "aff6d6a44e8d",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261022-el-descontento-de-los-votantes-latinos-con-trump-de-cara-a-las-midterms",
+  "titulo": "División en el voto latino frente a Trump ante los comicios de mitad de mandato",
+  "resumen": "La comunidad hispana tendrá un peso decisivo en las próximas elecciones intermedias. Parte de quienes respaldaron a Donald Trump expresan malestar por su gestión, su postura migratoria y el encarecimiento de la vida. Por el contrario, otro sector de votantes mantiene su apoyo firme y busca sumar sufragios para el Partido Republicano.",
+  "categoria": "Política",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "b27ff81345d3",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c6vg0k034n94o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Airbnb prohibirá a los propietarios pedir labores de limpieza a los viajeros",
+  "resumen": "Los anfitriones de la plataforma no podrán exigir a los inquilinos que retiren la ropa de cama ni que frieguen los platos sucios. Esta nueva normativa regirá para las reservas efectuadas a través de su portal digital desde el 20 de noviembre.",
+  "categoria": "Economía",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "c48c4af877db",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3htLUVVaVp3Y3E5bWFhbHVZLThoaHZDY0VKczFrN0FpVFR5STZEN0JLaVNmVklOV1hNeENydFl3aW9aUHZ6Y24yZWpyaTFyejZCZ0dnNzFBekZ1TlJaVzZDTjVHcmlzQTZ6N1oxRHVXVXZjX0tydklaeERxVU1zRk8tLTZ0RlhhNjFvTQ?oc=5",
+  "titulo": "Demanda multimillonaria contra Trump por acuerdos con criptomonedas",
+  "resumen": "Un inversionista de la compañía Circle ha interpuesto una demanda contra Donald Trump por una suma de 2 mil millones de dólares. La acción legal se relaciona con una serie de transacciones de criptodivisas vinculadas a los Emiratos Árabes Unidos.",
+  "categoria": "Economía",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "d32d136a62c9",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c699z39257zlo?at_medium=RSS&at_campaign=rss",
+  "titulo": "El auge de fármacos para adelgazar impulsa el negocio de la cosmética",
+  "resumen": "La popularidad de las inyecciones destinadas a bajar de peso ha generado un incremento en la compra de artículos para el cuidado facial y corporal. Ante esta tendencia, el máximo responsable de L'Oreal calificó el impacto de los tratamientos GLP-1 como un fenómeno sumamente relevante para la empresa.",
+  "categoria": "Economía",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "d437cb599ac4",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-22/el-parlamento-europeo-propone-una-mision-naval-de-la-ue-en-el-mar-negro-tras-los-ultimos-ataques-de-drones-contra-buques-comerciales.html",
+  "titulo": "La Eurocámara plantea una misión naval en el mar Negro ante recientes ofensivas",
+  "resumen": "El Parlamento Europeo propuso desplegar una misión marítima comunitaria tras los ataques con drones dirigidos contra embarcaciones comerciales. Los bombardeos recientes han puesto a prueba la capacidad defensiva de la OTAN en su flanco oriental, en el marco del conflicto bélico en Ucrania.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
+  "id": "d70d392aafab",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb092Uy1JOVdiWVdCYTBkal80aVJCQlp4VERrSUVhRUpzd0dSVU1Zb2VCbThaY0k1ZDY2OVFWLVNNbzZZbl9HbE9TbFNCdm00cjBaSnRSM2h4dVM2Wnl2TlVKLThzSm1EZjBHT2Zzb21HQnYzX3loelZIUUx0aUpDdTk3d1pGeVJfa243NmJYbVNFbW9BY2pFdQ?oc=5",
+  "titulo": "Entidades bancarias respaldan a Hudbay Minerals en el proyecto Copper World",
+  "resumen": "La empresa Hudbay Minerals aseguró el apoyo de las instituciones financieras RBC y Scotiabank para el desarrollo de Copper World. Ambas entidades bancarias brindarán su respaldo a esta iniciativa minera.",
+  "categoria": "Economía",
+  "fecha": "2026-10-23T03:07:41.195001+00:00"
+ },
+ {
   "id": "0b34eca387a9",
   "fuente": "Reuters World (vía Google News)",
   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2JYTzhKc1NKSUhkWl9VeENhWWRCRlhnRGVXbG1oc3hFbDVFYUJOUnhOV21hNThFVnNHTEtHcFhldXRCMjJtaUFkV0ptbV9KcXMza19ZRlhnaGFnY0pfeGhBbkRYbGdIYnlxY3pxUmhKYWVmOTF6clA1S3FKWFpvUW1BSVI?oc=5",
@@ -1240,113 +1348,5 @@
   "resumen": "Los habitantes de la provincia de Alberta votan para determinar si permanecen en Canadá o si inician un trámite legal hacia una consulta independentista vinculante. Hasta el momento, más de 1,35 millones de personas, cifra que representa el 43 % de los votantes habilitados, ya sufragaron por vías anticipadas.",
   "categoria": "Política",
   "fecha": "2026-10-20T03:10:44.298725+00:00"
- },
- {
-  "id": "736888011e9a",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tX2t0RVMwelNOS2dGVEJkb3N6WFRuMTBxdWphbEdCZFgxTTJPWlB3a043SmRGbEdhV2w5el9RajN4c2dBTU50QmxnaWM5NEU5aUpjb3hzTFJ2bVU5clU3OGJ5V1FNaG5JVVE?oc=5",
-  "titulo": "Dwayne Johnson revela un adelanto de la nueva entrega de Jumanji",
-  "resumen": "El actor Dwayne Johnson dio a conocer un nuevo vistazo de 'Jumanji: Open World' previo a su lanzamiento en fechas festivas. La presentación se realizó bajo el lema promocional de 'One Final Game'.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-20T03:10:44.298725+00:00"
- },
- {
-  "id": "7a00bc30e2e6",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cqj34l4gj301o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Misión espacial de Japón recolectará muestras de la luna marciana Fobos",
-  "resumen": "La expedición científica japonesa MMX viajará al satélite Fobos con el objetivo de trasladar 10 gramos de polvo marciano hacia la Tierra. Esta muestra será analizada por investigadores para esclarecer el origen y la evolución de las lunas de Marte.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-10-20T03:10:44.298725+00:00"
- },
- {
-  "id": "8218f4846797",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/de-chalecos-amarillos-a-estudiantes-los-movimientos-sociales-contra-macron-en-francia",
-  "titulo": "El mandato de Emmanuel Macron marcado por constantes olas de protestas sociales",
-  "resumen": "El presidente francés Emmanuel Macron ha tenido que lidiar con múltiples manifestaciones desde el año 2017. Entre los eventos destacan las movilizaciones de los chalecos amarillos, las quejas por las pensiones, disturbios en 2023 y reclamos de agricultores. A estas protestas se ha sumado desde septiembre una fuerte oposición estudiantil y social contra su administración.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T03:10:44.298725+00:00"
- },
- {
-  "id": "8ce78804941b",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-19/una-superviviente-de-nagasaki-la-humanidad-no-ha-aprendido-la-leccion-de-la-bomba-atomica.html",
-  "titulo": "Sobreviviente del ataque nuclear en Nagasaki reflexiona sobre el impacto del suceso en su vida",
-  "resumen": "Mitoe Matsumoto sobrevivió al impacto de la bomba atómica en la urbe japonesa cuando apenas contaba con tres años de edad. Ella afirma que aquel acontecimiento nuclear dejó una huella permanente a lo largo de toda su existencia.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-20T03:10:44.298725+00:00"
- },
- {
-  "id": "8e35815713e8",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-19/la-diputada-australiana-helen-haines-en-estado-critico-tras-ser-atropellada-de-forma-deliberada.html",
-  "titulo": "Hospitalizan en estado grave a parlamentaria de Australia tras ser arrollada intencionalmente",
-  "resumen": "La legisladora australiana Helen Haines permanece en condición crítica tras haber sido embestida deliberadamente por un vehículo. El primer ministro del país, Anthony Albanese, ha catalogado el incidente como un ataque. Por el momento, no se han determinado las razones que impulsaron al autor de los hechos.",
-  "categoria": "Política",
-  "fecha": "2026-10-20T03:10:44.298725+00:00"
- },
- {
-  "id": "93735580a06a",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXV4RU00LWFOMnZxWV9qUWg1ZVI0aEtpTkNqa1gzd1pMempHbUN4WVJnVlBjVHUtM2x3aV9yVE43RVZKcDkya0dUT3VNSllSSjhIRmtvY1Fnek1pWVFXOW45YWhTaXBtQ3BQbE9JbDZkdHMxS1NoVGxhZ0E4ZkpBWXVsMkdxTW5IMWJBY1drVWpOTzVKRzNDWnY1ZmRrZGFR?oc=5",
-  "titulo": "Novedades de Blizzard presentan una combinación centrada en el personaje Rexxar",
-  "resumen": "Un comunicado de Blizzard News invita al público a inspirarse en el personaje Rexxar. El contenido promociona una combinación catalogada como un combo bestial.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-20T03:10:44.298725+00:00"
- },
- {
-  "id": "2e7ef93784fa",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/japón-lanza-primera-misión-mundial-a-una-luna-de-marte/a-79707815?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Japón emprende histórica exploración hacia la luna marciana Fobos",
-  "resumen": "La agencia espacial japonesa JAXA ha puesto en marcha una misión pionera con dirección a Fobos, una de las lunas de Marte. La iniciativa tiene como meta recolectar muestras para investigar el proceso de formación del planeta rojo y de sus satélites. Asimismo, los especialistas esperan que este material permita profundizar en el origen del sistema solar.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-10-19T23:16:19.165940+00:00"
- },
- {
-  "id": "344a955fed30",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cmx2we79kxzdo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Surge en China un mercado de acompañamiento para adultos mayores solos",
-  "resumen": "El incremento en los niveles de aislamiento dentro de la sociedad china ha motivado la aparición de un nuevo sector comercial enfocado en dar apoyo y afecto. Debido a esta situación, diversas personas de edad avanzada recurren a la contratación de supuestos hijos temporales. Esta alternativa busca ofrecer compañía frente al fenómeno del abandono y la soledad.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-19T23:16:19.165940+00:00"
- },
- {
-  "id": "485bde4b00e1",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6ev3zgnrxz9o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Fallece un sacerdote en Guayaquil tras el desplome de un crucifijo en plena misa",
-  "resumen": "El párroco Patricio Alfredo Sánchez Molinari perdió la vida tras recibir el impacto de un crucifijo de gran tamaño durante un oficio religioso. El trágico suceso ocurrió mientras el evento se emitía en directo desde la iglesia de Nuestra Señora del Perpetuo Socorro, en el centro de Guayaquil. El religioso pereció a consecuencia de la contusión sufrida dentro del recinto eclesiástico.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-19T23:16:19.165940+00:00"
- },
- {
-  "id": "520d4cb8d9ed",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-19/las-protestas-no-dan-tregua-en-francia-mientras-el-comercio-evalua-danos-estremece-ver-la-violencia-con-la-que-destrozaron-todo.html",
-  "titulo": "Francia evalúa cuantiosos destrozos comerciales mientras persisten las protestas",
-  "resumen": "Tanto estudiantes como miembros de los chalecos amarillos mantienen su postura de continuar con las movilizaciones en territorio francés. La determinación sigue en pie tras un fin de semana marcado por disturbios que dejaron alrededor de 3.000 comercios asaltados. En la actualidad, los comerciantes locales continúan calculando los daños ocasionados por la violencia en sus instalaciones.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-19T23:16:19.165940+00:00"
- },
- {
-  "id": "62239c462410",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cv1j3zdrygw7o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Autoridades de Francia facultan restricciones locales ante desmanes y saqueos",
-  "resumen": "El gobierno autorizó a los mandatarios locales a instaurar medidas restrictivas de circulación en las calles para mitigar la violencia. Esta decisión se tomó luego de que el Ministerio del Interior admitiera que los agentes policiales se vieron sobrepasados durante los saqueos y desórdenes en distintas urbes.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-19T23:16:19.165940+00:00"
- },
- {
-  "id": "705bcba46af0",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/francia-anuncia-toques-de-queda-mientras-el-gobierno-lidia-con-los-disturbios/a-79707578?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Implementan toques de queda nocturnos en urbes francesas para resguardar negocios",
-  "resumen": "Diversas ciudades francesas, entre las que figuran París, Lyon y Lille, mantendrán toques de queda parciales desde el lunes por la noche hasta la mañana del martes con el fin de proteger las zonas comerciales. Esta acción responde a los recientes disturbios calificados por el mandatario Emmanuel Macron como una muestra de violencia desmedida.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-19T23:16:19.165940+00:00"
  }
 ]
