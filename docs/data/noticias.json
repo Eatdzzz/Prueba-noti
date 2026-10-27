@@ -1,5 +1,113 @@
 [
  {
+  "id": "043a96f0e65f",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ1gzVTVUTGpPTGxxcm9wZzkwTDN0Y1Y1U1FjTTd1WHNaTmMxczZ2ZkMtYmk0X3JPNEdQQzJ4V1B4alBFeE9TWUdndGw2ZEdUdFFnYUNBbDA2R3N1dTFsTWdibm9NVTR3ZXMxQ01sdk1IUWJHVjdjbFF2RVNDc3N3WQ?oc=5",
+  "titulo": "Resumen de las jugadas destacadas del segundo partido de la Serie Mundial",
+  "resumen": "Se han presentado los momentos más importantes del segundo encuentro de la Serie Mundial disputado entre los Ray y los Brewers. La cobertura de este evento deportivo está a cargo de MLB en FOX.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "1797a6af971a",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-gaza-y-cisjordania-observan-con-expectativa-unas-elecciones-clave-para-netanyahu",
+  "titulo": "Palestinos siguen de cerca las elecciones israelíes ante un posible cambio político",
+  "resumen": "Los comicios generales de Israel generan atención en Gaza y Cisjordania, donde la población analiza cómo el resultado podría incidir en el futuro regional. A pesar del contexto de incertidumbre y violencia, algunas personas confían en un giro si Benjamin Netanyahu deja el cargo, mientras que otras se mantienen escépticas.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "1c1f6d990032",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-informe-desde-ciudad-del-vaticano-el-papa-le%C3%B3n-xiv-retoma-su-agenda-y-viajar%C3%A1-a-latinoam%C3%A9rica",
+  "titulo": "El papa León XIV confirma su primer viaje a América Latina tras recuperarse de una cirugía",
+  "resumen": "El Vaticano ha ratificado que el papa León XIV realizará su primera gira latinoamericana visitando Uruguay, Argentina y Perú del 6 al 17 de noviembre. El desplazamiento se confirmó luego de que los médicos descartaran contraindicaciones tras una operación pulmonar reciente del pontífice.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "1f9cfb3dd97e",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-directo-midterms-y-el-voto-en-nueva-york-un-estado-dem%C3%B3crata-con-suburbios-republicanos",
+  "titulo": "Comienza el voto anticipado en Nueva York entre preferencias demócratas y suburbios republicanos",
+  "resumen": "Las jornadas de votación anticipada han iniciado en el estado de Nueva York, un territorio habitualmente favorable al Partido Demócrata. No obstante, en varias zonas suburbanas ubicadas fuera de la ciudad principal predomina el respaldo hacia las candidaturas del Partido Republicano.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "2af678f94eee",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlpScFFjWFdnZjNwdWZWQ1JwRnlUUFlxZDJKaEtDR2wxNG1nbUxNOEJmclRWbkxqMzdwRG5yNDRhWDRwZHc3MUZFNUpiRWp3cWc4UlVjTUZUNm1jZk1BR2NzcVhIOVZockNEMnhTVGpnT0FMTm1lYVFiOTZnSDNieEgwUWZxeHZQTlN6Nnh2endYaVRHYXMyUXJPREh5dnZWV1AtMk84U0Frcko1N3NJQzVHR2U3TmhlSlRicDdzSzc?oc=5",
+  "titulo": "El impacto del caos climático en la brecha social y económica",
+  "resumen": "Las alteraciones climáticas extremas están profundizando las diferencias sociales en el mundo. Mientras la desigualdad se agrava para la mayoría, un sector reducido se beneficia económicamente de estas situaciones de crisis.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "38b654ee5528",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-el-papa-le%C3%B3n-xiv-confirma-visita-a-am%C3%A9rica-latina-tras-recibir-el-visto-bueno-m%C3%A9dico",
+  "titulo": "El papa León XIV confirma su gira por Latinoamérica tras recuperarse de una cirugía",
+  "resumen": "El pontífice realizará un viaje oficial a Uruguay, Argentina y Perú del 6 al 17 de noviembre tras recibir el alta médica. La Santa Sede confirmó la ruta luego de constatar su buena evolución tras una operación de pulmón, una noticia que generó entusiasmo entre los creyentes.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "51204b92a81f",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Bolsonaro se posiciona como líder opositor sin admitir explícitamente su derrota",
+  "resumen": "El dirigente de derecha no ha reconocido el resultado electoral, aunque la formación política a la que pertenece sí ha aceptado los comicios. A pesar de acusar a Lula de utilizar de forma indebida el poder del Estado en la contienda, descartó presentar un pedido de anulación de las elecciones.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "5f28718bdc6b",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE9zYzM2ek1id2p3cWxOOW9zM3NoUE0yV1cwR1RfTXVTQXRIQzJJQXhlVDYyYkl3X3BRY2RsTFpZSjFBeThOcHd4ZU1OVDQ2M01rOGFWX0VSbV92QTBWLXVEa0dTTnAzdGRVWWpINjI3ZHd6RF9rRm9IOG5xSE5xdlF3?oc=5",
+  "titulo": "El Banco Mundial retira financiación de 20 millones de dólares para granja industrial",
+  "resumen": "La institución financiera canceló la concesión de un crédito millonario destinado a una explotación ganadera intensiva. La determinación se adoptó como consecuencia de las protestas promovidas por colectivos como Friends of the Earth.",
+  "categoria": "Economía",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "6b47b217523d",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/microsoft-propone-retiros-voluntarios-a-60-000-empleados-a-nivel-global/a-79771471?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Microsoft ofrece salidas voluntarias al 25% de su personal en todo el mundo",
+  "resumen": "La compañía tecnológica ha puesto sobre la mesa un plan de retiros voluntarios dirigido a unos 60.000 trabajadores a nivel global. Esta medida afecta a su plantilla en mercados clave como Estados Unidos, Reino Unido, India y Canadá.",
+  "categoria": "Economía",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "7de0a55c148d",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm5yn43g9nn4o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Mandatarios conservadores vecinos aceptan la victoria electoral de Lula da Silva",
+  "resumen": "A pesar de las objeciones planteadas por Jair Bolsonaro, diversos líderes de derecha de la región, entre ellos José Antonio Kast en Chile y Abelardo de la Espriella en Colombia, han validado el triunfo del líder brasileño.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "913cc3249d34",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-26/pedro-sanchez-matteo-renzi-y-edouard-philippe-debaten-sobre-el-futuro-de-europa-en-world-in-progress.html",
+  "titulo": "Líderes políticos europeos analizan los retos y la integración del continente en el foro World In Progress",
+  "resumen": "Pedro Sánchez participará con la ponencia sobre el futuro europeo, al tiempo que Matteo Renzi y Édouard Philippe debatirán conjuntamente acerca de la unidad y la capacidad de actuación de la región. El encuentro reúne a figuras clave para reflexionar sobre el porvenir político europeo.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
+  "id": "a592026791d9",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Los factores clave que explican el triunfo electoral de Lula da Silva en Brasil",
+  "resumen": "El nuevo mandato presidencial se logró tras una destacada remontada en las urnas. Según los expertos, el éxito de la campaña se cimentó en modificaciones estratégicas implementadas entre la primera vuelta y la instancia de balotaje.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T03:40:07.331408+00:00"
+ },
+ {
   "id": "246af1b0e067",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/deportes/20261026-mbapp%C3%A9-kane-y-yamal-encabezan-la-lista-de-favoritos-en-la-muy-abierta-carrera-por-el-bal%C3%B3n-de-oro-2026",
@@ -1240,113 +1348,5 @@
   "resumen": "El presidente Volodímir Zelenski confirmó que el sistema de satélites Starlink recuperó su velocidad normal en el frente ucraniano tras días de limitaciones. Paralelamente, Ucrania reivindicó ataques con drones contra una planta petroquímica, otra fábrica y un aeródromo en territorio ruso, mientras ambos países contemplan retomar la vía diplomática.",
   "categoria": "Conflictos",
   "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "5d05be0d2ef3",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/medio-oriente/20261024-hebr%C3%B3n-bajo-ataque-1-200-palestinos-desplazados-a-tres-d%C3%ADas-de-las-elecciones-en-israel",
-  "titulo": "Ofensiva en Hebrón deja más de mil desplazados a pocos días de los comicios en Israel",
-  "resumen": "Una operación militar israelí en Hebrón provocó el desplazamiento de unos 1.200 palestinos y amenaza a otros 1.300, tras un enfrentamiento que cobró la vida de dos soldados israelíes y dos palestinos. Mientras las autoridades locales vinculan la escalada con las próximas elecciones en Israel, la Autoridad Palestina califica la ofensiva como un castigo colectivo.",
-  "categoria": "Política",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "5e0865b017de",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261024-chile-supera-los-2-000-deportados-y-endurece-su-pol%C3%ADtica-migratoria",
-  "titulo": "Chile alcanza una cifra récord de expulsiones al superar los dos mil deportados",
-  "resumen": "Las autoridades chilenas confirmaron que el país sobrepasó las 2.000 expulsiones de extranjeros en lo que va de 2026, estableciendo un récord frente a años anteriores. Este hito se concretó tras efectuar el undécimo vuelo de deportación del año con 75 personas hacia Perú, Colombia y República Dominicana.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "7d105739cab5",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-10-24/voto-por-primera-vez-en-las-elecciones-y-use-un-chatbot-de-ia-para-informarme-esto-es-lo-que-descubri.html",
-  "titulo": "El uso de la inteligencia artificial por parte de los votantes novatos",
-  "resumen": "Un número creciente de electores utiliza herramientas de inteligencia artificial para informarse antes de votar por primera vez. Sin embargo, los especialistas señalan que la información proporcionada por estos sistemas carece de total confiabilidad.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "92b25795b784",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261024-el-gobierno-de-trump-demanda-para-bloquear-una-posible-victoria-dem%C3%B3crata-en-la-contienda-por-el-senado-en-alaska",
-  "titulo": "Acciones legales de la administración Trump ante las elecciones en Alaska",
-  "resumen": "El mandatario estadounidense ordenó preparar una demanda para impedir la certificación de los resultados senatoriales en Alaska si el candidato republicano resulta derrotado. La medida se justifica en una posible confusión de los electores debido a la similitud en los nombres de dos contendientes conservadores, lo que incrementa la incertidumbre sobre la aceptación de los resultados.",
-  "categoria": "Política",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "95cc96a04735",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
-  "titulo": "Fuerte despliegue de seguridad en Francia por jornada de protestas",
-  "resumen": "Las autoridades francesas prohibieron las marchas en la mayor parte de las localidades y movilizaron a setenta mil agentes en París. El objetivo principal es prevenir disturbios y mantener el control durante las nuevas movilizaciones.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "aa65e8697830",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cm5ynlx21z64o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El origen del mayor desastre radiactivo nacional a partir de una cápsula",
-  "resumen": "Unos recolectores hallaron un objeto brillante y desconocido sin saber que contenía cesio-137 altamente peligroso. Este suceso derivó en la catástrofe radiactiva más grave en la historia del país para quienes tuvieron contacto con el material.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "066a53290db1",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-tifón-champi-deja-a-miles-sin-electricidad-en-taiwán-mientras-se-aleja-y-se-enfila-hacia-japón/a-79748259?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El tifón Champi se desplaza hacia Japón tras causar estragos en Taiwán",
-  "resumen": "El paso del tifón Champi por Taiwán provocó un fallecido, más de quinientos heridos y cortes de energía eléctrica a miles de personas. Tras generar estas afectaciones en la isla, el fenómeno meteorológico continúa su marcha hacia el sureste de Japón.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-10-24T08:40:53.995482+00:00"
- },
- {
-  "id": "066f12da43eb",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html",
-  "titulo": "Oleada de manifestaciones juveniles se extiende por diversos países de Europa",
-  "resumen": "Estudiantes, vecinos y organizaciones sindicales han impulsado más de 170 protestas en el continente europeo en un lapso de poco más de un mes. Las demandas de los manifestantes comparten puntos en común entre las distintas naciones participantes.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T08:40:53.995482+00:00"
- },
- {
-  "id": "177f390202ce",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/ck20r82dnlr1o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Detienen a un sospechoso por un incendio en la antigua residencia de Hitler",
-  "resumen": "Unos 200 integrantes de los servicios de emergencia acudieron a sofocar un fuego en la residencia alpina del dictador nazi en territorio alemán. Una persona fue arrestada a raíz de este incidente registrado en el emblemático refugio Nido del Águila.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T08:40:53.995482+00:00"
- },
- {
-  "id": "29c6a780ab0a",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mV2lYUUlCTW51RUd4ZTg4NHhDU2gtdFRxWUVkd0dYNWhqWkhVY3ItdktNQzRoQlY4cm55SzVyT1A4d09RVWo0b1FBcFRUNm12WGcxT1hVSjA4NndoZ25KNGVBbXhzTTkyd21sTHlYTEpFaXowZTlN?oc=5",
-  "titulo": "McMillin, Scanlon y Fox encabezan la clasificación del SCORE World Desert Championship 2026",
-  "resumen": "Los pilotos McMillin, Scanlon y Fox lideran la tabla de posiciones en la edición 2026 del SCORE World Desert Championship. La competencia continúa definiendo a sus referentes principales en la clasificación general.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-24T08:40:53.995482+00:00"
- },
- {
-  "id": "41146d3b11de",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3hqQTYtbXhjTWlZSEFuOXhJd08ydktwVTJVVnVObks3aTMyUWNZRkhmLTBhOWhZOE94aDNMZVpjUS1tZ0F1MEVJWm84TVFJWV9WQlFvcnhKSE9mMS1zRUVKMWd1YkhjVEtGS2FZR1drbkhpT3llN1ZmZHBHZmx1RWQtM0ZDR0t4OHplY2d3TEF5MVRHSDB1cFBMcmRSR1FuME5TLWIycXpoWjFsMTd3V2dWQkZBS2dNWEtB?oc=5",
-  "titulo": "Cobertura sobre el Festival de Cine de Morelia en México",
-  "resumen": "Se informa sobre la realización del Festival de Cine de Morelia en México. El acontecimiento cinematográfico ha sido registrado por medios internacionales de noticias.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-24T08:40:53.995482+00:00"
- },
- {
-  "id": "49ac7e73e49f",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-24/viven-fuera-de-israel-ahora-vuelven-para-echar-a-netanyahu-en-las-urnas.html",
-  "titulo": "Residentes israelíes en el extranjero viajan a su país para votar",
-  "resumen": "Decenas de miles de personas que viven fuera de Israel se desplazan hacia Tel Aviv desde naciones lejanas como Estados Unidos o Australia. La movilización ocurre debido a que no tienen la opción de votar desde sus países de residencia. Su propósito es ejercer el derecho al sufragio en contra de Netanyahu.",
-  "categoria": "Política",
-  "fecha": "2026-10-24T08:40:53.995482+00:00"
  }
 ]
