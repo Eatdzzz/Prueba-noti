@@ -1,5 +1,113 @@
 [
  {
+  "id": "0202de446e23",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUlvVHlGVTZObEdJZjU4VkFnWkZ5SFZmSzFhUWpLclRzX01FaFIzNE5YRXdyQnFuWDY2djFQV1FRT2pWUHg3TTg1M25zdWg4c1Vxcnk2eld1NjdCbWxfZmlrM1JxNEVIYU9mY3JiVVo3eDlLZ1BMbTE0cC00Q3FNZzFR?oc=5",
+  "titulo": "Resumen del tercer juego de la Serie Mundial entre los Brewers y los Rays",
+  "resumen": "Se presentan los momentos más destacados del tercer partido de la Serie Mundial disputado entre los Brewers y los Rays. Este resumen con las mejores jugadas es ofrecido por la transmisión de MLB en FOX.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "163861bf03ed",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWJqeWxxTmR4VXpNY0pKTVlOUjdXbGR3SHFnMjdDSWJULWF0M3BaS2x4WGg4RGFrVkV2akoxWTZ1b3JWZTZ2U0hOdVNBazBEMlZGZnI3OHB1WGhjcjZIbU1uUXhtVmRPc3RCMldNdUU4R3RhV0JtZld0RDJXNUtSR3l4SzQ2QQ?oc=5",
+  "titulo": "B.J. Upton reflexiona sobre su experiencia en la Serie Mundial de 2008",
+  "resumen": "El exdeportista B.J. Upton analiza lo que fue su vivencia durante la Serie Mundial realizada en el año 2008. Sus comentarios sobre dicha vivencia deportiva fueron compartidos a través del portal MLB.com.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "330b31c77c42",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjamín-netanyahu/a-79772364?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Israel celebra elecciones decisivas para el futuro político de Benjamín Netanyahu",
+  "resumen": "Las urnas han abierto en Israel para dar paso a unas votaciones cruciales para el primer ministro Benjamín Netanyahu. De acuerdo con los últimos sondeos, el bloque del mandatario se vería superado por la coalición que lidera Gadi Eisenkot, exjefe del Ejército.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "3a0b82af1529",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-informe-desde-rio-de-janeiro-fl%C3%A1vio-bolsonaro-desistir%C3%ADa-de-anular-la-victoria-de-lula",
+  "titulo": "Flávio Bolsonaro descarta solicitar la anulación de los comicios en Brasil",
+  "resumen": "El político Flávio Bolsonaro habría desistido de su intención de pedir la anulación de las elecciones presidenciales brasileñas. En su lugar, el legislador centrará su trabajo en encabezar la oposición al mandatario reelecto Luiz Inácio Lula da Silva.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "3ac70a6191d3",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/la-española-alexia-putellas-conquista-su-tercer-balón-de-oro/a-79772813?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Alexia Putellas obtiene su tercer galardón del Balón de Oro",
+  "resumen": "La futbolista española Alexia Putellas ha sido reconocida nuevamente con el Balón de Oro a lo largo de su carrera. Esta distinción representa el tercer galardón que consigue, tras sus triunfos previos en los años 2021 y 2022.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "41b2cb093ab9",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEY0N3VzWTNtU2txR1VwdmhwNFp4QUJRVVlPUVNpUVNILTUzU19QbHFzdTRLY2hFTDlBbVJJVWJDUjM5U3hsSnF4UGhsRkJBaGo3MktNSHV4ZEtEeEJOZFpycmZaQzVUNG1LM1h6RF9jbXlIYm5la1RjZ1E3RXpNNUo5NVFTbDNhWUsybkdacmhLT2ZLQ01NUnFzSTZ2RmlqREZjSlBkeVhMS2htYVowOE5Jcw?oc=5",
+  "titulo": "Unai Simón es elegido como el mejor arquero del año",
+  "resumen": "El guardameta Unai Simón fue nombrado el portero del año tras su actuación en una Copa del Mundo de récords. El reconocimiento destaca su desempeño profesional en la máxima competición futbolística mundial.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "44ff97a883b6",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/medio-oriente/20261027-%F0%9F%94%B4-en-directo-i-abren-las-urnas-en-israel-el-pa%C3%ADs-vota-en-sus-primeras-elecciones-desde-los-ataques-del-7-de-octubre",
+  "titulo": "Israel celebra comicios parlamentarios en una jornada clave para Benjamin Netanyahu",
+  "resumen": "Alrededor de 7,3 millones de votantes israelíes acuden a las urnas este martes 27 de octubre para renovar la Knesset. Se trata de las primeras elecciones celebradas tras los ataques del 7 de octubre, la guerra contra Irán y más de tres años de escalada con los palestinos. Esta jornada representa un examen determinante para la continuidad del primer ministro Benjamin Netanyahu.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "5a10e24286d8",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
+  "titulo": "La oposición lidera los sondeos en las elecciones decisivas de Israel",
+  "resumen": "Israel acude a sus primeras votaciones desde el ataque ejecutado por Hamás en 2023. Los sondeos ubican al bloque de la oposición judía por delante de la coalición del primer ministro, aunque se prevé que ninguna de las partes alcance la mayoría.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "6ffe04383078",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-elecciones-israel-diferencias-y-similitudes-entre-netanyahu-y-eizenkot",
+  "titulo": "Enfrentamiento electoral en Israel entre Netanyahu y Eisenkot",
+  "resumen": "Las elecciones legislativas israelíes están caracterizadas por una fuerte rivalidad entre el primer ministro Benjamin Netanyahu y Gadi Eisenkot. Eisenkot, actual dirigente del partido Yashar y previo jefe del Estado Mayor, se perfila como su contendiente fundamental.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "734cdd5d3c30",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/la-televisión-estatal-china-suspende-las-emisiones-de-laliga-tras-la-polémica-con-mbappé/a-79772718?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Televisión china suspende partidos de la liga española tras controversia con Mbappé",
+  "resumen": "La cadena de televisión CCTV canceló la difusión de LaLiga y de los juegos del futbolista del Real Madrid Kylian Mbappé. Esta suspensión ocurrió después de que el atacante realizara declaraciones sobre un meme en el que se le equipara con Mao Zedong.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "78cc7d859e49",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-27/75000-muertos-despues-gaza-es-la-gran-ausente-en-las-elecciones-israelies.html",
+  "titulo": "Los candidatos israelíes ignoran el futuro de Gaza durante la campaña",
+  "resumen": "A pesar de que la Franja de Gaza ha sufrido daños masivos y acumula 75.000 muertos tras tres años de bombardeos, los postulantes a las elecciones omitieron presentar planes para dicho territorio. La atención de los políticos se ha centrado exclusivamente en las víctimas de Hamás.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
+  "id": "803e20b2434f",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/coalición-saudí-afirma-que-derribó-tres-misiles-lanzados-por-los-hutíes-de-yemen/a-79771782?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Arabia Saudita reporta el derribo de misiles provenientes de Yemen",
+  "resumen": "La coalición saudí informó sobre la neutralización de tres misiles lanzados por insurgentes hutíes. Debido a esta agresión, el reino árabe puso en marcha una alerta preventiva en la gobernación de Al-Kharj y en la Provincia Oriental.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-27T09:35:22.152315+00:00"
+ },
+ {
   "id": "043a96f0e65f",
   "fuente": "Reuters World (vía Google News)",
   "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ1gzVTVUTGpPTGxxcm9wZzkwTDN0Y1Y1U1FjTTd1WHNaTmMxczZ2ZkMtYmk0X3JPNEdQQzJ4V1B4alBFeE9TWUdndGw2ZEdUdFFnYUNBbDA2R3N1dTFsTWdibm9NVTR3ZXMxQ01sdk1IUWJHVjdjbFF2RVNDc3N3WQ?oc=5",
@@ -1240,113 +1348,5 @@
   "resumen": "Según informes estadounidenses, el gobierno de Irán ha intensificado sus planes para atentar contra funcionarios y representantes diplomáticos de EE. UU. Esta alerta refleja un aumento en la preparación de agresiones dirigidas hacia el personal norteamericano.",
   "categoria": "Conflictos",
   "fecha": "2026-10-24T18:41:59.624704+00:00"
- },
- {
-  "id": "6563e4bdbed3",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/israel-cierra-accesos-a-hebrón-y-desplaza-familias-en-represalia-por-el-ataque-palestino-de-ayer/a-79750727?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Respuesta militar israelí en Hebrón incluye cierre de accesos y desplazamiento de familias",
-  "resumen": "Tras la muerte de dos de sus soldados en un ataque palestino, el ejército israelí bloqueó las entradas a Hebrón y procedió al desplazamiento de familias en el área. El primer ministro Benjamín Netanyahu comparó la magnitud de esta intervención con la ocupación de Cisjordania efectuada durante la Guerra de los Seis Días.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-24T18:41:59.624704+00:00"
- },
- {
-  "id": "67e8f8605bd6",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261024-informe-desde-par%C3%ADs-avanza-la-jornada-de-protestas-en-francia-entre-lluvia-y-tensi%C3%B3n",
-  "titulo": "Jornada de manifestaciones en Francia discurre con tensión moderada",
-  "resumen": "Miles de personas marcharon por diversas ciudades francesas en una nueva jornada de protestas bajo la lluvia. A pesar de ciertos momentos de tirantez entre los asistentes y las fuerzas de seguridad, la movilización transcurrió sin disturbios de gran magnitud. La periodista Natalia Ruiz Giraldo dio reporte sobre el desarrollo de estos acontecimientos.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T18:41:59.624704+00:00"
- },
- {
-  "id": "790a37a63bb3",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/friedrich-merz-advierte-de-que-alemania-se-enfrenta-a-una-amenaza-enorme-por-parte-de-rusia/a-79750506?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Discurso centrado en política interna durante convención partidista en Alemania",
-  "resumen": "El canciller alemán participó en la convención de la Unión Social Cristiana, agrupación aliada de la CDU en Baviera. Durante su intervención, la presentación se enfocó de manera prioritaria en temas de política nacional.",
-  "categoria": "Política",
-  "fecha": "2026-10-24T18:41:59.624704+00:00"
- },
- {
-  "id": "79b8af14b3bb",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261024-guatemala-queda-%C3%BAltima-en-latinoam%C3%A9rica-en-las-pruebas-pisa-por-qu%C3%A9",
-  "titulo": "Guatemala registra el desempeño escolar más bajo de la región en las pruebas PISA",
-  "resumen": "Las evaluaciones PISA ubicaron a Guatemala en la posición más baja de América Latina, lo cual fue atribuido por autoridades a brechas sociales y fallas del sistema educativo. Como respuesta, el Gobierno anunció medidas que incluyen reformas al plan de estudios, formación docente y la digitalización del sistema.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T18:41:59.624704+00:00"
- },
- {
-  "id": "804df91d4124",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cqwy7x0dg1lzo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Más de 130 detenidos tras una nueva jornada de protestas en Francia",
-  "resumen": "Por segundo sábado consecutivo, miles de manifestantes marcharon en múltiples ciudades francesas para exigir mejoras en la educación y protestar por el alto costo de la vida. Las movilizaciones dejaron un saldo de más de 130 personas arrestadas.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T18:41:59.624704+00:00"
- },
- {
-  "id": "81efd90cba96",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/bundesliga-escuche-el-partido-borussia-dortmund-vs-eintracht-frankfurt/a-79751727?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Transmisión en directo del encuentro entre Borussia Dortmund y Eintracht Frankfurt",
-  "resumen": "La séptima jornada de la Bundesliga presenta el enfrentamiento estelar entre el Borussia Dortmund y el Eintracht Frankfurt. El partido se podrá seguir en vivo con el relato de Enrique López y los comentarios de Erick Elola.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-24T18:41:59.624704+00:00"
- },
- {
-  "id": "096f4b6fb64b",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cm0e0d35zlwjo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Ciudadanos rusos afirman colaborar con Ucrania mediante acciones encubiertas",
-  "resumen": "Un trabajo documental de BBC Eye logró contactar a personas de nacionalidad rusa que afirman llevar a cabo operaciones de apoyo a Ucrania directamente dentro del territorio ruso. Estas acciones van desde la labor de informantes hasta señalamientos de sabotaje.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "10d135d751a4",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0cFJGUEFPc19HLVFuWUM3RkFjT2dvX2xNbXVfSlg0dm15aVl1Vjk3NDZrWXdPYkQxcGRBaWxxVTdYZlZnUzM5NmRlZnRQM1FMcGs4bUxR?oc=5",
-  "titulo": "J.A. Bayona podría asumir la dirección de la próxima entrega de Jurassic World",
-  "resumen": "El director español J.A. Bayona se encuentra en la mira para sustituir a Gareth Edwards al frente de la venidera película de la saga cinematográfica de dinosaurios. La información surge en medio de los preparativos para la continuación de esta popular franquicia.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "2c15270e9f97",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-24/el-ejercito-israeli-realiza-redadas-y-expulsa-a-decenas-de-familias-de-sus-hogares-en-hebron-tras-el-ataque-palestino-en-el-que-murieron-dos-soldados.html",
-  "titulo": "Operativos militares de Israel en Hebrón tras muerte de soldados",
-  "resumen": "Tras un ataque palestino que cobró la vida de dos soldados, el ejército israelí ejecutó redadas casa por casa y desalojó a decenas de familias. Mientras el Gobierno planea expandir esta medida a toda Cisjordania, diversas organizaciones no gubernamentales han calificado la acción como un castigo colectivo.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "4c203d347f27",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cq62y3xz365ko?at_medium=RSS&at_campaign=rss",
-  "titulo": "Tribunal argentino exonera a Javier y Karina Milei por caso de criptomoneda",
-  "resumen": "La justicia de Argentina dictó el sobreseimiento del presidente Javier Milei y de su hermana Karina en relación con el caso de la criptomoneda $LIBRA. El mandatario, cuyo apoyo al activo digital ocurrió en 2025 antes de su fracaso, siempre sostuvo que se trató de un asunto estrictamente entre privados sin participación estatal.",
-  "categoria": "Política",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "4d1c71e8d376",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHJ0QnY3b1VKbXhOcEZjMENQM3hRc3pUSGs0V2VpZVRLM3ROcHo4V3JocUlUUy1fWGI5U2tocE9senVCMGtiQTNyNUdrN3NrckYxZUJvLVhHazhlWnp4dmtCMTVXLTFsMnZhQ25uUl9PY0dFeFRpUllFaERYU2YtSTk0aTZmZy1XdjJ4UmNR?oc=5",
-  "titulo": "Los Cerveceros celebran una emocionante victoria inicial en la Serie Mundial",
-  "resumen": "El lanzador Jacob Misiorowski, el mánager Pat Murphy y otros integrantes de los Cerveceros analizaron el trepidante triunfo obtenido en el primer encuentro de la Serie Mundial frente a los Rays. Las reacciones reflejan la intensidad del emocionante duelo que marcó el arranque de la serie.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
- },
- {
-  "id": "4faec3a768a1",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261024-starlink-vuelve-a-funcionar-sin-restricciones-en-ucrania-kiev-ataca-planta-petroqu%C3%ADmica-en-rusia",
-  "titulo": "Restablecen el servicio de Starlink en Ucrania mientras Kiev bombardea objetivos en Rusia",
-  "resumen": "El presidente Volodímir Zelenski confirmó que el sistema de satélites Starlink recuperó su velocidad normal en el frente ucraniano tras días de limitaciones. Paralelamente, Ucrania reivindicó ataques con drones contra una planta petroquímica, otra fábrica y un aeródromo en territorio ruso, mientras ambos países contemplan retomar la vía diplomática.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-24T15:24:44.774951+00:00"
  }
 ]
