@@ -1,5 +1,113 @@
 [
  {
+  "id": "019071451680",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc0Q5MWZCd2hUOUtobmQ0TmlQcmpsdllMQnY3eG13X0hYOWRCWURhRVluTUN3THZZMG1WcElmZ1pWUFc1SmliODBqYTFxWWUtMjY4QU15MHVDZDdmRG40Zjl0aTl1U0NRdG9Rc0ZjbUN4bTloN3RNUzVwaFZZbHJxeVVBaw?oc=5",
+  "titulo": "Opciones de apuestas para el juego cuatro de la Serie Mundial",
+  "resumen": "MLB.com detalla la propuesta de apuestas para el cuarto encuentro de la Serie Mundial a través de la plataforma FanDuel. Dicha opción corresponde a la modalidad de Same Game Parlay.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "0d1b8a4a383e",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/crd6dxn11vpvo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Evaluación de la salud mediante el comportamiento del corazón",
+  "resumen": "Una evaluación simple permite conocer aspectos importantes sobre el estado físico de una persona. El elemento determinante en este análisis consiste en observar la reacción del corazón tras realizar ejercicio.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "30089c047f12",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/irán-condena-a-5-años-de-prisión-al-cineasta-jafar-panahi-según-su-abogado/a-79781453?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Condenan a prisión y confiscación de bienes al cineasta Jafar Panahi en Irán",
+  "resumen": "Un tribunal en Irán dictaminó cinco años de cárcel para el director Jafar Panahi, además de ordenar la incautación de sus propiedades. El cineasta, premiado en Cannes por 'Un simple accidente', registraba una condena previa por propaganda contra el régimen.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "35b6b893915a",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Estados Unidos otorgará visado a Flávio Bolsonaro tras comicios en Brasil",
+  "resumen": "El gobierno de EE. UU. otorgará una visa al senador brasileño Flávio Bolsonaro mientras las autoridades de su país cuestionan su ubicación. El legislador, quien fue derrotado en las elecciones por Lula, niega las investigaciones abiertas en su contra por presunto lavado de dinero y corrupción.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "51fd8839c150",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/alemania-y-el-impacto-del-acuerdo-de-4-000-millones-entre-audi-y-trump/a-79781203?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Audi abrirá su primera fábrica en Estados Unidos en un contexto de tensión arancelaria",
+  "resumen": "La compañía automotriz Audi está próxima a inaugurar su primera planta de producción en territorio estadounidense, una decisión atribuida por Donald Trump a sus políticas de aranceles. En Alemania, el suceso genera análisis e inquietud debido a la drástica reducción que enfrenta el sector automotriz local.",
+  "categoria": "Economía",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "553ddd5f4024",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/estados-unidos-ataca-una-nueva-narcolancha-en-el-pacífico-matando-a-cinco-personas/a-79781207?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Ataque militar de Estados Unidos contra una supuesta narcolancha deja cinco fallecidos",
+  "resumen": "El Ejército de Estados Unidos anunció la ejecución de una ofensiva en el Pacífico contra una nave sospechosa de tráfico de drogas. Como resultado del operativo militar, cinco personas perdieron la vida.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "5c5440ef729e",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwkgj2p1ym37o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Kylian Mbappé pide perdón en China tras calificar a Mao de dictador",
+  "resumen": "El futbolista francés desató indignación al referirse al exlíder chino Mao como un dictador durante una entrevista sobre memes. Sus palabras provocaron duras críticas y un movimiento de boicot en el país asiático. Ante la controversia, el jugador tuvo que pedir disculpas públicamente.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "5df46e392ff3",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/harry-kane-pone-fin-a-la-sequía-de-alemania-en-el-balón-de-oro/a-79781333?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Harry Kane se adjudica el Balón de Oro tras su desempeño en la Bundesliga",
+  "resumen": "El delantero del Bayern Múnich, Harry Kane, fue galardonado con el premio individual de mayor prestigio en el fútbol mundial. El atacante mantuvo su evolución profesional dentro del torneo germano. Este reconocimiento llegó a pesar de que no compite en una de las ligas con mayor exigencia en Europa.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "6c54ebf0a710",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd21ISHJkSm9XM0YzUXV4UFlFZWdOWXhzWkdkSUdqNGN5RW1vVWxZLWxqNGFJbkRPOFdKaVRZT0M2YnBGUnMtcmlDdk1UODNjUE5waXpRWHBxcC1GMkEtOWRDaU9vNXptTVdFcWhMd2wzQzByZnVib25lSFg2eW1jMUs1dE5mM25wWTh3VVM2M1hGWWdoU3ZXX1d3WVAtU2pzT1pCUDJsYndrVk94eGxKb2l3bEYydW8yeTN5QWVaamVOblhXaksxcTF1RVJoQVJVR2lsMQ?oc=5",
+  "titulo": "Los Rays reciben el cuarto juego de la Serie Mundial con la meta de evitar la barrida",
+  "resumen": "Los Rays de Tampa Bay serán los anfitriones del cuarto partido de la Serie Mundial de béisbol. El equipo enfrenta un momento decisivo en el que necesita ganar para mantenerse con vida. Su objetivo principal en este encuentro es impedir ser barridos por el conjunto rival.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "728e2c802447",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-cu%C3%A1les-han-sido-las-mayores-controversias-del-gobierno-de-netanyahu-en-israel",
+  "titulo": "Elecciones en Israel reflejan una juventud dividida ante la figura de Netanyahu",
+  "resumen": "Las recientes elecciones legislativas en Israel mostraron a una población juvenil que refleja la marcada división de la sociedad. Durante la jornada votante, algunos jóvenes expresaron su rechazo al primer ministro Benjamin Netanyahu, mientras que otros mostraron su respaldo a la derecha nacionalista. Todo este panorama político y debate sobre el futuro del país se desarrolla en un contexto atravesado por la guerra.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "79304d16f27f",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
+  "titulo": "Flavio Bolsonaro viaja a Estados Unidos tras los resultados electorales en Brasil",
+  "resumen": "El político Flavio Bolsonaro se encamina hacia Estados Unidos posterior a la derrota en las elecciones de Brasil. La información sobre su traslado fue revelada por fuentes cercanas. La partida se produce en el marco del periodo posterior a los comicios celebrados en la nación sudamericana.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
+  "id": "8170f029372c",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261027-apoyo-afroamericano-a-trump-defensa-de-las-pol%C3%ADticas-migratorias-y-voto-castigo-a-los-dem%C3%B3cratas",
+  "titulo": "El respaldo afroamericano a Donald Trump genera debate entre convicción y voto castigo",
+  "resumen": "Donald Trump busca conservar el aumento de votantes afroamericanos que consiguió en elecciones anteriores de cara a las comicios de medio término. Mientras grupos de derecha afirman que este sector busca proteger valores tradicionales, la oposición califica la tendencia como un voto de castigo hacia los demócratas por su falta de resultados. La comunidad afroamericana ha estado vinculada tradicionalmente al partido demócrata.",
+  "categoria": "Política",
+  "fecha": "2026-10-27T23:31:47.037109+00:00"
+ },
+ {
   "id": "017c5e207ba0",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/internacional/2026-10-27/el-extrano-caso-de-la-mente-de-las-protestas-en-italia-aparecio-en-redes-pasados-los-disturbios-y-solo-llamo-a-seguir-saliendo-a-la-calle.html",
@@ -1240,113 +1348,5 @@
   "resumen": "Alrededor de 600 jóvenes participaron en una manifestación en la capital catalana que culminó con cerca de cien personas detenidas. Según el reporte policial, varios participantes atacaron y saquearon 14 locales comerciales durante la jornada.",
   "categoria": "Sociedad",
   "fecha": "2026-10-25T02:54:40.245931+00:00"
- },
- {
-  "id": "a4805c1f906b",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNk02QmZVRU9weEFxQmV2TG1tczlTdXIwakZISU1Nd1ZHRE1fVFN5Rlc3LUVnOGhiNEhHTGhjQ3BLR0F0X2VSVHl6Qm4wNTg1dTlock8tbmdRdWJMTFViMnZkd0VvMEVYN1RpU2xxOXRoUm5TX2lqZG9SdHJCLTlOSWw1YmtOSHFWSHNsYy1zQllpb0JDZTdzbUxNaDJSTjJnT1JuUHZqb0s1am9kaTJkRGkwVkEzc0VwVWtDNW1KXy1Ic2NraGhSc3lfRDVpN1dyNkpTRkFyVVZXSmZrT3lTZ1J3djBWYjRtQ211Mlp4VEl1R29HQ0xlU0JXc01yamlOM1U5QXJwTHVJVFk?oc=5",
-  "titulo": "Muestran galería arquitectónica del centro de transporte diseñado por Santiago Calatrava",
-  "resumen": "El portal ArchDaily expuso una serie de imágenes dedicadas a la estación de transporte del World Trade Center. La obra exhibida pertenece al arquitecto Santiago Calatrava.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-25T02:54:40.245931+00:00"
- },
- {
-  "id": "ab379f0e3327",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261025-elecciones-en-brasil-2026-lula-y-fl%C3%A1vio-bolsonaro-cierran-sus-campa%C3%B1as-con-actos-masivos",
-  "titulo": "Lula y Flávio Bolsonaro celebran sus actos finales de campaña rumbo al balotaje",
-  "resumen": "Miles de seguidores respaldaron de forma pacífica al candidato Luiz Inácio Lula da Silva en São Paulo con miras a la segunda vuelta del 25 de octubre. De manera simultánea, el postulante derechista Flávio Bolsonaro congregó a sus simpatizantes en Río de Janeiro. El escenario previo a la votación se mantiene en una condición de empate técnico.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T02:54:40.245931+00:00"
- },
- {
-  "id": "b6cc8357ca79",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHA0RldJemNlSFNzdTl4YkVlZzF6ZldBXy1oSXhZQk5PWUxKOEFhYWlIMVRNUG5LUTBlbWNlTHNETi1aSXVtV1pyaklMXzhJVURwME82LTBRNHJ2b1FWSFhUZFI5TFJZR0QtRDdCTnFkZFAzUWhzSklISjNMSTVEdFhiZk5sQzA?oc=5",
-  "titulo": "Matt Arnold aborda el ascenso de los Brewers hacia la Serie Mundial",
-  "resumen": "Matt Arnold habló sobre la trayectoria y el progreso de los Brewers rumbo a la Serie Mundial. Estas declaraciones sobre el equipo fueron difundidas a través del portal MLB.com.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-25T02:54:40.245931+00:00"
- },
- {
-  "id": "bb0cac7895c0",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyVktPd0dHZWZwOGhvaEZNaDVCY0x6WTFUd2U3NkctemJjTkV2UWI0bktmMFlQOXdRV21sYW04enpmTDJCOHh6UkdIOUdrMTQyY1RyM1lwVVhwU2ljbGxZcDZhSzhDSGlJ?oc=5",
-  "titulo": "Escena de Los Cuatro Fantásticos formaría parte de 'Avengers: Doomsday'",
-  "resumen": "Trascendió que la secuencia en el estadio de béisbol de Los Cuatro Fantásticos, difundida durante la promoción de la Serie Mundial, pertenecería a la película 'Avengers: Doomsday'. La información al respecto fue reportada a través del portal IMDb.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-25T02:54:40.245931+00:00"
- },
- {
-  "id": "c7b73b793d38",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/miles-protestan-en-italia-bajo-fuerte-dispositivo-de-seguridad/a-79753084?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Manifestación en Milán paraliza el tránsito céntrico bajo estricta seguridad",
-  "resumen": "Aproximadamente 3.000 manifestantes marcharon por las calles de Milán en medio de un riguroso operativo de seguridad. El recorrido de la protesta provocó la interrupción vehicular en el centro urbano.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-25T02:54:40.245931+00:00"
- },
- {
-  "id": "d77337c574a8",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-brasil-lula-y-bolsonaro-motivan-por-%C3%BAltima-vez-a-sus-seguidores-antes-de-la-segunda-vuelta",
-  "titulo": "Fuerzas políticas de Brasil cierran actos masivos antes del balotaje",
-  "resumen": "El candidato Luiz Inácio Lula Da Silva encabezó una multitudinaria concentración en la Avenida Paulista de São Paulo. Por su parte, Flávio Bolsonaro se reunió con simpatizantes en Río de Janeiro en las horas previas a la segunda vuelta. Se prevé que la disputa en las urnas entre el líder de izquierda y el sector ultraderechista sea sumamente ajustada.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T02:54:40.245931+00:00"
- },
- {
-  "id": "183db646d2e4",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261024-israel-derriba-edificios-de-viviendas-durante-operaci%C3%B3n-en-hebr%C3%B3n-cisjordania-ocupada",
-  "titulo": "Las fuerzas israelíes destruyen inmuebles residenciales durante una incursión en Hebrón",
-  "resumen": "Tras sufrir un ataque armado en contra de sus tropas, el ejército israelí llevó a cabo una maniobra militar en la Cisjordania ocupada. Durante estas acciones en la localidad de Hebrón, las autoridades procedieron a demoler diversos edificios de viviendas.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-24T22:22:52.554738+00:00"
- },
- {
-  "id": "2039fac4fc0f",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDBTdjU4UUEycHVQdEdzT2VIWU95Nk53UFFsbms0Vml0d244X2JhWmYzMUYtbDJiTkhDb3FVZENoZDIxelhNX3RCdGNtWGF5TWVXOTlNQXZXRFUzZjJFZEFWNkREVGJGenJ3SlVPdEdTdUJtbkh0MVd2eWtMRTE4VUlvU3l0VTc0?oc=5",
-  "titulo": "Christian Yelich sobresale en el camino de los Brewers rumbo a la Serie Mundial",
-  "resumen": "El beisbolista Christian Yelich está teniendo una actuación destacada con el equipo de los Brewers. Su brillante nivel acompaña la trayectoria del conjunto en su aspiración por llegar a la Serie Mundial.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-24T22:22:52.554738+00:00"
- },
- {
-  "id": "235248ccec4c",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261024-por-qu%C3%A9-quisiera-meta-que-gane-flavio-bolsonaro-en-brasil",
-  "titulo": "Señalan a Meta por supuestamente favorecer a Flávio Bolsonaro en el proceso electoral brasileño",
-  "resumen": "El equipo de Luiz Inácio Lula da Silva acusó a la firma tecnológica Meta de entorpecer la difusión de su material y privilegiar las publicaciones de Flávio Bolsonaro. Filtraciones del medio Folha de S.Paulo revelan que el personal de la empresa notó trabas en la visibilidad de la campaña de Lula y sugerencias algorítmicas hacia su rival.",
-  "categoria": "Política",
-  "fecha": "2026-10-24T22:22:52.554738+00:00"
- },
- {
-  "id": "33b3db7d56a4",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261024-un-incendio-devast%C3%B3-el-nido-del-%C3%A1guila-de-hitler-en-alemania-un-sospechoso-detenido",
-  "titulo": "Detienen a un sospechoso tras un incendio en la montaña del histórico refugio de Hitler en Alemania",
-  "resumen": "Un siniestro arrasó la zona montañosa de Baviera donde se ubica la estructura conocida como el 'Nido del Águila', lo que requirió la intervención de casi 200 bomberos. En las inmediaciones del fuego fue arrestado un individuo de 33 años que podría presentar alteraciones mentales. Hasta el momento se ignoran el origen y los motivos del incidente.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-24T22:22:52.554738+00:00"
- },
- {
-  "id": "4423b0a38165",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
-  "titulo": "La economía chilena registra su mayor tasa de desocupación en más de cinco años",
-  "resumen": "Chile atraviesa una complicada situación económica caracterizada por una tasa de desocupación del 9,6 %, la cifra más alta registrada en más de cinco años. Asimismo, la inversión en el país se encuentra paralizada y la confianza de los consumidores ha sufrido un claro retroceso. Este panorama se desarrolla paralelamente a la implementación de un plan de austeridad fiscal por parte del gobierno.",
-  "categoria": "Economía",
-  "fecha": "2026-10-24T22:22:52.554738+00:00"
- },
- {
-  "id": "802a655056ab",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/aumenta-a-nueve-el-número-de-muertos-por-ataque-contra-iglesia-en-jordania/a-79752201?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Asciende a nueve la cifra de fallecidos tras un atentado contra una iglesia en Jordania",
-  "resumen": "Un ataque perpetrado contra un templo en Karak provocó la muerte de nueve personas en Jordania. Este tipo de hechos resulta muy inusual en dicha nación, caracterizada por su relativa estabilidad en Medio Oriente. Tras la agresión, el rey Abdalá II advirtió que este acto terrorista recibirá la respuesta más contundente.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-24T22:22:52.554738+00:00"
  }
 ]
