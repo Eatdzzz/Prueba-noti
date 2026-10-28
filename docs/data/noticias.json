@@ -1,5 +1,113 @@
 [
  {
+  "id": "02a2f3be837a",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
+  "titulo": "Trágico accidente ferroviario en Toledo deja decenas de fallecidos y heridos",
+  "resumen": "Un choque de trenes de alta velocidad en la localidad toledana de Urda causó la muerte de al menos 68 personas y dejó numerosos heridos. Los equipos de rescate continúan operando en el lugar del siniestro, el cual se presume pudo ser ocasionado por un fallo humano.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "11c2ca37640c",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1BmV3dZeVFabGljNlFNM3MtdGszSFZJQUk5U3dBdGhTc3d0aWFOY0M2NUFwZnQweTJNdmdwT1dsdDZ0MmVOaXdXaGppRmszN09ZNjVRS3Ita2FBTjdhNUh1dlRKTXpOV2ZxY3ZMN3lwZS02Ylh2UE1HUE51WHJNLWRYaw?oc=5",
+  "titulo": "Varados en Camboya 200 pasajeros por la cancelación de un crucero global",
+  "resumen": "Un crucero alrededor del mundo debió interrumpir su viaje debido al incremento en los precios del combustible. Esta situación dejó a 200 residentes atrapados en territorio camboyano.",
+  "categoria": "Economía",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "133ec43bc2b3",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Reacción del gobierno español ante el fatal suceso de trenes en Toledo",
+  "resumen": "Pedro Sánchez, presidente del gobierno de España, expresó su profundo impacto ante el grave accidente de trenes. Asimismo, indicó que mantiene comunicación constante con el titular de Transportes para seguir de cerca la situación.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "16295f7066cd",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/tras-elecciones-en-israel-oposición-aboga-por-alianza-judeoárabe-para-desbancar-a-netanyahu/a-79787075?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Buscan coalición entre judíos y árabes para desplazar a Netanyahu tras comicios en Israel",
+  "resumen": "Con el 84 % de las papeletas escrutadas, el sector opositor impulsa una unión judeoárabe con el fin de apartar del poder al primer ministro. Por su parte, el bloque encabezado por este último encabeza el recuento, aunque todavía no alcanza los escaños suficientes para constituir un Ejecutivo.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "2cab90571bc6",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTN4OHhtN2JLNm4wR29xdDZXS0xyQllDLXFoZ1lQWUZhMUlfVGFSa3FQcWxacTdlaWREMno1R1pWbUJkWlJRd3ZLdjU3YzY5WXJuajI3V3N0amR3bEg2SkhDMW1UMDZ4UEowaVRCU3B0eF9xQmtmSnNMQ2lwdFdWcElmNHMyRF9ydzFWU1NQckJiSC1ET0hOVVIzNXhvTTEteWtXbEFoaTdldXR3MVR5YlZDQnJ2ejdhRk5LTHN3?oc=5",
+  "titulo": "Otorgan visa estadounidense a Bolsonaro tras su salida de Brasil",
+  "resumen": "El exmandatario brasileño recibió una visa para ingresar a Estados Unidos luego de abandonar su país tras su derrota electoral. Su partida estuvo vinculada a la reactivación de procesos judiciales en su contra.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "349c036f99aa",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwkg5eznlg0go?at_medium=RSS&at_campaign=rss",
+  "titulo": "Los procesos judiciales pendientes de Flávio Bolsonaro en Brasil",
+  "resumen": "El político enfrenta diversas investigaciones y causas abiertas con la justicia brasileña. Esta situación judicial se relaciona con la decisión de abandonar el territorio nacional.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "39c1a72bf29f",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c68xz74ne57wo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Captan la llegada de Flávio Bolsonaro a Miami tras perder las elecciones",
+  "resumen": "Imágenes documentaron el arribo del político de 45 años en un avión privado a Florida. Su viaje ocurrió tres días después de la derrota electoral en Brasil y tras mencionar que le habrían pedido el pasaporte.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "6581d8cf54d3",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261028-equipos-de-emergencia-trabajan-en-el-rescate-de-pasajeros-tras-choque-de-trenes-en-toledo",
+  "titulo": "Operativo de rescate por colisión de trenes en la provincia de Toledo",
+  "resumen": "Dos trenes de pasajeros que transportaban a unas 544 personas chocaron en la vía hacia Sevilla, a la altura de Toledo. Los equipos de emergencia acudieron al lugar para atender a los afectados, mientras el presidente Pedro Sánchez coordina la respuesta desde el puesto de mando.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "85bbc4c8be2e",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html",
+  "titulo": "Comienzan las complejas conversaciones para formar Gobierno en Israel",
+  "resumen": "Los partidos políticos en Israel han iniciado un complicado proceso de negociación que se prolongará por varias semanas. En estas conversaciones, las formaciones árabes jugarán un papel fundamental para definir si se logra un pacto o si el país debe repetir las elecciones.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "8c690837dcc8",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-28/meloni-ataca-a-una-juez-por-dejar-en-libertad-al-presunto-lider-de-las-protestas-en-italia-y-desmontar-las-acusaciones-de-terrorismo.html",
+  "titulo": "Críticas de Meloni a una jueza por liberar a un activista en Italia",
+  "resumen": "La primera ministra italiana ha cuestionado la decisión de una magistrada de dejar en libertad al presunto líder de unas protestas. La jueza argumentó que el periodista arrestado solo promovió una movilización en redes sociales y descartó los cargos por terrorismo.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "8c7f0855e12b",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
+  "titulo": "El peso político de los partidos árabes tras los comicios en Israel",
+  "resumen": "Las formaciones árabes lograron una cifra récord de escaños en las recientes elecciones israelíes, posicionándose como un actor indispensable para cualquier alianza del bloque opositor. Mientras tanto, el sector del primer ministro ha lanzado acusaciones de fraude electoral.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
+  "id": "b085d16d405f",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/flávio-bolsonaro-aterriza-en-florida/a-79782302?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Flávio Bolsonaro viaja a Florida tras la derrota electoral en Brasil",
+  "resumen": "El excandidato presidencial brasileño se trasladó a Estados Unidos junto a su familia, apenas dos días después de perder en las urnas. Su salida del país ocurre en un contexto donde enfrenta una investigación judicial por sospechas de blanqueo de dinero.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T17:56:06.842760+00:00"
+ },
+ {
   "id": "33a28c55a835",
   "fuente": "DW Español",
   "enlace": "https://www.dw.com/es/más-de-100-000-evacuados-en-india-por-el-peligroso-ciclón-arnab/a-79782470?maca=spa-rss-sp-all-1122-rdf",
@@ -1240,113 +1348,5 @@
   "resumen": "Con un mitin en Orléans, Marine Le Pen lanzó formalmente su campaña para las elecciones presidenciales francesas de 2027. Este hecho marca el inicio de una nueva etapa política en el país europeo.",
   "categoria": "Política",
   "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "727d213ed5a5",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vQWNSVUlyMW14M0NmTWcyMWt4UWtJMDlNQk05V1g2WFBVUi02WTVDaDVtdzhrZDVqWk00UXk4WjlrYi1qWXA0NWZmcUttR2YwUGZSNGNsdTh4ZkhHcGJ5QTVLM2hVSTlPbFJkNjhLb3MzTlE?oc=5",
-  "titulo": "Estimaciones financieras de WORLD CO.,LTD en la bolsa",
-  "resumen": "Se han publicado las estimaciones comerciales y financieras correspondientes a la empresa WORLD CO.,LTD en la plataforma TradingView. Los datos provienen del mercado de valores de Tokio.",
-  "categoria": "Economía",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "7984ca26a312",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html",
-  "titulo": "El retorno de la dirigente opositora desafía al gobierno venezolano",
-  "resumen": "Tras varios intentos fallidos y casi diez meses de ausencia, la líder opositora logró ingresar nuevamente a Venezuela. Su presencia en el país desafía directamente a las autoridades chavistas.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "7df7075d6786",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cqly0mlerpnvo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Investigan a dueños de mansión en California por abuso y maltrato a catorce menores",
-  "resumen": "Silvia Zhang y Guojun Xuan enfrentan acusaciones de maltrato infantil tras descubrirse las condiciones de violencia en las que mantenían a una docena de niños. Los hechos ocurrieron en una residencia ubicada en el este de Los Ángeles.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "a1371e0e5cd8",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c62ke94w14x2o?at_medium=RSS&at_campaign=rss",
-  "titulo": "María Corina Machado reaparece en territorio venezolano tras diez meses de ausencia",
-  "resumen": "La líder opositora y Premio Nobel de la Paz anunció este domingo a través de la red social X su retorno a Venezuela. La noticia de su llegada también fue confirmada por Edmundo González mediante la misma plataforma digital.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "a3a6d5ee5259",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/medio-oriente/20261025-netanyahu-afronta-elecciones-bajo-tensi%C3%B3n-ofensiva-en-hebr%C3%B3n-pol%C3%A9mica-por-criptomonedas-y-amenazas-contra-ir%C3%A1n",
-  "titulo": "Benjamin Netanyahu llega a las elecciones en medio de un clima de alta tensión",
-  "resumen": "El primer ministro israelí enfrenta las urnas este martes en un escenario marcado por la polémica militar, económica y política. Durante el proceso ha tenido que defender su gestión de seguridad, responder a críticas por operaciones en Cisjordania y lidiar con protestas ciudadanas.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "b0b69add2906",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
-  "titulo": "Cierra la segunda vuelta electoral presidencial en Brasil entre Lula y la familia Bolsonaro",
-  "resumen": "Luiz Inácio Lula da Silva y Flávio Bolsonaro, este último hijo del exmandatario Jair, compiten voto a voto en el balotaje. Esta jornada electoral define el futuro político de la democracia más extensa de América Latina.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "01cbe7e7e3cb",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/fiscal-general-de-eeuu-defiende-demanda-para-frenar-certificación-electoral-en-alaska/a-79753433?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Impugnan demanda del fiscal general de EE. UU. sobre elecciones en Alaska",
-  "resumen": "Diversas organizaciones de derechos civiles han presentado objeciones contra la demanda impulsada por el fiscal general estadounidense para detener la certificación electoral en Alaska. Estas agrupaciones califican la acción judicial como una agresión inédita contra el sistema democrático.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "05bdd2668db8",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/putin-dice-que-europa-recurre-a-rusia-para-gnl-y-rechaza-implicación-en-protestas/a-79755379?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Vladímir Putin señala la dependencia europea del gas ruso y niega desestabilización",
-  "resumen": "El mandatario ruso afirmó que el gas natural licuado de su nación abarca una quinta parte del mercado en Europa. Asimismo, desestimó cualquier vínculo con las recientes manifestaciones en territorio europeo, achacándolas a fallas políticas y económicas de los propios líderes locales.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "136351d74c6b",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU96MDVJOU40SlVJU0RuNkNWUnNMUFZVelJyM3k3WmI4empCZjR1elZMY29sbkExeG96bFp6WkR4R0RtdXNjWkRTSXgwdzY5bVpocWltZ0VfZk1EQ2lZR1lBZ0VWZTVSXzFyZFhmZnR5eG5tS2FTLWRmMXBWeEs1a2gzWWM2RktORzRCZXJEVzc3UG9obC1mdWZ4RUNZWnJsQkVFSnZmQV9IMkNqeUZQdHZPa2lMWWFhSlJBcHpiNTk?oc=5",
-  "titulo": "El auge de los microvegetales como alternativa para la seguridad alimentaria global",
-  "resumen": "De acuerdo con el Foro Económico Mundial, el consumo en tendencia de los microgreens podría desempeñar un papel relevante en la producción futura de alimentos a nivel mundial. Esta alternativa surge como respuesta a los desafíos globales de nutrición y abastecimiento.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "16f7de407de8",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQamt0STRLSW1vWF9wR3k2czFEWFVWZGZnM0tBWTl3NERxakdhaUdEd1hfZFoxcVZDbThuNTZ1d3B0cWs1Z3JQeXBIb1FrUmhYR3YySElYR2RkS0NlZ1J4OEhNTl92dHNJT2tpSjc4cWxqZjZZUzRGRWxBeGdCS19QLTJjX0NwOWtoaTJZY0k2Zmt4N25BV0xTMkdDanZranktZEVVZXd1OG9tQWQ0TDVwLWxiVnVmeXhtMmpublUyLUpfSl9yNzlpZnpjay1DbUZtckROd1JhNUJxUkVxU1FsOW5yd05HTHVWNXBlZWFnR3N4c1k1VTZKVXdHMUVFaEo0NVNPQ2hRQ0Ffa3NORUdUdWRJMFVKMW1ibHc?oc=5",
-  "titulo": "Buscan transformar las nuevas movilizaciones juveniles en una red global",
-  "resumen": "Ante el resurgimiento de protestas estudiantiles y juveniles tanto en Europa como en otras regiones, organizaciones políticas señalan que el objetivo principal es convertir estas luchas en un movimiento de alcance internacional. Las acciones reflejan un descontento que vuelve a tomar fuerza en distintas partes del mundo.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "17fe36c2e4b2",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html",
-  "titulo": "El epicentro de las protestas estudiantiles en el departamento más desfavorecido de Francia",
-  "resumen": "Las movilizaciones estudiantiles francesas se originaron principalmente en Seine-Saint Denis. Esta provincia destaca por ser la más pobre de la nación, albergar a la mayor cantidad de inmigrantes y concentrar a jóvenes que sienten que han perdido su porvenir.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "2523c59051af",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-25/brasil-decide-este-domingo-si-seguira-siendo-una-democracia.html",
-  "titulo": "Incertidumbre en Brasil ante unas elecciones cruciales para definir el futuro democrático",
-  "resumen": "Durante las últimas semanas, el sector progresista se ha movilizado intensamente en las calles y en internet con el objetivo de evitar el retorno de la extrema derecha. A pesar de estos esfuerzos para lograr una remontada, el desenlace electoral sigue siendo totalmente impredecible.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
  }
 ]
