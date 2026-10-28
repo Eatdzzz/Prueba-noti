@@ -1,5 +1,113 @@
 [
  {
+  "id": "00deaa65f0cd",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXZfVUh2ak5wSVkxWFUtRUtoVFF4LXk4SEJ3SGNaY3NEaGQ5SVZaMFZCMFdnVzJjUnRNWFMtSDJjR2ROc0NSTkNpcmlwa3FWVkJyRVluVno5cmdZcDJtOUVTcmJpa1RWME1oN25VU2hVZEFCMHpvMVJ1OWlyRjg4cHRn?oc=5",
+  "titulo": "Brasil clasifica por penales a cuartos de final",
+  "resumen": "La selección brasileña aseguró su pase a los cuartos de final en la Copa del Mundo y en el Festival Sub-15 de la FIFA tras imponerse en la definición por penales. Con este resultado, el equipo continúa en la disputa de ambos torneos.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "0548e88a1e18",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c893zel32gk7o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Sobrevivientes narran el accidente ferroviario en España",
+  "resumen": "Los pasajeros afectados por la colisión de trenes en España compartieron sus testimonios tras sufrir el violento impacto del siniestro. En el lugar y entre las víctimas se registran momentos de dolor, conmoción y muestra de solidaridad, acompañados también de indignación.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "07b5cc82af87",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/por-primera-vez-una-mujer-podría-convertirse-en-presidenta-de-alemania/a-79790929?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Alemania podría elegir a su primera presidenta mujer",
+  "resumen": "La presidencia de Alemania se prepara para una renovación institucional tras concluir el mandato de Frank-Walter Steinmeier. La bávara Ilse Aigner se posiciona como la principal favorita para ocupar la jefatura del Estado. De concretarse su elección, sería la primera vez que una mujer encabece la presidencia alemana.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "0afead78e73d",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-28/flavio-bolsonaro-aterriza-en-miami-tras-huir-de-brasil-via-argentina.html",
+  "titulo": "Flávio Bolsonaro difunde carta desde Estados Unidos y rectifica su autoproclamación",
+  "resumen": "Desde territorio estadounidense, el senador Flávio Bolsonaro emitió una carta extensa en la que se autodefinió primero como el verdadero presidente de Brasil y posteriormente modificó el término a líder. Asimismo, utilizó el texto para agradecer la colaboración de Donald Trump y Javier Milei en su salida del país sudamericano.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "15cec156ab9e",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIOFcxWWpqaS1JemZ6U2dXQ3lsZnVITEZRRXNscC1GSUdQUzg3UmRteDhYUlM1dW5FT2VuU0kwUmJ0U3U5YXVrdV9ranZGSTctQ3ZmX0Ywc0RLOVhEaEwzTlRDQW1OOFFYM1E?oc=5",
+  "titulo": "Lanzan el avance de ‘Jumanji: Open World’ con Dwayne Johnson y Jack Black",
+  "resumen": "Se ha presentado el tráiler oficial de la producción cinematográfica ‘Jumanji: Open World’. En este nuevo adelanto, los actores Dwayne Johnson y Jack Black protagonizan momentos en tono de coqueteo.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "17b3bac95fc7",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-28/el-gobierno-aleman-prepara-una-ley-para-impedir-la-nacionalizacion-de-fondos-inmobiliarios-en-berlin.html",
+  "titulo": "Alemania impulsa una normativa para frenar la expropiación de viviendas en Berlín",
+  "resumen": "El Ejecutivo de coalición alemán trabaja en una propuesta legislativa orientada a frenar la nacionalización de fondos inmobiliarios en la capital. Dicha medida busca hacer inviable, tanto en lo financiero como en lo jurídico, la expropiación de decenas de miles de inmuebles impulsada por la izquierda.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "1d562dc4965e",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmowN2xpdy1iWlVSVFRjQklPQnV5ZFRQU1dRUmFaRDFJME1BelFUZ2dhV29pNTQ3bVB2bGE1WmxOM084NjE0TlpROHNzLTVSMGtjVC1ndTVaWC0tbGppU2xHOU8wb0dfUTdJeG16cnkwN0l3d0dsV1FJdkdiaGJDWG51OUJVaEZqQXln?oc=5",
+  "titulo": "El boxeador Dylan Biggs volverá a pelear en Toowoomba el próximo 7 de noviembre",
+  "resumen": "El Consejo Mundial de Boxeo dio a conocer el retorno a la competición del pugilista Dylan Biggs. Su esperado regreso a los cuadriláteros se llevará a cabo el 7 de noviembre en Toowoomba.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "2dea55daf36b",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/latinoamérica-se-solidariza-con-españa-por-el-accidente-de-trenes/a-79791394?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Trágico choque de trenes de alta velocidad en España causa al menos 68 muertes",
+  "resumen": "Una colisión entre dos trenes de alta velocidad, tras quedar uno detenido por una falla mecánica, provocó al menos 68 personas fallecidas en España. Distintos gobiernos de Latinoamérica han expresado su solidaridad, al tiempo que sus consulados revisan si hay compatriotas entre las víctimas. El hecho constituye el segundo siniestro ferroviario de gravedad en el año.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "3ac7082745c2",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-28/alemania-detiene-a-dos-ciudadanos-bielorrusos-sospechosos-de-sabotajes-por-encargo-de-rusia.html",
+  "titulo": "Detienen en Alemania a dos sospechosos de planear sabotajes rusos",
+  "resumen": "Dos ciudadanos bielorrusos fueron puestos bajo prisión preventiva en territorio alemán por sospechas de cometer sabotajes encargados por Rusia. Las investigaciones los vinculan con un ataque efectuado en Rumanía y con la planificación de un fuego intencionado contra infraestructuras clave en Baviera.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "480f6026a192",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RaklEQWFTNHE4SlFDaEdLY3RVeVBocmJqTXoyZ0lnSHpNUVBNY2ZTMHZRbS0xNE5pZHFBN1NUaVZRZnJpQkxTRUZES2h1SnZNZUhVN2VoZUUtaHNXbk1MM2dzWkRBd0Yxbnh6Wl9FVlRwVVQ2Tmc?oc=5",
+  "titulo": "Brett Phillips aborda la actualidad de los Rays y la Serie Mundial",
+  "resumen": "El beisbolista Brett Phillips compartió sus valoraciones acerca del conjunto de los Rays. Asimismo, el jugador habló sobre la Serie Mundial en declaraciones concedidas a MLB.com.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "5769a46078ac",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/ckly063z9lyeo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Un crucero interrumpe su travesía en Camboya por los altos costes del carburante",
+  "resumen": "El barco Villa Vie Odyssey detuvo su viaje como consecuencia del encarecimiento del combustible, dejando a los turistas sin poder continuar. Los responsables de la embarcación se encuentran organizando la salida de los viajeros para reubicarlos en alojamientos transitorios.",
+  "categoria": "Economía",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
+  "id": "7c643d93ee47",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261028-fla%CC%81vio-bolsonaro-se-autoproclama-presidente-de-brasil",
+  "titulo": "Flávio Bolsonaro corrige su mensaje tras autoproclamarse mandatario de Brasil",
+  "resumen": "El senador de ultraderecha Flávio Bolsonaro publicó una carta abierta en plataformas digitales el 28 de octubre declarándose mandatario electo. Poco después, el legislador dio marcha atrás a su afirmación para pasar a definirse únicamente como líder del país.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T23:57:11.617888+00:00"
+ },
+ {
   "id": "02a2f3be837a",
   "fuente": "BBC Mundo",
   "enlace": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
@@ -1240,113 +1348,5 @@
   "resumen": "El competidor Wells ha asumido el primer lugar de la tabla general en el certamen SCORE World Desert Championship 2026. Gracias a su rendimiento, el piloto encabeza la clasificación global de la competencia.",
   "categoria": "Deportes",
   "fecha": "2026-10-25T22:18:37.275557+00:00"
- },
- {
-  "id": "9f4fd13be483",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-extienden-jornada-electoral-en-brasil-tras-aval-del-supremo",
-  "titulo": "Corte Suprema amplia horario de votación y se frena el escrutinio en Brasil",
-  "resumen": "Un juez del máximo tribunal de Brasil autorizó extender por dos horas el proceso de votación en la segunda vuelta entre Lula da Silva y Flávio Bolsonaro. Pese a que el conteo de votos ya había empezado, el Tribunal Superior Electoral determinó pausar la revisión de las actas. La periodista Valeria Saccone ofreció los detalles del caso desde un centro electoral ya vacío.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T22:18:37.275557+00:00"
- },
- {
-  "id": "cca2de2b0827",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c3n0498l71vwo?at_medium=RSS&at_campaign=rss",
-  "titulo": "El deshielo global revela hallazgos milenarios conservados en el hielo",
-  "resumen": "El acelerado derretimiento de los glaciares a causa del cambio climático está dejando al descubierto diversos artefactos antiguos. Entre los descubrimientos se encuentran momias congeladas y rutas vikingas que permanecieron en perfecto estado durante miles de años.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-10-25T22:18:37.275557+00:00"
- },
- {
-  "id": "cff87cd36e79",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-25/maria-corina-machado-el-desafio-de-volver.html",
-  "titulo": "El reto temporal que enfrenta la opositora María Corina Machado",
-  "resumen": "La dirigente opositora ha logrado superar las dificultades asociadas a la distancia. Sin embargo, aún no ha conseguido solucionar el inconveniente que representa el factor tiempo.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T22:18:37.275557+00:00"
- },
- {
-  "id": "d1d937fc8edd",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
-  "titulo": "Inicia el recuento de votos en la contienda entre Lula y Bolsonaro",
-  "resumen": "Las urnas de la jornada electoral han sido cerradas tras una extensión de dos horas. Con el fin de la votación, las autoridades han dado comienzo al escrutinio oficial.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T22:18:37.275557+00:00"
- },
- {
-  "id": "d6786bc8eed2",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss",
-  "titulo": "La nutrición adecuada para el cuidado y rejuvenecimiento de la piel",
-  "resumen": "La ingesta de vegetales, grasas y productos fermentados aporta notables beneficios a la salud cutánea. Estos alimentos ayudan a reducir arrugas, incrementan la creación de colágeno y perfeccionan la textura de la piel.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-25T22:18:37.275557+00:00"
- },
- {
-  "id": "da24eb43258c",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/arabia-saudita-reabre-dos-terminales-del-aeropuerto-de-riad-mientras-los-hutíes-amenazan-con-nuevos-ataques/a-79754133?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Reabren terminales aéreas en Riad pese a las advertencias de los hutíes",
-  "resumen": "Arabia Saudita reactivó dos terminales del aeropuerto de Riad luego de registrarse agresiones de los insurgentes hutíes de Yemen. A pesar de la reapertura, los rebeldes mantienen sus amenazas de bombardeo tras clasificar dicha instalación como un objetivo militar.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-25T22:18:37.275557+00:00"
- },
- {
-  "id": "26e68bfd2a91",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelVWNnFIb1M3NFdTTFRHX2hKZXJ1Y1ZTbktmekJSOVdPS3ZmSE0yeEhTMFFCR0ppbV83cXVlWUxSWGc3QjRFaFo5eE1MNFdQUTZwdlNGODB5dEExRHdDVzg3V2pxU3BObE03bENPelkwUlVXQ0dzRTgtaC1mY2dMSFFfQ3Y5UzVYdEpXT3pLMm9BQnI1NzR6bEFMcW5VM0dWMlVJaklYa3RodFU1d1hfRFA4bzZwc0RLTzVfX0ZCT3Z2QjlSamlVWUY3NF8zcXl0MU93NkFR?oc=5",
-  "titulo": "Anuncian la tercera temporada de una conocida serie de anime",
-  "resumen": "La plataforma Crunchyroll ha confirmado oficialmente la producción de la tercera temporada para la serie titulada Our Last Crusade or the Rise of a New World.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "33ea473fac35",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261025-marien-le-pen-francia-no-est%C3%A1-en-este-estado-por-su-pueblo-sino-por-sus-l%C3%ADderes",
-  "titulo": "Marine Le Pen inicia su carrera hacia las presidenciales francesas de 2027",
-  "resumen": "Durante un mitin en Orléans, la líder de Agrupación Nacional presentó su campaña bajo el lema del renacimiento de Francia. Su discurso puso el foco en la identidad nacional, la seguridad y la economía del país.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "3958997b7b52",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQNUZlMWRCem92V05tZm00QUdQUXpKc3BTMUU3eU9keVhJX0FaVGdyYUxNQTFfTnFrdU9yMkZsSFg4YUpPM1plblpXOW41cWxVTUZiV3ViWUJlbl9iM3dJWGxlNTEtZUhqZlJGaWRjU2lUNXg2RUhrMlV5UUlXaUNfRFZsTkZNVWZQQnEzX08tN0RoM0dGY05CUXZuYnd6Ym1zakxkUlV5S0xLNWtIUWE2bkh5WGpXYWY3VjhsWDM4amtEaEFOZW9POHhhZlU0YXBWWGFwUW1SQzRJVWVSbHVCb3ZESzhZUjA4NmxRWUJHZWhHMVZHR2IwTEZpMFI3dEstVVhtWHZVVUt2WkFKX1hSaDFiNG5acUp5eGhfUHdxdnB0SzdyRld0WHNaa3VQa0ZhdzJIR3o4WVN0aFBo?oc=5",
-  "titulo": "Transmisión y eventos deportivos internacionales anunciados",
-  "resumen": "Se han difundido anuncios relacionados con la transmisión en vivo de partidos de fútbol y eventos deportivos como el T34 World Forum HS Football 2026, vinculados a plataformas y portales oficiales.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "44cd746956c1",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-25/benjamin-netanyahu-un-superviviente-politico-aferrado-a-las-guerras-para-ganar-una-vez-mas.html",
-  "titulo": "El panorama político del primer ministro israelí ante los comicios",
-  "resumen": "Benjamín Netanyahu afronta las próximas elecciones ubicado en la segunda posición tras acumular 19 años en el poder. Actualmente cuenta con una orden internacional de arresto bajo sospecha de crímenes contra la humanidad en Gaza.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "53f64c5b00b6",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-estoy-aqu%C3%AD-mar%C3%ADa-corina-machado-regresa-a-venezuela-tras-casi-un-a%C3%B1o-fuera-del-pa%C3%ADs",
-  "titulo": "María Corina Machado vuelve a territorio venezolano",
-  "resumen": "La opositora María Corina Machado ha regresado a Venezuela tras pasar cerca de un año fuera del país. Su retorno supone un reto directo al chavismo.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
- },
- {
-  "id": "66147686226a",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261025-qu%C3%A9-representa-la-oficializaci%C3%B3n-de-la-candidatura-de-marine-le-pen-para-francia",
-  "titulo": "Marine Le Pen oficializa su aspiración presidencial en Francia",
-  "resumen": "Con un mitin en Orléans, Marine Le Pen lanzó formalmente su campaña para las elecciones presidenciales francesas de 2027. Este hecho marca el inicio de una nueva etapa política en el país europeo.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T18:45:28.779919+00:00"
  }
 ]
