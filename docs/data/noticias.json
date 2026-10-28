@@ -1,5 +1,113 @@
 [
  {
+  "id": "33a28c55a835",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/más-de-100-000-evacuados-en-india-por-el-peligroso-ciclón-arnab/a-79782470?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Evacúan a más de cien mil personas en la India por el paso del ciclón Arnab",
+  "resumen": "El avance del peligroso ciclón Arnab provocó lluvias intensas y vientos violentos en la ciudad portuaria de Kakinada, situada cerca del centro de la tormenta. Ante el impacto del fenómeno y el fuerte oleaje en la costa, más de 100.000 habitantes tuvieron que ser evacuados.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "459b42a2989a",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261028-donald-trump-dice-que-venezuela-le-envi%C3%B3-un-mill%C3%B3n-de-barriles-de-petr%C3%B3leo-como-regalo",
+  "titulo": "Polémica por declaraciones de Donald Trump sobre una donación de petróleo venezolano",
+  "resumen": "Donald Trump afirmó que Venezuela le entregó un cargamento de aproximadamente un millón de barriles de crudo en calidad de regalo, asegurando que dicho petróleo será donado. El mandatario también anticipó una reducción en los precios del combustible a raíz de este hecho. Por su parte, el pacto energético ha desatado indignación y fuertes críticas en diversos sectores políticos del país sudamericano.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "466077a8ab2f",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-eisenkot-promete-formar-un-gobierno-sionista-y-estable",
+  "titulo": "Gadi Eisenkot promete un gobierno estable en Israel tras los resultados electorales",
+  "resumen": "El líder de la oposición en Israel celebró los datos preliminares de los comicios legislativos y reiteró su llamado a una transformación política. Durante su discurso, prometió conformar una administración sionista y estable que dirija el país para beneficio de toda la ciudadanía en una etapa de reconciliación.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "47624e8f4b0d",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/america/2026-10-27/ee-uu-confirma-que-emitira-visados-para-flavio-bolsonaro-y-su-familia.html",
+  "titulo": "Estados Unidos otorgará visados al excandidato brasileño Flávio Bolsonaro y a su familia",
+  "resumen": "Un portavoz del Departamento de Estado confirmó que Washington concederá los visados correspondientes a Flávio Bolsonaro y a sus allegados. De este modo, las autoridades norteamericanas recibirán en su territorio al candidato presidencial derrotado en Brasil.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "4a53b3b5b985",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JczM1U0lXVnFvY29NS2I2RkNiN2syazN0ZVdWSGJYeG9reEo4cXBfdnhXbHNiOFpxVWktamlaR3F0LVRJdFMyY3JRR3RpREs0LUw4cTNWazFLMzVQ?oc=5",
+  "titulo": "Nintendo confirma la fecha de su próximo evento Indie World",
+  "resumen": "La compañía Nintendo ha anunciado la realización de una presentación Indie World programada para el 28 de octubre. Durante la transmisión se mostrarán títulos previstos tanto para la consola Switch como para la Switch 2.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "8008358a3ae3",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/siria-y-jordania-buscan-rebajar-tensiones-tras-mortales-bombardeos/a-79782259?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Siria y Jordania acuerdan cooperar para mitigar tensiones tras mortales bombardeos",
+  "resumen": "Los cancilleres de Siria y Jordania expresaron el compromiso de ambas naciones vecinas para reducir la fricción tras recientes ataques letales. Los diplomáticos hicieron énfasis en la relevancia de la ayuda bilateral orientada a combatir el terrorismo.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "89b44abeab0f",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
+  "titulo": "Bolsonaro sale de Brasil rumbo a Estados Unidos para eludir investigación",
+  "resumen": "El excandidato brasileño emprendió un trayecto hacia Estados Unidos con paradas en Argentina y Ecuador para evitar indagatorias sobre blanqueo de capitales. El gobierno argentino verificó esta ruta, mientras Donald Trump manifestó que vería con buenos ojos recibirlo.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "ae26604e8758",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHVubU9wZjE5Wkg1WXVtYy1meWFKQUhvd0o4c2dGVWx5Ukd5RlJDUXNueU5iTFNrV1ZsVlVwc2FZX2NaRG1qWnQxd1pReWc0YWo5TE5halRhQ19MU0E0RnZOTnlaekZhUDNIUzUtT09LSkY0ekczY2JvRG84NTdGYUxGRW9rNWJ3bmI4Wg?oc=5",
+  "titulo": "Liam Hicks analiza las posibilidades en la Serie Mundial",
+  "resumen": "El jugador Liam Hicks dio declaraciones respecto a la permanencia de su equipo en la Serie Mundial. Sus palabras fueron publicadas a través del portal especializado MLB.com.",
+  "categoria": "Deportes",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "bb835da21c42",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmn8wzn7vd26o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Impacto global de las elecciones simultáneas en Israel y Estados Unidos",
+  "resumen": "Dos importantes comicios se llevarán a cabo en distintos continentes en el transcurso de una semana. Las repercusiones de ambos procesos electorales influirán de forma determinante en la geopolítica y la economía a nivel internacional.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "bc41a7d2177f",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm93zw193zd0o?at_medium=RSS&at_campaign=rss",
+  "titulo": "La victoria de Lula en Brasil altera las expectativas de Trump en la región",
+  "resumen": "A pesar de una supuesta moderación en el trato recíproco, el desenlace electoral en Brasil no coincidió con las previsiones del mandatario estadounidense. La presencia de varios puntos de fricción pendientes podría reavivar las disputas entre ambos líderes.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "c07921598455",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Gadi Eisenkot se consolida como el principal opositor de Netanyahu en Israel",
+  "resumen": "El excomandante militar, quien perdió a un hijo en Gaza, disputará los primeros comicios generales en Israel tras los ataques del 7 de octubre. Su figura representa el desafío político más significativo para el primer ministro Benjamin Netanyahu.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
+  "id": "c4ba76b0c3f1",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-27/los-detractores-de-netanyahu-contienen-su-entusiasmo-gano-aunque-sera-dificil-que-siga-siendo-primer-ministro.html",
+  "titulo": "Oposición israelí mantiene la cautela pese al avance frente al partido Likud",
+  "resumen": "Los sectores críticos con el actual gobierno en Israel festejaron el crecimiento electoral de los grupos opositores. No obstante, existe preocupación entre sus filas debido a que la agrupación Likud se mantiene como la fuerza política principal.",
+  "categoria": "Política",
+  "fecha": "2026-10-28T10:22:54.601365+00:00"
+ },
+ {
   "id": "21bb89f34d7f",
   "fuente": "DW Español",
   "enlace": "https://www.dw.com/es/sondeos-el-likud-de-benjamín-netanyahu-ganaría-las-elecciones-en-israel-pero-sería-superado-en-escaños-por-el-bloque-opositor/a-79781625?maca=spa-rss-sp-all-1122-rdf",
@@ -1240,113 +1348,5 @@
   "resumen": "Durante las últimas semanas, el sector progresista se ha movilizado intensamente en las calles y en internet con el objetivo de evitar el retorno de la extrema derecha. A pesar de estos esfuerzos para lograr una remontada, el desenlace electoral sigue siendo totalmente impredecible.",
   "categoria": "Política",
   "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "49597d1ee420",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE9BVVpHSDNDYmdXNUFGNTZfRVoydnE5VzBINVN5VzRLSXBrU2ZsOG1YZ3pNZ25LMDh2VC1hUTliMjk4Z2NUc2gtbEhrVGcwSDZNVTQtOXA1M3NPWExwWkwwdUtsX0VHQ3l4NFZFUzlmVWZ3U052a1dKMmFIWDEtd2F2UQ?oc=5",
-  "titulo": "Declaraciones de Robert Gasser sobre su apertura en el tercer juego de la Serie Mundial",
-  "resumen": "Robert Gasser ofrece declaraciones y analiza los detalles previos a su participación como lanzador abridor en el tercer encuentro de la Serie Mundial de las Grandes Ligas de Béisbol.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "584473494c44",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261025-elecciones-clave-en-serbia-los-estudiantes-disputan-el-liderazgo-de-12-a%C3%B1os-de-vucic",
-  "titulo": "Estudiantes desafían en las urnas el poder de Aleksandar Vucic en Serbia",
-  "resumen": "Un movimiento estudiantil encabeza la oposición contra el partido del mandatario tras años de protestas ciudadanas y un liderazgo de doce años. Mientras la oposición busca canalizar el descontento frente al autoritarismo y la corrupción, los simpatizantes del gobierno defienden sus resultados previos.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "64d81db60660",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261025-netanyahu-alarma-a-los-israel%C3%ADes-con-sanciones-bancarias-y-una-bomba-nuclear-sobre-tel-aviv",
-  "titulo": "Netanyahu advierte sobre catástrofes y crisis financiera si pierde las elecciones",
-  "resumen": "En la recta final de la campaña electoral israelí, el primer ministro Benjamin Netanyahu afirmó que su derrota traería un nuevo holocausto y una bomba sobre el país. Asimismo, alertó a la ciudadanía sobre el peligro de inminentes sanciones financieras internacionales contra la nación.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "6f594eaebfb3",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUpVbnpNQkdINVJfQ1dlVVhTUzByMXFyenVJaGp3cjUwOEtDY1NmeDk0NFY0NkE0dTQtTlB1eHNyTDFudUlWdUJObmw1SnZmOE5oWGxLV05pUnJ3Y3NTWmpBOUk1NlA0YnBlQzh3QUZjalA3ZFFfVzZ6eHl2d2ZDTlRuS2ZFeXVIbkdKa0dIbGhjbllTN2g4T3puTXdadU5iQzFWbnlqY01aNTFIZS1qa21ndFhZSnZwazBQcjlucGlmZGlqdGFQLXVMS2JCWWVLaFlpcVFUYVV5cGg0enVr?oc=5",
-  "titulo": "La cantante Greeicy deslumbra en Caracas con su gira musical",
-  "resumen": "La artista colombiana se presentó en el Poliedro de Caracas este sábado en el marco de su gira \"Candela World Tour\". Ofreció un espectáculo cargado de energía y emoción ante el público presente.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "787cb11dd89a",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261025-serbia-vota-los-estudiantes-desaf%C3%ADan-el-poder-de-vucic-en-las-elecciones-parlamentarias",
-  "titulo": "Elecciones legislativas en Serbia marcadas por el reto estudiantil a Vucic",
-  "resumen": "Serbia celebra unos comicios parlamentarios cruciales luego de años de protestas originadas por la tragedia en la estación de Novi Sad. El movimiento estudiantil se ha posicionado como la principal oposición para enfrentar al partido del exmandatario Aleksandar Vucic, exigiendo transparencia y justicia.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "b6a595f000c1",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cw8d3v7l2d76o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El relato de una infancia marcada por la clandestinidad y la persecución del FBI",
-  "resumen": "Zayd creció huyendo de las autoridades debido a que sus padres formaban parte de Weather Underground, una organización radical estadounidense. Este grupo utilizaba explosivos en edificios del gobierno para protestar contra la desigualdad y la injusticia racial.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-25T15:31:14.502330+00:00"
- },
- {
-  "id": "050cc5f90982",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261025-trump-y-mamdani-votan-anticipadamente-de-cara-a-las-midterms-obama-arremete-contra-trump",
-  "titulo": "Figuras políticas de Estados Unidos impulsan el voto anticipado y realizan actos de campaña",
-  "resumen": "El presidente Donald Trump y la primera dama emitieron su voto por adelantado en Florida tras concluir una gira de apoyo a candidatos republicanos. Por otro lado, el alcalde de Nueva York, Zohran Mamdani, votó de forma anticipada e instó a participar en los referendos locales, al tiempo que el expresidente Barack Obama encabezó un mitin demócrata.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T09:02:26.626787+00:00"
- },
- {
-  "id": "0755fcb88f55",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0NVVnQThUc1MtcDRNb2ljcVJpMW1VZmVOaFFCakNLM1VuRWVFWHV5MXNTS0k3QUpuNUdfWVZwS1pqbFVCSElCN1dseEUwM2dfaVJKd0w3UFVqU004Qlo5VWZHSkMtbmdjT2lWNmVrZTNQcXZ1T002UjdIVi1WQQ?oc=5",
-  "titulo": "Plantean la posibilidad de que Argentina sea la sede del Mundial de fútbol",
-  "resumen": "Un reporte difundido por medios internacionales señala que Argentina debería albergar la Copa Mundial. La información fue difundida por Yahoo Sports a través de la agencia Reuters.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-25T09:02:26.626787+00:00"
- },
- {
-  "id": "27c01865c6b1",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/israel-bloquea-a-cisjordania-el-día-de-las-elecciones-legislativas/a-79753468?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Israel decreta el cierre de pasos con Cisjordania durante la jornada de comicios",
-  "resumen": "Las fuerzas armadas israelíes anunciaron la prohibición de entrada y salida para los trabajadores palestinos en Cisjordania durante el día de las elecciones legislativas. La restricción también contempla el bloqueo de los cruces terrestres durante la jornada electoral.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-25T09:02:26.626787+00:00"
- },
- {
-  "id": "3836638d3d5a",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-25/la-cuna-del-lulismo-mantiene-la-llama-y-la-esperanza-aqui-no-hay-miedo.html",
-  "titulo": "El sindicato donde surgió la figura de Lula muestra optimismo hacia el futuro político",
-  "resumen": "En la organización sindical de metalúrgicos donde se impulsó la carrera del actual mandatario brasileño se percibe un ambiente favorable. Sus integrantes afirman que la población ha despertado y que se mantiene la esperanza sin temor.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T09:02:26.626787+00:00"
- },
- {
-  "id": "3c9c1df8ec23",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/padre-de-meghan-markle-investigado-en-filipinas-por-abuso-infantil/a-79753490?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Autoridades filipinas investigan al padre de Meghan Markle",
-  "resumen": "La policía de Filipinas analiza una computadora portátil encontrada en un inmueble donde habitó Thomas Markle. El dispositivo incautado contendría supuesta pornografía infantil.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-25T09:02:26.626787+00:00"
- },
- {
-  "id": "448021ef9ccd",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUlsN19vM3Z3N01SWDdRNThMYTNoT1JGb005UnlKUW1xdXdLNlBvTENRNmZtZ0I4dS1HVWNBVzI1UzdUNUZNamdpeHByMUZtQ3JjNGNYRnJuUEV6bHl0cU5ZVjZ6djkwakFhWmJyX2Q2bERpOFpkbzQxTmxJM25oLWQyWDdHR2hUZy1GNHgxR2VpMTJIZFA2Y0pONlZYSzg?oc=5",
-  "titulo": "Reflexión de la Asociación Almendrón sobre la situación mundial",
-  "resumen": "La Asociación Almendrón aborda en una reciente publicación la perspectiva del panorama global. El texto señala que existe un consenso general sobre el estado crítico en el que se encuentra el planeta.",
-  "categoria": "Política",
-  "fecha": "2026-10-25T09:02:26.626787+00:00"
  }
 ]
