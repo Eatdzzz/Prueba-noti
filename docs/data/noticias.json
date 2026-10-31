@@ -1,5 +1,113 @@
 [
  {
+  "id": "1bb5c25759c8",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-30/grynspan-lidera-de-nuevo-la-votacion-en-la-onu-pero-el-proceso-sigue-bloqueado-por-la-falta-de-acuerdo-de-las-potencias.html",
+  "titulo": "Estancamiento en la elección del nuevo liderazgo de la ONU pese al avance de Grynspan",
+  "resumen": "A pesar de que Grynspan encabeza nuevamente la votación en las Naciones Unidas, la ausencia de consenso entre las potencias mantiene el proceso bloqueado. La llegada de la emiratí Nusseibeh tampoco ha aportado claridad a la contienda por la dirección del organismo internacional. Ante esta falta de acuerdos, ya se contempla la posible aparición de nuevos aspirantes al cargo.",
+  "categoria": "Política",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "1d7cc4acb339",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm2d62jgk125o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Saboteadores operan desde territorio ruso para respaldar a la inteligencia ucraniana",
+  "resumen": "Una investigación dio a conocer el testimonio de dos hombres que afirman realizar labores de sabotaje desde el interior de Rusia. Según sus declaraciones, estas acciones tienen como objetivo apoyar a los servicios de inteligencia de Ucrania en el marco del conflicto actual.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "24b433f478ee",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261031-luis-carlos-reyes-colombia-no-est%C3%A1-cerca-de-la-quiebra-como-dice-el-gobierno",
+  "titulo": "Polémica en Colombia ante propuesta gubernamental de reforma fiscal y recortes",
+  "resumen": "El Gobierno colombiano presentó un proyecto de ley que plantea reducir el gasto público, aplicar e incrementar el IVA a productos de primera necesidad y disminuir impuestos a las empresas. Frente a esta iniciativa, el exministro Luis Carlos Reyes rechazó que el país esté al borde de la quiebra y abordó la controversia causada por las medidas.",
+  "categoria": "Economía",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "2c35f15cd219",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDYxamo4N3owY3dIZC1EOWlnLTVpN1R4emxsbW5QY3k2d01yT0hLNWJQaUFqcTVIemo5XzlzcjhFTjg4eENMOXZKQVZCckZ0RXdDUHBneF9CN2Qwa2dlOFJORFFaU2xvYmJ6MmtFUkVpRWZWY0M1ZGQ0YzRoemhqZUFJcF83OWhJSjBmdTVabDhGZ19peWtJZ185OUJrVVJwYjNMUg?oc=5",
+  "titulo": "Blizzard habilita la versión de prueba de Relatos de WoW: Midnight",
+  "resumen": "Blizzard News anunció que la demostración correspondiente a Relatos de WoW: Midnight ya se encuentra disponible para el público. Este adelanto permite a los usuarios acceder al nuevo contenido del universo de World of Warcraft.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "2d3d53618825",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/washington-seúl-y-tokio-se-comprometen-con-la-desnuclearización-del-norte/a-79814483?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Estados Unidos, Corea del Sur y Japón acuerdan impulsar la desnuclearización norcoreana",
+  "resumen": "Los gobiernos de Washington, Seúl y Tokio reafirmaron su compromiso para lograr la desnuclearización de Corea del Norte. De acuerdo con la parte estadounidense, este acuerdo se formalizó durante una reunión paralela en el marco de la cumbre del G20 en Atlanta.",
+  "categoria": "Política",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "46e93bc70d4a",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/irán-advierte-de-un-alto-precio-para-europa-si-vuelve-la-guerra-tras-declaraciones-de-merz-desde-corea/a-79814820?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Irán contesta al canciller alemán y advierte sobre el impacto de la guerra para el continente europeo",
+  "resumen": "Teherán desestimó las declaraciones emitidas desde Corea por el canciller de Alemania, Friedrich Merz, quien abogó por una salida diplomática al conflicto bélico en Irán. Asimismo, las autoridades iraníes alertaron sobre las graves consecuencias que afrontaría Europa si las hostilidades vuelven a escalar. El mandatario germano había subrayado anteriormente que el conflicto ya genera un considerable sobrecoste energético en el territorio europeo.",
+  "categoria": "Conflictos",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "4a03c85b5e48",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261031-qu%C3%A9-pasar%C3%ADa-si-trump-pierde-las-mayor%C3%ADas-de-la-c%C3%A1mara-y-el-senado-en-las-midterms",
+  "titulo": "La Casa Blanca enfrenta un escenario adverso ante el posible avance demócrata en las elecciones legislativas",
+  "resumen": "El mandatario estadounidense Donald Trump encara un panorama electoral complejo de cara a los comicios de mitad de mandato. Las encuestas y proyecciones sitúan como favorito al Partido Demócrata, que podría arrebatar la mayoría al Gobierno en ambas cámaras del Congreso. Ante esta posibilidad, se analizan los distintos escenarios que afrontaría la administración republicana si pierde el control del Senado y de la Cámara de Representantes.",
+  "categoria": "Política",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "524325d8216e",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-30/el-papa-pide-las-papeletas-para-votar-por-correo-en-las-elecciones-de-estados-unidos.html",
+  "titulo": "El papa León XIV marca un hito histórico al emitir su voto por correo en los comicios de EE. UU.",
+  "resumen": "León XIV se convirtió en el primer pontífice en participar en un proceso electoral tras enviar su sufragio por correo para los comicios de medio mandato del 3 de noviembre en Estados Unidos. El Vaticano confirmó la acción y señaló que el Santo Padre considera la participación democrática como un derecho y un deber cívico.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "5751b594f7af",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261031-chile-renuncia-viceministro-de-justicia-en-medio-de-crisis-por-reducci%C3%B3n-de-penas-a-pederastas",
+  "titulo": "Dimite el viceministro de Justicia de Chile tras la polémica por la reducción de penas a abusadores",
+  "resumen": "Luis Silva dejó su cargo como viceministro de Justicia de Chile en medio de la controversia provocada por la rebaja de sentencias a unas cincuenta personas condenadas por abuso. Antes de su dimisión, el funcionario afirmó en redes sociales que la medida se había tomado siguiendo las directrices del ministro de la cartera.",
+  "categoria": "Política",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "619f7dbc6f48",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/protestas-multitudinarias-se-extienden-por-italia-durante-una-huelga-nacional/a-79813891?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Multitudinarias manifestaciones recorren Italia en el marco de una huelga nacional",
+  "resumen": "Decenas de miles de personas, compuestas principalmente por trabajadores y estudiantes, se movilizaron en las calles italianas durante una jornada de protesta colectiva. Los manifestantes salieron a exigir un incremento en las remuneraciones salariales y un fortalecimiento de la infraestructura de los servicios públicos.",
+  "categoria": "Sociedad",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "7542dbcd649b",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cm78p1q8pzdzo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Un nuevo libro analiza el caso judicial de una mujer agredida en la Francia del siglo XV",
+  "resumen": "Una reciente publicación relata la contienda legal que inició una víctima de una brutal agresión ocurrida en 1472 en la ciudad de Dijon. La obra invita a reconsiderar las ideas preconcebidas que se tienen en la actualidad sobre la condición de la mujer durante la Edad Media.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
+  "id": "783c4462d509",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/crd93pexj1q5o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Reflexionan sobre la distorsión del relato original de \"Frankenstein\" con el paso del tiempo",
+  "resumen": "A pesar de haber cautivado a diversas generaciones durante más de doscientos años, la icónica novela de Mary Shelley es considerada una obra malcomprendida. El análisis cuestiona cuáles detalles e intenciones de la narración inicial se han extraviado con el paso de las décadas.",
+  "categoria": "Cultura",
+  "fecha": "2026-10-31T10:14:25.449518+00:00"
+ },
+ {
   "id": "05c1b065aa71",
   "fuente": "DW Español",
   "enlace": "https://www.dw.com/es/escala-la-crisis-en-polonia-la-policía-rodea-la-corte-constitucional/a-79813999?maca=spa-rss-sp-all-1122-rdf",
@@ -1240,113 +1348,5 @@
   "resumen": "El Ejército de Estados Unidos anunció la ejecución de una ofensiva en el Pacífico contra una nave sospechosa de tráfico de drogas. Como resultado del operativo militar, cinco personas perdieron la vida.",
   "categoria": "Conflictos",
   "fecha": "2026-10-27T23:31:47.037109+00:00"
- },
- {
-  "id": "5c5440ef729e",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cwkgj2p1ym37o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Kylian Mbappé pide perdón en China tras calificar a Mao de dictador",
-  "resumen": "El futbolista francés desató indignación al referirse al exlíder chino Mao como un dictador durante una entrevista sobre memes. Sus palabras provocaron duras críticas y un movimiento de boicot en el país asiático. Ante la controversia, el jugador tuvo que pedir disculpas públicamente.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-27T23:31:47.037109+00:00"
- },
- {
-  "id": "5df46e392ff3",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/harry-kane-pone-fin-a-la-sequía-de-alemania-en-el-balón-de-oro/a-79781333?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Harry Kane se adjudica el Balón de Oro tras su desempeño en la Bundesliga",
-  "resumen": "El delantero del Bayern Múnich, Harry Kane, fue galardonado con el premio individual de mayor prestigio en el fútbol mundial. El atacante mantuvo su evolución profesional dentro del torneo germano. Este reconocimiento llegó a pesar de que no compite en una de las ligas con mayor exigencia en Europa.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-27T23:31:47.037109+00:00"
- },
- {
-  "id": "6c54ebf0a710",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd21ISHJkSm9XM0YzUXV4UFlFZWdOWXhzWkdkSUdqNGN5RW1vVWxZLWxqNGFJbkRPOFdKaVRZT0M2YnBGUnMtcmlDdk1UODNjUE5waXpRWHBxcC1GMkEtOWRDaU9vNXptTVdFcWhMd2wzQzByZnVib25lSFg2eW1jMUs1dE5mM25wWTh3VVM2M1hGWWdoU3ZXX1d3WVAtU2pzT1pCUDJsYndrVk94eGxKb2l3bEYydW8yeTN5QWVaamVOblhXaksxcTF1RVJoQVJVR2lsMQ?oc=5",
-  "titulo": "Los Rays reciben el cuarto juego de la Serie Mundial con la meta de evitar la barrida",
-  "resumen": "Los Rays de Tampa Bay serán los anfitriones del cuarto partido de la Serie Mundial de béisbol. El equipo enfrenta un momento decisivo en el que necesita ganar para mantenerse con vida. Su objetivo principal en este encuentro es impedir ser barridos por el conjunto rival.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-27T23:31:47.037109+00:00"
- },
- {
-  "id": "728e2c802447",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261027-cu%C3%A1les-han-sido-las-mayores-controversias-del-gobierno-de-netanyahu-en-israel",
-  "titulo": "Elecciones en Israel reflejan una juventud dividida ante la figura de Netanyahu",
-  "resumen": "Las recientes elecciones legislativas en Israel mostraron a una población juvenil que refleja la marcada división de la sociedad. Durante la jornada votante, algunos jóvenes expresaron su rechazo al primer ministro Benjamin Netanyahu, mientras que otros mostraron su respaldo a la derecha nacionalista. Todo este panorama político y debate sobre el futuro del país se desarrolla en un contexto atravesado por la guerra.",
-  "categoria": "Política",
-  "fecha": "2026-10-27T23:31:47.037109+00:00"
- },
- {
-  "id": "79304d16f27f",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
-  "titulo": "Flavio Bolsonaro viaja a Estados Unidos tras los resultados electorales en Brasil",
-  "resumen": "El político Flavio Bolsonaro se encamina hacia Estados Unidos posterior a la derrota en las elecciones de Brasil. La información sobre su traslado fue revelada por fuentes cercanas. La partida se produce en el marco del periodo posterior a los comicios celebrados en la nación sudamericana.",
-  "categoria": "Política",
-  "fecha": "2026-10-27T23:31:47.037109+00:00"
- },
- {
-  "id": "8170f029372c",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261027-apoyo-afroamericano-a-trump-defensa-de-las-pol%C3%ADticas-migratorias-y-voto-castigo-a-los-dem%C3%B3cratas",
-  "titulo": "El respaldo afroamericano a Donald Trump genera debate entre convicción y voto castigo",
-  "resumen": "Donald Trump busca conservar el aumento de votantes afroamericanos que consiguió en elecciones anteriores de cara a las comicios de medio término. Mientras grupos de derecha afirman que este sector busca proteger valores tradicionales, la oposición califica la tendencia como un voto de castigo hacia los demócratas por su falta de resultados. La comunidad afroamericana ha estado vinculada tradicionalmente al partido demócrata.",
-  "categoria": "Política",
-  "fecha": "2026-10-27T23:31:47.037109+00:00"
- },
- {
-  "id": "017c5e207ba0",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-27/el-extrano-caso-de-la-mente-de-las-protestas-en-italia-aparecio-en-redes-pasados-los-disturbios-y-solo-llamo-a-seguir-saliendo-a-la-calle.html",
-  "titulo": "Detienen en Italia a un periodista bajo el nuevo decreto de seguridad por convocar protestas",
-  "resumen": "Un periodista fue arrestado en Italia tras difundir mensajes en redes sociales solicitando mantener las movilizaciones luego de registrados varios disturbios. La detención se produjo bajo la normativa promovida por el gobierno de Meloni, que permite imputar cargos por terrorismo a quienes encabecen protestas. El arresto del comunicador ocurrió antes de que se produjeran nuevos altercados.",
-  "categoria": "Política",
-  "fecha": "2026-10-27T17:21:20.938964+00:00"
- },
- {
-  "id": "0464b55280e2",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Crece la incertidumbre por la desaparición de soldados salvadoreños en territorio haitiano",
-  "resumen": "Se desconoce el paradero de militares de El Salvador asignados a la fuerza multinacional en Haití desde el pasado 18 de octubre. Este hecho ha generado un número creciente de dudas sobre las circunstancias del caso. De forma paralela, la situación se produce en el marco de un ultimátum emitido por el presidente Bukele hacia las pandillas.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-27T17:21:20.938964+00:00"
- },
- {
-  "id": "12cbbdf475f3",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-27/brasil-y-los-duenos-del-algoritmo.html",
-  "titulo": "La victoria de Lula abre el debate sobre el impacto de las plataformas tecnológicas en la democracia",
-  "resumen": "El éxito electoral de Lula evidenció que es factible superar la influencia de los magnates de la tecnología mediante los votos. No obstante, el escenario actual señala la imperiosa necesidad de limitar la injerencia de estos sectores en las instituciones democráticas.",
-  "categoria": "Política",
-  "fecha": "2026-10-27T17:21:20.938964+00:00"
- },
- {
-  "id": "1876d322a03c",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/alto-cargo-hutí-califica-de-declaración-de-guerra-el-apoyo-militar-de-egipto-a-arabia-saudita/a-79773740?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Líder hutí califica como un acto de guerra el apoyo militar egipcio a Arabia Saudita",
-  "resumen": "El representante de la oficina política hutí, Mohamed Alí al Huti, acusó a Egipto y a su Parlamento de declarar la guerra a Yemen tras brindar asistencia militar a Arabia Saudita. A través de un mensaje en Telegram, el dirigente aseguró también que estas acciones benefician de manera directa a Israel.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-27T17:21:20.938964+00:00"
- },
- {
-  "id": "2c36a32d3d66",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/netanyahu-acusa-a-opositores-árabes-israelíes-de-intentar-robar-las-elecciones/a-79775667?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Netanyahu señala a la oposición árabe por presuntas irregularidades electorales",
-  "resumen": "El primer ministro de Israel, Benjamín Netanyahu, sostuvo que la oposición árabe intenta apropiarse de manera indebida de los comicios. Dichas acusaciones ocurrieron tras una serie de detenciones que fueron catalogadas como un evento aislado.",
-  "categoria": "Política",
-  "fecha": "2026-10-27T17:21:20.938964+00:00"
- },
- {
-  "id": "572ad162426b",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/%C3%A1frica-7-d%C3%ADas/20261027-el-%C3%A9bola-salta-a-nigeria-puede-frenarse-su-expansi%C3%B3n-transfronteriza",
-  "titulo": "Confirmación de caso de ébola en Nigeria enciende las alarmas en África",
-  "resumen": "Nigeria confirmó un contagio de ébola por primera vez en más de diez años, tras la propagación de un brote iniciado en la República Democrática del Congo. La detección del virus en África occidental pone a prueba la vigilancia epidemiológica y la capacidad del sistema sanitario ante la movilidad internacional.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-27T17:21:20.938964+00:00"
  }
 ]
