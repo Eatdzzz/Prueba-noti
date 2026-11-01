@@ -1,5 +1,113 @@
 [
  {
+  "id": "04729eeb6f4f",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblRpZDZISHJYTnQ5NF9aZTl4UFhVRFdUaVNuc2E3MkM3NjJBcy1qWFFtTUhMSmdmLU9sN2FFQ3pBcDZwbWNoWkY1NUxDejk0WVJkUnNZWGVjb0JUaVhuYWh5ZThVUWJrU0o2TXVhZXJTWUF3NjVkemFWN2h5Qy1sSGN2dURFbXh2?oc=5",
+  "titulo": "World Central Kitchen concluye su intervención en Urda tras repartir miles de raciones",
+  "resumen": "La organización World Central Kitchen ha finalizado sus actividades en la localidad de Urda, en Toledo. Durante su permanencia en el municipio, la entidad logró distribuir alrededor de 4.000 raciones de comida.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "1776d2e7deb7",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-apunta-trump-a-gobernar-sin-el-congreso-si-los-dem%C3%B3cratas-ganan-las-midterms-as%C3%AD-se-prepara",
+  "titulo": "La Casa Blanca diseña un plan para gobernar mediante decretos ante una eventual victoria demócrata",
+  "resumen": "Asesores del presidente preparan un escenario para gobernar por órdenes ejecutivas, decretos y vetos si los demócratas ganan el control del Capitolio. La estrategia abarca áreas como inmigración, gasto público y aranceles. Además, contempla medidas para contener probables investigaciones parlamentarias contra la Administración.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "1bdb402688dc",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261101-misi%C3%B3n-de-la-onu-en-el-sahara-queda-en-el-limbo-por-vetos-cruzados-de-ee-uu-y-rusia",
+  "titulo": "Los vetos de Estados Unidos y Rusia fuerzan el fin de la misión de la ONU en el Sahara",
+  "resumen": "Los vetos cruzados de Estados Unidos y Rusia en el Consejo de Seguridad han dado por terminada la Misión de las Naciones Unidas para el Sahara. Esta organización fue creada en 1991 con el objetivo de vigilar el alto el fuego entre Marruecos y el Frente Polisario, movimiento respaldado por Argelia.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "1d7f5c6f31d1",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/más-de-100-agentes-de-policía-resultan-heridos-en-violentos-disturbios-en-fráncfort/a-79823376?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Más de un centenar de policías heridos y comercios saqueados tras altercados en Fráncfort",
+  "resumen": "Unos violentos disturbios en Fráncfort dejaron más de 100 agentes de policía heridos. Al menos 17 establecimientos sufrieron daños y cinco fueron saqueados durante los hechos. La policía calcula que se enfrentó a un grupo de entre 1.000 y 1.500 alborotadores.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "1ebad0eaed4a",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObG5jX1JmRk9MMzZBeEZGWjBDQ055R0o4emVHNjdnYU1jNF9VZldjWFAxSGprbXlmQmp4STg2V1R2R0RZd3F5a1NyY1AyZlJtczRqOXY0c0dCRnRCZGVKT2VCOWF4ckRpQzhaZms5SFVPTzRQcm4tZTJPTk9PZS1RSXAyTm9XZTlfMHI2eHlNRTJGa0QtYVNRdzJWRElCTUo5YXlj?oc=5",
+  "titulo": "Gumayusi queda eliminado de Worlds en la etapa suiza",
+  "resumen": "La racha del jugador Gumayusi por conseguir su tercer título consecutivo en Worlds ha llegado a su fin. El competidor concluyó su participación tras ser eliminado en la fase suiza del torneo.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "2d83b96026c6",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-11-01/estados-unidos-somete-a-referendum-el-final-del-trumpismo.html",
+  "titulo": "Elecciones legislativas en Estados Unidos definirán el impacto del trumpismo",
+  "resumen": "Los sondeos anticipan una victoria demócrata en las elecciones de mitad de mandato del martes. La magnitud del impacto que sufran los republicanos determinará el legado del actual presidente.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "3bc8288a7d04",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/rusia-vuelve-a-sufrir-ataques-ucranianos-contra-instalaciones-industriales-y-petroleras/a-79821739?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Ataques ucranianos impactan refinerías y plantas de armas en Rusia",
+  "resumen": "Las fuerzas de Kiev han golpeado una refinería en Kstovo y una fábrica de armas en Rostov en su tercer día de ofensivas a instalaciones petroleras. Por su parte, Moscú respondió atacando las redes de electricidad en Ucrania.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "42e98a69d7ed",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmp0ZEtlNTl6TEpGWUx4M3dtem1OcjJSalk2TFo3QUZINTlWUUtiSUZCYVlVQW42M2JUczIySGxpZE5TTm1OUkdKTTZyNzhsbGVHaXpaQ1EwcGJnT0FLV3ZtQnFITG93enJpOXBKdDBJOFFFcGZfVG5QYXFQc1pOR3ZRWU5xbGVrWms2ZWl2QjhKNnlxYW1qcVhGNWVwOVN5Nm1hMDhR?oc=5",
+  "titulo": "Canelo Álvarez vuelve a ganar el título mundial supermedio del WBC",
+  "resumen": "El pugilista Canelo Álvarez demostró su dominio deportivo con una destacada actuación en el cuadrilátero. Gracias a este triunfo, logró reconquistar el campeonato de peso supermedio del WBC.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "45098ed1ea5d",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-01/turquia-propone-a-ucrania-acoger-una-nueva-ronda-de-negociaciones-con-rusia-y-estados-unidos.html",
+  "titulo": "Turquía ofrece su territorio para una nueva cumbre entre Ucrania, Rusia y Estados Unidos",
+  "resumen": "El gobierno turco planteó albergar una nueva ronda de conversaciones de paz entre las partes involucradas. Ante esta propuesta, el mandatario ucraniano Volodímir Zelenski confirmó desde Estambul su disposición para sostener un encuentro directo con el presidente ruso Vladímir Putin.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "5f5041970749",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/casi-ochocientos-detenidos-en-francia-tras-las-protestas/a-79822514?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Cerca de 800 personas son arrestadas tras jornadas de protesta en Francia",
+  "resumen": "El gobierno francés confirmó que 779 personas fueron aprehendidas tras los disturbios ocurridos recientemente. Además, las autoridades investigan por intento de homicidio el ataque contra un agente de policía que sufrió quemaduras de segundo grado a causa de un cóctel molotov.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "859f271d48cc",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/protestas-de-gen-z-regelt-en-alemania-solo-queremos-que-nos-escuchen/a-79822238?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "El ministro del Interior de Alemania reprocha los actos violentos en las manifestaciones",
+  "resumen": "El funcionario alemán Alexander Dobrindt rechazó públicamente los episodios de violencia registrados durante las movilizaciones de jóvenes en el país. Asimismo, atribuyó la responsabilidad de estos altercados a grupos de extrema izquierda y a agitadores pertenecientes a la comunidad migrante.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
+  "id": "9697aa63f617",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajhoZTUwOC1fSEp0ZmF5eXI1RFgtTlY0M1lkU01DUWIxcmd4akhKVExpaWNtNE5rZlo3QkxRSENmVHBGUEdNSmlfbHpwTGwzWHM5MllaX3dTY3V5R0diRWR3U3dEZ0RQTFFQNWF5YzJqMS1NeUlaY1lPR1ZtNFhBUW9RTHNZTjRjMXVFaUpqS0hYdUsyd0ZPcjhaeFN1ZUtvZmNRMU1RbnZuRXhxTTVuZkljM19TcC1CSnVSMzdmR2w2VkR5c1E?oc=5",
+  "titulo": "Análisis sobre el desarrollo global frente a la inestabilidad internacional",
+  "resumen": "El proyecto World in Progress aborda la búsqueda de caminos para impulsar el avance global en medio del panorama actual. Esta iniciativa explora claves para mantener el progreso frente al desorden que se vive a nivel internacional.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-01T17:36:44.536180+00:00"
+ },
+ {
   "id": "15bf0f0f770c",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
@@ -1240,113 +1348,5 @@
   "resumen": "Teherán señaló que un eventual reinicio de las hostilidades en Medio Oriente generaría un impacto devastador. Actualmente, el país mantiene conversaciones con mediadores para pactar el fin de los enfrentamientos. Además, las negociaciones buscan lograr la reapertura del estratégico estrecho de Ormuz.",
   "categoria": "Conflictos",
   "fecha": "2026-10-29T04:17:24.813592+00:00"
- },
- {
-  "id": "7681b6a39095",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261029-as%C3%AD-fue-la-ruta-de-escape-de-fl%C3%A1vio-bolsonaro-desde-brasil-hacia-estados-unidos",
-  "titulo": "El recorrido de Flávio Bolsonaro tras salir de Brasil con destino a Estados Unidos",
-  "resumen": "Flávio Bolsonaro salió de Brasil en medio de investigaciones judiciales y viajó a Estados Unidos pasando por Argentina y Ecuador. El avión privado en el que se trasladaba junto a su familia realizó una parada técnica en Guayaquil para cargar combustible. Finalmente, la aeronave continuó su ruta hacia Miami, donde desembarcaron.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T04:17:24.813592+00:00"
- },
- {
-  "id": "7df7ea865637",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/muere-juez-estadounidense-de-92-años-que-llevaba-el-caso-de-maduro/a-79791600?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Asignan a una nueva jueza el proceso judicial contra Nicolás Maduro tras la muerte del magistrado",
-  "resumen": "El juez estadounidense de 92 años que manejaba el caso contra Nicolás Maduro ha fallecido. Tras este acontecimiento, el proceso por narcoterrorismo contra el depuesto mandatario venezolano pasó a manos de la jueza Analisa Torres. El cambio de magistrado consta de forma oficial en los archivos del juzgado.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T04:17:24.813592+00:00"
- },
- {
-  "id": "7ecca249c59a",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-estado-de-nueva-york-restringe-el-uso-de-chatbots-por-parte-de-menores/a-79791774?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Nueva York limita el acceso de menores a la inteligencia artificial",
-  "resumen": "Una nueva normativa en el estado de Nueva York obliga a las compañías tecnológicas a impedir que los menores de 18 años utilicen funciones perjudiciales en los chatbots de inteligencia artificial. La medida busca proteger a los jóvenes de los riesgos asociados a estas herramientas digitales.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-29T04:17:24.813592+00:00"
- },
- {
-  "id": "805368af4c50",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cq0lde6plwgpo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Senador brasileño arremete contra los comicios y agradece a líderes extranjeros",
-  "resumen": "Flávio Bolsonaro difundió un mensaje en la red social X donde asegura que las elecciones fueron objeto de un fraude, aunque no presentó pruebas al respecto. Asimismo, criticó duramente al sistema judicial brasileño y expresó su agradecimiento a Donald Trump y Javier Milei tras abandonar el país.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T04:17:24.813592+00:00"
- },
- {
-  "id": "8417beda37c7",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUWFFVnRCbVVCM0JybmI2SjdvdU1ncU44cFIxM3ZWYUJoaGk3SF9zci1yTUpJZzZnVl95YmU0MzBZbjNsenNoM1V5TVhTamlMd3ZsRVJxcjBuMFpSYTVpcnduci1nanFqTHJjRk1peHRsUkltSktmS2tOc0lyRVZxY2RUSV9QYnoydzB3REU2N2oyS3o2aU1yMVg2c044U0E?oc=5",
-  "titulo": "Almaty figura entre las urbes con peor calidad de aire a nivel global",
-  "resumen": "De acuerdo con datos proporcionados por IQAir, la ciudad de Almaty se posicionó dentro del grupo de las diez urbes más contaminadas del planeta. El informe refleja los altos niveles de polución que afectan a esta localidad.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-10-29T04:17:24.813592+00:00"
- },
- {
-  "id": "975db38c3f38",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iTF9OZEhWa3RCNUl4bGl6enUtV2lPaG42WkVVcXk0RVRJWDBRX0xXY1hpV3Z6cGdfMTdOc1hjOXk4cWdwQTRkMVhiSmtQbXhTczNKQWdfSm1hV05naG5GSE5vZUw0d1dp?oc=5",
-  "titulo": "El elenco de 'Jumanji Open World' se reúne para cerrar la saga",
-  "resumen": "Los actores de la producción 'Jumanji Open World' se han vuelto a juntar con el propósito de filmar el cierre definitivo de esta trilogía cinematográfica.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-29T04:17:24.813592+00:00"
- },
- {
-  "id": "00deaa65f0cd",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXZfVUh2ak5wSVkxWFUtRUtoVFF4LXk4SEJ3SGNaY3NEaGQ5SVZaMFZCMFdnVzJjUnRNWFMtSDJjR2ROc0NSTkNpcmlwa3FWVkJyRVluVno5cmdZcDJtOUVTcmJpa1RWME1oN25VU2hVZEFCMHpvMVJ1OWlyRjg4cHRn?oc=5",
-  "titulo": "Brasil clasifica por penales a cuartos de final",
-  "resumen": "La selección brasileña aseguró su pase a los cuartos de final en la Copa del Mundo y en el Festival Sub-15 de la FIFA tras imponerse en la definición por penales. Con este resultado, el equipo continúa en la disputa de ambos torneos.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-28T23:57:11.617888+00:00"
- },
- {
-  "id": "0548e88a1e18",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c893zel32gk7o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Sobrevivientes narran el accidente ferroviario en España",
-  "resumen": "Los pasajeros afectados por la colisión de trenes en España compartieron sus testimonios tras sufrir el violento impacto del siniestro. En el lugar y entre las víctimas se registran momentos de dolor, conmoción y muestra de solidaridad, acompañados también de indignación.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-28T23:57:11.617888+00:00"
- },
- {
-  "id": "07b5cc82af87",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/por-primera-vez-una-mujer-podría-convertirse-en-presidenta-de-alemania/a-79790929?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Alemania podría elegir a su primera presidenta mujer",
-  "resumen": "La presidencia de Alemania se prepara para una renovación institucional tras concluir el mandato de Frank-Walter Steinmeier. La bávara Ilse Aigner se posiciona como la principal favorita para ocupar la jefatura del Estado. De concretarse su elección, sería la primera vez que una mujer encabece la presidencia alemana.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T23:57:11.617888+00:00"
- },
- {
-  "id": "0afead78e73d",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-10-28/flavio-bolsonaro-aterriza-en-miami-tras-huir-de-brasil-via-argentina.html",
-  "titulo": "Flávio Bolsonaro difunde carta desde Estados Unidos y rectifica su autoproclamación",
-  "resumen": "Desde territorio estadounidense, el senador Flávio Bolsonaro emitió una carta extensa en la que se autodefinió primero como el verdadero presidente de Brasil y posteriormente modificó el término a líder. Asimismo, utilizó el texto para agradecer la colaboración de Donald Trump y Javier Milei en su salida del país sudamericano.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T23:57:11.617888+00:00"
- },
- {
-  "id": "15cec156ab9e",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIOFcxWWpqaS1JemZ6U2dXQ3lsZnVITEZRRXNscC1GSUdQUzg3UmRteDhYUlM1dW5FT2VuU0kwUmJ0U3U5YXVrdV9ranZGSTctQ3ZmX0Ywc0RLOVhEaEwzTlRDQW1OOFFYM1E?oc=5",
-  "titulo": "Lanzan el avance de ‘Jumanji: Open World’ con Dwayne Johnson y Jack Black",
-  "resumen": "Se ha presentado el tráiler oficial de la producción cinematográfica ‘Jumanji: Open World’. En este nuevo adelanto, los actores Dwayne Johnson y Jack Black protagonizan momentos en tono de coqueteo.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-28T23:57:11.617888+00:00"
- },
- {
-  "id": "17b3bac95fc7",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-28/el-gobierno-aleman-prepara-una-ley-para-impedir-la-nacionalizacion-de-fondos-inmobiliarios-en-berlin.html",
-  "titulo": "Alemania impulsa una normativa para frenar la expropiación de viviendas en Berlín",
-  "resumen": "El Ejecutivo de coalición alemán trabaja en una propuesta legislativa orientada a frenar la nacionalización de fondos inmobiliarios en la capital. Dicha medida busca hacer inviable, tanto en lo financiero como en lo jurídico, la expropiación de decenas de miles de inmuebles impulsada por la izquierda.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T23:57:11.617888+00:00"
  }
 ]
