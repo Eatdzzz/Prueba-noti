@@ -1,5 +1,113 @@
 [
  {
+  "id": "1eba64b11009",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/un-juez-desestima-demanda-de-trump-al-diario-estadounidense-the-wall-street-journal/a-79820038?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "La justicia desecha la demanda por difamación de Trump contra The Wall Street Journal",
+  "resumen": "Un juez federal resolvió rechazar la querella interpuesta por Donald Trump contra el periódico The Wall Street Journal. El tribunal determinó que el político republicano no logró acreditar que el medio emitiera afirmaciones difamatorias al reportar sobre una carta presuntamente enviada a Jeffrey Epstein.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "2e16403eda92",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/chile/2026-10-30/lo-que-yo-no-quiero-es-verlo-la-impotencia-de-las-victimas-de-los-56-pederastas-a-los-que-el-gobierno-de-kast-rebajo-las-condenas.html",
+  "titulo": "Indignación y temor de las víctimas tras la reducción de penas a decenas de agresores sexuales",
+  "resumen": "Las víctimas de abusos expresaron rabia y miedo ante la liberación de convictos beneficiados por una rebaja en sus condenas. La situación ha intensificado la controversia en el ámbito político, provocando la salida del número dos de la cartera de Justicia mientras el ministro titular se mantiene en su cargo.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "3886106187c8",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-cambio-de-estrategia-en-la-recta-final-de-las-midterms-aparece-obama-y-trump-se-repliega",
+  "titulo": "Ajustes de estrategia partidista en la recta final de las elecciones legislativas de EE. UU.",
+  "resumen": "Los partidos políticos redefinen sus campañas ante la cercanía de los comicios de medio mandato. Los demócratas han recurrido a la alta popularidad del expresidente Barack Obama para sumar apoyos. En contraste, Donald Trump genera posturas divididas entre los republicanos y suspendió su asistencia a ciertos actos clave argumentando afecciones en la voz, en un contexto de desaprobación a su gestión.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "40f680b2d203",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOak1RSjhudUtDaUdsaE91dXdKWk03a2pydmNwTkZOSXNYa1BMSFBUbjJOODRuaXd1ZDdWZUg2eDZBMm15N2Y3VW9JSkJfTWRQOFFmTmRBZDRrbmpaNF9vUmxvakRfa0t1MTJNOU5iNEoxYmJVLVMyOHFvRFZKWnRFZ2g1NHhsd1hsZkE?oc=5",
+  "titulo": "Kimmich reflexiona sobre su emotivo regreso a la actividad deportiva tras el luto familiar",
+  "resumen": "El futbolista Joshua Kimmich abordó los aspectos emocionales que rodearon su retorno al Bayern tras la muerte de su padre. El deportista declaró que la vida sigue su curso a pesar de la difícil pérdida personal.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "578b69a73c69",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cqg7x42xg9m8o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Trump afirma que Bolsonaro puede quedarse indefinidamente en Estados Unidos",
+  "resumen": "El mandatario estadounidense declaró que el político puede permanecer en su país durante el periodo que considere conveniente. Asimismo, especificó que no planea sostener un encuentro con él, quien viajó a territorio norteamericano tras su derrota electoral.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "6051657aa493",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261101-binance-logra-reembolsar-el-90-de-los-activos-robados-por-hackers",
+  "titulo": "Binance restituye la mayor parte de los fondos sustraídos en un ciberataque masivo",
+  "resumen": "La plataforma de criptomonedas anunció la restitución con recursos propios del 90% de los activos robados en un ciberataque de unos 6.300 millones de dólares. Las autoridades responsabilizan del hecho a una agrupación ligada a Corea del Norte. La empresa ha hecho un llamado a la tranquilidad ante este histórico atraco digital.",
+  "categoria": "Economía",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "6440ebad2cc5",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-30/candidatos-encubiertos-para-restar-votos-la-vieja-tactica-electoral-que-planea-sobre-alaska.html",
+  "titulo": "La estrategia de impulsar candidatos sin opciones genera debate en Alaska",
+  "resumen": "La contienda electoral por un puesto en el Senado en Alaska ha devuelto la atención hacia la táctica conocida como \"ballot stacking\". Esta maniobra consiste en promover la candidatura de personas con escasas posibilidades para dividir el voto y perjudicar a un competidor.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "7e78cb612ea9",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYjVVOGE3dFM1QjlrSFVnZ2JYVXpzYkRYZjRDLVB2Wkl5endzUFNKNkN1blhiSjlHcW5zRTFYci0tT0d2bmtxcThqTG9Tak1SOFZWU3VOM2tBX3g2cWMxWFkzMzNfX2xILUpJc042RVNJTF9xcVd1aE5mQlp2akdOMFFzSmZjSDhZOXE5dlJ0YTJJYVM5akh5RUVkVEhueVk5NDZjeWFlbTduN2J3THdaSnRuZGVNTUE2Z3lKeVlzRHF1OTJIZEU0dTduWDZjWVotTDU1d1c5dzEyV2hsWkZiTw?oc=5",
+  "titulo": "El nadador estadounidense Jack impone un nuevo récord mundial en los 100 metros libres",
+  "resumen": "El destacado integrante del equipo estadounidense fijó una nueva marca global en la modalidad de 100 metros libres. La hazaña fue lograda durante las pruebas de natación en piscina corta organizadas por USA Swimming.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "91d2a8bfb27b",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-10-27/postres-variados.html",
+  "titulo": "El valor de la libertad de elección en los procesos electorales de Israel",
+  "resumen": "La capacidad de decidir resulta de gran importancia tanto en el ámbito gastronómico como en los comicios de Israel. Este principio se mantiene firme incluso cuando ninguna de las opciones disponibles parece atractiva.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "a9bb299c1dc8",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NT05VUkRKcThONzBRdFgzcEhhYTRGRC11V2Q5cHlqY0s5cm5jTTBCRGpxNWxhUWs0Rm1icnNGZWRnLXBMbkFQelBvcURicjJPTXY3QlJSSF83NHc2SkhMTFBvSkpTZDk0bXVYZnUtQkdab0RvWngtOQ?oc=5",
+  "titulo": "Se realiza el sorteo de las eliminatorias para el torneo Worlds 2026",
+  "resumen": "Se definió el cuadro de la fase eliminatoria para el evento Worlds 2026. La información sobre el sorteo de los playoffs fue divulgada por Sheep Esports.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "b1f741ee6528",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261101-directo-midterms-y-jueza-frena-amenazas-del-departamento-de-justicia-a-funcionarios-electorales",
+  "titulo": "Freno judicial a las amenazas del Departamento de Justicia contra funcionarios electorales en EE. UU.",
+  "resumen": "Una jueza federal de Estados Unidos prohibió al Departamento de Justicia amenazar con acciones penales a los funcionarios electorales debido a controversias sobre los requisitos de votación. Adicionalmente, se determinó que el organismo debe informar a los involucrados que las advertencias han quedado invalidadas. La medida se tomó en vísperas de las elecciones de medio mandato.",
+  "categoria": "Política",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
+  "id": "c08ab9d09ae8",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/francia-vive-un-tercer-fin-de-semana-de-masivas-protestas/a-79819007?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Miles de personas se movilizan en Francia por tercer fin de semana consecutivo",
+  "resumen": "Francia ha registrado un tercer fin de semana marcado por masivas protestas en las calles. Las cifras oficiales reportadas por el gobierno sitúan la asistencia en 320.000 participantes, en contraste con los 500.000 calculados por los sindicatos.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-01T04:00:00.188460+00:00"
+ },
+ {
   "id": "133cc7791fc5",
   "fuente": "BBC Mundo",
   "enlace": "https://www.bbc.com/mundo/articles/cmwydvgy4xqzo?at_medium=RSS&at_campaign=rss",
@@ -1240,113 +1348,5 @@
   "resumen": "El político enfrenta diversas investigaciones y causas abiertas con la justicia brasileña. Esta situación judicial se relaciona con la decisión de abandonar el territorio nacional.",
   "categoria": "Política",
   "fecha": "2026-10-28T17:56:06.842760+00:00"
- },
- {
-  "id": "39c1a72bf29f",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c68xz74ne57wo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Captan la llegada de Flávio Bolsonaro a Miami tras perder las elecciones",
-  "resumen": "Imágenes documentaron el arribo del político de 45 años en un avión privado a Florida. Su viaje ocurrió tres días después de la derrota electoral en Brasil y tras mencionar que le habrían pedido el pasaporte.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T17:56:06.842760+00:00"
- },
- {
-  "id": "6581d8cf54d3",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261028-equipos-de-emergencia-trabajan-en-el-rescate-de-pasajeros-tras-choque-de-trenes-en-toledo",
-  "titulo": "Operativo de rescate por colisión de trenes en la provincia de Toledo",
-  "resumen": "Dos trenes de pasajeros que transportaban a unas 544 personas chocaron en la vía hacia Sevilla, a la altura de Toledo. Los equipos de emergencia acudieron al lugar para atender a los afectados, mientras el presidente Pedro Sánchez coordina la respuesta desde el puesto de mando.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-28T17:56:06.842760+00:00"
- },
- {
-  "id": "85bbc4c8be2e",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html",
-  "titulo": "Comienzan las complejas conversaciones para formar Gobierno en Israel",
-  "resumen": "Los partidos políticos en Israel han iniciado un complicado proceso de negociación que se prolongará por varias semanas. En estas conversaciones, las formaciones árabes jugarán un papel fundamental para definir si se logra un pacto o si el país debe repetir las elecciones.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T17:56:06.842760+00:00"
- },
- {
-  "id": "8c690837dcc8",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-28/meloni-ataca-a-una-juez-por-dejar-en-libertad-al-presunto-lider-de-las-protestas-en-italia-y-desmontar-las-acusaciones-de-terrorismo.html",
-  "titulo": "Críticas de Meloni a una jueza por liberar a un activista en Italia",
-  "resumen": "La primera ministra italiana ha cuestionado la decisión de una magistrada de dejar en libertad al presunto líder de unas protestas. La jueza argumentó que el periodista arrestado solo promovió una movilización en redes sociales y descartó los cargos por terrorismo.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T17:56:06.842760+00:00"
- },
- {
-  "id": "8c7f0855e12b",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
-  "titulo": "El peso político de los partidos árabes tras los comicios en Israel",
-  "resumen": "Las formaciones árabes lograron una cifra récord de escaños en las recientes elecciones israelíes, posicionándose como un actor indispensable para cualquier alianza del bloque opositor. Mientras tanto, el sector del primer ministro ha lanzado acusaciones de fraude electoral.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T17:56:06.842760+00:00"
- },
- {
-  "id": "b085d16d405f",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/flávio-bolsonaro-aterriza-en-florida/a-79782302?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Flávio Bolsonaro viaja a Florida tras la derrota electoral en Brasil",
-  "resumen": "El excandidato presidencial brasileño se trasladó a Estados Unidos junto a su familia, apenas dos días después de perder en las urnas. Su salida del país ocurre en un contexto donde enfrenta una investigación judicial por sospechas de blanqueo de dinero.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T17:56:06.842760+00:00"
- },
- {
-  "id": "33a28c55a835",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/más-de-100-000-evacuados-en-india-por-el-peligroso-ciclón-arnab/a-79782470?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Evacúan a más de cien mil personas en la India por el paso del ciclón Arnab",
-  "resumen": "El avance del peligroso ciclón Arnab provocó lluvias intensas y vientos violentos en la ciudad portuaria de Kakinada, situada cerca del centro de la tormenta. Ante el impacto del fenómeno y el fuerte oleaje en la costa, más de 100.000 habitantes tuvieron que ser evacuados.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-10-28T10:22:54.601365+00:00"
- },
- {
-  "id": "459b42a2989a",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261028-donald-trump-dice-que-venezuela-le-envi%C3%B3-un-mill%C3%B3n-de-barriles-de-petr%C3%B3leo-como-regalo",
-  "titulo": "Polémica por declaraciones de Donald Trump sobre una donación de petróleo venezolano",
-  "resumen": "Donald Trump afirmó que Venezuela le entregó un cargamento de aproximadamente un millón de barriles de crudo en calidad de regalo, asegurando que dicho petróleo será donado. El mandatario también anticipó una reducción en los precios del combustible a raíz de este hecho. Por su parte, el pacto energético ha desatado indignación y fuertes críticas en diversos sectores políticos del país sudamericano.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T10:22:54.601365+00:00"
- },
- {
-  "id": "466077a8ab2f",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-eisenkot-promete-formar-un-gobierno-sionista-y-estable",
-  "titulo": "Gadi Eisenkot promete un gobierno estable en Israel tras los resultados electorales",
-  "resumen": "El líder de la oposición en Israel celebró los datos preliminares de los comicios legislativos y reiteró su llamado a una transformación política. Durante su discurso, prometió conformar una administración sionista y estable que dirija el país para beneficio de toda la ciudadanía en una etapa de reconciliación.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T10:22:54.601365+00:00"
- },
- {
-  "id": "47624e8f4b0d",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-27/ee-uu-confirma-que-emitira-visados-para-flavio-bolsonaro-y-su-familia.html",
-  "titulo": "Estados Unidos otorgará visados al excandidato brasileño Flávio Bolsonaro y a su familia",
-  "resumen": "Un portavoz del Departamento de Estado confirmó que Washington concederá los visados correspondientes a Flávio Bolsonaro y a sus allegados. De este modo, las autoridades norteamericanas recibirán en su territorio al candidato presidencial derrotado en Brasil.",
-  "categoria": "Política",
-  "fecha": "2026-10-28T10:22:54.601365+00:00"
- },
- {
-  "id": "4a53b3b5b985",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JczM1U0lXVnFvY29NS2I2RkNiN2syazN0ZVdWSGJYeG9reEo4cXBfdnhXbHNiOFpxVWktamlaR3F0LVRJdFMyY3JRR3RpREs0LUw4cTNWazFLMzVQ?oc=5",
-  "titulo": "Nintendo confirma la fecha de su próximo evento Indie World",
-  "resumen": "La compañía Nintendo ha anunciado la realización de una presentación Indie World programada para el 28 de octubre. Durante la transmisión se mostrarán títulos previstos tanto para la consola Switch como para la Switch 2.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-10-28T10:22:54.601365+00:00"
- },
- {
-  "id": "8008358a3ae3",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/siria-y-jordania-buscan-rebajar-tensiones-tras-mortales-bombardeos/a-79782259?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Siria y Jordania acuerdan cooperar para mitigar tensiones tras mortales bombardeos",
-  "resumen": "Los cancilleres de Siria y Jordania expresaron el compromiso de ambas naciones vecinas para reducir la fricción tras recientes ataques letales. Los diplomáticos hicieron énfasis en la relevancia de la ayuda bilateral orientada a combatir el terrorismo.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-28T10:22:54.601365+00:00"
  }
 ]
