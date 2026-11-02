@@ -1,5 +1,113 @@
 [
  {
+  "id": "0896919503d3",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-11-02/protestaran-los-jovenes-con-su-voto-en-estados-unidos.html",
+  "titulo": "El voto joven podría enviar un mensaje a Donald Trump en las elecciones intermedias de EE. UU.",
+  "resumen": "Los electores menores de 30 años en Estados Unidos podrían utilizar las próximas elecciones intermedias para manifestar su postura. A través de sus votos en las «midterms», este grupo tendría la oportunidad de enviar un mensaje al presidente Donald Trump.",
+  "categoria": "Política",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "0aa710b70c58",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/en-foco/20261102-la-carrera-por-la-inteligencia-artificial-silicon-valley-entre-el-miedo-y-el-beneficio",
+  "titulo": "Creciente rechazo y protestas en Estados Unidos ante el rápido avance de la inteligencia artificial",
+  "resumen": "El martes 20 de octubre se realizaron manifestaciones en más de 50 ciudades de Estados Unidos para exigir una pausa en el desarrollo de la inteligencia artificial. La inquietud ciudadana aumenta debido a que el 71% de la población teme que esta tecnología destruya puestos de trabajo. Mientras tanto, Silicon Valley vive un marcado contraste entre inversiones históricas y crecientes temores sobre el sector.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "0adf4115048e",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html",
+  "titulo": "La tensión y el tránsito marítimo en el estrecho de Ormuz mantienen elevados los precios del petróleo",
+  "resumen": "A pesar de un incremento en el tránsito de embarcaciones, el estrecho de Ormuz continúa afectado por un doble bloqueo y constantes ataques. Esta mayor apertura no ha logrado reducir el costo de los hidrocarburos. Por lo tanto, los precios del petróleo se mantienen en niveles extremadamente elevados.",
+  "categoria": "Economía",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "1174036b1cc5",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWklEQUVualgyYktzTUw1QWh1NTZkY0hKeXRDSEh5UHJlWW56TlRDVy1QcGw2SHctb1RrYkktcXU5Nkk4amtHVVhUTmdMOC04dE9DUW1ubHBEcXZzZENHa2R4TjdPQ3RMeHRKV3Myc09pa2tnTEJFSi05RnVDci1RUU5leC0?oc=5",
+  "titulo": "Programación de fútbol internacional con definiciones clave en Brasil para este lunes",
+  "resumen": "La agenda futbolística para este lunes incluye momentos determinantes en la Série B y el torneo Brasileirão. La programación del día abarca tanto definiciones clave en el fútbol brasileño como otros partidos alrededor del mundo.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "184886ac126d",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Un aventurero británico concluye su travesía a pie tras casi tres décadas de viaje",
+  "resumen": "Karl Bushby culmina este lunes un extenso recorrido a pie alrededor del planeta. La travesía del aventurero británico dio inicio en Chile hace 28 años con la meta de retornar a su hogar en el Reino Unido.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "2348f8292bdf",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/ciberataques-lanzan-falsas-alertas-nucleares-en-rusia-y-ucrania/a-79826261?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Ataques cibernéticos mutuos afectan los sistemas de alerta en Rusia y Ucrania",
+  "resumen": "Medios de comunicación y redes sociales informaron que hackers de Rusia y Ucrania atacaron durante la noche los sistemas de alerta de la población de ambos países. Dichas incursiones cibernéticas provocaron la emisión de falsas alarmas nucleares.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "43b4222dc9c0",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cq23dyerrdpko?at_medium=RSS&at_campaign=rss",
+  "titulo": "Tendencia en internet busca identificar la deficiencia de hierro a través del rostro",
+  "resumen": "Múltiples contenidos audiovisuales en internet afirman que es posible identificar la falta de hierro mediante la observación facial. Este tipo de publicaciones sobre la llamada cara de ferritina ha alcanzado millones de reproducciones en línea.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "444e0671b311",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/europa/20261102-en-directo-rusia-y-ucrania-cruzan-acusaciones-sobre-ataques-cibern%C3%A9ticos-tras-fin-del-alto-el-fuego-localizado",
+  "titulo": "Moscú y Kiev cruzan acusaciones por hackeos a sus sistemas de emergencia tras vencer la tregua",
+  "resumen": "Las aplicaciones de emergencia de Rusia y Ucrania sufrieron ciberataques que difundieron alertas falsas sobre amenazas aéreas, químicas y nucleares el lunes 2 de noviembre. Este incidente ocurrió inmediatamente después de que concluyera la tregua en Oleshky, localidad de Jersón ocupada por fuerzas rusas. Ambos bando cruzaron señalamientos por estas interferencias cibernéticas.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "5b2fab505513",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2RLNUtDN19Ubmd1VXIxTzk4MUJxakNfQTlyNDJiSkx6WnFkclNKcTZEbUxQNWkxTTBsMDlBanNGMlNVbTRFaVZhc0FyRndXc3VNdWdYY3ZCcDFMREc2dTdsNTYxVEQzTk5WY3ZFVzFYS3JFMUZZUWFLUTFmaGNTaXRYeG5jMDhGeDVWd0lYMl8zYm11Mm9SUUtEWTBySWF3MTMyYXNLWUZ6VEk?oc=5",
+  "titulo": "Milei plantea a Argentina como un espacio libre de regulaciones para la inteligencia artificial",
+  "resumen": "El mandatario argentino presentó una propuesta para que su país opere como un territorio sin regulaciones destinadas a la inteligencia artificial. La iniciativa busca posicionar a la nación como un punto clave para el desarrollo de esta tecnología.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "5e57d69428ce",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BeWN5NHQtYWVjM2sydmwxTjdLTFNBZ0d3a1RldWlpU29QWWNHUzBwQzZILWxLVllxclZrS3Z6cWhYMFRaMU9hYmRSUHpqbjdSV0w5MW84ZGFLcnBGaHRR?oc=5",
+  "titulo": "Se proyectará documental musical de la gira mundial de Stray Kids",
+  "resumen": "Se anunció la transmisión en vivo del espectáculo correspondiente al tour mundial de la banda Stray Kids programada para 2026. El contenido audiovisual está clasificado dentro de las categorías de música y documental.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "850874fd067f",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/bulgaria-elige-a-su-primera-presidenta-la-socialista-prorrusa-iliana-yotova-arrasa-con-el-57-7-de-los-votos/a-79825918?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Iliana Yotova se convierte en la primera presidenta de Bulgaria tras vencer en las elecciones",
+  "resumen": "La mandataria en funciones Iliana Yotova triunfó en la segunda vuelta de los comicios presidenciales al obtener el 57,7 % de la votación. La candidata prorrusa superó al postulante europeísta Andrey Gyurov, quien alcanzó el 39,4 % de los votos.",
+  "categoria": "Política",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
+  "id": "93cdd3a3db40",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/muere-a-los-34-años-ciara-mageean-campeona-europea-de-1500-m/a-79828183?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Fallece a causa de cáncer la atleta norirlandesa Ciara Mageean",
+  "resumen": "La deportista de Irlanda del Norte perdió la vida a los 34 años tras padecer cáncer, de acuerdo con la información brindada por sus familiares. La excampeona europea de los 1500 metros había obtenido el triunfo más importante de su trayectoria hace dos años.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-02T12:15:42.544759+00:00"
+ },
+ {
   "id": "0ac6952f7cec",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/europa/20261102-el-alto-el-fuego-en-la-regi%C3%B3n-de-jers%C3%B3n-lleg%C3%B3-a-su-fin-tras-la-negativa-de-rusia-a-prorrogarlo",
@@ -1240,113 +1348,5 @@
   "resumen": "Una apuesta en el marco de la Serie Mundial ha puesto en disputa valiosas pinturas del célebre artista Monet. El desafío vincula el ámbito del arte con la definición del campeonato deportivo.",
   "categoria": "Cultura",
   "fecha": "2026-10-30T04:09:26.280674+00:00"
- },
- {
-  "id": "3d7d6ee59b55",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261030-habr%C3%A1-elecciones-rodr%C3%ADguez-confirma-comicios-en-venezuela-machado-se-dirige-a-la-prensa",
-  "titulo": "Delcy Rodríguez confirma comicios en Venezuela mientras María Corina Machado reaparece ante la prensa",
-  "resumen": "La presidenta encargada de Venezuela, Delcy Rodríguez, anunció la celebración de elecciones dirigidas por un organismo electoral renovado. Por su parte, la opositora María Corina Machado ofreció su primera conferencia tras regresar el 28 de octubre, oportunidad en la que agradeció el respaldo de Donald Trump.",
-  "categoria": "Política",
-  "fecha": "2026-10-30T04:09:26.280674+00:00"
- },
- {
-  "id": "53b0dec8a4cb",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261030-putin-califica-de-exitosa-la-tercera-edici%C3%B3n-de-la-cumbre-entre-rusia-y-%C3%A1frica",
-  "titulo": "Vladimir Putin califica de exitosa la tercera cumbre entre Rusia y África",
-  "resumen": "El presidente ruso catalogó como un éxito la reunión celebrada con 21 líderes del continente africano. Más allá de estrechar lazos diplomáticos, el gobierno ruso busca obtener acceso a recursos mineros y estructurar canales comerciales para esquivar las sanciones aplicadas por Occidente.",
-  "categoria": "Política",
-  "fecha": "2026-10-30T04:09:26.280674+00:00"
- },
- {
-  "id": "68189a5424fe",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html",
-  "titulo": "La victoria de Lula impacta a la derecha brasileña y representa un revés para Trump",
-  "resumen": "La remontada histórica de Lula significó un duro golpe para el expresidente estadounidense Donald Trump. Asimismo, la derrota sufrida por Flávio Bolsonaro ha desencadenado una lucha interna para definir al nuevo líder de la derecha en Brasil.",
-  "categoria": "Política",
-  "fecha": "2026-10-30T04:09:26.280674+00:00"
- },
- {
-  "id": "6972441ebea6",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cwvgr021p725o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El pueblo de Urda se moviliza en auxilio de las víctimas de un grave accidente ferroviario en España",
-  "resumen": "La pequeña localidad española de Urda, con algo más de 2.500 residentes, se unió para prestar apoyo ante un trágico descarrilamiento de trenes. Según reportó la periodista Lorena Motos desde la zona, los vecinos jamás imaginaron sufrir un suceso de tal magnitud en una vía férrea tan habitual para la comarca.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-30T04:09:26.280674+00:00"
- },
- {
-  "id": "6eb8ef14b0ed",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPN2VWQ3l6THBVRGVDMGIzMFBFaEJibEdEdXlMVzZQV3VJY19XQzZVd2ZqMlE3MFlUM3NPNnlmQkdHT2Q4S3piUFRSLUxtTVdoTnMzZFg0YUR4TUtzWmppMnJ6OFpQdTdIemktMmVrQ3MxYnlHOG9ZblQ2NEZFeTU1V0NsWDNya1pDejBQaEdHN245OFhRTzdRTmlzOXZIcjNuZVpKN3RQeGc2NDhWcDhqZnkyZmpYX1d5REdRYXhmUTN2dWdFaDQzWTVQc19DLTJJaFQzVllHa3FiaWg1UTNHdm5ET2RCTGp3RmxQdDF0ZGFzeHpXX1AtQU4zSXo1M0E?oc=5",
-  "titulo": "El ballet de la Ópera Nacional de Bucarest conmemora su día internacional",
-  "resumen": "Una serie de fotografías retrató a los bailarines pertenecientes a la Ópera Nacional de Bucarest en el marco de las celebraciones por el Día Mundial del Ballet. La muestra fotográfica captó la participación de los artistas durante esta fecha especial.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-30T04:09:26.280674+00:00"
- },
- {
-  "id": "75ec1a80817b",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261030-midterms-en-alaska-los-dos-dan-sullivan-en-las-papeletas-que-ponen-en-aprietos-a-los-dem%C3%B3cratas",
-  "titulo": "Confusión de nombres y trabas legales amenazan la estrategia demócrata en las elecciones de Alaska",
-  "resumen": "Las esperanzas del Partido Demócrata de ganar el control del Senado podrían frustrarse en Alaska. La Administración Trump contempla usar al Departamento de Justicia para impedir la certificación electoral si triunfa Mary Peltola, mientras la disputa se complica por la presencia de dos candidatos llamados Dan Sullivan, hecho que según el New York Times podría ser intencionado.",
-  "categoria": "Política",
-  "fecha": "2026-10-30T04:09:26.280674+00:00"
- },
- {
-  "id": "040776047788",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cj62y4eq3d26o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Intensa ofensiva contra la corrupción dentro del Partido Comunista de China",
-  "resumen": "El mandatario Xi Jinping impulsa la purga interna más amplia de su gestión tras describir la corrupción como el mayor peligro para el país. Por su parte, diversos analistas sostienen que este despliegue responde a una estrategia orientada a afianzar y preservar su propio liderazgo.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "0c7bd64e4279",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/protestas-estudiantiles-alemania-teme-escenas-como-las-de-francia/a-79801708?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Preocupación en Alemania ante las próximas movilizaciones de estudiantes",
-  "resumen": "Integrantes de la Generación Z en Alemania preparan manifestaciones para exigir avances en materia educativa y mayores medidas de cuidado climático. Ante esta convocatoria, miembros de la esfera política temen que ocurran desórdenes parecidos a los de Francia, si bien los especialistas remarcan marcadas diferencias.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "1c0636ddb0b6",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-adn-vincula-al-asesino-serial-ted-bundy-con-otro-crimen-ocurrido-en-1974/a-79799895?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Identifican a Ted Bundy como responsable de un asesinato cometido en 1974 gracias a pruebas genéticas",
-  "resumen": "Un reciente examen de ADN posibilitó el esclarecimiento del homicidio de una menor de 17 años ocurrido en Utah, Estados Unidos, hace 52 años. A partir de estos análisis, las investigaciones lograron vincular formalmente el crimen con el asesino en serie Ted Bundy.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "1d9d87350df8",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTdpZ1d5UER5UWpib2xXLXljd3g4M1RJYmhYcWRWWkdEWDhCbXpjRlBKdEVZNHUyRFo3OUNsQWFPNFRyT3VCN0RJTTdCTEZzN1FaT3RJSHJBZ0dpZTM4eWg1NW5IM2E0cHJJa25VSHlsUm90RGUwLUcwMkMxck1NMzN0Rkk?oc=5",
-  "titulo": "Christian Yelich ofrece declaraciones sobre su consagración en la Serie Mundial",
-  "resumen": "El beisbolista Christian Yelich abordó lo que significa coronarse campeón de la Serie Mundial en declaraciones ofrecidas a MLB.com. Sus palabras forman parte de la cobertura brindada por la plataforma deportiva en torno a este logro.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "200d609c95e1",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-29/corea-del-norte-lanza-mas-de-diez-misiles-balisticos-en-plena-escalada-de-tension-con-corea-del-sur.html",
-  "titulo": "Corea del Norte intensifica las tensiones bilaterales tras lanzar una decena de misiles",
-  "resumen": "Las autoridades de Seúl han denunciado la prueba militar en la que Corea del Norte lanzó más de diez misiles balísticos. Según el gobierno surcoreano, este ensayo agrava la crisis bilateral iniciada en septiembre tras la detonación de varias minas en la zona desmilitarizada.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "219ed04fe8c2",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/corresponsales/20261029-la-batalla-decisiva-por-el-voto-latino-en-las-elecciones-de-mitad-de-mandato",
-  "titulo": "El electorado latino se consolida como un grupo clave en las elecciones intermedias de Estados Unidos",
-  "resumen": "Tanto republicanos como demócratas disputan el respaldo de la comunidad latina en los comicios de mitad de mandato, especialmente en estados determinantes como Pensilvania. A pesar de que Donald Trump obtuvo cerca del 42% de este sufragio en 2024, el aumento del costo de vida y las operaciones migratorias han provocado un creciente descontento en el sector. Por ello, ambas agrupaciones políticas buscan atraer a estos electores para asegurar su triunfo en las urnas.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
  }
 ]
