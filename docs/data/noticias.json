@@ -1,5 +1,113 @@
 [
  {
+  "id": "0ac6952f7cec",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/europa/20261102-el-alto-el-fuego-en-la-regi%C3%B3n-de-jers%C3%B3n-lleg%C3%B3-a-su-fin-tras-la-negativa-de-rusia-a-prorrogarlo",
+  "titulo": "Concluye el cese al fuego en Jersón ante el rechazo de Rusia a extenderlo",
+  "resumen": "La tregua de mayor duración en el conflicto ucraniano finalizó el domingo debido a que Rusia optó por no prolongar el pacto. Este cese temporal de hostilidades, vigente desde el martes en la región de Jersón, facilitó el desarrollo de una misión humanitaria en la localidad de Oleshky.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "1ef3f1686832",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/ckgelpgle3lno?at_medium=RSS&at_campaign=rss",
+  "titulo": "El respaldo a Israel influye en las reñidas elecciones legislativas de Estados Unidos",
+  "resumen": "La postura de Washington hacia Israel se ha transformado en un factor determinante para los votantes de diversas posturas en Estados Unidos. Esta inquietud está movilizando al electorado en una de las contiendas más ajustadas de las elecciones de mitad de mandato.",
+  "categoria": "Política",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "3c31c36b8f2b",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/rusia-enfrenta-ciberataque-masivo-contra-aplicación-del-ministerio-de-emergencias/a-79825073?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Vulneran la aplicación de alertas de seguridad del Ministerio de Emergencias ruso",
+  "resumen": "Un ataque informático a gran escala afectó el funcionamiento de una herramienta móvil del Ministerio de Emergencias de Rusia. Dicha plataforma digital se encarga de advertir a los ciudadanos ante posibles ataques ucranianos y otros peligros.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "4103d33c334c",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/el-italiano-andrea-kimi-antonelli-se-convierte-en-méxico-en-el-campeón-más-joven-de-la-fórmula-1/a-79825067?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Andrea Kimi Antonelli bate récord de precocidad al coronarse en la Fórmula 1",
+  "resumen": "El automovilista italiano consiguió el campeonato mundial de la máxima categoría durante la competencia disputada en Ciudad de México. Con solo 20 años cumplidos, rebajó en tres años la plusmarca que pertenecía al piloto alemán Sebastian Vettel.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "44563edf9ac5",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZ0kwOFV4alM0NGUyaGRKbkJTVExza1Z3cU9QLVd0NGxNZlg2djNfQ1poRjJGc2JLQWlqU0pMcnV4dTc5SHNabTc1SHlrdk5WbGZiYVFST3VsZEdsUXF3NFlkSjFhVUh2R3c?oc=5",
+  "titulo": "El festival Jakarta World Cinema reanudará su competencia de primeras películas con jurado internacional",
+  "resumen": "El festival Jakarta World Cinema planea retomar su competencia dedicada a las primeras producciones cinematográficas de los directores. Para esta edición, el certamen contará con la participación de un jurado internacional encargado de evaluar las obras presentadas. La iniciativa busca relanzar la sección competitiva de óperas primas dentro del marco del evento.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "490c00182a31",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3o3c3I0c0dDdExUbG94ajlZWjJWOFpiMWhyVjM0RFFScnhOOU0zNlVheFlWZEVDcHdRVmFtTk4zTXRJazNLNmlYMHZ5ZXJtTFUzWll2N0p6TnRNOXNESDNUNlY0WWd3Y1V3ajFwNktRYnBXWl9KRWZUZThPZTZodXJrWGZuN2gtVzVCWW0wdkxvUE5CRjdjZWJsODJrcEhyWDZB?oc=5",
+  "titulo": "Reflexiones sobre la destacada temporada de béisbol en Tampa Bay a pesar del tropiezo final",
+  "resumen": "A pesar de que el desenlace en la Serie Mundial no fue el esperado, el desempeño mostrado en Tampa Bay dejó una valoración positiva de la campaña. El recorrido del equipo a lo largo del año fue considerado una gran experiencia y un regalo para la localidad. Aunque la derrota representó un tropiezo, el balance general del torneo resulta muy favorable.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "56e5024a4c49",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Tragedia aérea en Florida deja nueve personas fallecidas tras el impacto de un jet privado",
+  "resumen": "Una aeronave privada se precipitó a gran velocidad y se estrelló en un vecindario del condado de Palm Beach, en Florida. El accidente aéreo provocó la muerte de nueve personas según los reportes del suceso. Residentes de la zona captaron imágenes de la caída y compararon el impacto del avión con la llegada de un misil.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "595846272d75",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uRUpOaG5TTzI3a0d6dmZ6SGhOTnB5LUlKblBkVGVLUGtrT0w1Z1Btd3p3SVY5ZlJNR2dBUjlwLTA0UHVFTDcxVTN5YUpacnpJZHc1emhEeDk0TTRRdmFTUTBmdV9udVZBMDR4d3hncDVMeG8w?oc=5",
+  "titulo": "Revisión histórica de los campeones más jóvenes en la historia de la Fórmula 1",
+  "resumen": "Un recuento deportivo examina a los pilotos de menor edad que han logrado coronarse con el título de la Fórmula 1. La información aborda los récords de precocidad alcanzados por los competidores en la máxima categoría del automovilismo. Se destaca la trayectoria de los conductores que hicieron historia al ganar el campeonato siendo muy jóvenes.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "59b2ea0add86",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/españa-identifica-a-12-extranjeros-muertos-en-accidente-ferroviario-en-urda/a-79825058?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Identifican a víctimas extranjeras del choque ferroviario en la localidad de Urda",
+  "resumen": "Tras la colisión de trenes ocurrida en Urda, las autoridades confirmaron la pérdida de vida de doce personas de origen extranjero. Entre los fallecidos identificados se encuentran un ciudadano francés, un portugués, cuatro estadounidenses y dos personas latinoamericanas.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "8a53b65e1d26",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-01/la-batalla-politica-en-polonia-deriva-en-una-guerra-abierta-por-el-control-del-tribunal-constitucional.html",
+  "titulo": "Tensión política en Polonia por el dominio del Tribunal Constitucional",
+  "resumen": "La pugna por la conducción del Tribunal Constitucional en Polonia desencadenó una confrontación directa entre sectores políticos. Durante la madrugada del sábado, el presidente polaco intentó ingresar a la sede de dicha institución, hecho que avivó el conflicto. Esta acción terminó por polarizar radicalmente a los simpatizantes y opositores del mandatario.",
+  "categoria": "Política",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "9554271e2c4f",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-10-31/agentes-armados-coacciones-de-trump-y-carcel-los-funcionarios-electorales-se-preparan-para-la-jornada-mas-dificil.html",
+  "titulo": "Funcionarios electorales bajo presión de cara a los comicios legislativos en EE. UU.",
+  "resumen": "El personal responsable de validar los resultados de las votaciones anticipa una jornada especialmente compleja para los comicios del próximo martes. Los ataques del presidente para desacreditar las elecciones legislativas han colocado a estos trabajadores en el centro de las presiones. Entre los riesgos que enfrentan los funcionarios se señalan coacciones, presencia de agentes armados y penas de prisión.",
+  "categoria": "Política",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
+  "id": "a3cb7bdbed7a",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261102-el-respaldo-de-haley-stevens-a-mike-rogers-implica-una-fractura-en-el-partido-dem%C3%B3crata",
+  "titulo": "Respaldos cruzados sacuden la contienda por el Senado de Michigan",
+  "resumen": "La congresista demócrata Haley Stevens expresó su apoyo al republicano Mike Rogers en la disputa por el Senado en Michigan a escasos días de las elecciones. La decisión ha generado debate sobre una posible ruptura en el Partido Demócrata a poco de la jornada electoral. El sociólogo y analista político Carlos Manuel Indacochea evaluó las repercusiones de este escenario.",
+  "categoria": "Política",
+  "fecha": "2026-11-02T04:06:04.650362+00:00"
+ },
+ {
   "id": "32012faf6972",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/video/20261101-ice-deportaciones-y-migraci%C3%B3n-dos-a%C3%B1os-de-trump-y-lo-que-est%C3%A1-en-juego-en-las-midterms",
@@ -1240,113 +1348,5 @@
   "resumen": "Tanto republicanos como demócratas disputan el respaldo de la comunidad latina en los comicios de mitad de mandato, especialmente en estados determinantes como Pensilvania. A pesar de que Donald Trump obtuvo cerca del 42% de este sufragio en 2024, el aumento del costo de vida y las operaciones migratorias han provocado un creciente descontento en el sector. Por ello, ambas agrupaciones políticas buscan atraer a estos electores para asegurar su triunfo en las urnas.",
   "categoria": "Política",
   "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "24319702fef9",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSkprUWhuTDFLVVcwby1ySjVxT0QzUUxaVVNKdlNPZ1d5dUZPeXd1S0JPR3YxYkFTYjYwVWc1dmxUUzQ3dXREUUN4NWhuTjBnRUVvMnBkVzRudDJwT3NSczZCUzh1ZU5UQXdqNmVIX0ozT0VLY0JxdHJjZXBzMklhLWpqSVRhQQ?oc=5",
-  "titulo": "Alexander Zverev se alista para asumir el liderazgo del ranking mundial de tenis",
-  "resumen": "El tenista Alexander Zverev se encamina a convertirse en el nuevo número uno del circuito internacional. Este logro situará al atleta en la cúspide del ordenamiento mundial de su disciplina deportiva.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "337581c0ef35",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/muere-patrick-stewart-actor-de-viaje-a-las-estrellas-y-x-men/a-79802941?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Fallece el actor Patrick Stewart, figura de famosas franquicias del entretenimiento",
-  "resumen": "Se ha reportado la muerte del célebre artista Patrick Stewart. El intérprete era ampliamente conocido por su trabajo en producciones de gran renombre como \"Viaje a las estrellas\" y \"X-Men\".",
-  "categoria": "Cultura",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "45d222d1ecac",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-29/el-atacante-de-trappes-admite-que-disparo-contra-musulmanes-y-africanos-por-racismo.html",
-  "titulo": "Detenido un hombre en Francia tras perpetrar un ataque armado por motivos racistas",
-  "resumen": "Un individuo identificado como Kevin T. mató a una persona e hirió a otras cinco en dos municipios cercanos a París. El arrestado confesó que su objetivo era disparar contra musulmanes y personas africanas. Las autoridades encontraron armas y emblemas del partido de Marine Le Pen en su domicilio.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "59488c0f99d7",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/francia/20261029-motivaci%C3%B3n-racista-y-emblemas-de-extrema-derecha-las-revelaciones-del-fiscal-sobre-el-tirador-de-trappes",
-  "titulo": "La fiscalía francesa detalla la preparación del tiroteo con trasfondo racista en Trappes",
-  "resumen": "El fiscal antiterrorista Olivier Christen reveló que el hombre de 39 años responsable del ataque actuó con un alto nivel de preparación previa. El tiroteo dejó un saldo de un muerto y siete heridos, y el agresor admitió haber dirigido sus disparos hacia musulmanes y personas de origen africano o norteafricano. Aunque en su vivienda se hallaron pegatinas de extrema derecha, el acusado afirmó que no milita en ningún partido.",
-  "categoria": "Sociedad",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "5d14603b9612",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-29/la-candidata-de-la-izquierda-en-berlin-teme-por-su-vida-al-oponerse-a-radicales-afines-a-su-partido.html",
-  "titulo": "Una candidata política en Berlín teme por su vida tras cuestionar a grupos afines a Hamás",
-  "resumen": "Elif Eralp, aspirante del partido Die Linke en Berlín, admitió sentir miedo por su integridad física al oponerse a sectores radicales próximos a Hamás. Esta situación se hizo pública después de que su propia formación política difundiera por equivocación un documento interno.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "859dc0369012",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/cultura/20261029-muere-patrick-stewart-estrella-de-star-trek-y-x-men",
-  "titulo": "Fallece el célebre actor Patrick Stewart",
-  "resumen": "Se confirmó el fallecimiento de la estrella internacional de la actuación Patrick Stewart. El artista era ampliamente reconocido por sus papeles emblemáticos en las franquicias de 'Star Trek' y 'X-Men'.",
-  "categoria": "Cultura",
-  "fecha": "2026-10-29T20:55:29.364857+00:00"
- },
- {
-  "id": "076755c3a891",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORG5uSVdhSGhlc0psVGp3NVJ1MVMtT0NpZTZUcUN3MTZ2VlBYbXFyUGF5V1RKckxLSjZoZ2xXUXZHU3dZa1hyLTdiU3B5ZFo4S0pxcXpHejJVN0lYSklUTG9YZU9JTkM5VERkQ0dIRndQRUJRMHkzWGgyWXU2ZXVHd0hCNjNGSkk?oc=5",
-  "titulo": "Los Brewers conquistan su primer campeonato en la Serie Mundial",
-  "resumen": "El equipo de los Brewers logró adjudicarse el primer título de la Serie Mundial en su historia. Este acontecimiento fue anunciado a través de la sección matutina del portal MLB.com.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-29T14:59:21.812900+00:00"
- },
- {
-  "id": "133957a1e758",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-10-29/varios-muertos-en-un-ataque-ruso-contra-una-estacion-de-tren-de-la-ciudad-ucrania-de-dnipro.html",
-  "titulo": "Ataque con dron ruso en Dnipró deja al menos 13 víctimas mortales",
-  "resumen": "Un dron ruso a propulsión impactó contra el andén de una estación ferroviaria en la ciudad ucraniana de Dnipró mientras un tren estaba detenido. La ofensiva provocó la muerte de al menos 13 personas. Asimismo, el hecho dejó un saldo de por lo menos una decena de heridos.",
-  "categoria": "Conflictos",
-  "fecha": "2026-10-29T14:59:21.812900+00:00"
- },
- {
-  "id": "2f80dca39b81",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261029-sobres-dobles-y-voto-%C3%A1rabe-las-claves-que-definir%C3%A1n-el-futuro-de-israel-tras-las-elecciones",
-  "titulo": "Los sufragios pendientes y el voto árabe definirán los escaños en Israel",
-  "resumen": "El resultado final de las elecciones israelíes está sujeto al conteo de los 'sobres dobles', que representan cerca del 10% del electorado entre militares, médicos y diplomáticos. Estos votos pendientes podrían alterar la distribución final de los escaños parlamentarios. Por otro lado, el respaldo masivo de los votantes árabes israelíes dio un impulso notable a la Lista Unida.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T14:59:21.812900+00:00"
- },
- {
-  "id": "3b4b9bd7385b",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSlR4RVpVbVhOOG5xZ2xtSWZkakVnM1JibFIyNnhyM1J1V29palN6LXlFNnZfblpPRU1ZU2g0OVpaSm1zMi01emFhWG5KWUxhejJod0JJM0lOX2JFYmM5ZC1mNTVHd2VuV1pDZVZsdlY3TFhzWjAzTGdoQ196RVZoek1fZXh0dmc?oc=5",
-  "titulo": "Brasil queda fuera del Mundial Sub-15 tras caer en penales",
-  "resumen": "La selección brasileña fue eliminada en la definición por penales durante los cuartos de final de la Copa Mundial Sub-15 de la FIFA. El partido formó parte del desarrollo del torneo y festival juvenil.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-29T14:59:21.812900+00:00"
- },
- {
-  "id": "3e74ede1acca",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cde0y18jxe5o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El giro político a la derecha fortalece los lazos de Israel con América Latina",
-  "resumen": "Las relaciones entre Israel y la región latinoamericana están viviendo un nuevo impulso. Este acercamiento se explica por el reciente cambio en la configuración política y la tendencia hacia la derecha en la zona.",
-  "categoria": "Política",
-  "fecha": "2026-10-29T14:59:21.812900+00:00"
- },
- {
-  "id": "50139a35229a",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHdlNmRBcUNPdGFHXzI4UWVHMlJKcC1UTDVmcUduYktmRjgtc2E4eFlTX2FFRm5qSlJVQ0ZqUHJ3UWVyU0Q5dTI4OUVEU3ZTdWswamFtYlJYWG5pWlhKcUtQVkNxQnBqQ3RpdVBNNDhrUlo1c2FzOS1rdk9WTU1BRXVNMF9RWnBfZTFObHhiV2tlM2s5dHB1X0VHbloycTg?oc=5",
-  "titulo": "Los Milwaukee Brewers se coronan campeones de la Serie Mundial por primera vez",
-  "resumen": "El equipo de los Milwaukee Brewers conquistó el primer título de la Serie Mundial en toda su historia. Este logro inédito representa un hito definitivo para la franquicia.",
-  "categoria": "Deportes",
-  "fecha": "2026-10-29T14:59:21.812900+00:00"
  }
 ]
