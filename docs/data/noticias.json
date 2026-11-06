@@ -1,5 +1,113 @@
 [
  {
+  "id": "0a9525953fc0",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/acciones-de-ia-respiran-tras-desplome-por-elecciones-en-ee-uu/a-79879675?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Las acciones de inteligencia artificial repuntan en Wall Street al cierre de la semana",
+  "resumen": "El temor a futuras regulaciones y trabas en la infraestructura causó una caída en Wall Street el jueves, influenciada por los comicios en Estados Unidos. A pesar de este retroceso, los títulos vinculados a la inteligencia artificial lograron recuperarse y finalizar la semana en terreno positivo.",
+  "categoria": "Economía",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "11d9d9b1e058",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Miguel Vázquez, el atleta y banquero milenial ligado a la crisis paraguaya",
+  "resumen": "El deportista y banquero milenial Miguel Vázquez se sitúa en el centro de la actual crisis en Paraguay. Vázquez figura como el accionista mayoritario de la firma Grupo Vásquez, propietaria de la entidad Ueno Bank.",
+  "categoria": "Economía",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "1ad41ed07b1b",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+  "titulo": "Arrestan en Paraguay al mandatario destituido Santiago Peña",
+  "resumen": "Las fuerzas policiales de Paraguay detuvieron a Santiago Peña tras haber sido destituido de la presidencia. El suceso fue transmitido y reportado en vivo.",
+  "categoria": "Política",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "1ad41ed07b1b",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+  "titulo": "La policía paraguaya pone bajo custodia al expresidente Santiago Peña",
+  "resumen": "El destituido presidente paraguayo Santiago Peña fue puesto bajo arresto por las autoridades policiales. El hecho trascendió a través de una cobertura en directo.",
+  "categoria": "Política",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "1ad41ed07b1b",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+  "titulo": "Ordenan el arresto de Santiago Peña en Paraguay tras ser apartado de su cargo",
+  "resumen": "La Fiscalía paraguaya dispuso una orden de captura contra Santiago Peña luego de que se produjera su destitución. La situación fue reportada a través de una cobertura en vivo por France 24.",
+  "categoria": "Política",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "1ecaa81bf8b9",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelJKTWVicWVKV0FVdjJhYXFnaktiUzhBaVJrNDlGTldaZzlndDhwdElkLXU0UEtWOE1HVUhOT3RrcVRzUVpZUURzTkowM1FBVUFMbGdkZHF0OVZWMXVhbHVxUWhfOTB0VUdqZnZMRV8wQWlRNjVlbUJtY1RheHpIOXdxbEJsVElnQllwbDdFVmNycTlzUWFBbnpn?oc=5",
+  "titulo": "Mención informativa sobre la Confederación Mundial de Béisbol y Sóftbol",
+  "resumen": "El servicio de noticias Reuters World registró una entrada referida a la Confederación Mundial de Béisbol y Sóftbol (WBSC). El contenido suministrado se limita a enunciar el nombre de dicha entidad deportiva internacional.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "2f25e194be64",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c5398ejlw7jro?at_medium=RSS&at_campaign=rss",
+  "titulo": "La escritora Rosa Chávez Yacila aborda los trastornos mentales familiares en su nueva obra",
+  "resumen": "La periodista y autora peruana Rosa Chávez Yacila lanzó la novela de carácter autobiográfico titulada \"Las nerviosas\". La obra examina las afecciones de salud mental que han marcado la trayectoria de su círculo familiar. Asimismo, la autora expone la responsabilidad de rescatar a los padres cuando se procede de un entorno con escasos recursos.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "3c3d0d476a7e",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbERBNmxKaURlTEg5bFJVczY1RzFfbXFqbWlocmJVVHdsczNoVk9Zem80eTNzRURQTG1Ja3V0azVEN2xBWVRjazJHVE9JeXhyRTAwazBiNlJHWmNoWW4tb2I4SWV0TlB1cHB5ZzBRUUQ4ZFBJRU1fckVnZXlGTktJbERfTFE4ZnBa?oc=5",
+  "titulo": "Califican de falsa una supuesta carátula de The Economist vinculada al año 2027",
+  "resumen": "Un proceso de verificación efectuado por la agencia Reuters concluyó que es apócrifa una presunta portada atribuida a The Economist. El contenido desmentido exhibía a una serie de personas frente a un domo y un pastel con el año 2027.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "45152a907dc1",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Relevo presidencial en Paraguay tras la salida de Santiago Peña",
+  "resumen": "El Congreso paraguayo apartó a Santiago Peña de la jefatura de Estado y juramentó a Pedro Alliana en su lugar. Tras perder el cargo, el exmandatario podría afrontar posibles responsabilidades de índole penal derivadas del caso de Ueno Bank.",
+  "categoria": "Política",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "5153a439b061",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmqjnn8jrqq0o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Pedro Alliana toma posesión como mandatario paraguayo",
+  "resumen": "Pedro Alliana asumió la presidencia de Paraguay tras prestar juramento este viernes. Su llegada al mando se produjo inmediatamente después de que el Congreso apartara a Santiago Peña mediante un juicio político.",
+  "categoria": "Política",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "b4aa95489f93",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hNkctdTdINkpBdlNXTHdzaTFqNlQyb1BXdjR4eEVLc3Z5U3BmZnBxZ2t5RHE3Vmt5dkU4V1NvT0s1ZTMxNlp2WFJyN01UMDA2UXRwUngwbG10eC1fZ29JWW4xejNMY0dqenc?oc=5",
+  "titulo": "El diseño sonoro detrás de las criaturas de 'Godzilla Minus Zero'",
+  "resumen": "La producción de 'Godzilla Minus Zero' implementó sonidos provenientes de la vida real para su ambientación. El propósito de este diseño acústico fue lograr que las criaturas resultaran más aterradoras.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
+  "id": "bedd3b86b5c1",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTE9HQk4zNGhSekdBdUxkSjdPM3NrbmlJVEVENHc2VkZOS0FqSUNiOS1rOUpwcGl4cGV6TDl3WTdsSE1wSVlOakhUazVQdmtlZGoteXgtcFp1QS1nUWcyeFVWT2xNNHVJanM2TWl1dDh0QTE5RWxveXFBRFF1eFVsMlFVWlE?oc=5",
+  "titulo": "Brian Anderson opina sobre la celebración de la Serie Mundial de los Brewers",
+  "resumen": "Brian Anderson ofreció declaraciones respecto a los Brewers. Sus comentarios se enfocaron en el desfile organizado con motivo de la Serie Mundial del equipo de béisbol.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-06T23:57:17.029608+00:00"
+ },
+ {
   "id": "060c5460e44c",
   "fuente": "BBC Mundo",
   "enlace": "https://www.bbc.com/mundo/articles/c6lykpx0284wo?at_medium=RSS&at_campaign=rss",
@@ -1240,113 +1348,5 @@
   "resumen": "Medios de comunicación y redes sociales informaron que hackers de Rusia y Ucrania atacaron durante la noche los sistemas de alerta de la población de ambos países. Dichas incursiones cibernéticas provocaron la emisión de falsas alarmas nucleares.",
   "categoria": "Conflictos",
   "fecha": "2026-11-02T12:15:42.544759+00:00"
- },
- {
-  "id": "43b4222dc9c0",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cq23dyerrdpko?at_medium=RSS&at_campaign=rss",
-  "titulo": "Tendencia en internet busca identificar la deficiencia de hierro a través del rostro",
-  "resumen": "Múltiples contenidos audiovisuales en internet afirman que es posible identificar la falta de hierro mediante la observación facial. Este tipo de publicaciones sobre la llamada cara de ferritina ha alcanzado millones de reproducciones en línea.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-02T12:15:42.544759+00:00"
- },
- {
-  "id": "444e0671b311",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261102-en-directo-rusia-y-ucrania-cruzan-acusaciones-sobre-ataques-cibern%C3%A9ticos-tras-fin-del-alto-el-fuego-localizado",
-  "titulo": "Moscú y Kiev cruzan acusaciones por hackeos a sus sistemas de emergencia tras vencer la tregua",
-  "resumen": "Las aplicaciones de emergencia de Rusia y Ucrania sufrieron ciberataques que difundieron alertas falsas sobre amenazas aéreas, químicas y nucleares el lunes 2 de noviembre. Este incidente ocurrió inmediatamente después de que concluyera la tregua en Oleshky, localidad de Jersón ocupada por fuerzas rusas. Ambos bando cruzaron señalamientos por estas interferencias cibernéticas.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-02T12:15:42.544759+00:00"
- },
- {
-  "id": "5b2fab505513",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2RLNUtDN19Ubmd1VXIxTzk4MUJxakNfQTlyNDJiSkx6WnFkclNKcTZEbUxQNWkxTTBsMDlBanNGMlNVbTRFaVZhc0FyRndXc3VNdWdYY3ZCcDFMREc2dTdsNTYxVEQzTk5WY3ZFVzFYS3JFMUZZUWFLUTFmaGNTaXRYeG5jMDhGeDVWd0lYMl8zYm11Mm9SUUtEWTBySWF3MTMyYXNLWUZ6VEk?oc=5",
-  "titulo": "Milei plantea a Argentina como un espacio libre de regulaciones para la inteligencia artificial",
-  "resumen": "El mandatario argentino presentó una propuesta para que su país opere como un territorio sin regulaciones destinadas a la inteligencia artificial. La iniciativa busca posicionar a la nación como un punto clave para el desarrollo de esta tecnología.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-02T12:15:42.544759+00:00"
- },
- {
-  "id": "5e57d69428ce",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BeWN5NHQtYWVjM2sydmwxTjdLTFNBZ0d3a1RldWlpU29QWWNHUzBwQzZILWxLVllxclZrS3Z6cWhYMFRaMU9hYmRSUHpqbjdSV0w5MW84ZGFLcnBGaHRR?oc=5",
-  "titulo": "Se proyectará documental musical de la gira mundial de Stray Kids",
-  "resumen": "Se anunció la transmisión en vivo del espectáculo correspondiente al tour mundial de la banda Stray Kids programada para 2026. El contenido audiovisual está clasificado dentro de las categorías de música y documental.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-02T12:15:42.544759+00:00"
- },
- {
-  "id": "850874fd067f",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/bulgaria-elige-a-su-primera-presidenta-la-socialista-prorrusa-iliana-yotova-arrasa-con-el-57-7-de-los-votos/a-79825918?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Iliana Yotova se convierte en la primera presidenta de Bulgaria tras vencer en las elecciones",
-  "resumen": "La mandataria en funciones Iliana Yotova triunfó en la segunda vuelta de los comicios presidenciales al obtener el 57,7 % de la votación. La candidata prorrusa superó al postulante europeísta Andrey Gyurov, quien alcanzó el 39,4 % de los votos.",
-  "categoria": "Política",
-  "fecha": "2026-11-02T12:15:42.544759+00:00"
- },
- {
-  "id": "93cdd3a3db40",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/muere-a-los-34-años-ciara-mageean-campeona-europea-de-1500-m/a-79828183?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Fallece a causa de cáncer la atleta norirlandesa Ciara Mageean",
-  "resumen": "La deportista de Irlanda del Norte perdió la vida a los 34 años tras padecer cáncer, de acuerdo con la información brindada por sus familiares. La excampeona europea de los 1500 metros había obtenido el triunfo más importante de su trayectoria hace dos años.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-02T12:15:42.544759+00:00"
- },
- {
-  "id": "0ac6952f7cec",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261102-el-alto-el-fuego-en-la-regi%C3%B3n-de-jers%C3%B3n-lleg%C3%B3-a-su-fin-tras-la-negativa-de-rusia-a-prorrogarlo",
-  "titulo": "Concluye el cese al fuego en Jersón ante el rechazo de Rusia a extenderlo",
-  "resumen": "La tregua de mayor duración en el conflicto ucraniano finalizó el domingo debido a que Rusia optó por no prolongar el pacto. Este cese temporal de hostilidades, vigente desde el martes en la región de Jersón, facilitó el desarrollo de una misión humanitaria en la localidad de Oleshky.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-02T04:06:04.650362+00:00"
- },
- {
-  "id": "1ef3f1686832",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/ckgelpgle3lno?at_medium=RSS&at_campaign=rss",
-  "titulo": "El respaldo a Israel influye en las reñidas elecciones legislativas de Estados Unidos",
-  "resumen": "La postura de Washington hacia Israel se ha transformado en un factor determinante para los votantes de diversas posturas en Estados Unidos. Esta inquietud está movilizando al electorado en una de las contiendas más ajustadas de las elecciones de mitad de mandato.",
-  "categoria": "Política",
-  "fecha": "2026-11-02T04:06:04.650362+00:00"
- },
- {
-  "id": "3c31c36b8f2b",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/rusia-enfrenta-ciberataque-masivo-contra-aplicación-del-ministerio-de-emergencias/a-79825073?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Vulneran la aplicación de alertas de seguridad del Ministerio de Emergencias ruso",
-  "resumen": "Un ataque informático a gran escala afectó el funcionamiento de una herramienta móvil del Ministerio de Emergencias de Rusia. Dicha plataforma digital se encarga de advertir a los ciudadanos ante posibles ataques ucranianos y otros peligros.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-02T04:06:04.650362+00:00"
- },
- {
-  "id": "4103d33c334c",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-italiano-andrea-kimi-antonelli-se-convierte-en-méxico-en-el-campeón-más-joven-de-la-fórmula-1/a-79825067?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Andrea Kimi Antonelli bate récord de precocidad al coronarse en la Fórmula 1",
-  "resumen": "El automovilista italiano consiguió el campeonato mundial de la máxima categoría durante la competencia disputada en Ciudad de México. Con solo 20 años cumplidos, rebajó en tres años la plusmarca que pertenecía al piloto alemán Sebastian Vettel.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-02T04:06:04.650362+00:00"
- },
- {
-  "id": "44563edf9ac5",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZ0kwOFV4alM0NGUyaGRKbkJTVExza1Z3cU9QLVd0NGxNZlg2djNfQ1poRjJGc2JLQWlqU0pMcnV4dTc5SHNabTc1SHlrdk5WbGZiYVFST3VsZEdsUXF3NFlkSjFhVUh2R3c?oc=5",
-  "titulo": "El festival Jakarta World Cinema reanudará su competencia de primeras películas con jurado internacional",
-  "resumen": "El festival Jakarta World Cinema planea retomar su competencia dedicada a las primeras producciones cinematográficas de los directores. Para esta edición, el certamen contará con la participación de un jurado internacional encargado de evaluar las obras presentadas. La iniciativa busca relanzar la sección competitiva de óperas primas dentro del marco del evento.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-02T04:06:04.650362+00:00"
- },
- {
-  "id": "490c00182a31",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3o3c3I0c0dDdExUbG94ajlZWjJWOFpiMWhyVjM0RFFScnhOOU0zNlVheFlWZEVDcHdRVmFtTk4zTXRJazNLNmlYMHZ5ZXJtTFUzWll2N0p6TnRNOXNESDNUNlY0WWd3Y1V3ajFwNktRYnBXWl9KRWZUZThPZTZodXJrWGZuN2gtVzVCWW0wdkxvUE5CRjdjZWJsODJrcEhyWDZB?oc=5",
-  "titulo": "Reflexiones sobre la destacada temporada de béisbol en Tampa Bay a pesar del tropiezo final",
-  "resumen": "A pesar de que el desenlace en la Serie Mundial no fue el esperado, el desempeño mostrado en Tampa Bay dejó una valoración positiva de la campaña. El recorrido del equipo a lo largo del año fue considerado una gran experiencia y un regalo para la localidad. Aunque la derrota representó un tropiezo, el balance general del torneo resulta muy favorable.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-02T04:06:04.650362+00:00"
  }
 ]
