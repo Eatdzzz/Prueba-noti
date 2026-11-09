@@ -1,5 +1,113 @@
 [
  {
+  "id": "09f39714d907",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/trump-admite-que-su-política-de-deportaciones-fue-demasiado-dura/a-79894805?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Trump califica de excesivamente severa su estrategia migratoria",
+  "resumen": "El expresidente Donald Trump admitió que las medidas de deportación aplicadas durante su mandato fueron demasiado duras. Sus declaraciones coinciden con el descontento manifestado en las elecciones por miles de votantes, en particular de origen latino, frente a los operativos del Servicio de Inmigración y Aduanas.",
+  "categoria": "Política",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "10e57dee6336",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/¿podrá-alemania-organizar-el-mundial-de-hockey-de-2027-sin-rusia/a-79888455?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Alemania busca alternativas para celebrar el Mundial de hockey de 2027 sin la presencia de Rusia",
+  "resumen": "A nivel global persisten las manifestaciones de rechazo ante una resolución que determina la reincorporación de Rusia a los torneos de hockey sobre hielo. En este contexto, las autoridades alemanas intentan encontrar un mecanismo que les permita organizar el certamen ecuménico de 2027 sin la participación de deportistas rusos.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "180cd9701735",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-nvidia-investiga-si-su-director-ejecutivo-fue-blanco-de-espionaje-chino-en-una-relaci%C3%B3n-extramatrimonial",
+  "titulo": "Nvidia abre indagatoria sobre su director ejecutivo por supuestos vínculos con el espionaje chino",
+  "resumen": "La empresa tecnológica Nvidia inició una investigación independiente sobre su director ejecutivo, Jensen Huang, a raíz de su relación con una empresaria indagada por presuntos nexos con la inteligencia china. El directivo reconoció haber cometido una infidelidad conyugal, mientras aumenta la inquietud por las repercusiones del caso.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "258ec3c68e43",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/cultura/20261109-wildwood-el-bosque-salvaje-el-stop-motion-m%C3%A1s-%C3%A9pico-de-la-historia-del-cine",
+  "titulo": "Llega a los cines la producción en stop motion 'Wildwood' en medio del luto por Sebastián Lelio",
+  "resumen": "Se estrenó la película familiar 'Wildwood', una obra realizada íntegramente de manera artesanal frente a la inteligencia artificial, consagrándose como la cinta de stop motion más extensa hasta la fecha. Al mismo tiempo, se dio a conocer el fallecimiento a los 52 años del cineasta Sebastián Lelio, quien en 2018 ganó el primer Óscar a mejor película extranjera para Chile.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "380ef9bebff9",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-08/sudafrica-castiga-al-partido-de-mandela-en-unas-municipales-que-abren-una-nueva-batalla-por-el-poder-local.html",
+  "titulo": "El ANC sufre un importante retroceso electoral en las municipales sudafricanas",
+  "resumen": "El partido ANC cosechó el 31% de la votación en las elecciones locales de Sudáfrica, una cifra catalogada como catastrófica por su propio secretario general. Mientras tanto, la principal fuerza opositora sumó un 25% y el partido del expresidente Zuma fortaleció su posición en áreas clave.",
+  "categoria": "Política",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "435b2275de6a",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHNMSDZIVk5XNVVzOWZzMjFsbEp2a004dlJaRUlobl9TdWJISjQ1RWliVlpmaTFsRERZS0tCUlFMcXJmcWhyd0xXejRXR25wa2h0eHNObjlXVTh1Y3J2UFlZeWhlZGY5UVhmRUFKYTJjdnBrci1aWVhqNjNQX3lERUFoWldkSmZpY2ZHUmFyUENOZE96SDdwRE9aNWtRTVE?oc=5",
+  "titulo": "Comienza en Acapulco la 64ª Convención Anual del Consejo Mundial de Boxeo",
+  "resumen": "La ciudad de Acapulco da la bienvenida a representantes internacionales del pugilismo en el marco de la inauguración de la edición 64 de la Convención Anual del Consejo Mundial de Boxeo. Este evento reúne al mundo del boxeo a escala global.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "500e7a1e3743",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkblo1aExCRzNqcXJpZVg1c00ydkpKczNiRE9xNlFvdWpqa055Rkl2eG1MWG9uc0J3T25fdzhkcHJ1VHJKZkcyd3dLNU12c1ROekQyNDEwMkRIRWhsc1h3UTJvNTFfb1Y0MmlB?oc=5",
+  "titulo": "Establecen plazos a World Liberty y otras entidades cripto tras las elecciones",
+  "resumen": "Blumenthal determinó fechas límite para la empresa World Liberty y diversas firmas del sector de las criptomonedas. La disposición se dio a conocer con posterioridad al periodo electoral.",
+  "categoria": "Economía",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "6187bd8e0e53",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cqkg5r5x5l7mo?at_medium=RSS&at_campaign=rss",
+  "titulo": "El papa León XIV pide a Milei priorizar a las personas y cuidar las palabras",
+  "resumen": "A su llegada a Argentina, el papa León XIV manifestó ante Javier Milei que la economía debe estar en función del ser humano y no al revés. Asimismo, subrayó que fortalecer la democracia requiere escuchar al otro y emplear el lenguaje de forma cuidadosa.",
+  "categoria": "Política",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "7dab69620307",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/el-partido-de-mandela-el-congreso-nacional-africano-enfrenta-sus-peores-resultados-electorales-en-sudáfrica/a-79894787?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Histórico retroceso electoral del Congreso Nacional Africano en Sudáfrica",
+  "resumen": "El partido gobernante en Sudáfrica registró sus peores resultados en los recientes comicios municipales. Esta organización política ha controlado la administración del país de manera ininterrumpida desde 1994, tras la finalización del régimen del apartheid.",
+  "categoria": "Política",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "9606df40ac63",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261109-m%C3%A1s-de-3-300-migrantes-llegan-a-el-hierro-en-canarias-hay-capacidad-de-respuesta",
+  "titulo": "La llegada masiva de migrantes desborda los recursos en la isla de El Hierro",
+  "resumen": "Más de 3.300 personas han arribado al territorio insular canario desde inicios de noviembre tras completar peligrosos viajes por el océano Atlántico. La constante llegada de embarcaciones a la costa ha provocado que la administración local alerte sobre la falta de medios para atender la emergencia.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "b03db99ce83f",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObE14amJrTE1zcEhMSnBZSnhrNXJ2eXVlVVZZYVpRZFpla2V1eE1JZlZ5cVhsb0lzaG1DTUlJS3NZck04MWJkUDVWZmNUMHE0bWc2aGUwQUo4N1Bnd29YeW9mSDBUWnladkV4TjlFV3RDU2MzUDdrNjJXSDlLS1pXM3Q5NW5TYW1CdHVneE1ET3BCb0tIeVV0akxQN0V5SlVIVVRyZkwwczA?oc=5",
+  "titulo": "Encuentro entre Corea y Venezuela en el Mundial de Béisbol Sub-23 de 2026",
+  "resumen": "Las selecciones de Corea y Venezuela se enfrentan en la Copa Mundial de Béisbol Sub-23 programada para el año 2026. El evento internacional es presentado por la firma RAXUS y coordinado por la Confederación Mundial de Béisbol y Sóftbol.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
+  "id": "b88f709aaefd",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261109-cu%C3%A1l-es-el-balance-del-primer-a%C3%B1o-de-rodrigo-paz-en-bolivia",
+  "titulo": "Balance sobre el primer año del mandato presidencial de Rodrigo Paz en Bolivia",
+  "resumen": "Rodrigo Paz ha completado su primer año al frente del gobierno boliviano en un periodo marcado por medidas contra la crisis económica y recortando parcialmente los subsidios a los carburantes. Ante este panorama, el especialista Raúl Peñaranda evalúa las acciones, desafíos y repercusiones de la administración estatal.",
+  "categoria": "Política",
+  "fecha": "2026-11-09T04:20:49.274540+00:00"
+ },
+ {
   "id": "0953a58749af",
   "fuente": "Reuters World (vía Google News)",
   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYWJUNWxBYnV0bGppY1p0UzJIOVVYNTl4enR5T0o2Z1JpczFXdGZmd0UtMnNFejZ5SHpjVUwtcFlDbFhNNXdLaEZCR3hjSktTeEZBeFl4VlQ4eElvNm8wWEpFckRRWWFCREhvRjRuWjhIWFBuWTBBYUpLc09LN2pLSnM1bG9ZaWVUMmc?oc=5",
@@ -1240,113 +1348,5 @@
   "resumen": "Las duras declaraciones del vicepresidente sobre el fracaso electoral de su partido provocaron un fuerte distanciamiento con el mandatario. Esta postura representa una de las fisuras más drásticas entre un presidente en funciones y su vicepresidente en la historia reciente.",
   "categoria": "Política",
   "fecha": "2026-11-06T00:47:35.917746+00:00"
- },
- {
-  "id": "494b3bd9ccee",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ecuador-a-juicio-siete-personas-entre-ellas-un-exministro-corre%C3%ADsta-por-el-asesinato-de-fernando-villavicencio",
-  "titulo": "Siete acusados irán a juicio en Ecuador por el asesinato del candidato Villavicencio",
-  "resumen": "El exministro del Interior José Serrano se encuentra entre las personas que encararán un proceso judicial por el homicidio del aspirante presidencial, baleado tras un evento de campaña. Serrano fue extraditado desde Estados Unidos, donde agentes del ICE lo habían detenido el año pasado.",
-  "categoria": "Política",
-  "fecha": "2026-11-06T00:47:35.917746+00:00"
- },
- {
-  "id": "5c80ad532f7e",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTlkRG9mM28xa25HWUZJZ2dtRTdIeVFTS2JlUV81MDBNRmdEMVg1ZFlheVh2SDNuV2NsdlpTOG5yaDlNakxqaGNWM0hxUkJoYVNHR1poZjdJbVZTaTVNZlVhUGJnLXBlUk41Zkh6T1RURGR2MlhuR0ttOUlJYm5FbDJ5YS0?oc=5",
-  "titulo": "España define su lista de 20 futbolistas para la Copa Mundial Sub-17 en Catar",
-  "resumen": "La selección española dio a conocer la convocatoria de 20 jugadores que participarán en el Mundial Sub-17 a disputarse en Catar. El plantel afronta este torneo internacional apostando por el talento y la ambición de sus integrantes.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-06T00:47:35.917746+00:00"
- },
- {
-  "id": "5d46091022b2",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/en-foco/20261105-guadalupe-la-crisis-del-agua-impulsa-un-mercado-clandestino-en-la-isla-francesa",
-  "titulo": "El desabastecimiento de agua en Guadalupe fortalece el comercio ilegal del recurso",
-  "resumen": "Miles de pobladores en el territorio francés de Guadalupe sufren la falta de agua potable debido a redes obsoletas y continuas fugas que cortan el servicio por semanas. Ante esta problemática, un mercado clandestino ha surgido para surtir a viviendas, hoteles y restaurantes cobrando tarifas significativamente más elevadas que el sistema público.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-06T00:47:35.917746+00:00"
- },
- {
-  "id": "95a77cde9251",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
-  "titulo": "El Congreso paraguayo enjuiciará al presidente Santiago Peña tras su dimisión",
-  "resumen": "Tras renunciar a su cargo en el marco de una crisis originada por la intervención de Ueno Bank, el mandatario paraguayo enfrentará un proceso de juicio político este jueves. La decisión fue adoptada por el Congreso luego de que no se lograra el quórum necesario para evaluar la aceptación de su dimisión.",
-  "categoria": "Política",
-  "fecha": "2026-11-06T00:47:35.917746+00:00"
- },
- {
-  "id": "9c3b23b346a0",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261105-informe-desde-asunci%C3%B3n-senado-suspende-votaci%C3%B3n-sobre-renuncia-de-pe%C3%B1a-por-falta-de-qu%C3%B3rum",
-  "titulo": "Interrupción en el Senado de Paraguay por falta de quórum para definir el futuro de Peña",
-  "resumen": "La Cámara Alta paraguaya debió suspender la sesión destinada a determinar si se aceptaba la renuncia del presidente o si se procedía con su juicio político. La retirada de varios senadores para impedir el quórum desató un profundo malestar entre las decenas de personas que se manifestaban en el exterior.",
-  "categoria": "Política",
-  "fecha": "2026-11-06T00:47:35.917746+00:00"
- },
- {
-  "id": "9e729231b8be",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/más-de-600-mil-personas-se-manifiestan-en-francia-por-mejores-salarios/a-79871134?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Protestas masivas en Francia exigen mejoras en los sueldos y servicios públicos",
-  "resumen": "Cientos de miles de personas participaron a nivel nacional en la protesta más numerosa registrada desde que comenzaron las movilizaciones en septiembre. Con el respaldo de los sindicatos, los asistentes exigieron incrementos en los sueldos, una mayor equidad tributaria y el fortalecimiento de los servicios públicos.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-06T00:47:35.917746+00:00"
- },
- {
-  "id": "1855d22ef8c8",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEpPZHlUVVR4cnpyajBpYl9nYm9nNHRZQi1YbnBBazRCZzhrYjdQSmZOYTliaHNtNkMxTVJrUS1UaDBWUjEzSDN2Ukwxc3FpUzdSOWVqaS16bzRjMVNMQWpzc19tS0FCcHFqZFlnSmZIUmJiVUU0c1BrbjR1UXFsUVVhZUdMdXlwWllMby1hYklpQWc?oc=5",
-  "titulo": "El World Wide Technology Championship celebra sus dos décadas de historia",
-  "resumen": "El evento World Wide Technology Championship ha alcanzado oficialmente su vigésimo aniversario. Esta competencia llega así a sus dos décadas de trayectoria.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-05T04:53:04.783573+00:00"
- },
- {
-  "id": "206c4c1767eb",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFdLd2xCdVlvM0UxMVd4c19JekhPTHhObTREOFRsNFJtMEFwY3ItSWV1V0tFdXJTSGxISHMzdEpUM0pLYkJBcVh1d0lKOVFXOWhSbGpublNicUFmclpzbmYyaTliVDRCVjh2eGptbHcwZ2c1YnhxXzl4VFhzRjZOelVNV3QxbGhvRVM1b0FGZk1EY2JxUU84RnFzVzNHTTVpYkNucEZWZUczUDFLSExiNktLZjZoalJ0Nl80?oc=5",
-  "titulo": "Un 25% de los adolescentes a nivel global no registró días de actividad en la última semana",
-  "resumen": "Según datos de la Organización Mundial de la Salud, uno de cada cuatro adolescentes en el planeta no tuvo ningún día activo durante la semana previa. La información muestra una falta de actividad física en este sector de la población mundial.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-05T04:53:04.783573+00:00"
- },
- {
-  "id": "26469d15f5e5",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261105-israel-sigue-sin-una-mayor%C3%ADa-clara-y-herzog-insta-a-los-partidos-a-alcanzar-acuerdos",
-  "titulo": "El presidente de Israel convoca a pactar un gobierno ante la ausencia de mayorías",
-  "resumen": "Ningún grupo político obtuvo los escaños requeridos para gobernar en solitario tras las elecciones celebradas en Israel. Debido a esto, el presidente Isaac Herzog inició diálogos para buscar acuerdos que eviten el estancamiento institucional, en medio de crecientes tensiones.",
-  "categoria": "Política",
-  "fecha": "2026-11-05T04:53:04.783573+00:00"
- },
- {
-  "id": "2af8f02ddbb3",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cre3x0zq9xygo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Donald Trump afirma que usará su poder tras la derrota electoral de su grupo",
-  "resumen": "Luego del revés sufrido por su partido en los comicios de medio mandato, Donald Trump ha emitido declaraciones contradictorias sobre cómo se relacionará con la bancada demócrata. Pese al debilitamiento de su posición, aseveró que aplicará toda la fuerza política de la que disponga.",
-  "categoria": "Política",
-  "fecha": "2026-11-05T04:53:04.783573+00:00"
- },
- {
-  "id": "4047515dcba7",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/corea-del-sur-apoyará-a-mantener-abierto-ormuz-con-misión-militar/a-79859771?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Corea del Sur desplegará una misión independiente para mantener abierto el estrecho de Ormuz",
-  "resumen": "Corea del Sur participará en las labores para asegurar la apertura del estrecho de Ormuz mediante el envío de una unidad militar. Las autoridades de Seúl precisaron que el contingente funcionará de manera independiente respecto a las fuerzas aliadas. Asimismo, aclararon que el refuerzo tiene objetivos exclusivamente no bélicos.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-05T04:53:04.783573+00:00"
- },
- {
-  "id": "4fcc66646972",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6kg7wj3gxk8o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El triunfo de Bobby Pulido se suma al avance demócrata en el Congreso de Estados Unidos",
-  "resumen": "La victoria del músico Bobby Pulido formó parte de la jornada electoral que otorgó a los demócratas el control de ambas cámaras del Congreso estadounidense. El proceso dejó importantes triunfos para el partido en el estado de Texas. Entre ellos destacan las elecciones de Gina Hinojosa como gobernadora y de James Talarico como senador.",
-  "categoria": "Política",
-  "fecha": "2026-11-05T04:53:04.783573+00:00"
  }
 ]
