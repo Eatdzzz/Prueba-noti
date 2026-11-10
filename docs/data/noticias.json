@@ -1,5 +1,77 @@
 [
  {
+  "id": "1aff5f8320f9",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/negociaciones-en-abu-dabi-para-poner-fin-a-la-guerra-en-ucrania/a-79906447?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Encuentro en Abu Dabi entre Rusia, Ucrania y EE. UU. para negociar el fin del conflicto",
+  "resumen": "Representantes gubernamentales de Estados Unidos, Rusia y Ucrania entablaron conversaciones en Abu Dabi con el propósito de buscar una salida a la guerra. No obstante, las discrepancias en torno a la seguridad, el control territorial y el papel de la OTAN obstaculizan el avance hacia un consenso.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
+  "id": "226cee42f7ed",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c5j9k91lyp99o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Una pareja recurre a la asistencia médica para fallecer simultáneamente tras 50 años juntos",
+  "resumen": "Luego de compartir medio siglo de matrimonio feliz, los esposos Jan y Els solicitaron la ayuda de personal médico para terminar con sus vidas juntas. Como consecuencia de esta decisión, su único hijo debió hacer frente al duelo por la partida de ambos.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
+  "id": "2365b27a6d70",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDRnUDBxNDZLSjlJRWFMRTBvRG5xTFRMc2NKVzFCb19lWk9WcDRuQ3AwZkpGcGxfbVZrMEEyQ2NyTG5fVHJmTkZtc0V1ZDRZYllDNnBWVmUwcGIzR2RNLWZVWGNJM2NZLVlYY1F0bmhLeTRQRmFGT0l2TEVubk1qbFpPMTVrdllsMUVaVWYwSWpJTnZHOGtkaHMtbw?oc=5",
+  "titulo": "Presentan el calendario de análisis del IPC para finales de 2026 y principios de 2027",
+  "resumen": "La plataforma ReliefWeb difundió la programación referente al Planificador de Análisis del IPC. Dicho esquema abarca la planificación prevista para el periodo correspondiente a los meses de noviembre y diciembre de 2026, así como enero de 2027.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
+  "id": "2723c472cbe7",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-10/gaza-cuando-el-sonido-de-la-lluvia-da-tanto-miedo-como-el-de-las-bombas.html",
+  "titulo": "Las lluvias intensas anegan el refugio de una familia en la Franja de Gaza",
+  "resumen": "El camarógrafo palestino Ahmed Abu Kmail, de 39 años, narró la difícil vivencia que atraviesa su grupo familiar ante las precipitaciones del momento. Según detalló, el agua ha anegado la tienda de campaña en la que se encuentran refugiados en Gaza.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
+  "id": "2ecd4f4b993d",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c6p9g97x540jo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Investigan al director de Nvidia por sostener una relación con una presunta espía china",
+  "resumen": "La propia compañía Nvidia ha iniciado una averiguación interna en torno a su director general, Jensen Huang. La indagatoria se originó tras revelarse su vínculo extramatrimonial con una mujer acusada de realizar espionaje para China.",
+  "categoria": "Economía",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
+  "id": "3bad1164a134",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cq0mem48n7yzo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Revelan que una agencia de modelos reclutaba víctimas para el delincuente sexual Jeffrey Epstein",
+  "resumen": "Una mujer denunció haber sido abusada sexualmente en más de 200 ocasiones por el financiero Jeffrey Epstein. Según su testimonio, el director de una agencia de modelos la enviaba a supuestas sesiones de fotos en la residencia de playa del agresor.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
+  "id": "42a3f5fdd738",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/explosiones-sacuden-la-capital-de-arabia-saudita-reportan-medios/a-79905935?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Sistemas de defensa interceptan un misil balístico lanzado hacia la capital de Arabia Saudita",
+  "resumen": "La coalición militar liderada por Arabia Saudita reportó la destrucción de un misil balístico dirigido hacia la ciudad de Riad. Las fuerzas de defensa aérea lograron neutralizar el ataque, el cual fue atribuido a la milicia hutí.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
+  "id": "535231fe2b6f",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp4ZEJYTVBPczM3OGV5Nml4TjNZcDFQQjBQV2FCbDFCeFdzR210VEktM2U1U2I1SWtPd3d0ZGhTY3FXS01pNExYaUx4WFY3eFphWFNucHF3ZnMxb2VwMVVxZnNYT1I5ZWpMTDdTV1lLTnl3ZF9jVmVMSmpUQkhxQk1Zd3dZZUpaX3pSU1ZtcmZXWnlnNzl1aENFaVN3M1hIaDRKdG5zX2c?oc=5",
+  "titulo": "Nicaragua y Panamá se enfrentarán en la Copa Mundial de Béisbol Sub-23 de 2026",
+  "resumen": "La Confederación Mundial de Béisbol y Sóftbol anunció el partido entre los equipos de Nicaragua y Panamá. El encuentro formará parte de la Copa Mundial de Béisbol Sub-23 del año 2026, certamen presentado por RAXUS.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-10T12:15:20.135741+00:00"
+ },
+ {
   "id": "2ffe7eea37fd",
   "fuente": "DW Español",
   "enlace": "https://www.dw.com/es/irán-mantiene-su-capacidad-de-presión-en-el-estrecho-de-ormuz/a-79905064?maca=spa-rss-sp-all-1122-rdf",
@@ -1276,77 +1348,5 @@
   "resumen": "El cantante Maluma dio a conocer la realización de su próximo espectáculo internacional denominado “Loco X Volver World Tour 2027”. Esta serie de conciertos incluirá un total de 60 fechas programadas en América, Europa y África.",
   "categoria": "Cultura",
   "fecha": "2026-11-06T18:51:33.957421+00:00"
- },
- {
-  "id": "a1b7c79c71c8",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
-  "titulo": "El Senado paraguayo prepara los alegatos finales en el juicio político al presidente Santiago Peña",
-  "resumen": "Avanza en el Senado de Paraguay el proceso de juicio político contra el mandatario Santiago Peña. La medida surge a raíz de la crisis y el escándalo desatados tras el colapso de la entidad Ueno Bank.",
-  "categoria": "Política",
-  "fecha": "2026-11-06T18:51:33.957421+00:00"
- },
- {
-  "id": "b0f031de3bbf",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/a-37-años-de-la-caída-del-muro-en-alemania-aún-hay-heridas-abiertas/a-79880980?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Artistas analizan el proceso de reunificación en Alemania a 37 años de la caída del Muro",
-  "resumen": "A 37 años de la caída del Muro de Berlín, persisten las divisiones respecto a la integración entre el Este y el Oeste de Alemania. Tres artistas aportan sus visiones sobre la infancia en la antigua RDA y cuestionan el desarrollo de la reunificación nacional.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-06T18:51:33.957421+00:00"
- },
- {
-  "id": "006fe6f7d46d",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c674ppz944jxo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Fallece a los 44 años Gonzalo Moratorio, destacado científico uruguayo",
-  "resumen": "El científico uruguayo Gonzalo Moratorio murió a causa de un glioblastoma, un tumor cerebral agresivo. Reconocido por su labor para proteger a su país durante la pandemia de covid-19, Moratorio luchaba además por costear un tratamiento contra el cáncer.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-06T11:50:06.902166+00:00"
- },
- {
-  "id": "01aa2dcc379b",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-mundo-volverá-a-superar-con-casi-total-certeza-este-año-los-1-5-ºc-de-calentamiento-global/a-79873972?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Advierten que la temperatura global sobrepasará nuevamente el límite de 1,5 ºC este año",
-  "resumen": "De acuerdo con el sistema de observación europeo Copernicus, es casi seguro que este año la Tierra vuelva a superar los 1,5 ºC de calentamiento global. Además, la entidad señaló que se perfila como el segundo año más cálido registrado, aunque aún podría superar las marcas de 2024.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-11-06T11:50:06.902166+00:00"
- },
- {
-  "id": "07c14a704d2a",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/crwyddpl789do?at_medium=RSS&at_campaign=rss",
-  "titulo": "El Congreso paraguayo rechaza la dimisión de Santiago Peña y abre paso a un juicio político",
-  "resumen": "El presidente de Paraguay, Santiago Peña, anunció su renuncia tras la intervención esta semana de uno de los principales bancos del país, en el cual estuvo involucrado en la gestión. Sin embargo, el Congreso no aceptó su dimisión, por lo que el mandatario deberá afrontar un juicio político en su contra.",
-  "categoria": "Política",
-  "fecha": "2026-11-06T11:50:06.902166+00:00"
- },
- {
-  "id": "0eadc5fcaf02",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVHhwb3Z2czRQYnFzRWxhNHVHd043MjNMMUJDMFNxUDhHdUdkdFFUdmRRdEFWaVdWTWRzUVBoNTFWNnl6bmF2dVNPWDZLVFRxN1RLUGFiN2hhaDJrVWlRekhiNzNkWE10TzJYS0UyUmljdWJkblc3ZVJBSzdVUFdFMjFqVDlHU19JNHZaN0IyRDhJZDR1cllxeDlRaG5kT2MwMFNkMGcyUlhLc1VvMHZmN2lRZ0JVN2JfNXhVVHZHUHh2Vm84U2R4ZkFiQ1pJcHc4dlFITDVWdHMxdFQ4WnBTU21OSmRkNjIyRG16WTk0VFdUUldnMWV2VUx3MWNabzdkZWxic0NzY0c0Um92UWc?oc=5",
-  "titulo": "Shonan Beauty Clinic es seleccionada entre las mejores instituciones globales de turismo médico",
-  "resumen": "La clínica Shonan Beauty Clinic logró ser incluida en la clasificación «World’s Best Hospitals & Clinics for Medical Tourism 2027». Este reconocimiento internacional sobre centros de salud es elaborado por Newsweek y Eagle-Tribune.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-06T11:50:06.902166+00:00"
- },
- {
-  "id": "1ae16ed30693",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NXzZSY3pUdUNnNWQ4MnBfXzl2OWNkd2IyV1BadTJYZnM2ejR6RHZ3a19BWEdiWHM5TXd6SVN6ZmE4ajMtaWJEYkFKc0xoQkI4VUhNMWc3aUFMTUwxcTcwSg?oc=5",
-  "titulo": "U2 suma nuevas fechas a su gira internacional programada para 2027",
-  "resumen": "La agrupación de rock U2 ha decidido añadir presentaciones adicionales a su gira del año 2027. Con esta actualización, el grupo extiende su agenda de conciertos previstos para dicho periodo.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-06T11:50:06.902166+00:00"
- },
- {
-  "id": "494bf38daf75",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261106-qu%C3%A9-factores-influyeron-en-la-victoria-dem%C3%B3crata-en-las-midterms-en-georgia",
-  "titulo": "El Partido Demócrata consigue la victoria en las elecciones de medio término en Georgia",
-  "resumen": "El estado de Georgia modificó su preferencia electoral al darle el triunfo al Partido Demócrata en las elecciones de medio término, apenas dos años después de las presidenciales de 2024. Este resultado representó una severa derrota para Donald Trump y la formación republicana. La enviada especial Marta Moya evalúa los elementos que propiciaron este cambio político.",
-  "categoria": "Política",
-  "fecha": "2026-11-06T11:50:06.902166+00:00"
  }
 ]
