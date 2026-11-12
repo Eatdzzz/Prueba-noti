@@ -1,5 +1,113 @@
 [
  {
+  "id": "072cd0a2724a",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cq2d9pg47052o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El director ejecutivo de Nvidia renuncia tras salir a la luz un escándalo personal",
+  "resumen": "Jensen Huang dejó su cargo como máximo responsable de Nvidia al revelarse que mantenía una relación con una supuesta espía china. Días antes, el directivo había admitido su infidelidad y pedido perdón a su familia por el daño ocasionado.",
+  "categoria": "Economía",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "0fed71116f09",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/trump-amenaza-con-duplicar-aranceles-a-méxico-si-no-frena-a-migrantes/a-79931643?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Estados Unidos amenaza a México con elevar aranceles si no detiene el paso migratorio",
+  "resumen": "Donald Trump advirtió con duplicar de forma inmediata las tarifas arancelarias a México si su gobierno no frena el avance de las caravanas. Según el presidente estadounidense, estos grupos de migrantes se dirigen actualmente hacia la frontera.",
+  "categoria": "Política",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "2140438f69d1",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/dimite-jensen-huang-y-sacude-al-gigante-de-la-ia-nvidia/a-79931741?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Nvidia designa una líder temporal tras la dimisión de su consejero delegado",
+  "resumen": "La salida de Jensen Huang ha sacudido la estructura del gigante de la inteligencia artificial Nvidia. Ante su partida, la directora financiera Colette Kress asumió la dirección de manera interina en tanto se busca a un sucesor permanente.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "29f0d0614f79",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/la-integración-progresa-pero-los-planes-del-gobierno-podrían-frenarla/a-79933070?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Los planes de austeridad gubernamental generan controversia sobre la integración en Alemania",
+  "resumen": "A pesar de que un informe reciente destaca avances en la inclusión de los 22 millones de personas con origen migratorio en Alemania, la situación enfrenta trabas. Las propuestas de ahorro del gobierno han desencadenado una disputa política que podría frenar este progreso.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "3d44f7f1c1da",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/miriam-gonzález-la-población-inmigrante-en-españa-es-un-activo/a-79927366?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Entrevista a Miriam González ante las elecciones en España",
+  "resumen": "DW realizó una entrevista a Miriam González, líder de Democracia 21, de cara a los comicios del 29 de noviembre en España. La dirigenta, que posee trayectoria internacional y busca competir contra los bloques tradicionales, afirmó que la población inmigrante representa un activo para el país.",
+  "categoria": "Política",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "5b0b8cb78220",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/revista-de-prensa/20261112-c%C3%B3mo-israel-fabrica-la-crisis-invernal-de-gaza-middle-east-eye",
+  "titulo": "Severas inundaciones agravan la crisis humanitaria en la Franja de Gaza",
+  "resumen": "Las lluvias torrenciales en Gaza provocaron inundaciones que afectaron a cerca de 1,4 millones de personas que viven en tiendas de campaña. El medio 'Middle East Eye' señala a Israel de haber propiciado esta crisis al restringir la entrada de materiales de construcción.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "653bf7bb4783",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-12/1800-colegios-de-italia-reciben-amenazas-de-bomba-por-segundo-dia-consecutivo.html",
+  "titulo": "Italia pide no evacuar escuelas pese a recibir nuevas amenazas de bomba",
+  "resumen": "Más de 1.800 centros escolares en Italia recibieron correos con amenazas de bomba por segundo día consecutivo. El gobierno encabezado por Meloni solicitó a las instituciones no evacuar a menos que existan elementos concretos de alarma o lo aconseje la autoridad.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "66b5c200ffdc",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cr3wg62qwjz9o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Investigan al expresidente colombiano Gustavo Petro por presuntos favores sexuales",
+  "resumen": "El expresidente de Colombia, Gustavo Petro, se encuentra bajo investigación tras salir a la luz serias acusaciones en su contra. Una mujer sostiene que el exmandatario le facilitó la obtención de contratos estatales a cambio de favores sexuales.",
+  "categoria": "Política",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "6df5c88008c6",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03UVJJaG9IbUJxdUgyaFVSYk1Wb2FNS2VmaFcxN2pWX3BqZms1RFNZRThyYUlnRlJLMW1yQjFVNVNWX1psakpZeEJvZmM5djFEZkN3MXVDRVEya2hBUEQ5SVgtY2ROTnpnY1E?oc=5",
+  "titulo": "Renuevan el programa de telerrealidad «Earle Meets World» para una segunda entrega",
+  "resumen": "La serie de telerrealidad protagonizada por Alix Earle y Ashtin Earle ha sido confirmada para una segunda temporada. El anuncio incluye novedades sobre la fecha de lanzamiento y los miembros del reparto.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "6fbd4046cd05",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNngtTTdNNWh2YXdsTUNwRVo3NHZIY3JqcU1zaVBZdGdiODBGMmtaNTRDN1JWbmlpNERtc1l2UzB3VGdwZnlJQktOWTFJdl9qX3RxUW5vWl9RWFJjRE5ZTzNhQnM1eTFUaEdTV2JwODF1dlRVRVBPSkkzdmhDdE0yUV93b1ZPdWpNazhxbFBWY0FEdmt6VUh0Ri1iQzc1YnNMOVA2TnIyYUhIaG1VeDdGejBaVQ?oc=5",
+  "titulo": "Posturas enfrentadas entre los líderes mundiales al arrancar las negociaciones de la COP31",
+  "resumen": "Los dirigentes internacionales han fijado prioridades contrapuestas al inicio de la fase de negociación en la cumbre COP31. Las profundas diferencias entre las metas de cada país marcan el desarrollo de los encuentros.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "8766af2e52d3",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
+  "titulo": "Cuestionan la gobernanza de Nvidia por el ascenso de los familiares de Jensen Huang a cargos directivos",
+  "resumen": "La incorporación de los hijos del líder de Nvidia a puestos directivos en la mayor empresa del mundo ha desatado dudas sobre su gestión interna. Asimismo, se señala que su yerno, un exmonitor de esquí en Suiza, ha pasado a encabezar un área fundamental del negocio.",
+  "categoria": "Economía",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
+  "id": "96420e4638d0",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+  "titulo": "Jensen Huang dimite como consejero delegado de Nvidia salpicado por un escándalo de espionaje y relaciones extramaritales",
+  "resumen": "El máximo ejecutivo de Nvidia se ha visto obligado a renunciar a su cargo tras salir a la luz sus vínculos personales no declarados. Su salida fue acelerada al conocerse sus relaciones extramaritales con una trabajadora de la firma y con una supuesta espía china.",
+  "categoria": "Economía",
+  "fecha": "2026-11-12T16:32:09.936554+00:00"
+ },
+ {
   "id": "01694ef054f1",
   "fuente": "BBC Mundo",
   "enlace": "https://www.bbc.com/mundo/articles/cqvg243per3xo?at_medium=RSS&at_campaign=rss",
@@ -1240,113 +1348,5 @@
   "resumen": "La remoción y arresto del exmandatario paraguayo desencadenaron una profunda crisis e inestabilidad en el país. El conflicto surgió a raíz de la intervención de Ueno Bank y pesquisas por supuestas irregularidades, generando dudas sobre el futuro institucional mientras la justicia investiga.",
   "categoria": "Política",
   "fecha": "2026-11-08T04:04:40.625446+00:00"
- },
- {
-  "id": "db6c23524fa2",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/trump-acusa-a-los-demócratas-de-extorsionar-con-amenazas-de-juicios-políticos/a-79888557?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Trump señala a los demócratas por amenazas de juicios políticos",
-  "resumen": "El mandatario acusó a la oposición de extorsionar mediante advertencias de destitución contra integrantes del ejecutivo republicano. La bancada demócrata, que asumirá la mayoría en enero, evalúa promover dichos procesos judiciales.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T04:04:40.625446+00:00"
- },
- {
-  "id": "e2b471d5d199",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/elecciones-usa/2026-11-04/claves-globales-del-giro-en-ee-uu-que-significa-para-el-mundo-la-humillacion-trumpista.html",
-  "titulo": "La derrota electoral en EE. UU. altera los cálculos geopolíticos a escala global",
-  "resumen": "Aunque el presidente de Estados Unidos conserva amplias facultades en materia de política exterior, la magnitud del revés en las elecciones legislativas afecta la escena internacional. Esta situación obliga a reconsiderar los análisis y proyecciones políticas en todo el mundo.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T04:04:40.625446+00:00"
- },
- {
-  "id": "07becd8a8037",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-juez-de-paraguay-ordena-prisi%C3%B3n-preventiva-para-el-expresidente-santiago-pe%C3%B1a-edit",
-  "titulo": "Decretan prisión preventiva contra el expresidente paraguayo Santiago Peña",
-  "resumen": "Un magistrado de Paraguay dispuso el encarcelamiento preventivo del exmandatario Santiago Peña este sábado 7 de noviembre. La medida responde a una acusación formal presentada por la Fiscalía por presunta lesión de confianza y administración en beneficio propio. Dichos delitos se investigan en el marco del cierre del banco Ueno Bank.",
-  "categoria": "Política",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "22da0b603636",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/polonia-hallan-tres-cuerpos-en-casa-del-presunto-tirador-de-cracovia/a-79888533?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Encuentran tres cadáveres en la vivienda del sospechoso de un tiroteo en Cracovia",
-  "resumen": "El primer ministro polaco, Donald Tusk, informó sobre el hallazgo de tres cuerpos en el domicilio del presunto tirador de Cracovia. Las víctimas mortales corresponden a dos mujeres y un hombre. Se presume que las personas fallecidas podrían ser familiares cercanos del individuo que permanece detenido.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "2335daf2eb2e",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/francia/20261107-protestas-en-francia-se-reduce-la-movilizaci%C3%B3n-pero-hay-nuevo-llamado-a-manifestaciones-el-martes",
-  "titulo": "Disminuye la participación en las protestas de Francia pero convocan a nuevas marchas",
-  "resumen": "Las protestas en territorio francés registraron una menor participación el sábado 7 de noviembre, contabilizando entre 146.000 y 250.000 asistentes. A pesar del descenso respecto a las 500.000 personas de la semana previa, la movilización busca presionar al Ejecutivo previo a sus reuniones del lunes. Asimismo, una alianza de sindicatos educativos ha llamado a realizar huelgas y marchas el próximo martes.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "4a39ddc8693e",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa2VVN3plMDRWLWNVbDgtSWs4bEwtTFJiX3ZyOV9YZjdDa2d3YXZJR3VyeGtLTFg2N3BKTHFMY0Qxbnd1SEl6aFE4MHJ2amYyMHlGdzI2T0tEWTk5eXEyN1pnbVJwblBZMUFETUt1aDdXeHpjYWh3VTZ3S1k2YVo0dGw3QzFsQlV2dUE?oc=5",
-  "titulo": "Un entrenador campeón del mundo rechaza al Manchester United a la espera del Real Madrid",
-  "resumen": "Según reportes de prensa, un director técnico ganador de la Copa del Mundo habría rechazado una oferta para dirigir al Manchester United. El entrenador tomó esta decisión con la esperanza de llegar al Real Madrid en el futuro. La información fue difundida originalmente por el medio Yahoo Sports.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "4fb9bf1ed919",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-paraguay-fiscal%C3%ADa-imputa-al-expresidente-pe%C3%B1a-cargos-por-abuso-de-confianza-y-administraci%C3%B3n-en-beneficio-propio",
-  "titulo": "Un juez dictamina prisión preventiva para el exmandatario paraguayo Santiago Peña",
-  "resumen": "La justicia de Paraguay ha emitido una orden de prisión preventiva que afecta directamente al expresidente Santiago Peña. La resolución judicial dispone la detención cautelar del antiguo jefe de Estado.",
-  "categoria": "Política",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "55b342d6f93d",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pamw2TUxFb2xPNkw0a2hUSGJyOGR2S3JkMzU5Ty1xRWxnNlB1b1NCVTBGRFFaemxSdER2NWR5ZWZ0TmF1Qmhsa3BJV2JFVDh6QnR2dHdZTHdZZVpoQ19DN01aX1A3djlPd2c?oc=5",
-  "titulo": "Gazir logra ingresar de forma oficial a los Guinness World Records",
-  "resumen": "El competidor Gazir ha obtenido una marca reconocida oficialmente por el Guinness World Records. Su logro se encuentra vinculado a la firma Red Bull.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "6e9aefbf131b",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cmx2dxe1513jo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Así es la vida en la isla ártica que buscó abolir la noción del tiempo",
-  "resumen": "Siete años después de que una inusual propuesta para eliminar el tiempo llamara la atención mediática, se examina la cotidianeidad en una remota isla noruega del Ártico. El análisis aborda la realidad actual de los habitantes en ese apartado territorio.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "b156ce233917",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/paraguay-claves-del-escándalo-bancario-que-llevó-a-la-renuncia-a-peña/a-79870050?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Un escándalo bancario compromete fondos públicos y provoca la renuncia de Peña en Paraguay",
-  "resumen": "Una severa crisis bancaria marcada por sospechas de irregularidades financieras condujo a la dimisión de Peña en Paraguay. El fraude afectó a millones de ahorradores y comprometió recursos del Estado. Se sintetizan seis aspectos fundamentales para entender la magnitud del caso.",
-  "categoria": "Economía",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "b36c2f55d619",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-stuttgart-de-hoeness-goles-y-talento-en-busca-de-regularidad/a-79874632?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El Stuttgart atraviesa una etapa de altibajos entre triunfos y derrotas",
-  "resumen": "El conjunto dirigido por Sebastian Hoeness vive entre resultados opuestos, siendo capaz de derrotar al Leverkusen y perder frente al colista. A pesar de las anotaciones que aporta Demirovic, el grupo aún no logra conseguir la ansiada regularidad.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
- },
- {
-  "id": "c56847e6711c",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cxzd669938y0o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El nombramiento de Stephen Miller prevé tensiones entre la Casa Blanca y el Congreso",
-  "resumen": "El mandatario estadounidense eligió a Stephen Miller, conocido por su ferviente lealtad partidista, como su nuevo jefe de gabinete. Se anticipa que esta designación desencadenará probables enfrentamientos con los legisladores del Congreso.",
-  "categoria": "Política",
-  "fecha": "2026-11-07T23:24:46.495611+00:00"
  }
 ]
