@@ -1,5 +1,113 @@
 [
  {
+  "id": "05950749ec1c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/ck4gnqw6jnnwo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Transformación en el panorama electoral de Estados Unidos favorecería al Partido Demócrata",
+  "resumen": "Expertos en proyecciones electorales señalan que los resultados de las recientes votaciones podrían allanar el camino de los demócratas hacia la Casa Blanca. Si el electorado mantiene esta misma tendencia dentro de dos años, la configuración política de la nación cambiará radicalmente.",
+  "categoria": "Política",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "1e5d2a91cffe",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclFmT1pMbllKU3NFdC1hUS1WNlk0enRwREJQSDVNbmFwSjAzUFY5WW5jbnVGNDY3aVpKTTFNc2lTTlJXWHJIemVZVFdrSFdQcHRBcUJxazgyRGF6cXJ0Mkx4YWV1aTFVQ3VRdFp4c3NqMTZhQmcyakNoaDRET2ZNbEFBbWxTYTBBbTBLNFlBQkM2RXlQMDQwZkVGdnF0M1RNakhJdHhXcXdlOTVieVNEc3J3cEoxQmJnSXc?oc=5",
+  "titulo": "El próximo partido de Los Pumas ante Italia determinará su lugar en la clasificación global",
+  "resumen": "La selección argentina de rugby se prepara para medirse contra el conjunto italiano en un duelo decisivo para la tabla internacional. El desarrollo y resultado de este encuentro determinarán la posición definitiva de Los Pumas en el escalafón de World Rugby.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "2122aefe9fb4",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss",
+  "titulo": "Un documental sobre la pobreza extrema se convierte en un hito del cine colombiano",
+  "resumen": "La producción audiovisual \"El juego de la vida\" retrata las vivencias y desafíos de cinco familias en extrema vulnerabilidad durante un periodo de catorce años. Esta obra cinematográfica se ha consolidado como el documental más visto en las salas de cine de Colombia en los últimos cinco años.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "3c9b959582f1",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261113-tango-queer-en-par%C3%ADs-qui%C3%A9n-gu%C3%ADa-ya-no-depende-del-g%C3%A9nero",
+  "titulo": "El tango queer rompe los esquemas tradicionales de baile e inclusión en París",
+  "resumen": "La iniciativa \"Tango disidente\", creada por el instructor Alex Pacheco, ofrece un espacio inclusivo donde la asignación de roles al bailar no está supeditada al género. Esta propuesta busca fortalecer las identidades de la comunidad LGBTQ+ en la capital francesa, consolidándose como un motor de integración y cambio social.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "5594ae1b12c2",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261113-de-campo-de-f%C3%BAtbol-a-base-militar-hait%C3%AD-y-el-salvador-recapturan-el-principal-estadio-de-puerto-pr%C3%ADncipe",
+  "titulo": "Las fuerzas de seguridad de Haití y tropas salvadoreñas retoman el estadio principal de Puerto Príncipe",
+  "resumen": "La policía de Haití, apoyada por mercenarios extranjeros y soldados salvadoreños, recuperó el dominio absoluto del estadio Sylvio-Cator y sus áreas circundantes, las cuales eran controladas por pandillas desde 2024. Tras esta operación, el presidente de El Salvador anunció que se establecerá una base militar operativa en dicho recinto.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "5da4e6605a98",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261113-el-departamento-de-comercio-es-el-que-firma-caer%C3%A1-howard-lutnick-por-el-esc%C3%A1ndalo-de-nvidia",
+  "titulo": "Cuestionan al secretario de Comercio de Estados Unidos tras la renuncia del director de Nvidia",
+  "resumen": "La renuncia del director ejecutivo de Nvidia debido a un romance extramatrimonial con una presunta espía china ha salpicado al secretario de Comercio estadounidense, Howard Lutnick. El funcionario enfrenta críticas por parte del secretario del Tesoro acerca de la rigurosidad en los permisos de exportación de microchips hacia el país asiático.",
+  "categoria": "Política",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "5de7c5e85e3e",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.co.uk/mundo/live/c62e8kkl9rlrt?at_medium=RSS&at_campaign=rss",
+  "titulo": "El papa León XIV reúne a cientos de miles de fieles durante una emotiva misa en Perú",
+  "resumen": "Durante su gira por Sudamérica, el papa León XIV retornó a la ciudad peruana de Chiclayo, lugar donde se desempeñó como obispo desde 2015 hasta 2023. En la explanada de las Pampas de Pimentel, el pontífice encabezó una ceremonia religiosa masiva ante una multitud de 900.000 asistentes.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "795c111fa5b6",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/afd-gana-fuerza-en-alemania-y-sus-vínculos-con-el-entorno-neonazi-plantean-interrogantes/a-79944191?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Crecen la influencia del partido AfD en Alemania y los cuestionamientos por sus nexos extremistas",
+  "resumen": "La agrupación política Alternativa para Alemania se ha consolidado como un punto de atracción para los sectores de extrema derecha en el país. Diversos integrantes y colaboradores de dicha organización cuentan con antecedentes de vinculación a grupos etnicistas o neonazis.",
+  "categoria": "Política",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "7eac223c395f",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2ozVTRLTWh1dUVTSXEyeXAwVTFwMTBka0hoTHprUFhYSzZwZFY2cGpsNTdJMVFJcFpLSTJWcHotczZwVzZhMm9HWUpQZHlQN1lRclJtUndic2RLZUJtdW5VY1JmQ2lLWjBkWWl1eDdBNXpJdHRuSFBoWnlNZncyWVR4SC1kdFRuaGl2eXpFX09IRkJ3V2hMM19ZVGVBNU80cWRaanJiSkE4QTlQS2NtUA?oc=5",
+  "titulo": "McIlroy y Hatton comparten la primera posición en el World Tour Championship",
+  "resumen": "El jugador McIlroy se encuentra empatado en el liderato del certamen junto con Hatton. Ambos competidores encabezan la tabla de posiciones en el World Tour Championship.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "7f710af20f4e",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnZIWjJsdGFZd21hcHZROGNCeTRaOFpXYVNNTXhuYUREaFY0MG9QMkpmZjJkUkdmMzlYZDBGaTN6MXBlTHQ3SXlNZGZTTjh0WldjNFcyR3IxWlE1WnhzWGFMMEZ0WlN2UWI5Xy10RXFkSC1DUkthbXlIRUJPbnpzQ2JPODk1ampHX1U2MWp4T3Y4VzBudHFUTlplSFRtUHZ2b1ZTVXV4RmppUQ?oc=5",
+  "titulo": "El Manchester United busca renovarse con la llegada del entrenador Pochettino",
+  "resumen": "El Manchester United ha decidido apostar por el técnico estadounidense Pochettino para liderar su equipo. El club busca con esta medida revivir el éxito de la institución deportiva.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "a9842561cf7c",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZ2dHdjU2NmhkaHg2LTFfNktlVHdSc29KRWJiWFI2WGs2aHlZcmU2R0VOaTdyMERqSnlVWTdtdlJxbm9LOURULVhWYWM4X29fQ3Z4eTRNY3JGTUpKaHhFNGZEcVR2bnhWdGZCOEtR?oc=5",
+  "titulo": "El Festival de Cine Asiático del Mundo revela sus galardonados y cartelera",
+  "resumen": "El Asian World Film Festival ha confirmado la lista de personas que recibirán reconocimientos, incluyendo al actor Mason Reeves de la película Josephine. Asimismo, el certamen contará con una programación repleta de producciones aspirantes a los premios Oscar.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
+  "id": "b19d00c3315b",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c8dx192g5pn5o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Una interrupción técnica masiva impacta a Outlook y a diversos servicios de Microsoft",
+  "resumen": "Una falla global perjudicó el funcionamiento de Outlook y otros sistemas pertenecientes a Microsoft. La empresa aseguró que la interrupción no se debe a un incidente de ciberseguridad. Por el momento, los intentos realizados para corregir el inconveniente no han resultado del todo exitosos.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-13T19:08:25.618321+00:00"
+ },
+ {
   "id": "226d410b50cf",
   "fuente": "BBC Mundo",
   "enlace": "https://www.bbc.com/mundo/articles/c962yy07y42go?at_medium=RSS&at_campaign=rss",
@@ -1240,113 +1348,5 @@
   "resumen": "El certamen ISA World Surfing Games 2026 se encuentra en la emisión en vivo de su segundo día de actividades. La cobertura en directo de las jornadas del evento es brindada a través de Duke Surf.",
   "categoria": "Deportes",
   "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "a80abb72506f",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-11-04/el-espejo-de-narciso-se-ha-roto.html",
-  "titulo": "Las elecciones del martes marcan el inicio del cierre de la etapa política de Trump",
-  "resumen": "A pesar de que a Donald Trump le restan dos años de mandato en la presidencia, las elecciones del pasado martes marcan el principio del fin de su periodo en la política. Este proceso electoral da comienzo al cierre definitivo de su era.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "b318a0101e01",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelUxenlsd205SFQ5bGM5bnB4cFpjTk1nWkx6WWladlRLMmUydnVxZVVyQTRSSHdCLUdOOS1ROUtnTS1wVUtmVjJQZnNmTnpaVHkxanJjNV9ITUkyUnhkY25nOGtsd0dXQVp2ZTBZUGM3a1ExSE5KNXpPNTVwc05mYnBMUWRKYjk1bkpZanZYVDFJay1Kd3JrUjVJMmZMU0VxemhpWlJlRGVDUXRYcGRSUTdLaVFpTGPSAbwBQVVfeXFMTm9zTGNHVmJ4bFExdTBvV1lhSlRfcTlrOHp4ekd5S3h5YUZWdG5ybVliZHVJaml2Y3pUNm9kazZVOE40eGR4LWlYQ19JOEQ3QlVSYkUzS21RMGZzVGZDaFRMXzBVV0NJa0NtaVlKTlVBYTNoNzFVMjlRaU9taE40aTd5TjUybFc2SmtuRUVtN282cU9IM21BOE5YQnFYRjFDeElfTDVUbTdlMGRFRjIya3B6UmN5MzNLN0RuLTY?oc=5",
-  "titulo": "Blizzard avanza para llevar World of Warcraft a plataformas ajenas a la PC",
-  "resumen": "La desarrolladora Blizzard ha dado un paso estratégico con World of Warcraft al proyectar su presencia en dispositivos más allá de las computadoras personales. La empresa fundamenta esta iniciativa en el deseo de que los usuarios puedan jugar desde cualquier lugar.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "095f72a58c8b",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-11-08/entre-la-muerte-maga-y-la-radicalizacion-del-trumpismo-los-republicanos-buscan-su-sitio-tras-la-debacle-electoral.html",
-  "titulo": "Stephen Miller asume como jefe de Gabinete tras la derrota republicana en las elecciones de medio término",
-  "resumen": "Donald Trump designó al radical Stephen Miller como su jefe de Gabinete luego del tropiezo electoral de su partido en las 'midterms'. Esta decisión demuestra que el expresidente rechaza cualquier intento de análisis o reflexión interna sobre el rumbo de los republicanos.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "25363fa48d9a",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/deportes/20261108-nigeria-hace-historia-campeona-mundial-femenino-sub-17",
-  "titulo": "Nigeria logra un hito histórico al coronarse campeona del Mundial Femenino Sub-17",
-  "resumen": "La selección femenina de Nigeria venció 2-1 a Japón en la final celebrada en Rabat. Con este triunfo, el conjunto nigeriano se transformó en el primer equipo africano en levantar el título de esta categoría. Superaron a las japonesas, quienes llegaban como favoritas tras dejar en el camino a Corea del Norte, ganadoras de las dos ediciones anteriores.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "3458420e2c0c",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlpzbjlYTDBUUkE4blpjS1hPN0lmczBkT0p3QnFLaFlvdUtKWEJGYVlJNkRYOGxDWko1SE1QQk5CemlON3ZuZVBpX3Z4VTY3WDR2RG5VeVZ5Yk5UMVFKTU41cjA5b2xOajF2NnBaU1BWUW9LU0xzbGVWcEtIQnAyVHliQ3JvaUF5bmJTWg?oc=5",
-  "titulo": "Transmisión en directo del Campeonato Mundial 3v3 de la Major League Paintball",
-  "resumen": "ESPN Deportes ofrecerá la emisión en vivo del Campeonato Mundial 3v3 de la Major League Paintball. El evento deportivo está programado para ser transmitido el 8 de noviembre de 2026.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "395c7336f9a7",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91VjVOWXNfVi1CU2ZjQlFIWE9NNGNJUDdZdjBGbHZCendYbFY2bFQ5NGFCWlhXX2I0TENsRmVnbE1qYXdkd2FVSHFPLWNJR3V2VTVfS0JXNW9scU9zOXlIUUkydEd0S3ZqODlFdnJ2T2c3WjhTNmRzUDhXeTI?oc=5",
-  "titulo": "El músico Kid Rock afirma que el mundo requiere escuchar su mensaje",
-  "resumen": "El artista Kid Rock sostiene que globalmente se debe prestar atención a sus recientes declaraciones. Esta información fue publicada y difundida a través de la plataforma Yahoo.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "3e826feaa671",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/watch/cmje5q2gd2pdo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Colapso del banco Ueno genera tensión en el sector político y financiero paraguayo",
-  "resumen": "La repentina caída de Ueno Bank, una entidad que prosperó durante la gestión del presidente Peña, ha desatado una fuerte controversia en Paraguay. El impacto de este caso ha puesto en una situación crítica tanto al sistema político como a las instituciones financieras de la nación.",
-  "categoria": "Economía",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "40fe0f9a62ac",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html",
-  "titulo": "Donald Trump perfila sus próximos pasos internacionales con la designación de su nuevo jefe de Gabinete",
-  "resumen": "A pesar de su derrota electoral, el presidente de Estados Unidos continúa ejerciendo una influencia considerable e impredecible en la política exterior. Recientemente ha comenzado a dar indicios sobre su agenda futura mediante el nombramiento de Stephen Miller al frente de su Gabinete.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "56dea30c6dd4",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/irán-reporta-incendio-de-dos-buques-petroleros-en-el-estrecho-de-ormuz/a-79888657?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Incendio de dos buques petroleros en el estrecho de Ormuz tras chocar con minas navales",
-  "resumen": "Medios estatales de Irán reportaron que dos embarcaciones petroleras resultaron consumidas por intensas llamas al navegar por trayectos no permitidos en el estrecho de Ormuz. Según la agencia oficial IRNA, el siniestro se produjo como consecuencia directa de una colisión con minas navales.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "8a6a449722ba",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQZkhFdVVXY2hlZGNvY0lwdjVfN1Z5eWplZFBGNDN6T1JmcHpiXzVPT0V4bDh4QWw0a3hIMEhIazcyWG5vTFVXS1lSR1JSaDdXTU9fZ0FKWHh0ZGxmWEszbEUwZGZwOFE1TzR6X3RnRnV2ZHhmejhBTFBXNzdBVW9LTHZzb0RFTEtfdlBsY3c0Vlgxc0ppdm81dkV5SWI3bUxyeWFSQnV4eHdmRVZfZm9QeW5YQ01DZU1sUUZ5aXd0clBieE8yZ3Q5UTBTdUt6YlJkeVg2MUpUQ0o5NzNDT2htZXNWZHY0M0VCRi1LaE1QNEh2OVhpaEw3NnFPdThDdVdJdHh3aFNHUWRGd0h2ejNWM2xaY0lGVF9GTUlrMV9Lbm5ET2FXblZ4Vi1la0ZRaHc3TE5CUlMyUXlRZlVITmln?oc=5",
-  "titulo": "Detalles de transmisión y seguimiento para el World Wide Technology Championship del PGA Tour",
-  "resumen": "Se han dado a conocer las instrucciones y opciones de cobertura para seguir las actividades del World Wide Technology Championship de la PGA Tour. La información disponible incluye los horarios de televisión y las actualizaciones del tablero de posiciones del evento.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "c6c77b8d7b63",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/deportes/20261108-boca-juniors-conquista-tabla-anual-gol-enner-valencia",
-  "titulo": "Boca Juniors conquista la Tabla Anual con un agónico triunfo ante Defensa y Justicia",
-  "resumen": "El equipo xeneize derrotó sobre la hora a Defensa y Justicia en La Bombonera, consagrándose campeón de la Tabla Anual y obteniendo su primer título en tres años. La escuadra dirigida por Rodolfo Arruabarrena llegará con tranquilidad a sus próximos compromisos en la final de la Copa Sudamericana, el Torneo Clausura y la Copa Argentina.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
- },
- {
-  "id": "cda56a4d7bba",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUVsbHhVMzEzWFpQV1EwaC1wNjJ4d1VXbnJxdXV2eUhLSW9IQnBoNEdzRkduX3RQUXo3cWgwQnZ5TVlwWk9VaFFSSHRpdF9JVmtpd1I2Q2RHOW9Ja21rNGhTR1BYWmRsS2RoX01nU2xXZlFwRGw5ZDhxSHJJS3U4UG91TlpweXJYd0RnQVFQaHhxXzNmaG82RUZ0eUozNjRONXFrSGMzZ2Y?oc=5",
-  "titulo": "Corea y Japón se enfrentan en la Copa Mundial de Béisbol Sub-23 de 2026",
-  "resumen": "La Confederación Mundial de Béisbol y Sóftbol presenta el duelo entre las selecciones de Corea y Japón. Este encuentro forma parte de la Copa Mundial de Béisbol Sub-23 del año 2026, evento patrocinado por RAXUS.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T11:13:55.186028+00:00"
  }
 ]
