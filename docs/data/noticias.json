@@ -1,5 +1,113 @@
 [
  {
+  "id": "091fcae80d82",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261113-c%C3%B3mo-influye-el-creador-de-contenido-jordi-wild-en-la-conversaci%C3%B3n-sobre-las-elecciones-espa%C3%B1olas",
+  "titulo": "El papel de personalidades como Jordi Wild en las campañas electorales de España",
+  "resumen": "El creador de contenido Jordi Wild ha reavivado la discusión sobre la influencia de las figuras de internet en el ámbito político durante el periodo electoral español. Al contar con millones de seguidores en plataformas digitales, se ha transformado en un actor relevante dentro del debate público. El analista político Jordi Rodríguez-Virgili examina el impacto y las implicaciones de este fenómeno.",
+  "categoria": "Política",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "1537b425a416",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/microsoft-lamenta-profundamente-problemas-causados-por-caída-global/a-79946074?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Microsoft pide disculpas tras una falla masiva en sus servicios a nivel mundial",
+  "resumen": "La empresa Microsoft manifestó su profundo pesar por los inconvenientes causados a raíz de la caída global de su plataforma. Esta interrupción perjudicó el funcionamiento regular de millones de usuarios y organizaciones en unos setenta países.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "2e3073765ca5",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-11-13/un-buque-choca-contra-un-crucero-con-129-personas-a-bordo-en-el-rio-misisipi.html",
+  "titulo": "Rescatan a 180 pasajeros tras el impacto entre dos embarcaciones en el río Misisipi",
+  "resumen": "Un total de 180 personas fueron puestas a salvo luego de que un buque y un crucero chocaran en el río Misisipi, cerca de la ciudad de Nueva Orleans. Las causas que originaron este accidente en el puerto del estado de Luisiana todavía se desconocen.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "368d9a4a209c",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZng2d2luYmNlZnpDbnh5YkdnUFNMbmQxQk1HOEg3dW5INzNMWjFCOXRHaGhPcUtWOGZqakhzV2lvS1BIYkZKQnp6WUtMSFJEdWJsbGc0SWtJWGZJOG5kV2NTSWtRN1ZqOGVOOXNuSjQ5WEtrOTkzTmVic1A5TnZmc3RuWFE3ZkgwRW8zaEx6TllKZzc1V2xrRWJBbEptQ0VSb2JETE8zbkN5eUJaNU9v?oc=5",
+  "titulo": "McIlroy arranca con éxito el World Tour y se perfila hacia la Race to Dubai",
+  "resumen": "El golfista McIlroy comenzó su recorrido en el World Tour firmando una marca de 69 golpes en la jornada inaugural. Gracias a esta actuación, la figura deportiva consolida su candidatura para luchar por el título de la Race to Dubai.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "4d496b3fbc76",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c804wpyd29wro?at_medium=RSS&at_campaign=rss",
+  "titulo": "Decenas de personas son rescatadas tras el choque de un crucero en Nueva Orleans",
+  "resumen": "Un barco turístico con más de 120 ocupantes volcó en Nueva Orleans luego de ser impactado por un buque cisterna. El incidente movilizó labores de auxilio que permitieron el rescate de decenas de pasajeros.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "4e9866fc9e04",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SSldMSUFhRHRyZHBiV2E2aHNJVGtDbC11NU8tcDk2eFdBc0EtOVNlY1hrUlBJYW5WZ010a1RmQ1RodEJrejFqLTZxNkhmNkhhQ3dSRkxreFRnTDJxWk45RmQ0RzFwdzJpUDVVY3dBd3hVazBuOVBtRQ?oc=5",
+  "titulo": "Famosas figuras acuden al estreno y alfombra roja de la película 'Hexed'",
+  "resumen": "Se han dado a conocer las imágenes de la alfombra roja durante la presentación del filme 'Hexed'. El evento contó con la presencia de reconocidas figuras como Hailee Steinfeld, Jodie Foster y Rashida Jones.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "765ff03223b7",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cve87dj13r0do?at_medium=RSS&at_campaign=rss",
+  "titulo": "Polémica personal en Nvidia genera interrogantes hacia la Casa Blanca",
+  "resumen": "Un escándalo vinculado a la vida privada de Jensen Huang, líder del gigante tecnológico Nvidia, ha provocado una seria crisis. Las repercusiones de este suceso han comenzado a generar dudas e interrogantes que salpican a la propia Casa Blanca.",
+  "categoria": "Política",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "774932ec0a7e",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261113-microsoft-avanza-en-la-recuperaci%C3%B3n-de-sus-sistemas-tras-ca%C3%ADda-mundial",
+  "titulo": "Microsoft restablece gradualmente sus servicios tras sufrir una falla global",
+  "resumen": "La compañía Microsoft comenzó el restablecimiento progresivo de sus plataformas tras una interrupción masiva a nivel internacional. Aunque la empresa reportó mejoras en la recuperación de los sistemas, varios clientes todavía registran dificultades de acceso e incidencias.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "7b4661926ed6",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
+  "titulo": "La FAA decreta la paralización de los despegues en Estados Unidos",
+  "resumen": "La autoridad aeronáutica estadounidense dispuso la suspensión indefinida de los despegues en todo el país. La medida fue tomada bajo el argumento de circunstancias extraordinarias relacionadas con la seguridad y la comunicación.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "89ba88f4e19b",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cr15e3p8yjeko?at_medium=RSS&at_campaign=rss",
+  "titulo": "Emotivo reencuentro de León XIV con la comunidad de Chiclayo",
+  "resumen": "León XIV realizó su primera visita a Chiclayo desde su periodo como obispo de esa ciudad entre 2015 y 2023. Su llegada generó un ambiente de fiesta y jornadas de peregrinación entre los asistentes.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "927055b3c7c0",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenNSZ3BOTDN2bGo4QVIwTmlITG9zRDBQVE90NUtjZ21zUEtwV3JOWkloQ3d2Mm1xY2I0NEVjN0VUQkpQOHBhbmp2aV9Sa3pjR01JbDBBdWNoMFpWV0VQaXhXTUVsT0tvNndRaG5meXB6T1U5M1lGYTNzUmxjUExYWUFWT2hLTDY0T1JkWFAxWXBKVE4xWlF3al81Y1B3MEhQ?oc=5",
+  "titulo": "Miguel Ángel Loor es reelecto en la directiva de la World Leagues Association",
+  "resumen": "El dirigente Miguel Ángel Loor fue ratificado para integrar nuevamente el Directorio de la entidad World Leagues Association. De esta forma mantendrá su posición directiva dentro de la organización.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
+  "id": "9e9e3db009aa",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html",
+  "titulo": "Falla de comunicación en centros de control detiene el tráfico aéreo estadounidense",
+  "resumen": "Las operaciones aéreas en Estados Unidos quedaron completamente suspendidas debido a motivos de seguridad. La Secretaría de Transporte precisó que la causa es un fallo de comunicación que afecta a todos los centros de control de tráfico aéreo.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-14T00:41:09.457769+00:00"
+ },
+ {
   "id": "05950749ec1c",
   "fuente": "BBC Mundo",
   "enlace": "https://www.bbc.com/mundo/articles/ck4gnqw6jnnwo?at_medium=RSS&at_campaign=rss",
@@ -1240,113 +1348,5 @@
   "resumen": "El mandatario afirmó que considera muy difícil una reanudación de los enfrentamientos armados contra Teherán. Sin embargo, condicionó el mantenimiento de la paz a la suscripción de un acuerdo sólido. Asimismo, señaló que únicamente retomaría los ataques si lo juzga estrictamente necesario.",
   "categoria": "Conflictos",
   "fecha": "2026-11-08T23:28:07.780856+00:00"
- },
- {
-  "id": "b38d164211be",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c9dw1q8e4v3o?at_medium=RSS&at_campaign=rss",
-  "titulo": "La maniobra aliada de 1944 para extraer componentes del cohete nazi V2",
-  "resumen": "Un programa de televisión rememoró una operación clandestina efectuada a mediados de 1944 para retirar partes del proyectil desarrollado por la Alemania de Hitler. Agentes aliados trasladaron las piezas fuera de Polonia y las resguardaron en el domicilio de un oficial alemán.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-08T23:28:07.780856+00:00"
- },
- {
-  "id": "bcf6b85e9a6e",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-08/eisenkot-apela-a-un-gobierno-de-emergencia-nacional-ante-la-necesidad-urgente-de-un-nuevo-liderazgo-en-israel.html",
-  "titulo": "Eisenkot reclama la formación de un ejecutivo de emergencia en Israel",
-  "resumen": "El exjefe del Estado Mayor israelí solicitó la creación de un gobierno provisional ante la necesidad de renovación en la dirigencia del país. Tras recibir una asignación del presidente, pidió flexibilidad a los partidos para evitar la repetición constante de procesos electorales.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T23:28:07.780856+00:00"
- },
- {
-  "id": "0285023f7765",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VYmVyYW9KYW5CbWgzck95ZlVhTFRKaVhxN3NkVDIwS29lTjFiTWRva1hoMVYwNHgzaDBGQktta3NhYm11Mzc5ZGZQWC12MEJxZS1LbEVPY1VhQWZiZWlqX21KR1ZGQQ?oc=5",
-  "titulo": "El Consejo Mundial de Boxeo conmemora fechas históricas del 8 de noviembre",
-  "resumen": "El Consejo Mundial de Boxeo destaca los acontecimientos clave sucedidos un día como hoy, 8 de noviembre. La entidad repasa momentos significativos en el historial de este deporte.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "04c3c3ba0555",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c3j47pzvv7kgo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Farid Kahhat analiza el impacto de la intervención estadounidense en América Latina",
-  "resumen": "El internacionalista peruano Farid Kahhat abordó los desafíos actuales en el marco de una entrevista sobre su libro “El mundo se ha vuelto un lugar extraño”. El analista señaló que el incremento en la intervención de Estados Unidos dentro de América Latina genera diversos riesgos y retos.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "18bbd2d32842",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cm20v7vg5zd1o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Melanie Pérez Arias presenta su primera novela en el Hay Festival de Arequipa",
-  "resumen": "La escritora venezolano-peruana Melanie Pérez Arias acude al Hay Festival de Arequipa para presentar su obra \"Un animal que se deja caer\". En su propuesta sostiene que la postmenopausia no implica un destino catastrófico para el cuerpo, sino un periodo de libertad para las mujeres mayores.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "32d0570aa6a5",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cm62yxpxv5kqo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Aves gigantes se convirtieron en superdepredadores tras la extinción de los dinosaurios",
-  "resumen": "Posterior al impacto del asteroide que erradicó a los dinosaurios, las aves gigantes dominaron como superdepredadores durante decenas de millones de años. Estas criaturas influyeron en la evolución de la humanidad al tener a los seres humanos, incluidos niños, entre sus presas.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "345634c6a2ec",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-11-08/parece-un-kennedy-jon-ossoff-la-estrella-en-ascenso-del-partido-democrata-para-2028.html",
-  "titulo": "Jon Ossoff se perfila como figura clave del Partido Demócrata para 2028",
-  "resumen": "El senador cuenta con el respaldo de Barack Obama y suele ser comparado con el expresidente Kennedy. Actualmente, lidera las opciones en las casas de apuestas para convertirse en el candidato presidencial en los próximos comicios.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "5085b0961030",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/polonia-califica-de-ataque-terrorista-el-tiroteo-en-cracovia/a-79890865?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Las autoridades de Polonia consideran como ataque terrorista el tiroteo en Cracovia",
-  "resumen": "El tiroteo ocurrido en la ciudad de Cracovia, que provocó la muerte de seis personas, fue catalogado como un acto terrorista. Asimismo, los cadáveres de los padres y de una hermana del sospechoso fueron encontrados en la residencia de este.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "6acde1f404b8",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/más-de-20-migrantes-mueren-en-naufragio-de-embarcación-en-senegal/a-79890306?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Al menos 20 migrantes pierden la vida tras naufragar una embarcación en Senegal",
-  "resumen": "Más de una veintena de personas fallecieron debido al naufragio de su bote en costas senegalesas. Las autoridades no precisaron hacia dónde se dirigía la nave, pero Senegal es considerado un punto de origen y paso hacia las Islas Canarias.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "7eac3aa85752",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlhyUkw3eDdfSWNlTWVrTnZZOFpiMHNycWstUzVBSkxTYVlpcGxaTENHbUh1TEVCYnlPNWdmeUZSZGd3VXV0RFpQb3F6a3Y5MnZsZkVRTzJjaHF1XzdRaFNKUjN1c1dmUzYxWVhsTmk2VVVleUU5ZkVOU2o1bzBZdENR?oc=5",
-  "titulo": "Amorim exige máxima entrega en el Milan y afirma que perder debe doler",
-  "resumen": "Amorim sostuvo que el Milan no puede tomarse días libres en su rutina. Además, señaló que sufrir una derrota debe sentirse como si fuera el fin del mundo.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "8460bdce1fec",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/eisenkot-invita-al-partido-de-benjamin-netanyahu-a-formar-una-coalición-de-gobierno/a-79892606?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Eisenkot convoca al partido de Netanyahu para constituir un nuevo Ejecutivo en Israel",
-  "resumen": "El mandatario israelí ha encomendado al líder opositor Eisenkot la responsabilidad de constituir un nuevo gobierno. En este proceso, el político invitó a la agrupación de Benjamin Netanyahu a formar parte de la coalición. Asimismo, Eisenkot manifestó que la etapa en la que los ciudadanos se sentían marginados por las autoridades debe llegar a su fin.",
-  "categoria": "Política",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
- },
- {
-  "id": "9fc46bde7f9e",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EeGt1enpnREZlZFVnYmtpZjhzS2VieC01X2JTcmhubEk3eElxaXFrTjR3YUw0VWJLUWQzM0N6UFUxeF9mRFd3RXFuODFyRXpuX1Vld1NxcWE3dnVIUzN6Wi1HclJfNlY2c0Y0LXF5cXY1TVVocFdmMjItRQ?oc=5",
-  "titulo": "Se transmite en directo la segunda jornada del ISA World Surfing Games 2026",
-  "resumen": "El certamen ISA World Surfing Games 2026 se encuentra en la emisión en vivo de su segundo día de actividades. La cobertura en directo de las jornadas del evento es brindada a través de Duke Surf.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-08T17:34:59.766081+00:00"
  }
 ]
