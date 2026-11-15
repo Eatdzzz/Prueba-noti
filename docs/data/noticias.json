@@ -1,5 +1,113 @@
 [
  {
+  "id": "006a2de26674",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHJ4SEg3Y0ZMYy1FajlIODFxX3YxQndpV2g3d2Z6MVJIVDJhQTJ0VzExdHV5dVNVZmN1cWFOY0ZVZW1YY3JWVlQxLTZpNzROOTlOektGWmVPU2tHYkNxWkpxdGxvMVlmQ2hNOWpSTkJpYkJYNXctMEpTZ0luYVJvVURSZW96ZDZkejBr?oc=5",
+  "titulo": "Transmisión en directo del cierre de los ISA World Surfing Games 2026",
+  "resumen": "La jornada final del campeonato ISA World Surfing Games 2026 se encuentra disponible para su seguimiento en vivo. El evento deportivo concluye sus actividades a través de la plataforma Duke Surf.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "0552000646f2",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Atentan con explosivos contra la vivienda de un periodista en Panamá",
+  "resumen": "La residencia del comunicador Rolando Rodríguez fue objeto de un ataque con explosivos en Panamá. El periodista se encontraba indagando un presunto caso de corrupción en la nación al momento de los hechos. El suceso ha provocado una profunda conmoción en el país.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "0ad0b25a8b51",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c35yn4xdxz5eo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Un experimento psicológico arroja claves sobre los orígenes del habla",
+  "resumen": "El denominado efecto bouba/kiki es una prueba psicológica cuyos resultados se repiten de manera constante en casi todas las culturas. Este hallazgo trasciende la mera curiosidad al ofrecer posibles pistas sobre cómo comenzó la comunicación verbal humana.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "195cd6e4246d",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/una-manifestación-del-movimiento-gen-z-regelt-en-berlín-se-salda-con-22-detenidos-y-tres-policías-heridos/a-79952050?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Manifestación en Berlín concluye con arrestos y agentes lesionados",
+  "resumen": "Una marcha del colectivo 'Gen Z regelt' en la capital alemana reunió a cerca de 1.200 personas, a pesar de haberse anunciado solo un centenar. Durante el recorrido por la ciudad se registraron enfrentamientos con las fuerzas del orden. Las autoridades reportaron un saldo de 22 detenidos y tres policías heridos.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "1cff4720c047",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/francia/20261115-macron-busca-reforzar-influencia-franc%C3%B3fona-entre-tensiones-por-posible-reelecci%C3%B3n-de-secretaria-general-de-la-oif",
+  "titulo": "Macron asiste a la cumbre de la Francofonía en Camboya en medio de disputas regionales",
+  "resumen": "El mandatario francés acudió a la cumbre de la OIF en Camboya para abordar asuntos como la inteligencia artificial, la economía y la dirección del organismo. Sin embargo, el evento se ha visto afectado por el conflicto en la República Democrática del Congo, país que retiró su candidatura debido a su enfrentamiento con Ruanda.",
+  "categoria": "Política",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "262c9fb2ee0c",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss",
+  "titulo": "Una mujer permanece retenida en las Islas Cook por trabas migratorias",
+  "resumen": "Ruchira Ranasingha, de 50 años, se encuentra atrapada en las Islas Cook desde el año 2023 debido a un problema con su visa. Su intención actual es poder regresar a su hogar en Sri Lanka.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "329042b0293d",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/el-ejército-yemení-se-retira-de-bab-al-mandeb-para-reforzar-adén-ante-el-avance-de-la-ofensiva-hutí/a-79951870?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Las fuerzas de Yemen abandonan la zona de Bab al Mandeb para resguardar Adén",
+  "resumen": "El Ejército yemení se ha replegado de Bab al Mandeb con el objetivo de defender la ciudad de Adén ante el avance hutí. Como consecuencia, los insurgentes han incrementado su dominio sobre este paso marítimo clave hacia el Canal de Suez.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "3fa070468114",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-15/melenchon-se-consolida-en-una-francia-agitada.html",
+  "titulo": "Mélenchon gana terreno en las encuestas y apunta a la segunda vuelta en Francia",
+  "resumen": "El representante de La Francia Insumisa continúa subiendo en los sondeos gracias al apoyo de los jóvenes y la población de las periferias. Con este crecimiento, se da por seguro que competirá directamente contra Marine Le Pen en la segunda ronda electoral.",
+  "categoria": "Política",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "4be09aaac108",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPemtZWS10c0pDcVI5LU1wZzRjMEE5OWJ4LUFjUUJwT1VHUXBUeU9vRUVzVldyaTJicVUwZnNjS2hYVzVoQjAteFBvYmlmNGxlUERRMGdmX0p1Z1dHb1FGNUxRLVF2RXBWck1yZHJpSEkzakw3YTN3RmI3eTJWdmZreHZhWElNc01RZWFuaUZZMXZPMHRhYUEtNTBRLTZoUWs1VGJ4em9BeGgzZTRRdEU1eW1jQUlvUFJnbUp2R1p0V1IwZWpYLVNaYUlMQU1jNDIyb1J2c2t4MUFOVDJpV084RUkwS21hcWJaRkdNUDFxQnlmR090SFVMYnVZdHpjRjVhMjNOS3ZXRGRRZVpuczdxVHJzSXUzTGwxSmhFNWdXUjF6dW5nZHBCWjFaRnR6Rm1zM3VUOFBPR2FiZUFDaGFPWENYRGFhTHRER2pKaXFWVTZUZ3A2UW9EMzJCam1zcURCQUZRN0MzNlFwVFBxQXF4Ri1vZ0hLRlI4aXNoN2haQzVOSnhJYk1WMHhhLTVHeFB1WjM0eG9abXoyY2hPeExoVTF6b3pjUjU2d3ZlQVNlS0dxYXc3QUxweW5lRndKUHprMUt5Rmh0cUM5M1diOF8wNVFxR2tJZ29NMUM5LVZPc3J1cWtxbkJtQkRDOTRvaW80dUpVZGtsLUkyTFVJSnA5UHZnY09JcUJ4UDlyNjNkNUZzVDV1R2ZKM2FkXzBlVENDSkRNRG1LZWNMQ3Zmelg1ci13TGtENkNreUlDbDRXQTVidw?oc=5",
+  "titulo": "Ferrari logra por segundo año consecutivo el título de marca más fuerte del mundo",
+  "resumen": "Ferrari ha sido nombrada la marca más fuerte a nivel mundial según la clasificación Brand Finance Global 500. El fabricante automotriz recibe este reconocimiento internacional por segundo año seguido.",
+  "categoria": "Economía",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "4d2c5069fc81",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/un-superpetrolero-se-hunde-tras-explotarle-una-mina-marina-en-ormuz-según-informa-irán/a-79952681?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Irán reporta el hundimiento de un superpetrolero en el estrecho de Ormuz por una mina",
+  "resumen": "Autoridades de Irán informaron sobre el hundimiento de un superpetrolero tras ser alcanzado por una mina marina en Ormuz, además de registrarse una explosión en una segunda embarcación. Teherán indicó que se han presentado múltiples incidentes similares en los últimos días. Debido a esta situación, el gobierno iraní mantiene sus advertencias para evitar el tránsito por dicho estrecho.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "59b5a5f3ae3b",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmy493l9xx1zo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Experto señala indicios del posible fin de la recesión democrática global",
+  "resumen": "El especialista internacional Larry Diamond declaró en una entrevista que ciertos acontecimientos recientes sugieren un cambio de tendencia a favor de la democracia en el mundo. El analista planteó que el 25 de octubre de este año podría ser recordado como el punto de inicio para el fin del retroceso democrático global.",
+  "categoria": "Política",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
+  "id": "6dbf8d5420ad",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261115-tensiones-en-la-cumbre-de-la-francofon%C3%ADa-por-posible-reelecci%C3%B3n-de-la-secretaria-general",
+  "titulo": "Tensiones geopolíticas comprometen la unidad en la Cumbre de la Francofonía",
+  "resumen": "La Cumbre de la Francofonía realizada en Camboya enfrenta divisiones ante la posible reelección de la secretaria general Louise Mushikiwabo. La República Democrática del Congo intenta frenar el nombramiento de la funcionaria ruandesa debido a disputas vinculadas al grupo paramilitar M23. Además, diversas delegaciones han amenazado con abandonar el organismo si se concreta dicha reelección.",
+  "categoria": "Política",
+  "fecha": "2026-11-15T15:19:54.946413+00:00"
+ },
+ {
   "id": "13a3406c1710",
   "fuente": "DW Español",
   "enlace": "https://www.dw.com/es/coalición-saudí-intercepta-dos-misiles-balísticos-disparados-hacia-riad/a-79950583?maca=spa-rss-sp-all-1122-rdf",
@@ -1240,113 +1348,5 @@
   "resumen": "El medio Post Register emitió un registro informativo vinculado con Argentina y el Papa. La fuente original no proporciona mayores detalles explicativos sobre el acontecimiento.",
   "categoria": "Sociedad",
   "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "52df095da9a0",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/aliado-de-trump-es-el-nuevo-líder-de-los-republicanos-en-la-cámara-de-representantes/a-79913634?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Jim Jordan encabezará a los republicanos en la Cámara de Representantes",
-  "resumen": "El congresista Jim Jordan, aliado de Trump y fundador del ultraderechista House Freedom Caucus, fue designado como nuevo líder de su bancada. El legislador tendrá un rol decisivo a partir del 3 de enero, fecha en que se instalará el Congreso de mayoría demócrata.",
-  "categoria": "Política",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "5825533a08f9",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-economia-chile-camiones-paro-diesel",
-  "titulo": "Transportistas chilenos continúan en huelga ante falta de acuerdos por el precio del combustible",
-  "resumen": "Un sector de los camioneros de Chile lleva a cabo un paro de actividades para manifestar su descontento por el alza en los combustibles. Los choferes resolvieron continuar con la protesta tras fracasar el diálogo con delegados del Gobierno chileno.",
-  "categoria": "Economía",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "584554521781",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cqlyj888nnj9o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Arrestan a militar estadounidense en el Reino Unido por sospechas de colaborar con Rusia",
-  "resumen": "Un oficial de 41 años perteneciente a las fuerzas armadas de Estados Unidos fue apresado en territorio británico acusado de espionaje prorruso. La aprehensión se llevó a cabo dentro de una base militar en Inglaterra utilizada conjuntamente por EE. UU. y la OTAN.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "7d39e0dcf816",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261111-pap%C3%A1-est%C3%A1-encerrado-el-diario-de-la-vida-y-muerte-de-un-impresor-internado-en-francia-durante-la-i-guerra-mundial",
-  "titulo": "El diario inédito que saca a la luz el internamiento de extranjeros en Francia durante la Primera Guerra Mundial",
-  "resumen": "Un texto íntimo escrito por Samuel Gunsberg, impresor nacido en Budapest y recluido en 1914 como enemigo, fue localizado por su tataranieta. El documento relata las vivencias de cerca de 60.000 ciudadanos foráneos que sufrieron el encierro en territorio francés a lo largo del conflicto.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "84a0edde3f1c",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261111-de-los-ataques-cin%C3%A9ticos-a-la-guerra-en-ir%C3%A1n-los-momentos-que-acorralaron-a-hegseth",
-  "titulo": "El secretario de Defensa de Estados Unidos queda bajo la amenaza de un juicio político",
-  "resumen": "El jefe del Pentágono se expone a enfrentar un histórico proceso de destitución que no se aplicaba a alguien de su puesto desde 1876. Su gestión ha acumulado polémicas como purgas ideológicas en las tropas y demandas formales de destitución presentadas por el legislador republicano Thomas Massie.",
-  "categoria": "Política",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "87af684b77d1",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c678pgk14kedo?at_medium=RSS&at_campaign=rss",
-  "titulo": "La genética detrás de quienes solo requieren dormir cuatro horas",
-  "resumen": "Existen individuos para los cuales dormir un tiempo muy reducido resulta suficiente para descansar gracias a su genética. No obstante, comprobar si una persona forma parte de este grupo puede ser complicado.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "1dcad43ee0ef",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-destacado-cantautor-alemán-wolf-biermann-cumple-pronto-90-años-y-sigue-luchando-por-la-libertad/a-79913182?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Wolf Biermann mantiene su espíritu combativo al acercarse a los 90 años",
-  "resumen": "El cantautor alemán Wolf Biermann se aproxima a cumplir nueve décadas de vida sin abandonar su lucha por la libertad. A través de su música y su poesía comprometida, su trayectoria continúa ligada a la historia contemporánea de su país.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-10T21:40:04.974233+00:00"
- },
- {
-  "id": "2aec7761186c",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-10/netanyahu-aprovecha-la-jura-del-nuevo-parlamento-para-acusar-a-los-diputados-arabes-de-querer-destruir-israel.html",
-  "titulo": "Tensión en el Parlamento israelí tras acusaciones de Netanyahu a diputados árabes",
-  "resumen": "Durante la sesión de jura de la nueva Cámara, Netanyahu afirmó que los parlamentarios árabes buscan la destrucción de Israel. En paralelo, la formación de Gadi Eisenkot impulsó una iniciativa legal para investigar las fallas de seguridad ocurridas durante el ataque de Hamás en 2023.",
-  "categoria": "Política",
-  "fecha": "2026-11-10T21:40:04.974233+00:00"
- },
- {
-  "id": "3e56de815c8b",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-11-10/hegseth-el-juicio-politico-es-una-farsa-y-todos-lo-saben.html",
-  "titulo": "El secretario de Defensa de EE. UU. defiende su gestión frente a un juicio político",
-  "resumen": "El secretario de Defensa estadounidense ofreció su primera rueda de prensa en medio año para respaldar su desempeño laboral. Su comparecencia se produjo tras la apertura de un proceso de 'impeachment' promovido en el Congreso contra él.",
-  "categoria": "Política",
-  "fecha": "2026-11-10T21:40:04.974233+00:00"
- },
- {
-  "id": "576383777fdc",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-10/milei-el-hombre-a-quien-solo-conmueven-sus-perros.html",
-  "titulo": "Un adelanto editorial explora el crecimiento de la extrema derecha a través de Milei",
-  "resumen": "Se ha difundido un fragmento del nuevo libro redactado por el autor Miguel González. La obra analiza el fenómeno de la expansión global de las corrientes de extrema derecha centrando su atención en la figura de Javier Milei.",
-  "categoria": "Política",
-  "fecha": "2026-11-10T21:40:04.974233+00:00"
- },
- {
-  "id": "60c3fa6b83d8",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cm9dzdq3p48zo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Polémica por el cambio de reglas sobre transfusiones en los Testigos de Jehová tras años de muertes",
-  "resumen": "Diversas personas pertenecientes a los Testigos de Jehová fallecieron durante décadas al acatar la prohibición de recibir transfusiones de sangre. Sin embargo, la organización religiosa decidió eliminar esta norma recientemente, semanas después de que ocurrieran nuevos fallecimientos por su cumplimiento. El precepto fue revisado tras haber causado la pérdida de numerosas vidas.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-10T21:40:04.974233+00:00"
- },
- {
-  "id": "75061032262e",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/ck8dzdvn6d0mo?at_medium=RSS&at_campaign=rss",
-  "titulo": "El futuro político del secretario de Defensa de Estados Unidos depende de Donald Trump",
-  "resumen": "El secretario de Defensa estadounidense, Pete Hegseth, se encuentra atravesando una complicada situación y podría ser sometido a un juicio político. Según un análisis periodístico de Gary O'Donoghue, la continuidad del funcionario en su cargo estará determinada finalmente por Donald Trump.",
-  "categoria": "Política",
-  "fecha": "2026-11-10T21:40:04.974233+00:00"
  }
 ]
