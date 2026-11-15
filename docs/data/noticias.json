@@ -1,5 +1,113 @@
 [
  {
+  "id": "0abbadb672d7",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/¿podría-la-renta-básica-universal-ser-parte-de-la-solución-en-una-economía-revolucionada-por-la-ia/a-79951515?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "El debate sobre la renta básica universal frente a las transformaciones impulsadas por la inteligencia artificial",
+  "resumen": "El impacto económico generado por la inteligencia artificial ha motivado a diversos políticos conservadores a contemplar la implementación de una renta básica universal. No obstante, los economistas muestran escepticismo ante esta medida y los activistas expresan sus dudas.",
+  "categoria": "Economía",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "2723c472cbe7",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-10/gaza-cuando-el-sonido-de-la-lluvia-da-tanto-miedo-como-el-de-las-bombas.html",
+  "titulo": "Las fuertes precipitaciones agravan las condiciones de vida de refugiados en Gaza",
+  "resumen": "Ahmed Abu Kmail, un camarógrafo de 39 años, narró la complicada vivencia de su familia ante las precipitaciones en la Franja de Gaza. El agua ha anegado la precaria tienda donde se resguardan, incrementando su nivel de angustia.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "3cff40307ef5",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/marina-francesa-intercepta-sumergible-con-toneladas-de-cocaína-en-el-atlántico/a-79953291?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Fuerzas navales de Francia interceptan un sumergible con drogas en el océano Atlántico",
+  "resumen": "Efectivos de la Marina francesa ejecutaron un operativo marítimo en el Atlántico que derivó en la detención de cuatro personas a bordo de un sumergible. Durante la intervención, una porción significativa del cargamento de cocaína terminó hundiéndose con la nave.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "473457bd7c1f",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261115-informe-desde-lima-le%C3%B3n-xiv-resalta-la-importancia-de-las-tradiciones-religiosas-populares",
+  "titulo": "El pontífice condecora a la Virgen Reina de Belén y resalta la devoción popular",
+  "resumen": "En una ceremonia realizada en el Parque Arqueológico de Sacsayhuamán, el papa León XIV concedió la Rosa de Oro a la Virgen Reina de Belén. Durante su intervención, la autoridad eclesiástica subrayó que las costumbres religiosas de la población constituyen un elemento clave para la unidad.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "54dd4cbcaece",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjJINVNtUUJnMzZBVjdMNTZ5b2dXTW9oSWJxc0RfcFNkX0FxRl9JOU1XYThFMFFTNDNlX3BFQy0zYmxtZjB2aFJ4bF9pdU1IOGp4T0MzSktnN0REV19nY1p5ejAwZHJEMnlPNzhBQkpSUzRtRkp0RTZmR2pmN3RhSUtTRmlZbl9jT1dwSw?oc=5",
+  "titulo": "ESPN Deportes transmitirá el noveno Campeonato Mundial de Lanzamiento de Hacha y Cuchillo",
+  "resumen": "ESPN Deportes llevará a cabo la transmisión en directo del noveno Campeonato Mundial de Lanzamiento de Hacha y Cuchillo. La emisión de esta competencia está prevista para realizarse el 15 de noviembre de 2026. El evento se podrá seguir en vivo a través de la cobertura oficial de la cadena.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "62cae9c6393e",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xZFcwanIwZTB1OXJTd2JVRTVKVzRmckZnNzJVckJZZHRhenNIMGplMkxvZDdaaUZ2YUpWYUttSHg0YS02XzRBSHhSZzQ3NlZJOTJFQkdieVNWM3I3M1FGRFRDZFdMQVVDVEVWN0dnaw?oc=5",
+  "titulo": "La nueva película de Anne Hathaway se convierte en un fenómeno global de transmisión en línea",
+  "resumen": "Una película protagonizada por Anne Hathaway ha logrado posicionarse como un éxito global instantáneo en las plataformas de transmisión. La cinta combina temáticas al estilo de las producciones de Jurassic World y Cloverfield. El largometraje ha captado rápidamente la atención de las audiencias internacionales según datos de IMDb.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "6346c7f62c3a",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Ucrania solicita a Estados Unidos y a Elon Musk el restablecimiento total del servicio Starlink",
+  "resumen": "El presidente de Ucrania instó a Estados Unidos y al empresario Elon Musk a restablecer la cobertura completa del sistema de internet Starlink en su país. El mandatario señaló que las limitaciones actuales continúan afectando las operaciones defensivas de sus fuerzas armadas. La petición busca obtener los recursos necesarios para contrarrestar los ataques de las tropas rusas.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "65231fa562bd",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c3rrg98rd8dqo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Estados Unidos cataloga como organizaciones terroristas a tres grupos criminales guatemaltecos",
+  "resumen": "El gobierno de Estados Unidos ha clasificado a tres bandas delictivas de Guatemala como organizaciones terroristas extranjeras. Las autoridades estadounidenses sostienen que estos grupos operan en alianza directa con carteles mexicanos de la droga. Washington acusa a estas estructuras criminales de colaborar en actividades de tráfico de narcóticos.",
+  "categoria": "Política",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "6e1938863bc2",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/rebeldes-hutíes-se-encuentran-a-solo-60-kilómetros-de-la-capital-provisional-de-yemen/a-79953488?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Los rebeldes hutíes se aproximan a la capital provisional yemení",
+  "resumen": "Los insurgentes continúan su avance en Yemen y se ubican a solo 60 kilómetros de la sede institucional provisional. En esa ciudad opera el gobierno del país que cuenta con el reconocimiento de la comunidad internacional desde el año 2014.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "85501f969866",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El impacto del anticomunismo en la prominente carrera de Paul Robeson",
+  "resumen": "Paul Robeson fue una celebridad destacada en el cine, el teatro, la música y el fútbol americano en Estados Unidos. No obstante, su figura histórica se vio empañada de forma severa por la persecución anticomunista surgida durante la Guerra Fría.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "9472310791b8",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/estonia-cerrará-su-frontera-con-rusia-tras-denunciar-intento-de-sabotaje/a-79953162?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Estonia clausura la frontera rusa en respuesta a actos de sabotaje",
+  "resumen": "Ocho individuos fueron arrestados por su presunta vinculación con un incendio provocado en una planta productora de drones. Ante este incidente, el gobierno estonio acusó a los servicios de inteligencia de Moscú y determinó el cierre de su paso fronterizo con Rusia.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
+  "id": "9511d013e600",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE4tZzJqbnloRHpNUkxma0R0ZTNLNl92aC1DTHhjRldUZ3M1VnVWQUxaNmYtbTUzbDVmTTFjN053a0lfOC1nOGpCZURHRVBWYUZRd0FSby1XMkxEYTJVanU4Rk5uaFZtOXpQbVpET1pOX2tSaUpla1c2ZGxQZXVMNTdVOWkwQ1o2NVM5QWJwYkJqT09PZW5MS05WN21ZR19xalA1b0JpWW5mUE1qTE1LbVp0eXFrRjBTRzFoNHlhaVVYQQ?oc=5",
+  "titulo": "McIlroy alcanza hito histórico en el circuito europeo y Hatton triunfa en Dubái",
+  "resumen": "El golfista McIlroy logró igualar la marca histórica tras conseguir su octavo título en el circuito europeo. En el mismo contexto deportivo, Hatton se adjudicó la victoria en el torneo celebrado en Dubái.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-15T20:49:33.826941+00:00"
+ },
+ {
   "id": "006a2de26674",
   "fuente": "Reuters World (vía Google News)",
   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHJ4SEg3Y0ZMYy1FajlIODFxX3YxQndpV2g3d2Z6MVJIVDJhQTJ0VzExdHV5dVNVZmN1cWFOY0ZVZW1YY3JWVlQxLTZpNzROOTlOektGWmVPU2tHYkNxWkpxdGxvMVlmQ2hNOWpSTkJpYkJYNXctMEpTZ0luYVJvVURSZW96ZDZkejBr?oc=5",
@@ -1240,113 +1348,5 @@
   "resumen": "Especialistas reunidos durante la ITB Américas en Guadalajara destacaron el crecimiento del turismo comunitario en la región. Sin embargo, advirtieron que la transición hacia este modelo es gradual y requiere replantear quién asume la toma de decisiones, los costes y la distribución de sus beneficios.",
   "categoria": "Sociedad",
   "fecha": "2026-11-11T15:56:19.252512+00:00"
- },
- {
-  "id": "7235a831dba3",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Estados Unidos ofrece hasta un millón de dólares por el líder pandillero haitiano Wilson Joseph",
-  "resumen": "El dirigente de la banda 400 Mawozo fue imputado formalmente por secuestro por parte de la justicia de Estados Unidos. Para facilitar la localización del acusado, el FBI mantiene una recompensa de hasta un millón de dólares a quien aporte información que permita su arresto.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-11T15:56:19.252512+00:00"
- },
- {
-  "id": "823e4b457c52",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-11-10/la-camara-de-representantes-da-carpetazo-al-juicio-politico-a-hegseth.html",
-  "titulo": "La Cámara Baja remite a un comité el proyecto de juicio político a Hegseth",
-  "resumen": "La Cámara de Representantes aprobó referir a una comisión el proyecto de juicio político planteado por el congresista republicano Thomas Massie. La decisión salió adelante con un resultado de 211 votos a favor frente a 204 en contra.",
-  "categoria": "Política",
-  "fecha": "2026-11-11T15:56:19.252512+00:00"
- },
- {
-  "id": "8c393a60dd61",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261111-informe-desde-madrid-espa%C3%B1a-vive-su-primera-huelga-general-desde-2014-tras-crisis-por-la-vivienda",
-  "titulo": "España registra su primera huelga general en una década debido al descontento social",
-  "resumen": "España afronta su primera jornada de huelga general desde 2014 como protesta por la crisis de vivienda y los sueldos bajos. Las movilizaciones provocaron perturbaciones en el transporte y bloqueos de vías, registrando especial impacto en Cataluña. Asimismo, en Madrid se generaron momentos de tensión tras intervenciones policiales para liberar carreteras y el recorrido de manifestantes por comercios.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-11T15:56:19.252512+00:00"
- },
- {
-  "id": "aa8350bec395",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-en-directo-le%C3%B3n-xiv-visita-la-c%C3%A1rcel-de-devoto-un-lugar-emblem%C3%A1tico-para-el-papa-francisco-y-lleva-un-mensaje-de-esperanza-a-los-presos",
-  "titulo": "León XIV concluye sus actividades en Argentina con una multitudinaria misa",
-  "resumen": "El pontífice León XIV reunió a dos millones de creyentes en lo que fue su última misa oficiada en Argentina. Tras este masivo encuentro religioso, el líder eclesiástico emprenderá su viaje hacia Perú.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-11T15:56:19.252512+00:00"
- },
- {
-  "id": "b2154694b0ab",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-11/evacuadas-alrededor-de-300-escuelas-de-italia-por-falsas-amenazas-de-bomba.html",
-  "titulo": "Evacuan cientos de colegios en Italia y Reino Unido por amenazas de bomba falsas",
-  "resumen": "Alrededor de 300 centros educativos de Italia debieron ser evacuados tras recibir avisos falsos sobre presencia de bombas. Del mismo modo, cientos de escuelas en Irlanda, Irlanda del Norte y Escocia registraron correos electrónicos con alertas de posibles atentados. Tras las revisiones correspondientes, no se encontró ningún artefacto explosivo en las instalaciones.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-11T15:56:19.252512+00:00"
- },
- {
-  "id": "b2e90fd0e978",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html",
-  "titulo": "Negociaciones en Abu Dabi cierran con intercambio de prisioneros pero sin acuerdo de paz",
-  "resumen": "Las reuniones en Abu Dabi entre delegaciones de Moscú, Kiev y Washington concluyeron únicamente con un canje de prisioneros y ningún avance hacia la paz. En el marco de las conversaciones, el Kremlin busca condicionar el tema de la invasión a un rediseño de la seguridad europea. Pese a los esfuerzos, los diálogos no lograron destrabar el conflicto.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-11T15:56:19.252512+00:00"
- },
- {
-  "id": "01ca52c645a3",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261111-90-d%C3%ADas-del-terremoto-en-colombia-seguimos-esperando-acompa%C3%B1amiento-del-gobierno-leonardo-reales",
-  "titulo": "Damnificados por el sismo en Colombia continúan a la espera de apoyo oficial",
-  "resumen": "A tres meses del terremoto de magnitud 7,4 en Colombia, las víctimas del desastre aún enfrentan un panorama incierto. La emergencia provocó 334 muertes, más de cuatro mil heridos y decenas de desaparecidos, afectando con gravedad a localidades como Pereira. Sobre este escenario y la falta de acompañamiento estatal se pronunció el personero municipal de dicha ciudad.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "05f010fd01d0",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQjVtdUVpYVcyRER4R0plVXVreTRkWEtORDMzLThkRE9nN0hubGgwV3ZaNGlqa3ppdHdLYzVhaWRYT0VXZ0hfcFc2RGpnU1dZeV9DTV9OR3FVeTFvT2lxUFVFVURPcHBfYWFjNVBab08zWDZyN2xsQ0ZZQkhyTXZfYW9QMWZOUUh5VmdEWE9CaGpZZnFQa0xWc2QzdC00Tm9paGU0VG92UFBkMXVJd1FqcWJ4TXBnb1RDTDVHcUJubkdJSmxodkZ2LXdlSE85OXI1LUcyNHN3SnVCc1hlbnNTYWdsWUZfMzB2REJpYkVHZjM5bkdRVmg4MUJRMA?oc=5",
-  "titulo": "Subastan por más de medio millón de dólares el trofeo del Mundial que usó Messi en redes",
-  "resumen": "La réplica de la Copa del Mundo que apareció junto a Lionel Messi en una fotografía viral de Instagram fue vendida por 525.000 dólares. El objeto alcanzó esta elevada cifra económica tras haberse popularizado en las redes sociales del futbolista.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "172274ce84f5",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-09/trumpazo-economico-debacle-politica.html",
-  "titulo": "Señalan que el aumento en el coste de vida responde a decisiones deliberadas",
-  "resumen": "El encarecimiento generalizado de la vida responde principalmente a la aplicación de aranceles y al conflicto con Irán. Ambos factores clave han sido descritos como medidas planificadas e intencionadas.",
-  "categoria": "Economía",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "28a50df8eff7",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/eisenkot-cancela-reunión-con-likud-para-negociar-un-gobierno-tras-discurso-de-netanyahu/a-79913750?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Oposición israelí rechaza dialogar con el Likud tras declaraciones de Netanyahu",
-  "resumen": "Un líder opositor decidió no acudir a las negociaciones de Gobierno previstas con el partido oficialista debido a la reciente intervención del primer ministro en funciones. El dirigente afirmó que Netanyahu rechaza la unidad nacional y aseguró que no debería continuar ejerciendo su cargo.",
-  "categoria": "Política",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "36644cb60382",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbEE0OGgyUU12bDJDTmJlck1LcmhlZDdjQzhENFhfM2FTVmpMOE9kUFR1dDQzLWcyMy1naVNxVkl6YVF0VEtBc0ZkR3pjalZ4TDhxRG5IWHRxeGNKaENhZDNYZFY5ZkJqdEJ2THJNZzF6UnNCSTRUUkx5NmstaEF5S3dTVnhoMXltdXpvTnpScGlfWjk4MFNqMV9uWFh0Qk1RR2dNX0hxSTY?oc=5",
-  "titulo": "Encuentro entre Australia y Panamá en la Copa Mundial de Béisbol Sub-23",
-  "resumen": "La Confederación Mundial de Béisbol y Sóftbol contempla el partido entre las selecciones de Australia y Panamá. Dicho compromiso se enmarca en la Copa Mundial de Béisbol Sub-23 de 2026 presentada por RAXUS.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
- },
- {
-  "id": "44026c6b5f12",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVFRRNVZOc0NxQk9vaGNMejdwdDNHREZ2Z0tTVGhtSmNQbl9KQ0dlNU5VeGtkcy1xOXMyS2luRmdMTm5SbU9XcnlDUUhCUERPc0ZEclB2ZGlOdUpGWXNTWDBvZ0Vvem8tcGpReHp3alNGVG1sTjdXcWJpaDZrODc3MVBNSEtxbTFOVjBkU3FkNXZaQ1pHeXpqM3FqVFd6LUxNRVVHSg?oc=5",
-  "titulo": "Publicación del Post Register aborda tema sobre el Papa y Argentina",
-  "resumen": "El medio Post Register emitió un registro informativo vinculado con Argentina y el Papa. La fuente original no proporciona mayores detalles explicativos sobre el acontecimiento.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-11T04:23:40.515062+00:00"
  }
 ]
