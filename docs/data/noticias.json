@@ -1,5 +1,41 @@
 [
  {
+  "id": "098b42e48ff6",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261117-cumbre-apec-est%C3%A1-ganando-china-terreno-como-socio-de-confianza-frente-a-estados-unidos",
+  "titulo": "Visiones opuestas entre Washington y Pekín marcan el arranque del foro APEC",
+  "resumen": "France 24 informa que la cumbre de la APEC inició en Shenzhen bajo un clima de tensiones comerciales y redefinición geopolítica. El medio destaca que el encuentro refleja modelos antagónicos respecto a la economía, la tecnología y la inteligencia artificial. Mientras Estados Unidos promueve regulaciones alineadas con sus intereses estratégicos, China busca proyectarse como un aliado dispuesto a la cooperación.",
+  "categoria": "Economía",
+  "fecha": "2026-11-17T23:32:34.028561+00:00"
+ },
+ {
+  "id": "172274ce84f5",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-09/trumpazo-economico-debacle-politica.html",
+  "titulo": "Decisiones deliberadas impulsan el encarecimiento del costo de vida, según reporte",
+  "resumen": "De acuerdo con información de El País, el incremento en el coste de la vida ha sido provocado principalmente por dos elementos: los aranceles y las medidas relativas a Irán. La fuente añade que ambos factores correspondieron a determinaciones voluntarias y premeditadas con repercusiones políticas.",
+  "categoria": "Economía",
+  "fecha": "2026-11-17T23:32:34.028561+00:00"
+ },
+ {
+  "id": "195ae7d9596b",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/china-méxico-y-estados-unidos-el-delicado-equilibrio-de-sheinbaum-en-la-apec/a-79973976?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Reunión entre la mandataria de México y Xi Jinping abre interrogantes en Washington",
+  "resumen": "DW Español reporta que la presidenta mexicana sostuvo un diálogo con el mandatario chino, Xi Jinping, en el marco de la cumbre de la APEC. El mismo medio añade que este acercamiento diplomático podría suscitar pronunciamientos o inquietud por parte del gobierno estadounidense.",
+  "categoria": "Política",
+  "fecha": "2026-11-17T23:32:34.028561+00:00"
+ },
+ {
+  "id": "31f8a6283d54",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/los-hutíes-ponen-contra-las-cuerdas-a-arabia-saudita-en-yemen/a-79975142?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Avances rebeldes y fractura interna comprometen a la coalición saudí en Yemen",
+  "resumen": "Según informa DW Español, la alianza militar encabezada por Arabia Saudita afronta una etapa crítica en Yemen ante su desintegración interna y la ofensiva de los combatientes hutíes. Asimismo, el medio advierte que este escenario pone bajo amenaza la seguridad de una ruta comercial relevante.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-17T23:32:34.028561+00:00"
+ },
+ {
   "id": "00bc6a078372",
   "fuente": "DW Español",
   "enlace": "https://www.dw.com/es/profecía-de-jürgen-klopp-se-vuelve-viral-tras-rodillo-5-0-a-países-bajos/a-79970408?maca=spa-rss-sp-all-1122-rdf",
@@ -1311,42 +1347,6 @@
   "titulo": "Estados Unidos amenaza a México con elevar aranceles si no detiene el paso migratorio",
   "resumen": "Donald Trump advirtió con duplicar de forma inmediata las tarifas arancelarias a México si su gobierno no frena el avance de las caravanas. Según el presidente estadounidense, estos grupos de migrantes se dirigen actualmente hacia la frontera.",
   "categoria": "Política",
-  "fecha": "2026-11-12T16:32:09.936554+00:00"
- },
- {
-  "id": "2140438f69d1",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/dimite-jensen-huang-y-sacude-al-gigante-de-la-ia-nvidia/a-79931741?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Nvidia designa una líder temporal tras la dimisión de su consejero delegado",
-  "resumen": "La salida de Jensen Huang ha sacudido la estructura del gigante de la inteligencia artificial Nvidia. Ante su partida, la directora financiera Colette Kress asumió la dirección de manera interina en tanto se busca a un sucesor permanente.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-12T16:32:09.936554+00:00"
- },
- {
-  "id": "29f0d0614f79",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/la-integración-progresa-pero-los-planes-del-gobierno-podrían-frenarla/a-79933070?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Los planes de austeridad gubernamental generan controversia sobre la integración en Alemania",
-  "resumen": "A pesar de que un informe reciente destaca avances en la inclusión de los 22 millones de personas con origen migratorio en Alemania, la situación enfrenta trabas. Las propuestas de ahorro del gobierno han desencadenado una disputa política que podría frenar este progreso.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-12T16:32:09.936554+00:00"
- },
- {
-  "id": "3d44f7f1c1da",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/miriam-gonzález-la-población-inmigrante-en-españa-es-un-activo/a-79927366?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Entrevista a Miriam González ante las elecciones en España",
-  "resumen": "DW realizó una entrevista a Miriam González, líder de Democracia 21, de cara a los comicios del 29 de noviembre en España. La dirigenta, que posee trayectoria internacional y busca competir contra los bloques tradicionales, afirmó que la población inmigrante representa un activo para el país.",
-  "categoria": "Política",
-  "fecha": "2026-11-12T16:32:09.936554+00:00"
- },
- {
-  "id": "5b0b8cb78220",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/programas/revista-de-prensa/20261112-c%C3%B3mo-israel-fabrica-la-crisis-invernal-de-gaza-middle-east-eye",
-  "titulo": "Severas inundaciones agravan la crisis humanitaria en la Franja de Gaza",
-  "resumen": "Las lluvias torrenciales en Gaza provocaron inundaciones que afectaron a cerca de 1,4 millones de personas que viven en tiendas de campaña. El medio 'Middle East Eye' señala a Israel de haber propiciado esta crisis al restringir la entrada de materiales de construcción.",
-  "categoria": "Conflictos",
   "fecha": "2026-11-12T16:32:09.936554+00:00"
  }
 ]
