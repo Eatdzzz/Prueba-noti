@@ -1,5 +1,77 @@
 [
  {
+  "id": "01c19893a6b6",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFR4ZUJEbDNlWHNwMW53cFNkbDJqcDhKN1lIVUxFakxFVjNmd3VPMXVGWmxOdTlkOUFidlJnSkhlTTJEUTZNRWtVMGg0NjE3N0JWZEtkRVNOeGtWb2NtUXBabERTOVJ4aXNORW5QTmI2RmZROHhMMm5xVng4NDJaZWl4LW92eGR0SU40WmRURUtVU3piajFOSzlsQ0w?oc=5",
+  "titulo": "Herchenroether y Doederlein destacan en el ámbito paralímpico más allá de los reflectores",
+  "resumen": "Los deportistas Herchenroether y Doederlein han logrado sobresalir sin acaparar los grandes titulares mediáticos. Su desempeño fue resaltado por la plataforma Paralympic.org por brillar al margen de la atención pública habitual.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
+  "id": "20aa9d72fcb1",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/ue-propone-un-nuevo-préstamo-de-45-000-millones-de-euros-a-ucrania-para-2027/a-79984535?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "La Unión Europea plantea un préstamo de 45.000 millones de euros para Ucrania",
+  "resumen": "La Unión Europea propuso otorgar un financiamiento de 45.000 millones de euros a Ucrania proyectado para 2027. Esta cifra pretende ayudar a cubrir un déficit fiscal que el gobierno ucraniano evalúa en unos 70.000 millones de euros. Ante esta iniciativa, el presidente Zelenski sostuvo que Kiev tiene el apoyo de la totalidad de los Estados miembros.",
+  "categoria": "Economía",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
+  "id": "3d7145fbff27",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261118-directo-par%C3%ADs-y-las-propuestas-pensionales-de-le-pen-y-%C3%A9douard-philippe",
+  "titulo": "Las propuestas sobre el sistema de pensiones marcan la carrera presidencial en Francia",
+  "resumen": "La reforma al sistema de jubilación se perfila como un tema central de cara a las elecciones presidenciales francesas de 2027. La candidata Marine Le Pen plantea reducir la edad de retiro y aplicar una capitalización colectiva. Por el contrario, el ex primer ministro Édouard Philippe advierte sobre una crisis financiera y sugiere mantener la edad actual.",
+  "categoria": "Política",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
+  "id": "43b65859cd86",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Detectan mediante inteligencia artificial un fallo de seguridad crítico en Java",
+  "resumen": "Una empresa emergente de tecnología descubrió una vulnerabilidad grave en Java, del cual depende el 90% de las grandes corporaciones del planeta. El hallazgo del fallo en este popular lenguaje de programación se logró gracias al uso de inteligencia artificial. La misma startup ya había identificado con anterioridad un problema similar en PHP.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
+  "id": "4eeeb1c8581a",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmwyz0wj4xjeo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Cuestionan la versión oficial sobre el trágico episodio de Uchuraccay en Perú",
+  "resumen": "Una investigación personal sobre el asesinato de un padre pone en duda el relato oficial de un momento crucial en la historia peruana. El suceso rememora la dolorosa matanza de varios periodistas en Uchuraccay, la cual ha vuelto al debate público.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
+  "id": "4f402404401d",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/advierten-de-nueva-vulnerabilidad-global-esta-vez-es-java/a-79983803?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Detectan una vulnerabilidad en el manejo de memoria de Java",
+  "resumen": "Se ha emitido una alerta a nivel global debido a una falla detectada en la gestión de memoria de Java. La advertencia fue realizada por la misma compañía que descubrió problemas de seguridad en PHP el mes anterior.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
+  "id": "57823747161b",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El encarecimiento de la vivienda en Canadá impulsa la compra compartida entre desconocidos",
+  "resumen": "Los altos costos del mercado inmobiliario en Canadá impiden que múltiples familias e individuos puedan adquirir un inmueble por su cuenta. Ante esta problemática, varias personas optan por asociarse con desconocidos que enfrentan las mismas dificultades financieras para poder comprar una casa.",
+  "categoria": "Economía",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
+  "id": "62851bc3095d",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWxYbGczY3J3Z2hpUmRTZVhuVENvcl9UNVU3bDRfbG5oaTlSai1ucnJ1NC0wVFFJZWdyM09hOEZSN3VITXdzaHlLYUNadFk4ejFiM2Y0VU5LeTZ0V1F5NDJKOGttSDZZSXhXNXhiVmpGRS1JVDBDU2RLVG5GWFJDV1VRNG9RLXIxVkNkY01KQXlERzZSV2s5SlBTemZCenVOeVo0?oc=5",
+  "titulo": "Bryson DeChambeau confirma su incorporación al DP World Tour",
+  "resumen": "Bryson DeChambeau se ha sumado de manera oficial al DP World Tour. Tras confirmarse su ingreso, queda por definir cuándo será su regreso a la competencia.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-18T17:10:20.167782+00:00"
+ },
+ {
   "id": "09af87f4505c",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html",
@@ -1276,77 +1348,5 @@
   "resumen": "La renuncia del director ejecutivo de Nvidia debido a un romance extramatrimonial con una presunta espía china ha salpicado al secretario de Comercio estadounidense, Howard Lutnick. El funcionario enfrenta críticas por parte del secretario del Tesoro acerca de la rigurosidad en los permisos de exportación de microchips hacia el país asiático.",
   "categoria": "Política",
   "fecha": "2026-11-13T19:08:25.618321+00:00"
- },
- {
-  "id": "5de7c5e85e3e",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.co.uk/mundo/live/c62e8kkl9rlrt?at_medium=RSS&at_campaign=rss",
-  "titulo": "El papa León XIV reúne a cientos de miles de fieles durante una emotiva misa en Perú",
-  "resumen": "Durante su gira por Sudamérica, el papa León XIV retornó a la ciudad peruana de Chiclayo, lugar donde se desempeñó como obispo desde 2015 hasta 2023. En la explanada de las Pampas de Pimentel, el pontífice encabezó una ceremonia religiosa masiva ante una multitud de 900.000 asistentes.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-13T19:08:25.618321+00:00"
- },
- {
-  "id": "795c111fa5b6",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/afd-gana-fuerza-en-alemania-y-sus-vínculos-con-el-entorno-neonazi-plantean-interrogantes/a-79944191?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Crecen la influencia del partido AfD en Alemania y los cuestionamientos por sus nexos extremistas",
-  "resumen": "La agrupación política Alternativa para Alemania se ha consolidado como un punto de atracción para los sectores de extrema derecha en el país. Diversos integrantes y colaboradores de dicha organización cuentan con antecedentes de vinculación a grupos etnicistas o neonazis.",
-  "categoria": "Política",
-  "fecha": "2026-11-13T19:08:25.618321+00:00"
- },
- {
-  "id": "7eac223c395f",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2ozVTRLTWh1dUVTSXEyeXAwVTFwMTBka0hoTHprUFhYSzZwZFY2cGpsNTdJMVFJcFpLSTJWcHotczZwVzZhMm9HWUpQZHlQN1lRclJtUndic2RLZUJtdW5VY1JmQ2lLWjBkWWl1eDdBNXpJdHRuSFBoWnlNZncyWVR4SC1kdFRuaGl2eXpFX09IRkJ3V2hMM19ZVGVBNU80cWRaanJiSkE4QTlQS2NtUA?oc=5",
-  "titulo": "McIlroy y Hatton comparten la primera posición en el World Tour Championship",
-  "resumen": "El jugador McIlroy se encuentra empatado en el liderato del certamen junto con Hatton. Ambos competidores encabezan la tabla de posiciones en el World Tour Championship.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-13T19:08:25.618321+00:00"
- },
- {
-  "id": "7f710af20f4e",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnZIWjJsdGFZd21hcHZROGNCeTRaOFpXYVNNTXhuYUREaFY0MG9QMkpmZjJkUkdmMzlYZDBGaTN6MXBlTHQ3SXlNZGZTTjh0WldjNFcyR3IxWlE1WnhzWGFMMEZ0WlN2UWI5Xy10RXFkSC1DUkthbXlIRUJPbnpzQ2JPODk1ampHX1U2MWp4T3Y4VzBudHFUTlplSFRtUHZ2b1ZTVXV4RmppUQ?oc=5",
-  "titulo": "El Manchester United busca renovarse con la llegada del entrenador Pochettino",
-  "resumen": "El Manchester United ha decidido apostar por el técnico estadounidense Pochettino para liderar su equipo. El club busca con esta medida revivir el éxito de la institución deportiva.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-13T19:08:25.618321+00:00"
- },
- {
-  "id": "a9842561cf7c",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZ2dHdjU2NmhkaHg2LTFfNktlVHdSc29KRWJiWFI2WGs2aHlZcmU2R0VOaTdyMERqSnlVWTdtdlJxbm9LOURULVhWYWM4X29fQ3Z4eTRNY3JGTUpKaHhFNGZEcVR2bnhWdGZCOEtR?oc=5",
-  "titulo": "El Festival de Cine Asiático del Mundo revela sus galardonados y cartelera",
-  "resumen": "El Asian World Film Festival ha confirmado la lista de personas que recibirán reconocimientos, incluyendo al actor Mason Reeves de la película Josephine. Asimismo, el certamen contará con una programación repleta de producciones aspirantes a los premios Oscar.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-13T19:08:25.618321+00:00"
- },
- {
-  "id": "b19d00c3315b",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c8dx192g5pn5o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Una interrupción técnica masiva impacta a Outlook y a diversos servicios de Microsoft",
-  "resumen": "Una falla global perjudicó el funcionamiento de Outlook y otros sistemas pertenecientes a Microsoft. La empresa aseguró que la interrupción no se debe a un incidente de ciberseguridad. Por el momento, los intentos realizados para corregir el inconveniente no han resultado del todo exitosos.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-13T19:08:25.618321+00:00"
- },
- {
-  "id": "226d410b50cf",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c962yy07y42go?at_medium=RSS&at_campaign=rss",
-  "titulo": "Quan Zhou, la artista gaditana de raíces chinas y creadora de \"Gazpacho agridulce\"",
-  "resumen": "Nacida en Cádiz en 1989 e hija de padres chinos, Quan Zhou es una artista multidisciplinar. La autora se dio a conocer en territorio español hace unos años tras publicar su primera novela gráfica titulada \"Gazpacho agridulce\".",
-  "categoria": "Cultura",
-  "fecha": "2026-11-13T11:55:54.388323+00:00"
- },
- {
-  "id": "23999eae53ec",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpUU9ZVk9IZldfRzdRanZQOElFQ3k1Q1lTNjI4eHhwTTU5cEFFMTFGTnBWTnhRT3BqMFJpVlN5V2JFRDZPSUdxWjM4X2cwR3BpdFhtb0Z2VmZKV2UydlI5UFZMRFRTTkxoT3pTMVVvU1hmN2F4MFMybm5mT3FmZw?oc=5",
-  "titulo": "La final del Mundial 2030 representa un punto innegociable para España",
-  "resumen": "De acuerdo con información divulgada por Cadena SER, acoger la final de la Copa Mundial de 2030 es una línea roja para España. El reporte expone la postura del país respecto a la organización del evento deportivo.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-13T11:55:54.388323+00:00"
  }
 ]
