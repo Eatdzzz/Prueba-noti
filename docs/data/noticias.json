@@ -1,5 +1,113 @@
 [
  {
+  "id": "05c7cc17b93b",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/en-contexto/20261120-hist%C3%B3rico-fallo-para-los-rohingyas-tendr%C3%A1-efecto-en-otros-casos-de-genocidio",
+  "titulo": "Repercusiones del histórico fallo sobre genocidio en Myanmar ante la justicia internacional",
+  "resumen": "La resolución judicial por genocidio contra Myanmar a favor de la comunidad rohingya marca un hito en la justicia supranacional. Este veredicto se produce en medio de críticas de dirigentes como Donald Trump hacia la Corte Internacional de Justicia. Asimismo, la determinación podría influir en otras causas abiertas en esa misma corte, como la investigación dirigida hacia Israel por sus actos en Gaza.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "065962d9ac4c",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/conmebol-ratifica-su-firme-apoyo-a-la-reelección-de-infantino-en-la-fifa/a-80007323?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "La Conmebol respalda la reelección de Gianni Infantino en la FIFA",
+  "resumen": "La confederación sudamericana confirmó formalmente su apoyo para que el dirigente de la FIFA continúe en su cargo. La institución justificó su postura afirmando que reconoce la gestión y el liderazgo del actual mandatario. Además, señaló que bajo su administración se han generado transformaciones positivas dentro de esta disciplina.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "248bcf78cec2",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/bombardeos-de-israel-dejan-seis-personas-muertas-en-la-franja-de-gaza/a-80007452?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Ofensivas aéreas de Israel causan seis fallecidos en la Franja de Gaza",
+  "resumen": "Ataques con bombas efectuados por Israel causaron la muerte de seis personas en territorio gazatí. Ante estos hechos, las autoridades militares israelíes sostuvieron que sus operaciones se enfocaron en golpear diversos objetivos bélicos.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "6dd2d1bf1ae2",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSFY1M0NBb1FxVzhTUmhGNl91QnhKMG1MR0ZfdEpETF9FZnpvanFvUFNzWmtLMmxDN3ZwanlBa0t1cG1lREU4dVBKbEhKTUZ2YWlCWmtBQjJJQnlMZlN5WFd3aEQ1Tk85VWROXzhyOWwwdzV3UndTYWNsRFBBTmJmUA?oc=5",
+  "titulo": "La selección sub-17 de Brasil inicia su camino mundialista contra Irlanda",
+  "resumen": "El combinado juvenil de fútbol de Brasil comenzará su participación en la Copa del Mundo midiéndose ante el representativo de Irlanda. Con este encuentro, la escuadra sudamericana abrirá formalmente su campaña en la competición internacional.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "796b9c2d43e0",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
+  "titulo": "Polonia solicita mayor presencia de la OTAN tras la caída de proyectiles rusos en su territorio",
+  "resumen": "Dos misiles y un dron procedentes de Rusia impactaron en suelo polaco mientras se desarrollaban ejercicios militares de varias naciones europeas. Las autoridades de Varsovia catalogaron este hecho como un acto deliberado de provocación y pidieron reforzar la defensa aliada en su flanco este. Asimismo, la Unión Europea reprobó el quebrantamiento de la soberanía aérea polaca.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "84db06489bcf",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/deportes/20261121-alcaraz-alivia-las-preocupaciones-por-su-lesi%C3%B3n-y-medvedev-se-clasifica-para-semifinales-de-la-atp",
+  "titulo": "Alcaraz y Medvedev sellan su boleto a las semifinales de la ATP",
+  "resumen": "Carlos Alcaraz superó sin inconvenientes a Flavio Cobolli tras dejar atrás sus dolencias físicas y ahora se medirá ante Ben Shelton en la siguiente ronda. A su vez, Daniil Medvedev venció a Frances Tiafoe y también aseguró su pase a la fase decisiva del certamen. En semifinales, el jugador ruso se enfrentará al líder de la clasificación mundial, Alexander Zverev.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "8753d4fede5d",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/la-generación-z-en-alemania-alza-la-voz-¿por-qué-están-tan-enfadados/a-80006583?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "La juventud alemana manifiesta su malestar ante la falta de certezas a futuro",
+  "resumen": "Pese a contar con una preparación académica sin precedentes, los jóvenes en Alemania lidian con un complejo panorama social. Las dificultades vinculadas al trabajo, el problema de la vivienda y una limitada injerencia en las decisiones políticas incrementan la inquietud de esta generación.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "9b1a79407b06",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa0RONUlDMTUxRHZrMm9HZDNheENrYktKdzAwSm9jYUpnT1NxY2Zic0ZZYWZyaVNhTDdXUzhjajBsVnhuWEo0dTNMUURNQzhVbEw1Z1VNbURZZ2MxXzRaOC1mZER4V3Qwcl92am9uZmR6NGhLLXZuUUd4QV9zUHZMNnpSckR6UkllNDB5R0c5X0N3ZlJ2bkdBa05XTmZydWNfcTVPRVY4OGJuallSM1ZtSG5XQV9mdUZlMUZ2X0RrTmpJOFNscDZBd1FKSkY?oc=5",
+  "titulo": "Gennadiy Golovkin asiste al congreso panamericano de boxeo en Panamá",
+  "resumen": "El actual máximo dirigente de World Boxing, Gennadiy Golovkin, formó parte del congreso organizado por la Confederación Panamericana de Boxeo. El evento internacional tuvo lugar en Panamá.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "b198d9eff89d",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOaEgyekk0RkdCS1lrZW5tNmFkYXFXbE1KcEd2NVZHSGZ6cHpNclBiVnlZeXlZWHpfMGlfMmZaeHU1NzAwZmgwbEhKaHRUQVJ3d2wtZjRyaU5pSEszU3ZQX3h2T3lJcG4zOXhsWUQtTWJkdmdfQk1QVUlJUklvX1VJT3RXQUpaS1ZRWkxqb3lFa0w3dXVTT19odDQzUFgwTmsyTUNnaXJQRkdyU25HX2JHZk5oQ2Q0S2JZZmI0UnA0S3dxQlFnWk9yQXlpWnlrc2pndzhjcXg0Z0JvQVp0UFVoSS1Ibkg2UDRVWXNiXzNfSWpaSUdLY3BsQ29ELWxLQWJtZkUxUHg4cHdveEEyYUhwLU5VV3pZd2VyNnpQTHA0bmVYaTBSRHdz?oc=5",
+  "titulo": "Revelados los primeros galardonados del World Architecture Festival 2026",
+  "resumen": "Se dieron a conocer los proyectos premiados durante la jornada inaugural del World Architecture Festival 2026. Los detalles de las obras seleccionadas fueron presentados a través de una galería especializada.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "b87f50594ed2",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+  "titulo": "Ofensiva rusa contra infraestructura ucraniana deja víctimas y cortes de energía",
+  "resumen": "Los recientes bombardeos rusos contra puentes e instalaciones energéticas en Ucrania causaron ocho fallecidos, veintiocho heridos y cortes eléctricos en diez regiones. Debido a los ataques que afectaron a las embajadas de Austria y Países Bajos, Francia solicitó una reunión del Consejo de Seguridad de la ONU.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "c21507a02785",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Nuevo pacto entre el Reino Unido y la Unión Europea para reactivar sus relaciones",
+  "resumen": "El Reino Unido y la Unión Europea alcanzaron un nuevo acuerdo para redefinir sus vínculos tras el Brexit. La medida incluye regulaciones para el comercio de alimentos, facilidades de desplazamiento para los jóvenes y compromisos sobre emisiones de carbono.",
+  "categoria": "Política",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
+  "id": "c2a876a9c0e2",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/colombia-una-reforma-fiscal-que-desata-el-descontento/a-80006080?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Jornada de protestas en Colombia en rechazo a la reforma tributaria",
+  "resumen": "Miles de ciudadanos salieron a manifestarse en Colombia ante el temor por el impacto económico que tendrá la reforma fiscal. Mientras el Ejecutivo defiende el proyecto para reducir el déficit, persiste la discusión acerca de qué sectores deben asumir el costo del ajuste.",
+  "categoria": "Economía",
+  "fecha": "2026-11-21T01:04:26.751049+00:00"
+ },
+ {
   "id": "026f72b88762",
   "fuente": "Reuters World (vía Google News)",
   "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEROVk5QM18tU3V4djV4bnp0Y0RpY3FWc2EyWktWUkpvbkxuU2tsaU9Cb1hsVzhNMTJDNFJhbmlBN3Nob19EZ3FJNHAzbU9yeU9Qa21JX0JDb3lfdS00Wk9UclJzZnY1Wm5LTVU2MEVnWFd0R2V1ZnNMd2FyUm1EWA?oc=5",
@@ -1240,113 +1348,5 @@
   "resumen": "Los agentes policiales han comenzado a borrar los distintivos de la Mara Salvatrucha y el Barrio 18 en fachadas de Tegucigalpa. La medida forma parte de las acciones impulsadas por el presidente Nasry Asfura contra el crimen organizado. Sin embargo, los habitantes de la zona expresan dudas sobre la eficacia de este plan para mejorar la seguridad.",
   "categoria": "Sociedad",
   "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "222bff6751ba",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-14/hungria-halla-mas-de-17-millones-de-euros-supuestamente-escondidos-por-un-exministro-de-viktor-orban.html",
-  "titulo": "Localizan más de 17 millones de euros vinculados a un exfuncionario en Hungría",
-  "resumen": "Se halló una suma millonaria supuestamente oculta por el exministro de Desarrollo Nacional, Miklos Sesztak. El antiguo colaborador del gobierno húngaro permanece en prisión bajo cargos de haber aceptado sobornos.",
-  "categoria": "Política",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "2b2112a8b184",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTN2dFZIdkVNcEZDR2k0ZENVZmtNWjNYd01CYkMtak83aWtNRUNza21nWm12ZnJOZXNvbzlYQmRYUDAyNzdMNlBmdkxFX3BsNVVFd2lnVzVZT1N5SmxPemo1Q3hUZ0dkTG4yWTBraHFlcWdUM1VLX284Wm1jV19BdWltaDE4WFpvZG1KNw?oc=5",
-  "titulo": "Transmisión en directo de la Serie Mundial de Wiffle Ball programada para 2026",
-  "resumen": "La cobertura en vivo de la 2026 Big League Wiffle Ball World Series estará disponible a través de ESPN Deportes. El evento deportivo se transmitirá por internet el 14 de noviembre de 2026.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "3b171d16aa68",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261114-volver%C3%A9-le%C3%B3n-xiv-cumple-su-promesa-y-regresa-a-la-localidad-andina-que-visitaba-como-obispo-de-chiclayo",
-  "titulo": "El papa León XIV regresa a los Andes peruanos para cumplir una promesa",
-  "resumen": "El papa León XIV arribó en helicóptero a Santa Cruz de Succhabamba, en los Andes de Perú, donde celebró una misa ante casi 20.000 asistentes. De este modo, cumplió la promesa realizada en 2023 de retornar para la festividad del Señor del Costado, patrono local al que visitaba cada año cuando ejercía como obispo.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "4d54fa34e54c",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/us/2026-11-14/washington-atribuye-el-paron-aereo-a-un-problema-con-un-nuevo-cableado-de-fibra-optica.html",
-  "titulo": "Las autoridades de EE. UU. atribuyen la parálisis aérea a un problema de fibra óptica",
-  "resumen": "Los responsables de la aviación estadounidense explicaron que la interrupción del tráfico aéreo se debió a un inconveniente con un reciente cableado de fibra óptica. Por su parte, las autoridades descartaron que la falla se haya producido a causa de un ciberataque.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "4faa05ea920a",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZElhanRKTEo1Mm9EZF9COHRESWJwOXdUSm1pUjI3MWsxYlVKRUdPbWhvMzAxV1BpblFSYS14NE5IbWhqSG1kTllScjE0aXNpalpRM1lJV2tZQ1V1WDAzUlFkdjhLVlFrUFlIZFYyMUMyS3lKbzVlNEdNUkNWWWk3cFh4NWc?oc=5",
-  "titulo": "Entrenador campeón del mundo asegura que no hay racismo en España",
-  "resumen": "Un director técnico ganador de la Copa del Mundo sostuvo de forma pública que en España no existe el racismo. El entrenador realizó estas declaraciones al referirse a la situación actual en el país.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "653abd0d3454",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261114-la-in%C3%A9dita-captura-de-starship-el-intento-de-regresar-la-nave-de-spacex-a-la-tierra",
-  "titulo": "La nave Starship de SpaceX logra un histórico regreso a su plataforma en Texas",
-  "resumen": "La nave espacial Starship de SpaceX retornó el sábado 14 de noviembre a la torre de lanzamiento en Texas tras concluir su trayectoria orbital más prolongada. El hecho constituye la primera recuperación clave de la estructura principal en el proyecto impulsado durante una década para desarrollar un cohete totalmente reutilizable.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "6c51e91a48cf",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "La oposición israelí califica de postura falsa la propuesta de diálogo de Netanyahu",
-  "resumen": "El líder opositor designado para constituir el nuevo Ejecutivo israelí desestimó la invitación del primer ministro a negociar sin exigencias previas. Además, lo instó a demostrar un verdadero compromiso de cambio tras asegurar que el gobernante reconoce su propia derrota.",
-  "categoria": "Política",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "737a539d8522",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c93xe77lg73o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El desgarrador relato de una sobreviviente de la tragedia del Pemex en 1984",
-  "resumen": "Virginia Martínez Téllez narró su vivencia durante una de las peores catástrofes industriales registradas en México, originada por un escape de gas en Pemex. El fatídico incidente cobró la vida de 650 personas y cambió de forma permanente el entorno de toda la población.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "80422964e71c",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVFYSjFkTEVkSjgyUzZqUnM2TVZ3RjA2eUd6RV9Lc2REb01WZUNtWFhyOW1Sb3gta2RUVU1ZR1dzQ21RU2hUdVl0dnAyNmdCdjlESzdhcmVZa2drRnBJeFJyeE1NYkdRcDBuVm5VOEloRE81ZmlHNHJhOUVackYwMTNVY05UdVRuMGRxczk2QkNYOWJvd1M3S1VfS0dDekduLUNHeFI3dlo?oc=5",
-  "titulo": "Sudáfrica y Panamá se enfrentarán en la Copa Mundial de Béisbol Sub-23",
-  "resumen": "La Confederación Mundial de Béisbol y Sofbol presentó el choque deportivo entre los equipos de Sudáfrica y Panamá. Este encuentro forma parte del calendario oficial de la Copa Mundial Sub-23 de 2026 respaldada por RAXUS.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "97f42b2c1fb2",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/nuevas-protestas-en-francia-por-el-costo-de-la-vida-y-los-servicios-públicos/a-79949791?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Francia vive nuevas movilizaciones en las calles por el alto costo de la vida",
-  "resumen": "Miles de manifestantes marcharon por París y diversas metrópolis francesas para reclamar mejoras en los servicios públicos y el encarecimiento diario. Aunque la convocatoria fue menor a la de semanas previas, se reportaron disturbios en localidades como Lyon y Nantes.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "0707f5d29e4b",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRXZDNy1HZ1VGQjM3cDR4dFQzUmZWaXZxMmZvaXBBX21SV1RoSUhNZzRhaElCLTNwWFlUSmttdkRKMndDTF9YNW1XdmdrQVI4NFJtRFhZVE1naDJxc3FJZmNnNkNRQ1RTNzY5VFBUOGNMT0MzY1hjZ2dYbUZKRmlBbWZBaFhWZEJmTy1J?oc=5",
-  "titulo": "Ronaldinho destaca a Ancelotti y sugiere destinos en Italia para Endrick",
-  "resumen": "El exfutbolista Ronaldinho declaró que el jugador Endrick se adaptaría adecuadamente a equipos como el Milán o la Roma. Asimismo, el astro brasileño calificó a Carlo Ancelotti como el mejor director técnico del mundo.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-14T17:46:54.517766+00:00"
- },
- {
-  "id": "0f4518a63c99",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/se-cierra-la-coalición-de-gobierno-de-izquierda-para-mecklemburgo-pomerania-occidental/a-79948513?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Consolidan coalición tripartita de gobierno en Mecklemburgo-Pomerania Occidental",
-  "resumen": "La ministra presidenta Manuela Schwesig se vio en la necesidad de incorporar un socio adicional para gobernar tras el incremento de votos de AfD en los comicios regionales. Con este acuerdo, la alianza tripartita de izquierda ha quedado formalmente establecida.",
-  "categoria": "Política",
-  "fecha": "2026-11-14T17:46:54.517766+00:00"
  }
 ]
