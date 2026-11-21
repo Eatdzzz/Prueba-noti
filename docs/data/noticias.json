@@ -1,5 +1,113 @@
 [
  {
+  "id": "194a8ffe6abc",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Jorge Drexler acumula nuevas nominaciones al Grammy tras triunfar en los Latin Grammy",
+  "resumen": "El cantautor uruguayo sumó dos candidaturas para la edición anglosajona de los premios Grammy. Este nuevo reconocimiento llega poco después de haberse llevado tres galardones en la pasada entrega de los Latin Grammy.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "25b6675b36a7",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzaU8weENCT21JVDU2NlZyY1JQUFFLRWQwNzMxQnF6b29nWGEzTks5SXVjVmpVVVVXdzVMUDU0dUhBVC00Ml9tTjdEZXNfVTJuQm9jTnN2ZFd3QWVzZmVObW9WZThBZw?oc=5",
+  "titulo": "La taquilla de Jumanji: Open World ante la meta de batir récords de recaudación para Dwayne Johnson",
+  "resumen": "Se evalúa el desempeño financiero internacional del largometraje Jumanji: Open World en las salas de cine. El análisis aborda los montos de recaudación necesarios para que la producción se corone como la más taquillera en la trayectoria del actor Dwayne Johnson.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "2811dcdd6a0c",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
+  "titulo": "Expertos advierten los riesgos económicos de la concentración en los servicios de la nube",
+  "resumen": "Un reducido grupo de tres corporaciones domina actualmente el 70 % del mercado de servidores en la nube dentro de Europa. Diversos especialistas alertan sobre la severa dependencia financiera que existe hacia estos sistemas fuertemente interconectados y desprovistos de cortafuegos idóneos.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "374f824a44d8",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/drones-ucranianos-atacan-carguero-ruso-en-el-golfo-de-finlandia/a-80009849?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Drones de Ucrania impactan contra un buque de carga de origen ruso",
+  "resumen": "Un navío mercantil ruso resultó alcanzado por una ofensiva con aeronaves no tripuladas operadas por Ucrania. El ataque contra la embarcación se produjo mientras esta se desplazaba por aguas neutrales próximas a las costas de Finlandia.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "43c7f3e55634",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261121-brasil-jair-bolsonaro-se-encuentra-en-cuidados-intensivos-pero-estable",
+  "titulo": "Jair Bolsonaro permanece en cuidados intensivos por problemas abdominales",
+  "resumen": "El expresidente de Brasil, quien cumple una condena de 27 años en prisión domiciliaria por intento de golpe de Estado, permanece ingresado en cuidados intensivos debido a una obstrucción abdominal. Los médicos han informado que su estado de salud es estable. Esta complicación se suma a sus antecedentes de intervenciones médicas derivadas del apuñalamiento que sufrió durante su campaña en 2018.",
+  "categoria": "Política",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "507539dcf3cc",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-21/las-infraestructuras-se-convierten-en-el-gran-flanco-debil-de-occidente.html",
+  "titulo": "Occidente busca modernizar su infraestructura ante fallos y ciberataques",
+  "resumen": "Diversos incidentes técnicos, sabotajes y ataques informáticos han dejado en evidencia la fragilidad de las infraestructuras en Europa y Estados Unidos. Ante este escenario, ambos territorios se ven forzados a invertir recursos económicos para actualizar instalaciones pensadas originalmente para la era analógica. Con estas medidas, los gobiernos intentan responder a las vulnerabilidades actuales de sus sistemas.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "58c663f2761d",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRk5nZlNQVld5OTB1eTJZMm5jeTY5UFpaWk82a2s0TDFfMHc2YnB3U1Q0QmZoaWJJd1VmZzdWc1pQcmVqdFNvRVdyTXpaTFFlSFFsNjZwVDA0ODNQeUJpUXJSRHpGNkI0aGtINzBIc2dIVkM3MUdTM3FSZEtjVG1maExOR1JVUTZmV25NaA?oc=5",
+  "titulo": "Transmisión en directo del Mundial de Futbolín de la WFT",
+  "resumen": "ESPN Deportes ofrece la cobertura y transmisión en directo vía streaming del Campeonato Mundial de Futbolín de la WFT. El evento deportivo cuenta con emisión oficial programada en la plataforma. Los aficionados podrán seguir las competencias correspondientes a este certamen internacional.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "69491ad23c59",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-21/la-batalla-interna-en-europa-sobre-las-negociaciones-con-putin-salpica-a-kaja-kallas.html",
+  "titulo": "Discrepancias en la Unión Europea por los acercamientos diplomáticos con el Kremlin",
+  "resumen": "La designación de un grupo de negociación por parte de la Unión Europea para dialogar con el Kremlin ha generado divisiones internas que afectan a Kaja Kallas. En el bloque comunitario persisten las posturas encontradas respecto a la conveniencia de mantener conversaciones y al papel que debe desempeñar Europa. Pese al nombramiento de representantes diplomáticos, la falta de consenso continúa presente entre los socios.",
+  "categoria": "Política",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "9a209c9b00b1",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261121-wall-street-se-ti%C3%B1e-de-rojo-acciones-vinculadas-a-la-ia-registran-fuertes-p%C3%A9rdidas",
+  "titulo": "Caídas bursátiles en el sector tecnológico avivan temores sobre una burbuja de inteligencia artificial",
+  "resumen": "Los mercados financieros globales cerraron la semana con caídas notables en las acciones del ámbito tecnológico e inteligencia artificial. La empresa Anthropic protagonizó una masiva salida a bolsa que, tras un rápido ascenso inicial, derivó en una severa depreciación al día siguiente. Este escenario pone de manifiesto la preocupación de los inversores ante el riesgo de una burbuja en este sector.",
+  "categoria": "Economía",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "9cd284d570cb",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/europa/20261121-elecciones-en-espa%C3%B1a-redes-e-influencers-los-candidatos-se-vuelcan-del-discurso-a-la-emoci%C3%B3nn",
+  "titulo": "Los formatos digitales e influencers transforman las campañas electorales en España",
+  "resumen": "Las plataformas digitales, pódcasts y programas de entretenimiento han adquirido un rol central en la contienda electoral del 29 de noviembre en España. Diversos analistas evalúan el impacto de humoristas y creadores de contenido en las estrategias de los candidatos y en las decisiones de los votantes. Este cambio marca una transición desde los discursos tradicionales hacia una búsqueda de conexión emocional.",
+  "categoria": "Política",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "aeae19e0d8fa",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwx28636mp5zo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Madre exiliada señala a agentes iraníes por la muerte de manifestantes",
+  "resumen": "Desde el extranjero, una madre exige justicia tras el fallecimiento a tiros de su hija adolescente durante las protestas en Irán. Como parte de su reclamo, difunde públicamente la identidad de miembros de las fuerzas de seguridad a quienes adjudica la responsabilidad de estas muertes. La mujer realiza estas denuncias en forma de protesta tras negarse a negociar sobre lo ocurrido.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
+  "id": "b0a82b93a3bb",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZ25sZWhRQVJZNkQ1bngzSzhpLTA0REMtbnlRS0hjbWpGSnMtVkpKclFpYmFlWXdMQ0tiaU11ZTVNZTNxMW9WeGw5dkNUT01BbWd2cXpIeWRJVEZ0Q0ZrNndPUURmZVU3MWFocFhzSVhzdFlFcktnaTUwN3FmM2pwN202MFlod1YzYm1zVmNVQmZqc3laQTdPeGhrRnZZR1Y4Vm8wM1dzeUhTTnNmclV5NE5WMjFWbjI5WV8xQUh6aTJMaDBVMjhpRGx5RFhlRFRaa2hmQWF4azZhTXJTazUtaUVvQXVjY0pFck05LXl0a25URzR2N3pYR0hnLWN5X3BwTWdwLUp3cXRqbE1NZXVEQjc0M1NNaXdZdjllcWZFS3JoOEMxaDdDeQ?oc=5",
+  "titulo": "Anuncian a los galardonados de la segunda jornada del World Architecture Festival 2026",
+  "resumen": "El World Architecture Festival 2026 hizo pública la lista de ganadores correspondiente a su segundo día de actividades. Asimismo, se presentó una galería con los proyectos destacados que resultaron premiados en el evento. La publicación reúne la información referente a esta etapa del certamen internacional.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-21T21:33:05.462365+00:00"
+ },
+ {
   "id": "05c7cc17b93b",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/programas/en-contexto/20261120-hist%C3%B3rico-fallo-para-los-rohingyas-tendr%C3%A1-efecto-en-otros-casos-de-genocidio",
@@ -1240,113 +1348,5 @@
   "resumen": "La compañía SpaceX consiguió sujetar en pleno vuelo la parte superior de su nave Starship durante su retorno a la Tierra. Para concretar este logro inédito, se utilizaron unos voluminosos brazos mecánicos conocidos como palillos chinos.",
   "categoria": "Ciencia y Tecnología",
   "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "1fa5f73132c8",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/spacex-logra-la-histórica-captura-de-su-nave-espacial-starship/a-79950553?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Histórico avance de SpaceX al capturar el vehículo Starship tras su descenso",
-  "resumen": "La nave espacial Starship fue atrapada por primera vez mediante los brazos integrados en su torre de lanzamiento. La maniobra se realizó inmediatamente después de que el vehículo completara un descenso controlado.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "39581f47c45b",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2V2SGRLMEN0eTdrRVRVZ29WR2dQQ2VwN0kwXzhGOGo4ZFY5RkV3SlQyQktTdjBmVDg4UzlnbENndjFSa1VqcEhhUFpCaGxuRm8tWHYydmlyM3hiSlNlUE1LRFpVSVlfWEJZamcxcG42Z0ZNM2lValJkWk9xa2thZWVJN2R2a0RyUjk0WjJZVG1EQnlQZTdQdlhVZkF2cmNrTFE?oc=5",
-  "titulo": "IQAir sitúa a Daca entre las diez ciudades más contaminadas del mundo",
-  "resumen": "Conforme a los registros de IQAir del 15 de noviembre de 2026, la ciudad de Daca se posicionó entre las diez metrópolis más contaminadas del planeta. Este dato ubica a la localidad en los primeros lugares a nivel internacional en cuanto a contaminación.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "3f0c644822c9",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261115-caos-a%C3%A9reo-en-ee-uu-persisten-retrasos-y-cancelaciones-tras-fallo-en-comunicaciones",
-  "titulo": "Problemas en vuelos de Estados Unidos persisten debido a una avería técnica en el control aéreo",
-  "resumen": "Una falla masiva en los sistemas de comunicación aeronáutica provocó retrasos y cancelaciones de vuelos en Estados Unidos. Las autoridades aclararon que la interrupción se debió a trabajos de modernización de infraestructura obsoleta y descartaron un ataque malintencionado. A pesar de que el servicio ya se restableció, las aerolíneas continúan enfrentando complicaciones operativas.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "41ca70c5564d",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-09/luchamos-para-poder-seguir-ejerciendo-un-periodismo-independiente-en-egipto.html",
-  "titulo": "La justicia de Egipto dictamina el cierre del medio independiente Mada Masr",
-  "resumen": "Los tribunales egipcios decretaron el cierre de Mada Masr, uno de los medios de comunicación más presionados por las autoridades locales. Ante esta medida, su directora Lina Attalah lleva adelante una contienda legal para defender la permanencia de la plataforma y el trabajo periodístico.",
-  "categoria": "Política",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "63b4bc71d32d",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/el-ejército-de-israel-afirma-que-atacó-a-un-líder-militar-de-hamás/a-79950562?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Fuerzas de Israel acaban con la vida de un jefe militar de Hamás",
-  "resumen": "El ejército israelí aseguró haber realizado un ataque contra un destacado integrante de Hamás. Fuentes oficiales en Gaza ratificaron la muerte de Samir Abu Younis, quien tenía 53 años y se desempeñaba como comandante de las Brigadas Al-Qassam.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "854536b005a6",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/francia/20261115-macron-critica-a-quienes-quieren-racionar-la-ayuda-a-ucrania-y-obligarla-a-una-paz-injusta",
-  "titulo": "Emmanuel Macron advierte sobre las consecuencias de reducir el apoyo a Ucrania",
-  "resumen": "El presidente francés cuestionó las propuestas de disminuir la asistencia a Kiev y afirmó que recortar los recursos equivale a preparar un próximo conflicto. Sus declaraciones responden a las posturas de la candidata Marine Le Pen, quien planteó limitar dicha ayuda si triunfa en las elecciones.",
-  "categoria": "Política",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "ad6f08ceb9ad",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/ee-uu-registra-diez-muertes-por-sarampión-y-más-de-5-400-casos-en-lo-que-va-de-2026/a-79950308?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "EE. UU. perderá el estatus de territorio libre de sarampión tras un severo repunte de contagios",
-  "resumen": "Durante el transcurso de 2026, las autoridades estadounidenses han contabilizado 5.412 casos de sarampión y diez fallecimientos, lo que representa más del doble de las cifras registradas en 2025. Debido al incremento de los contagios, la OPS procederá a retirar al país la certificación de libre de sarampión.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "c189cc498794",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-14/rusia-lucha-por-imponer-su-sueno-de-vetar-la-presencia-militar-de-la-otan-en-europa-del-este.html",
-  "titulo": "Moscú solicita frenar la presencia militar de la OTAN en la región oriental europea",
-  "resumen": "El Kremlin busca vetar el despliegue militar de la Alianza Atlántica en la zona este de Europa. Para lograrlo, la postura rusa exige que las defensas de la organización se trasladen a Alemania y que Moscú posea la decisión definitiva sobre la seguridad otorgada a los países colindantes.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "c6caf347b980",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261115-zelenski-estar%C3%ADa-considerando-ceder-territorio-a-cambio-de-entrar-a-la-otan",
-  "titulo": "Estados Unidos plantea la cesión de terrenos en el Donbás para negociar la adhesión de Ucrania a la OTAN",
-  "resumen": "El mandatario Volodímir Zelenski dio a conocer que la delegación negociadora de Estados Unidos sugirió por primera vez la opción de que Kiev entregue el control de un sector del Donbás a cambio de su incorporación a la Alianza Atlántica. El hipotético escenario de renunciar a soberanía territorial para asegurar el ingreso militar es analizado por especialistas internacionales.",
-  "categoria": "Política",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "cc34eb6b15b0",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cmlylypz9xldo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Una madre descubre mediante un correo que su hijo recién nacido no había fallecido en 1976",
-  "resumen": "Diane Sheehan tuvo a su primer hijo en 1976 y recibió la falsa noticia de que el bebé había perdido la vida durante el parto. Luego de más de cuatro décadas de engaño, la mujer supo la verdad al ser contactada por el propio afectado a través de un mensaje electrónico.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-15T04:32:41.793245+00:00"
- },
- {
-  "id": "01419b695b06",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/microsoft-restablece-sus-servicios-tras-falla-que-afectó-a-millones-de-usuarios/a-79950318?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Microsoft normaliza la operación de sus plataformas tras una falla masiva",
-  "resumen": "La compañía tecnológica descartó que el incidente se debiera a una acción maliciosa y pidió disculpas a los usuarios afectados. Asimismo, anunció que publicará un informe detallado una vez que concluya la investigación correspondiente.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
- },
- {
-  "id": "08571644ae02",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261114-honduras-borra-grafitis-de-pandillas-que-delimitan-zonas-de-influencia",
-  "titulo": "Policía de Honduras elimina grafitis empleados por pandillas para delimitar territorio",
-  "resumen": "Los agentes policiales han comenzado a borrar los distintivos de la Mara Salvatrucha y el Barrio 18 en fachadas de Tegucigalpa. La medida forma parte de las acciones impulsadas por el presidente Nasry Asfura contra el crimen organizado. Sin embargo, los habitantes de la zona expresan dudas sobre la eficacia de este plan para mejorar la seguridad.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-14T23:40:09.687049+00:00"
  }
 ]
