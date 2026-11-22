@@ -1,5 +1,113 @@
 [
  {
+  "id": "0241cb8ca237",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/ataque-ruso-provoca-derrumbe-parcial-de-edificio-en-la-región-de-kiev/a-80013001?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Ataque ruso provoca el colapso parcial de un inmueble en la región de Kiev",
+  "resumen": "Un ataque atribuido a Rusia causó el derrumbe de parte de una edificación en la región de Kiev. El presidente Volodimir Zelenski informó que 14 víctimas podrían encontrarse sepultadas bajo los restos del edificio.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "0c4aa36c5f1d",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261122-inusual-tormenta-el%C3%A9ctrica-en-brasil-deja-al-menos-tres-muertos-y-miles-de-construcciones-afectadas",
+  "titulo": "Una inusual supercélula deja destrozos y al menos tres fallecidos en el sur de Brasil",
+  "resumen": "Una potente y poco común tormenta eléctrica afectó a una localidad del estado de Río Grande do Sul con ráfagas de viento de hasta 114 kilómetros por hora. El desastre provocó la muerte de al menos tres personas, miles de construcciones dañadas y una cuarta víctima en investigación. Los reportes oficiales indican que el evento estuvo acompañado de lluvias intensas que derribaron viviendas y arrasaron techos.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "1e13f6ac7857",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/cop31-al-borde-del-fracaso-por-diferencias-sobre-energía-fósil/a-80013163?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Desavenencias sobre energía fósil amenazan el éxito de la cumbre climática COP31",
+  "resumen": "La cumbre climática se encuentra al borde del fracaso debido a las profundas diferencias respecto al uso de energías fósiles. Países como Alemania y Francia manifestaron su rechazo a la versión más reciente del borrador presentado por la organización.",
+  "categoria": "Política",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "2b3e41b93551",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss",
+  "titulo": "La DJ Liv Nervo exige sanciones legales tras sufrir engaño para quedar embarazada",
+  "resumen": "La artista Liv Nervo denunció haber sido coaccionada por un multimillonario para concebir un hijo, descubriendo la verdad durante el sexto mes de gestación. A raíz de su experiencia, la DJ busca promover reformas para que este tipo de conductas sean castigadas por la ley. Su objetivo es evitar que otras mujeres atraviesen por una situación similar.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "4921c7d24811",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev",
+  "titulo": "Rescate en Ucrania tras un bombardeo ruso en una zona residencial cercana a Kiev",
+  "resumen": "Un ataque perpetrado por fuerzas rusas contra un inmueble de viviendas en Dymer ha causado la muerte de una persona y heridas a otras tres. Actualmente, los equipos de emergencia trabajan entre los escombros en busca de 14 ciudadanos no localizados. Ante esta situación, el mandatario Volodímir Zelenski ha solicitado a Estados Unidos la aprobación de proyectiles para los sistemas de defensa Patriot.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "6695d5821c35",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261122-cop31-sin-acuerdo-sobre-combustibles-f%C3%B3siles-fracas%C3%B3-la-cumbre-de-turqu%C3%ADa",
+  "titulo": "Las negociaciones de la COP31 quedan paralizadas por desacuerdos sobre los combustibles fósiles",
+  "resumen": "Diversas delegaciones, entre ellas la Unión Europea, Panamá y las Islas Marshall, descartaron el borrador del acuerdo final al omitir menciones a los combustibles fósiles y a la transición para su abandono. A pesar de haber extendido las deliberaciones por más de 44 horas en Turquía, las conversaciones siguen bloqueadas. Por este motivo, el encuentro internacional afronta el riesgo de finalizar sin lograr un consenso definitivo.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "7c4d1945ccf9",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/mexico/2026-11-21/guasave-despierta-hecha-una-zona-de-guerra-el-hospital-del-imss-estuvo-secuestrado-por-sicarios-y-luego-llegaron-militares.html",
+  "titulo": "Violencia e intervención militar sacuden la localidad mexicana de Guasave",
+  "resumen": "La población enfrentó momentos de tensión tras la toma de un centro médico del IMSS por parte de sicarios antes de la llegada de efectivos militares. Las secuelas del caos quedaron visibles con vehículos de carga y automóviles quemados a lo largo de la carretera México 15. Asimismo, en el malecón se encontraron camionetas destruidas con múltiples cuerpos acumulados.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "89183bd6ebec",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
+  "titulo": "El papel decisivo del emisario secreto que facilitó la paz en Colombia",
+  "resumen": "Henry Acosta Patiño se desempeñó por más de una década como el enlace confidencial encargado de transportar comunicaciones encubiertas por las montañas colombianas. Su labor estratégica tras bambalinas entre el Estado y las FARC fue fundamental para el entendimiento de ambas partes. Estas gestiones discretas permitieron concretar la firma del histórico acuerdo de paz hace diez años.",
+  "categoria": "Política",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "cdb2abf90477",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261122-corea-del-sur-esc%C3%A1ndalo-por-fraude-con-ia-en-ex%C3%A1menes-provoca-la-renuncia-del-ministro-de-educaci%C3%B3n",
+  "titulo": "El ministro de Educación surcoreano renuncia tras detectarse fraude en un examen oficial",
+  "resumen": "El 22 de noviembre, el ministro de Educación de Corea del Sur dejó su cargo tras destaparse un caso de fraude académico. La controversia inició cuando la persona con la nota más alta en la prueba para asesores fiscales admitió haber usado un teléfono inteligente y una pequeña cámara para sacar una calificación casi perfecta. El incidente ocurrió a pocos días de que se realicen las evaluaciones de ingreso universitario.",
+  "categoria": "Política",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "d6944762aa96",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
+  "titulo": "La migración de australianos a Paraguay a finales del siglo XIX",
+  "resumen": "A finales del siglo XIX, un grupo de australianos tomó la decisión de abandonar su país para buscar un mejor lugar donde establecerse. La nación seleccionada para llevar a cabo esta experiencia fue Paraguay.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "ebac3ff327f5",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/finlandia-prepara-el-traslado-a-rusia-de-barco-atacado-por-drones/a-80014103?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Finlandia gestiona el traslado a Rusia de un barco agredido por drones",
+  "resumen": "Una embarcación fue atacada por drones en aguas neutrales, lo que originó un fuego en la cubierta que tardó en ser extinguido. A pesar de la gravedad del incidente, no se registraron víctimas. Finlandia se encuentra alistando el envío del navío hacia territorio ruso.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
+  "id": "f1fd5e704503",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-22/ni-yalta-ni-cumbre-la-nada-con-sifon.html",
+  "titulo": "El encuentro entre Xi, Putin y Trump evidencia la reconfiguración del poder global",
+  "resumen": "Los líderes Xi, Putin y Trump se sentaron en una mesa inmensa y vacía durante una reunión multilateral. El evento funcionó principalmente como un reflejo del desplazamiento del poder a nivel internacional.",
+  "categoria": "Política",
+  "fecha": "2026-11-22T15:57:32.109738+00:00"
+ },
+ {
   "id": "02b128944531",
   "fuente": "Reuters World (vía Google News)",
   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGtWS3liRTRxY0kwUEVYdDIzOGpjRGZWUHByZGszWHNMYlIxMG9vNXVuX0dnOFRicDRNdzQxRG9kX0hQdTFTR1dic0dEYjlBampOUHZDVXl6dnVvYzc2RUhLckc0eTlzYl9ldk5sQWRXMjRsWjQyd0ZOeFN5VVRaQ3lSWkJadw?oc=5",
@@ -1240,113 +1348,5 @@
   "resumen": "Ahmed Abu Kmail, un camarógrafo de 39 años, narró la complicada vivencia de su familia ante las precipitaciones en la Franja de Gaza. El agua ha anegado la precaria tienda donde se resguardan, incrementando su nivel de angustia.",
   "categoria": "Conflictos",
   "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "3cff40307ef5",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/marina-francesa-intercepta-sumergible-con-toneladas-de-cocaína-en-el-atlántico/a-79953291?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Fuerzas navales de Francia interceptan un sumergible con drogas en el océano Atlántico",
-  "resumen": "Efectivos de la Marina francesa ejecutaron un operativo marítimo en el Atlántico que derivó en la detención de cuatro personas a bordo de un sumergible. Durante la intervención, una porción significativa del cargamento de cocaína terminó hundiéndose con la nave.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "473457bd7c1f",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261115-informe-desde-lima-le%C3%B3n-xiv-resalta-la-importancia-de-las-tradiciones-religiosas-populares",
-  "titulo": "El pontífice condecora a la Virgen Reina de Belén y resalta la devoción popular",
-  "resumen": "En una ceremonia realizada en el Parque Arqueológico de Sacsayhuamán, el papa León XIV concedió la Rosa de Oro a la Virgen Reina de Belén. Durante su intervención, la autoridad eclesiástica subrayó que las costumbres religiosas de la población constituyen un elemento clave para la unidad.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "54dd4cbcaece",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjJINVNtUUJnMzZBVjdMNTZ5b2dXTW9oSWJxc0RfcFNkX0FxRl9JOU1XYThFMFFTNDNlX3BFQy0zYmxtZjB2aFJ4bF9pdU1IOGp4T0MzSktnN0REV19nY1p5ejAwZHJEMnlPNzhBQkpSUzRtRkp0RTZmR2pmN3RhSUtTRmlZbl9jT1dwSw?oc=5",
-  "titulo": "ESPN Deportes transmitirá el noveno Campeonato Mundial de Lanzamiento de Hacha y Cuchillo",
-  "resumen": "ESPN Deportes llevará a cabo la transmisión en directo del noveno Campeonato Mundial de Lanzamiento de Hacha y Cuchillo. La emisión de esta competencia está prevista para realizarse el 15 de noviembre de 2026. El evento se podrá seguir en vivo a través de la cobertura oficial de la cadena.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "62cae9c6393e",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xZFcwanIwZTB1OXJTd2JVRTVKVzRmckZnNzJVckJZZHRhenNIMGplMkxvZDdaaUZ2YUpWYUttSHg0YS02XzRBSHhSZzQ3NlZJOTJFQkdieVNWM3I3M1FGRFRDZFdMQVVDVEVWN0dnaw?oc=5",
-  "titulo": "La nueva película de Anne Hathaway se convierte en un fenómeno global de transmisión en línea",
-  "resumen": "Una película protagonizada por Anne Hathaway ha logrado posicionarse como un éxito global instantáneo en las plataformas de transmisión. La cinta combina temáticas al estilo de las producciones de Jurassic World y Cloverfield. El largometraje ha captado rápidamente la atención de las audiencias internacionales según datos de IMDb.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "6346c7f62c3a",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Ucrania solicita a Estados Unidos y a Elon Musk el restablecimiento total del servicio Starlink",
-  "resumen": "El presidente de Ucrania instó a Estados Unidos y al empresario Elon Musk a restablecer la cobertura completa del sistema de internet Starlink en su país. El mandatario señaló que las limitaciones actuales continúan afectando las operaciones defensivas de sus fuerzas armadas. La petición busca obtener los recursos necesarios para contrarrestar los ataques de las tropas rusas.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "65231fa562bd",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c3rrg98rd8dqo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Estados Unidos cataloga como organizaciones terroristas a tres grupos criminales guatemaltecos",
-  "resumen": "El gobierno de Estados Unidos ha clasificado a tres bandas delictivas de Guatemala como organizaciones terroristas extranjeras. Las autoridades estadounidenses sostienen que estos grupos operan en alianza directa con carteles mexicanos de la droga. Washington acusa a estas estructuras criminales de colaborar en actividades de tráfico de narcóticos.",
-  "categoria": "Política",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "6e1938863bc2",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/rebeldes-hutíes-se-encuentran-a-solo-60-kilómetros-de-la-capital-provisional-de-yemen/a-79953488?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Los rebeldes hutíes se aproximan a la capital provisional yemení",
-  "resumen": "Los insurgentes continúan su avance en Yemen y se ubican a solo 60 kilómetros de la sede institucional provisional. En esa ciudad opera el gobierno del país que cuenta con el reconocimiento de la comunidad internacional desde el año 2014.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "85501f969866",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss",
-  "titulo": "El impacto del anticomunismo en la prominente carrera de Paul Robeson",
-  "resumen": "Paul Robeson fue una celebridad destacada en el cine, el teatro, la música y el fútbol americano en Estados Unidos. No obstante, su figura histórica se vio empañada de forma severa por la persecución anticomunista surgida durante la Guerra Fría.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "9472310791b8",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/estonia-cerrará-su-frontera-con-rusia-tras-denunciar-intento-de-sabotaje/a-79953162?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Estonia clausura la frontera rusa en respuesta a actos de sabotaje",
-  "resumen": "Ocho individuos fueron arrestados por su presunta vinculación con un incendio provocado en una planta productora de drones. Ante este incidente, el gobierno estonio acusó a los servicios de inteligencia de Moscú y determinó el cierre de su paso fronterizo con Rusia.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "9511d013e600",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE4tZzJqbnloRHpNUkxma0R0ZTNLNl92aC1DTHhjRldUZ3M1VnVWQUxaNmYtbTUzbDVmTTFjN053a0lfOC1nOGpCZURHRVBWYUZRd0FSby1XMkxEYTJVanU4Rk5uaFZtOXpQbVpET1pOX2tSaUpla1c2ZGxQZXVMNTdVOWkwQ1o2NVM5QWJwYkJqT09PZW5MS05WN21ZR19xalA1b0JpWW5mUE1qTE1LbVp0eXFrRjBTRzFoNHlhaVVYQQ?oc=5",
-  "titulo": "McIlroy alcanza hito histórico en el circuito europeo y Hatton triunfa en Dubái",
-  "resumen": "El golfista McIlroy logró igualar la marca histórica tras conseguir su octavo título en el circuito europeo. En el mismo contexto deportivo, Hatton se adjudicó la victoria en el torneo celebrado en Dubái.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-15T20:49:33.826941+00:00"
- },
- {
-  "id": "006a2de26674",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHJ4SEg3Y0ZMYy1FajlIODFxX3YxQndpV2g3d2Z6MVJIVDJhQTJ0VzExdHV5dVNVZmN1cWFOY0ZVZW1YY3JWVlQxLTZpNzROOTlOektGWmVPU2tHYkNxWkpxdGxvMVlmQ2hNOWpSTkJpYkJYNXctMEpTZ0luYVJvVURSZW96ZDZkejBr?oc=5",
-  "titulo": "Transmisión en directo del cierre de los ISA World Surfing Games 2026",
-  "resumen": "La jornada final del campeonato ISA World Surfing Games 2026 se encuentra disponible para su seguimiento en vivo. El evento deportivo concluye sus actividades a través de la plataforma Duke Surf.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-15T15:19:54.946413+00:00"
- },
- {
-  "id": "0552000646f2",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Atentan con explosivos contra la vivienda de un periodista en Panamá",
-  "resumen": "La residencia del comunicador Rolando Rodríguez fue objeto de un ataque con explosivos en Panamá. El periodista se encontraba indagando un presunto caso de corrupción en la nación al momento de los hechos. El suceso ha provocado una profunda conmoción en el país.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-15T15:19:54.946413+00:00"
  }
 ]
