@@ -1,5 +1,113 @@
 [
  {
+  "id": "03c574a89e67",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnZzZ1hkZVJFSTdEbzJJVktEQmJmUjh6VS1heW04eTUwS0hQZjRkQ3A5UDFxTVdMaFdoYUhwV080QnM3RWJHbnV2cjZpbC0zVU9iamZUWXljQ0p1NlhFeGNMZVdtbW1lX0ZvQlYtTXRMOHRybkJxU3RtOU5uSVVXbU5ZTQ?oc=5",
+  "titulo": "México organizará la Copa Mundial Femenina de 2031 en conjunto con tres países",
+  "resumen": "México fue designado como una de las sedes para albergar la Copa Mundial Femenina del año 2031. La organización de este certamen deportivo se llevará a cabo de manera compartida con Estados Unidos, Costa Rica y Jamaica. La noticia fue dada a conocer por medios de comunicación internacionales.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "35454d6d0e6a",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
+  "titulo": "El rol determinante de Jensen Huang en el éxito de Nvidia",
+  "resumen": "Jensen Huang desempeñó un rol decisivo en la evolución de Nvidia dentro del sector de la inteligencia artificial. Su liderazgo convirtió a la empresa en una pieza clave de dicha industria tecnológica. Por esta razón, su presencia resultó indispensable para la compañía.",
+  "categoria": "Ciencia y Tecnología",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "3aadc5b99a2c",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-23/medios-independientes-rusos-estiman-que-el-kremlin-ha-perdido-mas-de-700000-militares-en-su-ofensiva-sobre-ucrania.html",
+  "titulo": "Estimación de medios independientes atribuye al Kremlin más de 700.000 bajas en Ucrania",
+  "resumen": "Una investigación de medios rusos independientes indica que el Kremlin habría perdido a más de 700.000 militares durante la ofensiva en Ucrania. Los diarios Meduza y Mediazona llegaron a este cálculo tras revisar una base de datos rusa vulnerada. Asimismo, ambas publicaciones incorporaron a la cifra sus propias estimaciones sobre los soldados desaparecidos.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "75ac907a419d",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cx4gnrrqm61jo?at_medium=RSS&at_campaign=rss",
+  "titulo": "Una historia de adaptación afectiva tras sufrir un grave accidente vehicular",
+  "resumen": "Kris consideraba a Brandon como el gran amor de su adolescencia y su pareja ideal. Sin embargo, un catastrófico accidente automovilístico sufrido por él cambió por completo la situación de ambos. Tras el suceso, la mujer tuvo que encontrar y aprender una nueva manera de expresar su amor.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "7b260285fff9",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261124-gaza-alarma-por-la-crisis-sanitaria-y-ambiental-que-dejan-los-residuos-de-la-guerra",
+  "titulo": "Oxfam alerta sobre la grave contaminación ambiental y los riesgos sanitarios en Gaza",
+  "resumen": "Un informe de Oxfam revela que las acciones bélicas generaron una crisis ecológica masiva en la Franja de Gaza debido a la acumulación de escombros, metales pesados y residuos de explosivos. Esta degradación que afecta el aire, el agua y el suelo se extiende por gran parte del territorio, amenazando la salud y la supervivencia de la población civil.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "7d49bfb3404f",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-otro-atentado-en-colombia-deja-al-menos-12-heridos-de-la-espriella-dice-que-el-narcoterrorismo-est%C3%A1-desesperado",
+  "titulo": "Reportan al menos doce heridos tras un nuevo ataque violento en Colombia",
+  "resumen": "Un reciente atentado registrado en Colombia dejó un saldo de al menos doce personas lesionadas. Tras el suceso, De la Espriella afirmó que los grupos dedicados al narcoterrorismo se encuentran en un estado de desesperación.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "7d49bfb3404f",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-otro-atentado-en-colombia-deja-al-menos-12-heridos-de-la-espriella-dice-que-el-narcoterrorismo-est%C3%A1-desesperado",
+  "titulo": "Ataque con coche bomba sacude la sede de la Gobernación de Meta en Villavicencio",
+  "resumen": "La detonación de un vehículo bomba frente al edificio de la Gobernación de Meta provocó lesiones a doce personas y severos destrozos materiales. El ataque ocurrió el lunes 23 de noviembre en la ciudad de Villavicencio, en la zona central de Colombia.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "7ef7d6636aee",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/ee-uu-incluye-a-megaspeed-en-lista-negra-comercial-por-desvío-de-chips-de-nvidia-hacia-china/a-80027248?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Estados Unidos sanciona a la empresa Megaspeed por envío de procesadores a China",
+  "resumen": "El gobierno de Estados Unidos incorporó a la firma Megaspeed a su lista negra comercial. La medida responde a sospechas sobre el desvío no autorizado de chips de inteligencia artificial fabricados por Nvidia con destino al mercado chino.",
+  "categoria": "Economía",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "85644d1166df",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-23/iran-flagela-con-74-latigazos-a-la-cantante-parastoo-ahmadi-por-cantar-sin-velo-en-youtube.html",
+  "titulo": "Sancionan en Irán a una artista y a su banda por una presentación musical en línea",
+  "resumen": "La intérprete Parastoo Ahmadi fue azotada con 74 latigazos en Irán tras cantar sin velo en la plataforma YouTube. De igual forma, cuatro integrantes de su conjunto musical sufrieron la misma sanción acusados de difundir contenido inmoral. Dicho castigo recibido por los músicos está considerado como una forma de tortura.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "8eb7a75d6503",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/encuesta-la-mayoría-de-los-alemanes-rechaza-enviar-armas-a-ucrania/a-80026623?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Un sondeo revela que la población alemana prefiere la neutralidad en política exterior",
+  "resumen": "La mayoría de los ciudadanos en Alemania opone resistencia al envío de ayuda militar hacia Ucrania. Asimismo, los encuestados consideran que el país debe adoptar una postura discreta a nivel internacional y mantenerse neutral frente a las tensiones entre Estados Unidos y China.",
+  "categoria": "Política",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "a897431a1411",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU09VWHFZaV9pTG5qMGVXZ25HOVJIdDJEQlV6WWlPRVJuSHNQS0hudWc2WlhSQUlNOEtOWVcwYkFSbFB4NGM3N21aOHhIaUpRUk1pVkZ6TzJUTzlxcVM1c0htaUJkM2loS2FWY2VjWFhYa1E4aHh0WVFRZlBGaDdHaTdDekpHRm5xR0pjTWZ5dU8?oc=5",
+  "titulo": "El programa WBC Cares hace su arribo a Italia",
+  "resumen": "La iniciativa del Consejo Mundial de Boxeo, WBC Cares, se ha presentado oficialmente en territorio italiano. El proyecto llega al país de la mano de Michael Magnesi y Alessandra Branco.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
+  "id": "acc5aa13657b",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjg4QnBUTDNCMEx3R24tc3AxTXJIR05kSVlFMkdETDNvQkEyU1BqLXFvNWFSekhYeFppaHNLaVM1N1ZkeWI2RGstb0FJYUlCZG01Ym9ncWN6eElQdkV4T183SW5COTlaYk1BdGxfcFhSZEJLVWF3SF81WWZsRnZIaEt2eDd0a1FNU2dTQg?oc=5",
+  "titulo": "ESPN Deportes transmitirá en vivo el certamen global de lanzamiento de hachas y cuchillos",
+  "resumen": "La transmisión directa del World Axe & Knife Throwing Championship 2025 estará disponible mediante ESPN Deportes. Los aficionados podrán seguir en vivo el desarrollo de esta competencia internacional.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-24T04:39:21.553981+00:00"
+ },
+ {
   "id": "06e88b1049c7",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/medio-oriente/20261123-los-bombardeos-israel%C3%ADes-han-convertido-la-franja-de-gaza-en-un-vertedero-t%C3%B3xico-seg%C3%BAn-oxfam",
@@ -1240,113 +1348,5 @@
   "resumen": "Cinco países de la Unión Europea planean establecer en Kigali un recinto destinado a la deportación de personas extranjeras. La decisión marca un cambio respecto a su postura de hace menos de un año, cuando cuestionaban ante la ONU la situación de los derechos humanos en dicha nación. El gobierno ruandés pasa así a ser considerado un socio para estas gestiones migratorias.",
   "categoria": "Política",
   "fecha": "2026-11-18T05:41:06.300978+00:00"
- },
- {
-  "id": "297dfc9e9212",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Un operativo ucraniano causa severos daños al puente de Crimea",
-  "resumen": "Las fuerzas de Kiev ejecutaron un ataque coordinado en siete fases contra el estratégico puente de Crimea, infraestructura representativa de la ocupación de Moscú. La estructura sufrió perjuicios considerables a raíz de esta incursión planificada. Las autoridades evalúan las repercusiones generadas por la acción ofensiva.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-18T05:41:06.300978+00:00"
- },
- {
-  "id": "36c61416f9bb",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zZGdVa2JnU0lzV1VsZ1k4YjVaTWJNRE00aWxQV19RVU5ZNXdibFhMVVptYWtEeWtfOVYwWURwNzlJOUNzdWotdzdweEw5SWNOWFA0V3pvM0dSTkE?oc=5",
-  "titulo": "Larry Kudlow cuestiona el gasto público y el intervencionismo estatal",
-  "resumen": "El comentarista Larry Kudlow sostuvo en Fox Business que ninguna cantidad de dinero resolverá los problemas atribuidos al socialismo gubernamental de gran escala. Sus declaraciones ponen el foco en las limitaciones del financiamiento económico frente a este modelo de gestión.",
-  "categoria": "Economía",
-  "fecha": "2026-11-18T05:41:06.300978+00:00"
- },
- {
-  "id": "3b678e2c1689",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c8r4g6xr75vyo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Cineastas israelíes detallan cómo lograron testimonios sobre IA en su documental galardonado",
-  "resumen": "Los realizadores Yuval Abraham y Rachel Szor explicaron a la BBC el proceso detrás de su aclamada obra 'Naza'. En la entrevista, los documentalistas abordaron el modo en que consiguieron que soldados de Israel hablaran del empleo de inteligencia artificial para fijar objetivos en Gaza.",
-  "categoria": "Cultura",
-  "fecha": "2026-11-18T05:41:06.300978+00:00"
- },
- {
-  "id": "3db2891cff3d",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Inquietud en Europa ante la preparación de una inédita cumbre entre Washington, Moscú y Pekín",
-  "resumen": "La organización de un primer encuentro trilateral que reunirá a los líderes de Estados Unidos, Rusia y China ha encendido las alarmas en el territorio europeo. Diversos sectores comparan este escenario con la partición del planeta en áreas de influencia tras el fin de la Segunda Guerra Mundial.",
-  "categoria": "Política",
-  "fecha": "2026-11-18T05:41:06.300978+00:00"
- },
- {
-  "id": "4ec6a1150365",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/gobierno-de-donald-trump-pide-usd-50-100-millones-para-renovar-infraestructura-aérea/a-79975693?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "La Casa Blanca solicita más de 50.000 millones de dólares para modernizar el sistema aeroportuario",
-  "resumen": "El presidente estadounidense solicitó al Congreso la aprobación de 50.100 millones de dólares con el fin de actualizar las infraestructuras de transporte aéreo del país. La petición gubernamental se presentó como respuesta a los recientes desajustes en las terminales que derivaron en la cancelación de miles de trayectos.",
-  "categoria": "Economía",
-  "fecha": "2026-11-18T05:41:06.300978+00:00"
- },
- {
-  "id": "5aeb372bd19c",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261118-rev%C3%A9s-para-netanyahu-el-parlamento-de-israel-elige-a-un-aliado-de-eisenkot-como-presidente",
-  "titulo": "La oposición toma la presidencia del Parlamento israelí y propina un revés a Netanyahu",
-  "resumen": "Matan Kahana, vinculado al opositor Gadi Eisenkot, superó al aspirante oficialista y fue designado presidente de la Knesset. Este resultado debilita al primer ministro Benjamin Netanyahu y brinda al bloque opositor un mayor manejo de las leyes mientras intentan estructurar un nuevo gobierno.",
-  "categoria": "Política",
-  "fecha": "2026-11-18T05:41:06.300978+00:00"
- },
- {
-  "id": "098b42e48ff6",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261117-cumbre-apec-est%C3%A1-ganando-china-terreno-como-socio-de-confianza-frente-a-estados-unidos",
-  "titulo": "Visiones opuestas entre Washington y Pekín marcan el arranque del foro APEC",
-  "resumen": "France 24 informa que la cumbre de la APEC inició en Shenzhen bajo un clima de tensiones comerciales y redefinición geopolítica. El medio destaca que el encuentro refleja modelos antagónicos respecto a la economía, la tecnología y la inteligencia artificial. Mientras Estados Unidos promueve regulaciones alineadas con sus intereses estratégicos, China busca proyectarse como un aliado dispuesto a la cooperación.",
-  "categoria": "Economía",
-  "fecha": "2026-11-17T23:32:34.028561+00:00"
- },
- {
-  "id": "172274ce84f5",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-09/trumpazo-economico-debacle-politica.html",
-  "titulo": "Decisiones deliberadas impulsan el encarecimiento del costo de vida, según reporte",
-  "resumen": "De acuerdo con información de El País, el incremento en el coste de la vida ha sido provocado principalmente por dos elementos: los aranceles y las medidas relativas a Irán. La fuente añade que ambos factores correspondieron a determinaciones voluntarias y premeditadas con repercusiones políticas.",
-  "categoria": "Economía",
-  "fecha": "2026-11-17T23:32:34.028561+00:00"
- },
- {
-  "id": "195ae7d9596b",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/china-méxico-y-estados-unidos-el-delicado-equilibrio-de-sheinbaum-en-la-apec/a-79973976?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Reunión entre la mandataria de México y Xi Jinping abre interrogantes en Washington",
-  "resumen": "DW Español reporta que la presidenta mexicana sostuvo un diálogo con el mandatario chino, Xi Jinping, en el marco de la cumbre de la APEC. El mismo medio añade que este acercamiento diplomático podría suscitar pronunciamientos o inquietud por parte del gobierno estadounidense.",
-  "categoria": "Política",
-  "fecha": "2026-11-17T23:32:34.028561+00:00"
- },
- {
-  "id": "31f8a6283d54",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/los-hutíes-ponen-contra-las-cuerdas-a-arabia-saudita-en-yemen/a-79975142?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Avances rebeldes y fractura interna comprometen a la coalición saudí en Yemen",
-  "resumen": "Según informa DW Español, la alianza militar encabezada por Arabia Saudita afronta una etapa crítica en Yemen ante su desintegración interna y la ofensiva de los combatientes hutíes. Asimismo, el medio advierte que este escenario pone bajo amenaza la seguridad de una ruta comercial relevante.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-17T23:32:34.028561+00:00"
- },
- {
-  "id": "00bc6a078372",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/profecía-de-jürgen-klopp-se-vuelve-viral-tras-rodillo-5-0-a-países-bajos/a-79970408?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "El acertado pronóstico de Jürgen Klopp sobre la victoria ante Países Bajos se vuelve viral",
-  "resumen": "El estratega alemán anticipó un resultado inesperado poco antes del inicio del encuentro frente a Países Bajos. La victoria de su equipo por cinco goles a cero terminó confirmando su predicción, la cual pocos creían posible. El hecho causó gran revuelo tras concretarse la abultada goleada.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-17T12:55:43.052719+00:00"
- },
- {
-  "id": "01f1e61e7431",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-17/la-ue-busca-fuera-de-sus-fronteras-una-solucion-al-fracaso-de-sus-deportaciones.html",
-  "titulo": "La Unión Europea evalúa enviar migrantes a terceros países ante el estancamiento de sus deportaciones",
-  "resumen": "La Unión Europea busca alternativas fuera de sus fronteras tras los escasos resultados conseguidos en la expulsión de migrantes. La propuesta de instalar centros de retorno en naciones como Ruanda ha generado críticas por la falta de supervisión adecuada. Quienes rechazan la medida advierten además sobre la carencia de garantías protectoras para las personas trasladadas.",
-  "categoria": "Política",
-  "fecha": "2026-11-17T12:55:43.052719+00:00"
  }
 ]
