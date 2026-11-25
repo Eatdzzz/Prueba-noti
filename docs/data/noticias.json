@@ -1,5 +1,113 @@
 [
  {
+  "id": "1e087344c573",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-24/china-investiga-al-jefe-del-partido-comunista-en-shanghai-uno-de-los-dirigentes-con-mas-proyeccion-del-pais.html",
+  "titulo": "Investigaciones en China alcanzan a alto líder del Partido Comunista en Shanghái",
+  "resumen": "El dirigente Chen Jining se encuentra bajo investigación, convirtiéndose en el cuarto integrante del Politburó en enfrentar este proceso. El funcionario era considerado un fuerte aspirante a incorporarse al Comité Permanente hacia el año 2027.",
+  "categoria": "Política",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "220f0d86e835",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261125-kilmar-%C3%A1brego-garc%C3%ADa-s%C3%ADmbolo-de-la-resistencia-migrante-ante-trump-va-rumbo-a-espa%C3%B1a",
+  "titulo": "El migrante salvadoreño Kilmar Ábrego García viaja a España tras la disputa sobre su deportación",
+  "resumen": "Tras haber sido expulsado por una falla administrativa e internado en el centro CECOT, Kilmar Ábrego García se encamina hacia España. El gobierno de Estados Unidos descartó trasladarlo a Liberia y respaldó su opción de viaje, según informó el senador Chris Van Hollen.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "3e3b4d118c5c",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261125-venezuela-sindicatos-y-empleados-p%C3%BAblicos-salen-a-las-calles-para-exigir-salarios-dignos",
+  "titulo": "Trabajadores del sector público se movilizan en Caracas para demandar incrementos salariales",
+  "resumen": "Docentes y empleados estatales protestaron en la capital de Venezuela para exigir pagos y pensiones de mayor cuantía. Los gremios afirman que existen remuneraciones de apenas un dólar mensual, durante una marcha marcada por fricciones con agentes antidisturbios.",
+  "categoria": "Economía",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "3eecf133f56f",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/lukashenko-propone-acompañar-a-zelenski-a-moscú-para-negociar-fin-de-la-guerra-con-putin/a-80042057?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Lukashenko se ofrece a custodiar a Zelenski para entablar diálogos de paz en Moscú",
+  "resumen": "El jefe de Estado bielorruso planteó ir acompañado con el presidente de Ucrania a la capital rusa para negociar la conclusión del enfrentamiento militar. Pese a haber respaldado las acciones bélicas de Rusia, el líder ofreció responder por la seguridad del mandatario ucraniano.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "40670aaced64",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-24/evacuado-del-frente-de-guerra-en-las-tripas-de-un-dron-aereo-era-mi-unica-opcion.html",
+  "titulo": "Drones ucranianos trasladan a soldados heridos en zonas de difícil acceso",
+  "resumen": "Las fuerzas armadas de Ucrania emplearon aeronaves no tripuladas para evacuar a una decena de combatientes lesionados en el frente de batalla. Esta medida se aplicó recientemente en áreas donde ni el personal médico ni los transportes por tierra lograban ingresar.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "46576e75a477",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/econom%C3%ADa/20261125-consultoras-apuntan-a-una-recesi%C3%B3n-t%C3%A9cnica-en-argentina-tras-dos-trimestres-seguidos-de-contracci%C3%B3n",
+  "titulo": "Cálculos privados señalan que la economía de Argentina habría entrado en recesión",
+  "resumen": "Informes de consultoras estimaron una caída del 1,8 % en el producto interno argentino durante el tercer trimestre de 2026. El deterioro de la actividad coincide con el ajuste fiscal impulsado por Javier Milei, la reducción del consumo, el desempleo y el sobreendeudamiento de los hogares.",
+  "categoria": "Economía",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "47f1148e9bc9",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TQkNZS1FKODU3YkFzSFlFaXh5emxLVDZfb1A0MVRwVm55N3RvdE1qSlFBUFM4QW9YRnVQdHVVbGIxeU9KX253NTFpaUp5TjlXZExNU2MzMlg5YmszVHk3Rlo3YXEyeWRG?oc=5",
+  "titulo": "México se impone ante Camerún con una goleada de cuatro a cero",
+  "resumen": "La selección mexicana derrotó por 4 a 0 al conjunto de Camerún en un partido disputado el 24 de noviembre de 2026. El resultado definitivo del encuentro deportivo fue difundido por la cadena ESPN.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "4d01f3be795f",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cwm2mz5zvp94o?at_medium=RSS&at_campaign=rss",
+  "titulo": "Detienen en Estados Unidos al padre de Meghan Markle por posesión de material ilícito",
+  "resumen": "Agentes del FBI arrestaron al suegro del príncipe Harry el pasado 6 de noviembre en Los Ángeles. La detención ocurrió tras descubrirse contenido de abuso sexual infantil en un depósito que presuntamente mantenía alquilado.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "5f4dc4423b6e",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/la-copa-américa-2028-se-jugará-en-estados-unidos-con-16-selecciones-de-la-conmebol-y-la-concacaf/a-80042001?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Estados Unidos será la sede de la Copa América 2028 con 16 selecciones participantes",
+  "resumen": "La Conmebol anunció que la Copa América 2028 se llevará a cabo en Estados Unidos del 9 de junio al 9 de julio. El certamen contará con la presencia de 16 representativos nacionales. Competirán las 10 selecciones pertenecientes a la Conmebol junto a 6 clasificados de la Concacaf.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "68dbd374e287",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR19LWHppSnYtMjdBbHhtTDcwTVAxV0NTMjY3VlNGTHprUGZkUmIwNEhJbTZ1OXN5eGwxQV9vTllUaGlSMmlPX2tKY1BvbmMzRFRadVl5OGxqUTdGVDZzdXhDOTRWUnBMMzJIWkVLai1RX2NmX0YzVHJZQnVnbW1oa3NaeWUxLUtEZjRQcVpRekpGdFJWVWZFNEVWb2psbjFOaGpZb0tXUEY0d01KZUlWd3d5T25vQQ?oc=5",
+  "titulo": "Captan desde el agua la sesión de free surfing del WSL World Junior Championships en El Salvador",
+  "resumen": "Hoy se realizó la jornada de free surfing en el marco del Surf City El Salvador WSL World Junior Championships. Las acciones del campeonato juvenil fueron registradas e informadas directamente desde el agua por el portal dukesurf.com.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "8c2f0e003339",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/un-gran-jurado-en-ee-uu-acusa-a-thomas-markle-padre-de-meghan-markle-de-posesión-de-pornografía-infantil/a-80042280?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Acusan formalmente a Thomas Markle en EE. UU. por posesión de pornografía infantil",
+  "resumen": "Un gran jurado estadounidense presentó cargos contra Thomas Markle, padre de Meghan Markle, por el delito de posesión de pornografía infantil. La fiscalía sostiene que la acusación incluye la tenencia de negativos con imágenes de abuso sexual a menores. Además, las autoridades señalaron que se hallaron fotos y libros donde figura desnudo junto a niños.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
+  "id": "a91ebdb52817",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWTMtVVlzcVNlWFVKVldNRG83MVU5ZVBQeXRLV3BnSW8tNmM0ZDQ2cVRWYThxTmtSdTQtbHIzdk9zZUNPQ0ExQzkzZzhZY0Z2TDBVQmdwSzNSTG9BaUNjSGgxUTBucWRnQlZSOGdoV3J0bHlRU1k1UXdLbjE2d3UyOENtOUxrUWt4Ulp4ZWN4TDAxZWpzcTFXOWhHQ1g1dW9GYU1TaEpHeVhfQVNZaUJoa19uRnRmaXNpWDY4Wlp3ZVR6VzdsUVlmNldOcnB0SE9OQUs5Tm43TQ?oc=5",
+  "titulo": "HEINZ se convierte en proveedor oficial de condimentos para las Copas Mundiales de Rugby 2027 y 2029",
+  "resumen": "La marca HEINZ participará como proveedora oficial de condimentos en las ediciones 2027 y 2029 de la Copa Mundial de Rugby. La empresa buscará aportar su característico sabor durante el desarrollo de ambos eventos deportivos internacionales. El anuncio fue dado a conocer a través del portal oficial del certamen.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-25T03:19:58.640573+00:00"
+ },
+ {
   "id": "059117bc8021",
   "fuente": "El País - Internacional",
   "enlace": "https://elpais.com/internacional/2026-11-24/el-hundimiento-de-la-corbeta-merkury-de-orgullo-de-la-flota-rusa-en-2023-a-ejemplo-de-la-vulnerabilidad-en-la-nueva-guerra-naval.html",
@@ -1240,113 +1348,5 @@
   "resumen": "El evento internacional dedicado a la arquitectura reveló a los primeros galardonados durante su jornada inaugural. La información fue difundida a través de la plataforma ArchDaily. El certamen comenzó así con la entrega de sus primeros reconocimientos de la edición.",
   "categoria": "Cultura",
   "fecha": "2026-11-19T12:34:22.980303+00:00"
- },
- {
-  "id": "5d9e3cafee5a",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/concluye-la-cumbre-entre-xi-trump-y-putin-así-funciona-el-mundo/a-79988164?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Finaliza el primer encuentro trilateral entre los líderes de China, Estados Unidos y Rusia",
-  "resumen": "Los mandatarios de las tres potencias globales mantuvieron una reunión enfocada en el conflicto en Ucrania y la reducción de armas nucleares. Este encuentro inédito buscaba resguardar la estabilidad global según la postura manifestada por Pekín. La cita concluyó tras abordar estos temas centrales de la agenda internacional.",
-  "categoria": "Política",
-  "fecha": "2026-11-19T12:34:22.980303+00:00"
- },
- {
-  "id": "609d2cbff174",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c8e39l3kwv1wo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Claves para optimizar la presencia de hierro en el cuerpo sin recurrir al consumo de carne",
-  "resumen": "Mantener niveles adecuados de este mineral esencial no está ligado únicamente a la cantidad de alimento ingerido. La capacidad del organismo para procesar e integrar el nutriente resulta igualmente determinante. Existen alternativas efectivas que permiten mejorar esta asimilación sin depender de productos cárnicos.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-19T12:34:22.980303+00:00"
- },
- {
-  "id": "627babaf3671",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas-sentencia-la-corte-internacional-de-justicia",
-  "titulo": "La Corte Internacional de Justicia determina que Myanmar incurrió en genocidio contra los rohingyas",
-  "resumen": "El tribunal internacional dictaminó un fallo sobre los crímenes cometidos contra la comunidad rohingya. Mediante esta resolución se establece la responsabilidad oficial de Myanmar por el delito de genocidio.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-19T12:34:22.980303+00:00"
- },
- {
-  "id": "627babaf3671",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas-sentencia-la-corte-internacional-de-justicia",
-  "titulo": "El tribunal de la ONU responsabiliza a Myanmar por el genocidio rohinyá en Rakáin",
-  "resumen": "La Corte Internacional de Justicia declaró a Myanmar responsable del genocidio perpetrado contra la minoría rohinyá. Los hechos juzgados corresponden a la campaña militar efectuada durante el año 2017 en el estado de Rakáin.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-19T12:34:22.980303+00:00"
- },
- {
-  "id": "751e01774da2",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-18/de-yalta-a-shenzhen.html",
-  "titulo": "Cumbre internacional en Shenzhen convoca a los líderes de China, Rusia y Estados Unidos",
-  "resumen": "Xi Jinping ejerce como anfitrión en una reunión solicitada por Vladimir Putin con el fin de dividir el continente europeo. Por su parte, Donald Trump se sumó a este encuentro motivado por su aspiración a obtener el Nobel de la Paz.",
-  "categoria": "Política",
-  "fecha": "2026-11-19T12:34:22.980303+00:00"
- },
- {
-  "id": "7f86e4ee37b1",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/xi-trump-y-putin-adoptan-declaración-de-paz-sobre-reforma-de-la-onu-desarme-nuclear-y-petróleo/a-79990663?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "China, Estados Unidos y Rusia acuerdan una declaración sobre la ONU, petróleo y riesgo nuclear",
-  "resumen": "Los máximos dirigentes de las tres potencias mantuvieron una reunión inédita en la que aprobaron una resolución conjunta. El acuerdo aborda la reestructuración de las Naciones Unidas, la regulación del sector petrolero y la mitigación de los peligros nucleares.",
-  "categoria": "Política",
-  "fecha": "2026-11-19T12:34:22.980303+00:00"
- },
- {
-  "id": "1a36f44feb9b",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261118-bukele-se-gana-el-favor-de-los-haitianos-por-operativos-contra-las-pandillas",
-  "titulo": "Operativos salvadoreños contra pandillas despiertan simpatía en la población de Haití",
-  "resumen": "Tropas de El Salvador realizan intervenciones en suelo haitiano desde octubre para capturar a cuatro integrantes de bandas criminales. Estas acciones han provocado que la ciudadanía de Haití perciba las estrategias del presidente Nayib Bukele como una salida a su crisis de inseguridad. Sin embargo, analistas advierten que la falta de una planificación a largo plazo podría resultar perjudicial en los próximos años.",
-  "categoria": "Política",
-  "fecha": "2026-11-19T01:56:39.077127+00:00"
- },
- {
-  "id": "2c86f5c54005",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cq98x39klx03o?at_medium=RSS&at_campaign=rss",
-  "titulo": "Crece la inquietud por una reciente racha de interrupciones tecnológicas globales",
-  "resumen": "Una constante sucesión de fallos tecnológicos ha causado preocupación en los últimos días, motivada por factores como ciberataques, inteligencia artificial o actualizaciones pendientes. Aunque hasta la fecha no hay pruebas que vinculen estos eventos entre sí, la frecuencia de los incidentes genera inquietud.",
-  "categoria": "Ciencia y Tecnología",
-  "fecha": "2026-11-19T01:56:39.077127+00:00"
- },
- {
-  "id": "3e6f1d249005",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDFCTVpMYkNpLUpaenVSRS1NOUVxQlR1SThlcl9GSGd4NlplOENJb3FxR0VpS1ltZlNXREFJMTc5dHcwR1NBZGxpWDZqOW8wSmZYdEhhV0pEcERDenFVLXd2eE9kN21TejlsX0d4SnRhVERJRFFJWUtGb3hHZGZjdzVvVlowTjRfUUJhQlk2Nm5UZzF6Zlp5VnltT3B0SEFzMGFYbURrd0JTcUxacGlORHVRNHpadjVGRVZKS0d0RVVwbzM2R3c?oc=5",
-  "titulo": "Venezuela alcanza la tercera posición en el ranking mundial de béisbol masculino",
-  "resumen": "La selección venezolana de béisbol ascendió al tercer lugar del escalafón mundial masculino de la WBSC/SHARP. Este logro en la clasificación internacional se produjo tras coronarse campeones en la Copa Mundial Sub-23.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-19T01:56:39.077127+00:00"
- },
- {
-  "id": "57c5bbcbcd56",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2Y5OUM1QzAwWnc4NFEybXVIeVpqYXlNQjF1RVJiTEotOXlyWGFOX0gwbjE1Z2ZuRF9nR0RCVnV1bXFKNWFDckYwSEpDX2NDd2tJdTl0WFFBdS1xdjVnTVF0M2ZqdEFFX2VnOHBONlFVU3BlRFI3Q1FqM3RiME9KLVlZUjJJSlIxeERDOVc1SFR6VjlCaWNjYWpBeFpySXJW?oc=5",
-  "titulo": "ReliefWeb presenta informe sobre riesgos meteorológicos globales para noviembre de 2026",
-  "resumen": "La plataforma ReliefWeb publicó un resumen enfocado en las amenazas climáticas a escala internacional. El documento detalla los peligros meteorológicos previstos para la semana del 19 al 25 de noviembre de 2026.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-11-19T01:56:39.077127+00:00"
- },
- {
-  "id": "01c19893a6b6",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFR4ZUJEbDNlWHNwMW53cFNkbDJqcDhKN1lIVUxFakxFVjNmd3VPMXVGWmxOdTlkOUFidlJnSkhlTTJEUTZNRWtVMGg0NjE3N0JWZEtkRVNOeGtWb2NtUXBabERTOVJ4aXNORW5QTmI2RmZROHhMMm5xVng4NDJaZWl4LW92eGR0SU40WmRURUtVU3piajFOSzlsQ0w?oc=5",
-  "titulo": "Herchenroether y Doederlein destacan en el ámbito paralímpico más allá de los reflectores",
-  "resumen": "Los deportistas Herchenroether y Doederlein han logrado sobresalir sin acaparar los grandes titulares mediáticos. Su desempeño fue resaltado por la plataforma Paralympic.org por brillar al margen de la atención pública habitual.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-18T17:10:20.167782+00:00"
- },
- {
-  "id": "20aa9d72fcb1",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/ue-propone-un-nuevo-préstamo-de-45-000-millones-de-euros-a-ucrania-para-2027/a-79984535?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "La Unión Europea plantea un préstamo de 45.000 millones de euros para Ucrania",
-  "resumen": "La Unión Europea propuso otorgar un financiamiento de 45.000 millones de euros a Ucrania proyectado para 2027. Esta cifra pretende ayudar a cubrir un déficit fiscal que el gobierno ucraniano evalúa en unos 70.000 millones de euros. Ante esta iniciativa, el presidente Zelenski sostuvo que Kiev tiene el apoyo de la totalidad de los Estados miembros.",
-  "categoria": "Economía",
-  "fecha": "2026-11-18T17:10:20.167782+00:00"
  }
 ]
