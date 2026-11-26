@@ -1,5 +1,41 @@
 [
  {
+  "id": "0466fb12b060",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/programas/en-contexto/20261125-memorias-del-papa-francisc",
+  "titulo": "Salen a la luz los escritos personales del papa Francisco sobre episodios oscuros de su pontificado",
+  "resumen": "En un diario privado redactado entre 1992 y 2024, el papa Francisco relató haber presenciado manifestaciones demoníacas y las puertas del infierno. Una de estas intensas vivencias tuvo lugar en 2018 tras su visita a Chile, en medio del escándalo por abusos sexuales clericales. Dichos testimonios quedaron recopilados en una publicación que recopila sus memorias más íntimas.",
+  "categoria": "Cultura",
+  "fecha": "2026-11-26T00:12:15.627113+00:00"
+ },
+ {
+  "id": "18c1915808ad",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/la-selección-femenina-de-fútbol-de-alemania-se-posiciona-contra-la-violencia-doméstica/a-80054783?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "La selección femenina de fútbol de Alemania portará distintivos de ONU Mujeres frente al aumento de la violencia de género",
+  "resumen": "El combinado nacional femenino de fútbol alemán vestirá insignias de ONU Mujeres durante sus próximos partidos contra Argentina y Perú. La iniciativa busca generar conciencia en un contexto donde los índices de violencia contra las mujeres han registrado cifras récord en dicho país europeo.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-26T00:12:15.627113+00:00"
+ },
+ {
+  "id": "284248be48fc",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261125-%C3%A1frica-la-regi%C3%B3n-con-mayor-n%C3%BAmero-de-mujeres-asesinadas-en-el-%C3%A1mbito-privado",
+  "titulo": "La ONU alerta que África lidera los índices globales de feminicidios en el entorno doméstico",
+  "resumen": "Naciones Unidas identificó a África como la región con la mayor cantidad de mujeres asesinadas en el ámbito privado a nivel mundial. Esta crisis ha motivado masivas protestas ciudadanas en Kenia para denunciar la persistente ola de crímenes. Al mismo tiempo, sondeos en Senegal exponen que más del setenta por ciento de las mujeres mayores de 15 años han sido víctimas de violencia conyugal.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-26T00:12:15.627113+00:00"
+ },
+ {
+  "id": "3a1569b70335",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3RGUzlJMDJRVFFhLURCSzg3UWw0U2VoOWJKU211bGV5clBzb1NjUGJYb3dySTBVLV9BY1ZHVUlZMWFBWFBlS2dpd2lVbXFPUU9NakxWLURud1E4QV9nVmxxQUxHNUF6VjBnZ05aZ3J3RmtyTDl5STBYTkNwN1VJWWJVbVY1Vk15U1luanJR?oc=5",
+  "titulo": "Guardiola defiende a Ancelotti en un debate con Romário sobre el presente futbolístico de Brasil",
+  "resumen": "El director técnico Pep Guardiola salió en defensa de Carlo Ancelotti durante una acalorada discusión con el exfutbolista Romário acerca de las dificultades de la selección de Brasil. En su intervención, el estratega hizo hincapié en la dilatada historia que posee el elenco sudamericano en las Copas del Mundo.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-26T00:12:15.627113+00:00"
+ },
+ {
   "id": "08c3038ac455",
   "fuente": "France 24",
   "enlace": "https://www.france24.com/es/programas/el-debate/20261125-a-una-d%C3%A9cada-del-acuerdo-en-colombia-logro-hist%C3%B3rico-o-paz-incompleta",
@@ -1311,42 +1347,6 @@
   "titulo": "El inusual contacto entre la tribu awá y otra comunidad evidencia la deforestación en Brasil",
   "resumen": "Indígenas de la comunidad awá en Maranhão realizaron un contacto poco frecuente con una tribu vecina en la selva de Brasil. La experta Sarah Schenker señaló que este hecho constituye un llamado de atención frente a la creciente tala de árboles. Ante la amenaza a sus tierras, los integrantes de este grupo expresaron que la supervivencia resultará difícil sin su territorio.",
   "categoria": "Medio Ambiente",
-  "fecha": "2026-11-19T22:56:51.142049+00:00"
- },
- {
-  "id": "1888dcc6e128",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-19/merz-critica-la-entente-entre-trump-xi-y-putin-el-formato-de-yalta-solo-trae-inseguridad-y-division.html",
-  "titulo": "Berlín acoge una cumbre internacional en apoyo a Ucrania mientras Merz rechaza acuerdos globales excluyentes",
-  "resumen": "Cerca de 40 países se reunieron en Berlín con el objetivo de brindar respaldo a Ucrania y exigir la inclusión europea en los diálogos de paz. En este contexto, el político Merz rechazó los entendimientos entre Trump, Xi y Putin argumentando que provocan inseguridad. La coalición reiteró la necesidad de contar con la representación de Europa en el proceso de negociación.",
-  "categoria": "Política",
-  "fecha": "2026-11-19T22:56:51.142049+00:00"
- },
- {
-  "id": "1df4dc1dedec",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261119-vivienda-trenes-y-migraci%C3%B3n-qu%C3%A9-proponen-los-partidos-de-cara-a-las-elecciones-del-29n-en-espa%C3%B1a",
-  "titulo": "Vivienda, transporte e inmigración centran las propuestas electorales para el 29N en España",
-  "resumen": "Las agrupaciones políticas españolas dan a conocer sus plataformas programáticas ante las elecciones fijadas para el 29 de noviembre. Los planteamientos de las candidaturas abordan materias centrales como las políticas de vivienda, el transporte en trenes y la gestión migratoria.",
-  "categoria": "Política",
-  "fecha": "2026-11-19T22:56:51.142049+00:00"
- },
- {
-  "id": "1df4dc1dedec",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261119-vivienda-trenes-y-migraci%C3%B3n-qu%C3%A9-proponen-los-partidos-de-cara-a-las-elecciones-del-29n-en-espa%C3%B1a",
-  "titulo": "Asuntos sociales y económicos definen el debate ante las elecciones del 29N en España",
-  "resumen": "La problemática de la vivienda, los incidentes en el sistema ferroviario y la situación migratoria en Ceuta centran la campaña previa a los comicios del 29 de noviembre. A pesar del avance en el empleo y la economía, las distintas fuerzas políticas intentan posicionarse frente a estas demandas de la sociedad. Además, se anticipa que otros temas adicionales influirán en la decisión de los electores.",
-  "categoria": "Política",
-  "fecha": "2026-11-19T22:56:51.142049+00:00"
- },
- {
-  "id": "20b98b1aae78",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/c6pw4ddp2glpo?at_medium=RSS&at_campaign=rss",
-  "titulo": "Condenan a cuatro hombres en Reino Unido por agredir a una mujer drogada por su esposo",
-  "resumen": "Cuatro individuos recibieron un fallo de culpabilidad en el Reino Unido tras haber cometido abusos contra una mujer. Las agresiones ocurrieron luego de que el propio cónyuge de la víctima la sometiera con sustancias estupefacientes.",
-  "categoria": "Sociedad",
   "fecha": "2026-11-19T22:56:51.142049+00:00"
  }
 ]
