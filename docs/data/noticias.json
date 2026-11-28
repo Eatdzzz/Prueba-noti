@@ -1,5 +1,113 @@
 [
  {
+  "id": "068fde45ee87",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261128-elecciones-en-espa%C3%B1a-psoe-pp-y-vox-cierran-sus-campa%C3%B1as-con-actos-multitudinarios",
+  "titulo": "Los principales líderes políticos concluyen sus actos de campaña en España",
+  "resumen": "Los candidatos a las elecciones generales en España finalizaron sus campañas en ciudades como Madrid, Sevilla y Valencia. En la capital, el líder del PSOE, Pedro Sánchez, celebró su acto más multitudinario desde 2015 afianzando las posibilidades de formar un Gobierno progresista. Por su parte, el representante del Partido Popular, Alberto Núñez Feijóo, se mostró confiado en su victoria durante su evento en Sevilla.",
+  "categoria": "Política",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "12854cac1490",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/c9y7rgpe5dp8o?at_medium=RSS&at_campaign=rss",
+  "titulo": "El auge de la energía solar genera severas complicaciones en la red eléctrica de Pakistán",
+  "resumen": "El uso masivo de paneles solares por parte de los habitantes logró elevar la proporción de electricidad solar del 1% al 28% en Pakistán. A pesar de este incremento, la situación ha desencadenado serios inconvenientes en el sistema eléctrico del país.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "74f8b5a3619a",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazRtYVdWcGhwUkxYMWdfZVNFelNEQUlxRHBSQ2IzZnl3Qy1zOG5jWU5aSkgwVWIxRUJJajNZLWhyX0d2YVFCV2pRdUt1QXVnalZVTDZGQmhnMGVGeWhSc3lVVGFrYWlFa01TZnRTVld1WDMxVHl1M3Jfa2Fpek1tSEtVRDE2cU4zQXFDT09Ja29pbzVaeVhTWGxCVWZpdkVlWVZ0a0xHMA?oc=5",
+  "titulo": "Araujo mantiene su hegemonía y Kubiak se corona en la Serie Mundial",
+  "resumen": "El competidor Araujo continuó con su racha victoriosa en la Serie Mundial al extender su liderazgo en el circuito. En la misma jornada, Kubiak alcanzó con éxito el primer campeonato general de su carrera.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "78f7c2fdf5fb",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/israel-afirma-que-mató-a-dos-terroristas-que-trabajaban-para-médicos-sin-fronteras-en-gaza/a-80083372?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Médicos Sin Fronteras denuncia la muerte de dos de sus colaboradores en Gaza",
+  "resumen": "El Ejército de Israel declaró haber abatido en Gaza a dos presuntos terroristas que formaban parte del equipo de Médicos Sin Fronteras. La entidad humanitaria se declaró consternada y calificó lo sucedido como un ataque perpetrado directamente contra su personal.",
+  "categoria": "Conflictos",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "7bdb06e8035c",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTEtOUdsY25Zd1lOS2RkRjZUd2hySk5LWFBBbVdKY2h1dnVaWEhDV3VzSm9RYmZYeS1lcXlreEpZLTVBSEQ5VXFCNzhqNmZyNjh2V0NGY3FncURUTXRzSGIySk9rUkZfZGJ4eVNCX2gyZG13VHBDSVJIRGpHRmpMcHBWcHRSdGV1TExaNnZ5YlAzeFgtNEx1c1lmNWtTN0JsUDVzU21fZWNFbVBMQVFiV2pOQmdzelM3VHVpdUN3?oc=5",
+  "titulo": "Pruebas gratuitas de VIH en la Universidad de Guadalajara por el Día Mundial del SIDA",
+  "resumen": "El Cineforo de la Universidad de Guadalajara ofrecerá jornadas de detección gratuita de VIH a la población. Esta actividad se llevará a cabo en el marco de las actividades por el Día Mundial del SIDA.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "9af07ed9dac3",
+  "fuente": "DW Español",
+  "enlace": "https://www.dw.com/es/sube-a-34-la-cifra-de-muertos-en-ecuador-por-lluvias-provocadas-por-el-fenómenos-de-el-niño/a-80082986?maca=spa-rss-sp-all-1122-rdf",
+  "titulo": "Aumenta a 34 la cifra de fallecidos en Ecuador debido a las lluvias de El Niño",
+  "resumen": "Las intensas precipitaciones causadas por el fenómeno de El Niño han provocado al menos 34 muertes en Ecuador. Varias zonas del país sudamericano se mantienen en estado de alerta ante los estragos provocados por el temporal.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "9fa830d87783",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTm1BNUxRSUJfTnlEdWNlYU9zZDZFTEwtY2REYUNWT1dKR293a0NHUTdFcUlEUGZXMVF5bnhMclluUWpZQXl5eXdLMkpFUDNfRjdvVHREa0FHcHM0V1hFRi1JOG04bkR0NEtBUlJka1dQVV82ZFUxTjdmanBpc052YU95X0k4TlFpTXdOb0I1WDZkZ1A3Q3IzenNpQ1BEd2dCX1hmVkdCSXFFTUI2a0RNdmJ1b3BRUEl6M2RaUENxb24weEVzZEZ3U0txWjMyVHFGdFZZYjBLZk96N1ZmVjM5anBMMXktZw?oc=5",
+  "titulo": "Taiwán inicia la jornada electoral en comicios locales de gran relevancia",
+  "resumen": "Los centros de votación abrieron sus puertas en todo Taiwán para dar comienzo a unas elecciones locales clave. El proceso electoral es seguido con especial atención debido a su importancia política.",
+  "categoria": "Política",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "c72765e506c5",
+  "fuente": "Reuters World (vía Google News)",
+  "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWtmZ0FZRndQc3hqOHl4bmdDVFBTaWlobk55QmpkaTBwV2dBX3hFenowU19iNmszdkprb1pJU2xqZVRGa01telRTV2Q1QnNSenVGbGVHTjZPWFZoY3N4WmF1T0M2RXZDbF9kQ2M3R29DdGQ0Ym9feHA1LWdFVVk5TzdDT21SVzdwajZRZFFfMEtPbUxwMTJHdkUtWFJOQQ?oc=5",
+  "titulo": "Brasil y Mozambique se enfrentan en los dieciseisavos de final del Mundial Sub-17",
+  "resumen": "La selección sub-17 de Brasil disputará su pase a la siguiente ronda del Mundial frente al conjunto de Mozambique. El encuentro corresponde a la fase de dieciseisavos de final del torneo juvenil.",
+  "categoria": "Deportes",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "cb7a07ddf4ca",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/video/20261128-el-veto-de-costa-rica-a-francesca-albanese-responde-a-un-alineamiento-pol%C3%ADtico-con-ee-uu",
+  "titulo": "Costa Rica niega la entrada a la relatora de la ONU Francesca Albanese",
+  "resumen": "La relatora especial de Naciones Unidas denunció que las autoridades migratorias de Costa Rica le impidieron el acceso alegando amenazas a la seguridad nacional y alertas por terrorismo. Albanese tenía previsto viajar a la nación centroamericana para ser reconocida con un doctorado honoris causa por la Universidad de Costa Rica.",
+  "categoria": "Política",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "cd1065a575ca",
+  "fuente": "El País - Internacional",
+  "enlace": "https://elpais.com/internacional/2026-11-28/el-director-de-la-agencia-nuclear-de-la-onu-designa-a-un-alto-cargo-de-putin-para-dirigir-un-departamento-clave-de-la-organizacion.html",
+  "titulo": "Malestar en la UE y Ucrania por la designación de un alto funcionario ruso en la agencia nuclear de la ONU",
+  "resumen": "El director de la agencia nuclear de la ONU, Rafael Grossi, nombró al ruso Alexei Ferapontov para dirigir un departamento fundamental del organismo. La decisión de convocar al alto cargo afín a Putin generó un fuerte rechazo en Ucrania y la Unión Europea.",
+  "categoria": "Política",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "cef6ba54015d",
+  "fuente": "BBC Mundo",
+  "enlace": "https://www.bbc.com/mundo/articles/cqevrxnk1p8po?at_medium=RSS&at_campaign=rss",
+  "titulo": "Campesinos colombianos reciben amenazas para abandonar hectáreas devueltas por el Estado",
+  "resumen": "Diversos agricultores en Colombia están siendo amedrentados con el fin de que dejen los terrenos que se les adjudicaron recientemente. Estas intimidaciones ocurren seis meses después de que el gobierno les restituyera aproximadamente 400 hectáreas.",
+  "categoria": "Sociedad",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
+  "id": "cf9b56cac4bb",
+  "fuente": "France 24",
+  "enlace": "https://www.france24.com/es/am%C3%A9rica-latina/20261128-e",
+  "titulo": "Disputa judicial en Argentina por la venta de un área protegida frente al glaciar Perito Moreno",
+  "resumen": "La gobernación de Santa Cruz decretó la venta excepcional de 21 hectáreas protegidas a un grupo emiratí interesado en edificar un complejo de cabañas de lujo. La operación fue paralizada por un juez federal y actualmente se encuentra en manos de la Corte Suprema argentina.",
+  "categoria": "Medio Ambiente",
+  "fecha": "2026-11-28T06:03:51.136459+00:00"
+ },
+ {
   "id": "002252b80545",
   "fuente": "DW Español",
   "enlace": "https://www.dw.com/es/putin-presenta-un-nuevo-submarino-nuclear/a-80082825?maca=spa-rss-sp-all-1122-rdf",
@@ -1240,113 +1348,5 @@
   "resumen": "Una publicación examina los antecedentes históricos y la cartografía del antiguo yacimiento de la cueva de Cullalvera. El texto ofrece detalles contextuales sobre la relevancia de este sitio histórico. Además, incluye mapas para ubicar geográficamente el lugar.",
   "categoria": "Cultura",
   "fecha": "2026-11-22T21:29:54.913616+00:00"
- },
- {
-  "id": "8128f13d3572",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/internacional/2026-11-22/una-explosion-hunde-un-barco-de-guerra-ruso-en-la-costa-oriental-de-libia.html",
-  "titulo": "Un buque de guerra ruso se hunde en la costa oriental de Libia tras una explosión",
-  "resumen": "Una nave militar perteneciente a Rusia se hundió frente a las costas libias producto de una detonación. Las autoridades de la zona señalaron que el incidente pudo ser provocado por un ataque ejecutado con drones. Hasta el momento, Ucrania no ha reclamado la autoría del hecho.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-22T21:29:54.913616+00:00"
- },
- {
-  "id": "9a6ba9218cf9",
-  "fuente": "Reuters World (vía Google News)",
-  "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzdCNFdnNXlvLXZHRTBkRzhVYVNBcGloRFNBYVJxQnR5ZlduaHlINkh6ZGNqQ29UTDJmZUVfZV9YbTZSSFNHVXRSYnFMNXZ2VGlhMnc3TUhLSDdGVGhGTVljVlVOOGtxZXF3T0lLZ0pSOEtkcDU5TnVsZmlSMV94bHlTX1pldWI3b3c?oc=5",
-  "titulo": "Carlos Alcaraz se corona campeón de las ATP Finals tras derrotar al número uno del mundo",
-  "resumen": "El tenista Carlos Alcaraz se adjudicó el campeonato de las ATP Finals tras superar a Alexander Zverev. El español logró la victoria al imponerse frente al actual número uno del ranking mundial. Con este triunfo, el atleta asegura un nuevo título en su carrera deportiva.",
-  "categoria": "Deportes",
-  "fecha": "2026-11-22T21:29:54.913616+00:00"
- },
- {
-  "id": "0241cb8ca237",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/ataque-ruso-provoca-derrumbe-parcial-de-edificio-en-la-región-de-kiev/a-80013001?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Ataque ruso provoca el colapso parcial de un inmueble en la región de Kiev",
-  "resumen": "Un ataque atribuido a Rusia causó el derrumbe de parte de una edificación en la región de Kiev. El presidente Volodimir Zelenski informó que 14 víctimas podrían encontrarse sepultadas bajo los restos del edificio.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "0c4aa36c5f1d",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261122-inusual-tormenta-el%C3%A9ctrica-en-brasil-deja-al-menos-tres-muertos-y-miles-de-construcciones-afectadas",
-  "titulo": "Una inusual supercélula deja destrozos y al menos tres fallecidos en el sur de Brasil",
-  "resumen": "Una potente y poco común tormenta eléctrica afectó a una localidad del estado de Río Grande do Sul con ráfagas de viento de hasta 114 kilómetros por hora. El desastre provocó la muerte de al menos tres personas, miles de construcciones dañadas y una cuarta víctima en investigación. Los reportes oficiales indican que el evento estuvo acompañado de lluvias intensas que derribaron viviendas y arrasaron techos.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "1e13f6ac7857",
-  "fuente": "DW Español",
-  "enlace": "https://www.dw.com/es/cop31-al-borde-del-fracaso-por-diferencias-sobre-energía-fósil/a-80013163?maca=spa-rss-sp-all-1122-rdf",
-  "titulo": "Desavenencias sobre energía fósil amenazan el éxito de la cumbre climática COP31",
-  "resumen": "La cumbre climática se encuentra al borde del fracaso debido a las profundas diferencias respecto al uso de energías fósiles. Países como Alemania y Francia manifestaron su rechazo a la versión más reciente del borrador presentado por la organización.",
-  "categoria": "Política",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "2b3e41b93551",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss",
-  "titulo": "La DJ Liv Nervo exige sanciones legales tras sufrir engaño para quedar embarazada",
-  "resumen": "La artista Liv Nervo denunció haber sido coaccionada por un multimillonario para concebir un hijo, descubriendo la verdad durante el sexto mes de gestación. A raíz de su experiencia, la DJ busca promover reformas para que este tipo de conductas sean castigadas por la ley. Su objetivo es evitar que otras mujeres atraviesen por una situación similar.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "4921c7d24811",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev",
-  "titulo": "Rescate en Ucrania tras un bombardeo ruso en una zona residencial cercana a Kiev",
-  "resumen": "Un ataque perpetrado por fuerzas rusas contra un inmueble de viviendas en Dymer ha causado la muerte de una persona y heridas a otras tres. Actualmente, los equipos de emergencia trabajan entre los escombros en busca de 14 ciudadanos no localizados. Ante esta situación, el mandatario Volodímir Zelenski ha solicitado a Estados Unidos la aprobación de proyectiles para los sistemas de defensa Patriot.",
-  "categoria": "Conflictos",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "6695d5821c35",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261122-cop31-sin-acuerdo-sobre-combustibles-f%C3%B3siles-fracas%C3%B3-la-cumbre-de-turqu%C3%ADa",
-  "titulo": "Las negociaciones de la COP31 quedan paralizadas por desacuerdos sobre los combustibles fósiles",
-  "resumen": "Diversas delegaciones, entre ellas la Unión Europea, Panamá y las Islas Marshall, descartaron el borrador del acuerdo final al omitir menciones a los combustibles fósiles y a la transición para su abandono. A pesar de haber extendido las deliberaciones por más de 44 horas en Turquía, las conversaciones siguen bloqueadas. Por este motivo, el encuentro internacional afronta el riesgo de finalizar sin lograr un consenso definitivo.",
-  "categoria": "Medio Ambiente",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "7c4d1945ccf9",
-  "fuente": "El País - Internacional",
-  "enlace": "https://elpais.com/mexico/2026-11-21/guasave-despierta-hecha-una-zona-de-guerra-el-hospital-del-imss-estuvo-secuestrado-por-sicarios-y-luego-llegaron-militares.html",
-  "titulo": "Violencia e intervención militar sacuden la localidad mexicana de Guasave",
-  "resumen": "La población enfrentó momentos de tensión tras la toma de un centro médico del IMSS por parte de sicarios antes de la llegada de efectivos militares. Las secuelas del caos quedaron visibles con vehículos de carga y automóviles quemados a lo largo de la carretera México 15. Asimismo, en el malecón se encontraron camionetas destruidas con múltiples cuerpos acumulados.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "89183bd6ebec",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
-  "titulo": "El papel decisivo del emisario secreto que facilitó la paz en Colombia",
-  "resumen": "Henry Acosta Patiño se desempeñó por más de una década como el enlace confidencial encargado de transportar comunicaciones encubiertas por las montañas colombianas. Su labor estratégica tras bambalinas entre el Estado y las FARC fue fundamental para el entendimiento de ambas partes. Estas gestiones discretas permitieron concretar la firma del histórico acuerdo de paz hace diez años.",
-  "categoria": "Política",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "cdb2abf90477",
-  "fuente": "France 24",
-  "enlace": "https://www.france24.com/es/video/20261122-corea-del-sur-esc%C3%A1ndalo-por-fraude-con-ia-en-ex%C3%A1menes-provoca-la-renuncia-del-ministro-de-educaci%C3%B3n",
-  "titulo": "El ministro de Educación surcoreano renuncia tras detectarse fraude en un examen oficial",
-  "resumen": "El 22 de noviembre, el ministro de Educación de Corea del Sur dejó su cargo tras destaparse un caso de fraude académico. La controversia inició cuando la persona con la nota más alta en la prueba para asesores fiscales admitió haber usado un teléfono inteligente y una pequeña cámara para sacar una calificación casi perfecta. El incidente ocurrió a pocos días de que se realicen las evaluaciones de ingreso universitario.",
-  "categoria": "Política",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
- },
- {
-  "id": "d6944762aa96",
-  "fuente": "BBC Mundo",
-  "enlace": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
-  "titulo": "La migración de australianos a Paraguay a finales del siglo XIX",
-  "resumen": "A finales del siglo XIX, un grupo de australianos tomó la decisión de abandonar su país para buscar un mejor lugar donde establecerse. La nación seleccionada para llevar a cabo esta experiencia fue Paraguay.",
-  "categoria": "Sociedad",
-  "fecha": "2026-11-22T15:57:32.109738+00:00"
  }
 ]
